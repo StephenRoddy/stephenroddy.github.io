@@ -1,6 +1,6 @@
 ### Biography
 
-I am an Artist, Researcher, and Lecturer based at Trinity College Dublin (TCD) conducting work in Engineering and the Creative Arts. I hold a Ph.D. in Data Sonification, the use of sound to perceptualize data and convey information. My current work is focused on the application of Sonification, and artificial intelligence/machine learning  techniques (AI/ML) in Human-computer Interaction (HCI) and the Creative Arts.
+I am an Artist, Researcher, and Lecturer based at Trinity College Dublin (TCD) working Creative Arts and Technology. I hold a Ph.D. in Data Sonification, the use of sound to perceptualize data and convey information. My current work is focused on the application of Sonification, and artificial intelligence/machine learning  techniques (AI/ML) in Human-computer Interaction (HCI) and the Creative Arts.
 
 My previous project, based at the CONNECT Centre in TCD and funded by an IRC postdoctoral fellowship, explored the design of Sonification and Auditory Display solutions for Large-scale Internet of Things (IoT) networks. My work has been widely disseminated through peer-reviewed journal publications, book chapters, and conferences.
 
@@ -53,8 +53,11 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 </ul>
 <p> <strong><strong>Book Chapters</strong></strong></p>
 <ul>
+<li>
+<a target="_blank" href="https://www.routledge.com/search?kw=Algorithms+and+Society">Roddy, S. (Forthcoming: 2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Work. Algorithms and Society Series Routledge Focus.</a>
+</li>
   <li>
-    <a target="_blank" href="https://www.taylorfrancis.com/chapters/edit/10.4324/9780429356360-3/meaning-making-embodied-cognition-sound-design-research-stephen-roddy-brian-bridges">Roddy, S. & Bridges, B. (2021) Meaning-making and Embodied Cognition in Sound Design Research. In Filimowicz, M. editor Doing Research in Sound Design, Routledge. </a>
+    <a target="_blank" href="https://www.taylorfrancis.com/chapters/edit/10.4324/9780429356360-3/meaning-making-embodied-cognition-sound-design-research-stephen-roddy-brian-bridges">Roddy, S. & Bridges, B. (2021) Meaning-making and Embodied Cognition in Sound Design Research. In: Filimowicz, M. editor Doing Research in Sound Design, Routledge. </a>
   </li>
   <li>
     <a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-319-73374-6_12">Roddy S., Bridges B. (2018) Sound, Ecological Affordances and Embodied Mappings in Auditory Display. In: Filimowicz M., Tzankova V. (eds) New Directions in Third Wave Human-Computer Interaction: Volume 2 - Methodologies. Human–Computer Interaction Series. Springer, Cham.</a>
