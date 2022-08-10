@@ -145,7 +145,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 </ul>
 
 <p><strong><strong>Creative & Performing Arts Projects: Performances & Installations</strong></strong></p>
-<p>The Signal to Noise Loops Project</p>
+<p>The Signal to Noise Loops Project: Data-driven Generative Music w/AI/ML</p>
 <ul>
   <li>
     <a target="_blank" href="https://icad2022.icad.org/">Signal to Noise Loops v4 @ The International Conference on Auditory Display 2022.</a>
@@ -179,7 +179,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 
-<p>The Body in the Machine: Music Composition and Computational Art </p>
+<p>The Body in the Machine: Music Composition & Computer Art w/AI/ML</p>
 <ul>
   <li>
     <a target="_blank" href="https://icmc2022.org/">Roddy (2022). The Body in the Machine: Indices Online. The International Computer Music Conference, Limerick Ireland.</a>
@@ -198,7 +198,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 
-<p>The Zones Project: Immersive Environments</p>
+<p>The Zones Project: Immersive & Reactive XR Environments</p>
 
 <ul>
   <li>
@@ -209,7 +209,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 
-<p>Music for Dance and Stage</p>
+<p>Music Composition for Dance & Stage</p>
 <ul>
   <li>
     <a target="_blank" href="http://www.danceireland.ie/events/dance-ireland-residency-sibeal-davitt-3">Hear This Dance for @ Dance House for Dance Ireland Residency w/Niall Vallely and Sibeal Davitt, September 14th 2017.</a>
@@ -233,7 +233,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="http://www.birrtheatre.com/dance">Pinocchio - Dance of the Long Nose w/ Legitimate Bodies Dance Company w/Cristina Golletti & Nick Bryson @ Birr Theatre & Arts Centre 2009.</a>
   </li>
 </ul>  
-<p>Data Sonification & Musification Performances/Installations</p>
+<p>Sonification & Musification for Performance & Installation</p>
 <ul>
   <li>
     <a target="_blank" href="http://stolenmirror.com/2021d01-tides.html?fbclid=IwAR1k0LF5vj-0nQxviDW0JU_v9mNli1h3AtWIAQIfL3dNGSBaxl6LPaRbY4o">Idle Hands- A 31-Part Exploration Of Irish Unemployment From 1983 - 2014 In G Major @ the premiere of TIDES: An ISSTA Anthology.</a>
@@ -261,7 +261,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 
 </ul>
-<p>Fixed-Media Music</p>
+<p>Fixed-Media Musical Compositions for Performance & Installation</p>
 <ul>
   <li>
     <a target="_blank" href="http://issta.ie/isstc-2016/">Symmetric Relations and Hidden Rotations @ Irish Sound Science and Technology Convocation @ Ulster University September 7th-9th 2016.</a>
