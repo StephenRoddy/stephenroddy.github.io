@@ -1,15 +1,21 @@
 ### Biography
 
-I am an Artist, Researcher, and Lecturer based at Trinity College Dublin (TCD) working Creative Arts and Technology. I hold a Ph.D. in Data Sonification, the use of sound to perceptualize data and convey information. My current work is focused on the developemnt of a Cybernetic framework for the application of Sonification, and Artificial Intelligence/Machine Learning techniques (AI/ML) in Human-computer Interaction (HCI) and the Creative Arts.
+I am an Artist, Researcher, and Lecturer based at Trinity College Dublin (TCD), where I hold an Assistant Professor in Film (Digital Arts). I hold a Ph.D. in Data Sonification, the use of sound to perceptualize data and convey information. My current research/practice is focused on the development of Cybernetic frameworks for the application of Sonification, Artificial Intelligence/Machine Learning (AI/ML), and Human-computer Interaction (HCI) techniques in the Creative Arts.
 
-My previous project, based at the CONNECT Centre in TCD and funded by an IRC postdoctoral fellowship, explored the design of Sonification and Auditory Display solutions for Large-scale Internet of Things (IoT) networks. My work has been widely disseminated through peer-reviewed journal publications, book chapters, and conferences.
+My previous project, based at the CONNECT Centre in TCD and funded by an IRC postdoctoral fellowship, explored the design of Sonification and Auditory Display solutions for Large-scale Internet of Things (IoT) networks. My work is widely disseminated through peer-reviewed journal publications, book chapters, and conferences.
 
-I maintain a vibrant and diverse creative arts practice spanning a variety of media and styles including music composition and performance, sound art installation, interactive art and music for dance and stage. My work has been described as dark, eclectic and experimental. My pieces are frequently performed and installed at home and abroad and I have been described as eclectic, dark and experimental.
+I maintain a vibrant and diverse creative arts practice spanning a variety of media and styles including music composition and performance, sound art installation, interactive art, and music for dance and stage. My work has been described as dark, eclectic, and experimental. My pieces are frequently performed and installed at home and abroad and I have been described as eclectic, dark, and experimental.
 
 Previous events have included the New York City Electroacoustic Music Festival, Helicotrema Recorded Audio Festival in Venice, Dublin Dance Festival's Embodied at the GPO, and the Sonorities Contemporary Music Festival.
 
-<p style="text-align: right;"><a target="_blank" href="https://orcid.org/0000-0001-8491-3031"><img alt="ORCID" height="35" src="https://2.bp.blogspot.com/-vabc-yhp5mM/W8i5-AjX0FI/AAAAAAAAGJ8/a7K1q1ULs64dGgBSTBzTfG6PvO9AY_DRACLcBGAs/s1600/thumb.png" width="35"></a><a target="_blank" href="https://www.researchgate.net/profile/Stephen_Roddy"><img alt="Research Gate" height="35" src="https://3.bp.blogspot.com/-Ex65n3bU3pM/W8i59jkAaDI/AAAAAAAAGJw/ncVh0RKbw7YNyaiRbIRQbGjAUVnQ-yd7wCLcBGAs/s1600/resGate.png" width="35"></a><a target="_blank" href="https://scholar.google.com/citations?user=qhL5rvsAAAAJ"><img alt="Google Scholar" height="35" src="https://3.bp.blogspot.com/-iAkJO3AGZeg/W8i8FRoFTXI/AAAAAAAAGKg/ySdFR0idHFA6reXrJiL6efXlzStl1UNLQCLcBGAs/s1600/gs.png" width="35"></a> <a target="_blank" href="https://www.linkedin.com/in/stephenroddy/"><img alt="LinkedIn" height="35" src="https://3.bp.blogspot.com/-Or4vD44Vi3Y/W8jVi70R5iI/AAAAAAAAGLI/9rLTQrOysuAeHjLIe1y1CRlyU3d5r4WsACLcBGAs/s1600/07_linkedin.png" width="35"></a> <a target="_blank" href="https://github.com/StephenRoddy"><img alt="Github" height="35" src="https://1.bp.blogspot.com/-9E50Ti_mBbs/XQPjlaNjY_I/AAAAAAAAGVw/3USHyh_MWRcEY6bor3zEnN8F-8ywivCywCLcBGAs/s1600/Github_icon-icons.com_49946.png" width="35"></a></p><strong>Affiliations</strong>
+
+<p style="text-align: right;"><a target="_blank" href="https://orcid.org/0000-0001-8491-3031"><img alt="ORCID" height="35" src="https://2.bp.blogspot.com/-vabc-yhp5mM/W8i5-AjX0FI/AAAAAAAAGJ8/a7K1q1ULs64dGgBSTBzTfG6PvO9AY_DRACLcBGAs/s1600/thumb.png" width="35"></a><a target="_blank" href="https://www.researchgate.net/profile/Stephen_Roddy"><img alt="Research Gate" height="35" src="https://3.bp.blogspot.com/-Ex65n3bU3pM/W8i59jkAaDI/AAAAAAAAGJw/ncVh0RKbw7YNyaiRbIRQbGjAUVnQ-yd7wCLcBGAs/s1600/resGate.png" width="35"></a><a target="_blank" href="https://scholar.google.com/citations?user=qhL5rvsAAAAJ"><img alt="Google Scholar" height="35" src="https://3.bp.blogspot.com/-iAkJO3AGZeg/W8i8FRoFTXI/AAAAAAAAGKg/ySdFR0idHFA6reXrJiL6efXlzStl1UNLQCLcBGAs/s1600/gs.png" width="35"></a> <a target="_blank" href="https://www.linkedin.com/in/stephenroddy/"><img alt="LinkedIn" height="35" src="https://3.bp.blogspot.com/-Or4vD44Vi3Y/W8jVi70R5iI/AAAAAAAAGLI/9rLTQrOysuAeHjLIe1y1CRlyU3d5r4WsACLcBGAs/s1600/07_linkedin.png" width="35"></a> <a target="_blank" href="https://github.com/StephenRoddy"><img alt="Github" height="35" src="https://1.bp.blogspot.com/-9E50Ti_mBbs/XQPjlaNjY_I/AAAAAAAAGVw/3USHyh_MWRcEY6bor3zEnN8F-8ywivCywCLcBGAs/s1600/Github_icon-icons.com_49946.png" width="35"></a></p>
+
+<strong>Affiliations</strong>
+<p>Current</p>
 <ul>
+  <li>Assistant Professor in the <a target="_blank" href="https://www.tcd.ie/creativearts/disciplines/film/">Department of Film</a> at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
+  </li>
   <li>Postdoctoral Fellow in the <a target="_blank" href="https://www.tcd.ie/eleceng/">Department of Electronic & Electrical Engineering</a> at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
   </li>
   <li>Lecturer on the <a target="_blank" href="https://www.tcd.ie/eleceng/mmt/">Music and Media Technologies</a> course at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
@@ -24,13 +30,15 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 <ul>
-  <li>Previous Government of Ireland Postdoctoral Fellow at the <a target="_blank" href="http://research.ie/">Irish Research Council</a>.
+
+<p>Previous</p>
+  <li>Government of Ireland Postdoctoral Fellow at the <a target="_blank" href="http://research.ie/">Irish Research Council</a>.
   </li>
-  <li>Previous postdoctoral researcher at the <a target="_blank" href="https://connectcentre.ie/people/stephen-roddy/">CONNECT Centre</a>, <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
+  <li>Postdoctoral researcher at the <a target="_blank" href="https://connectcentre.ie/people/stephen-roddy/">CONNECT Centre</a>, <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
   </li>
-  <li>Previous board member of the <a target="_blank" href="http://issta.ie/">Irish Sound Science and Technology Association</a> 2016-2019.  
+  <li>Board member of the <a target="_blank" href="http://issta.ie/">Irish Sound Science and Technology Association</a> 2016-2019.  
   </li>
-  <li>Previous board member for the <a target="_blank" href="http://www.interferencejournal.org/">Interference Journal</a> 2016-2019.
+  <li>Board member for the <a target="_blank" href="http://www.interferencejournal.org/">Interference Journal</a> 2016-2019.
   </li>
 </ul>
 <p><strong>Journal Articles</strong></p>
@@ -137,7 +145,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 </ul>
 
 <p><strong><strong>Creative & Performing Arts Projects: Performances & Installations</strong></strong></p>
-<p>Generative Music & Audiovisual works w/Internet of Things Data & AI/ML techniques</p>
+<p>The Signal to Noise Loops Project</p>
 <ul>
   <li>
     <a target="_blank" href="https://icad2022.icad.org/">Signal to Noise Loops v4 @ The International Conference on Auditory Display 2022.</a>
@@ -171,7 +179,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 
-<p>Web-based Audiovisual Works with AI/ML Techniques</p>
+<p>58+1 Indices on the Body</p>
 <ul>
   <li>
     <a target="_blank" href="https://icmc2022.org/">Roddy (2022). The Body in the Machine: Indices Online. The International Computer Music Conference, Limerick Ireland.</a>
@@ -184,6 +192,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
   <li>
     <a target="_blank" href="http://issta.ie/">58 Indices On The Body: A Reflection on Translations through Language, Technology and Sounds - Selected Indices Soundworks and Musical Pieces w/Sentiment Analysis. @ ISSTA 2019, Cork School of Music October 2019.</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://58indicesonthebody.wordpress.com/2015/11/18/amaede-pinto-at-pinault-foundation-punta-della-dogana-venice/">Jean Luc Nancy Indices 21 7 and 3</a> <a target="_blank" href="https://58indicesonthebody.wordpress.com/2015/11/18/amaede-pinto-at-pinault-foundation-punta-della-dogana-venice/">w/AMAE/De Pinto and Jean Luc Nancy @ Helicotrema Recorded Audio Festival, Pinault Foundation, Punta Della Dogana/Palazzo Grassi, November 4th 2015.</a>
   </li>
 </ul>
 
@@ -240,9 +251,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>
     <a target="_blank" href="http://www.sonoritiesfestival.co.uk/images/Sonorities2016_Programme.pdf">Symmetric Relations and Hidden Rotations @ Sonorities Festival of Contemporary Music @ Belfast November 24-26 2016.</a>
   </li>
-  <li>
-    <a target="_blank" href="https://58indicesonthebody.wordpress.com/2015/11/18/amaede-pinto-at-pinault-foundation-punta-della-dogana-venice/">Jean Luc Nancy Indices 21 7 and 3</a> <a target="_blank" href="https://58indicesonthebody.wordpress.com/2015/11/18/amaede-pinto-at-pinault-foundation-punta-della-dogana-venice/">w/AMAE/De Pinto and Jean Luc Nancy @ Helicotrema Recorded Audio Festival, Pinault Foundation, Punta Della Dogana/Palazzo Grassi, November 4th 2015.</a>
-  </li>
+
 </ul>Music for Stage & Dance
 <ul>
   <li>
