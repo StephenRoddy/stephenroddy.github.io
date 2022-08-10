@@ -286,7 +286,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>
     <a target="_blank" href="http://www.dmarc.ie/">Fúsball @ DMARC, University of Limerick, 2009.</a>
   </li>
-</ul><strong>Discography</strong>
+</ul>
+
+<p><strong>Discography</strong></p>
 
 <p>Label Releases</p>
 <ul>
