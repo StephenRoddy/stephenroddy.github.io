@@ -179,7 +179,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 
-<p>58+1 Indices on the Body</p>
+<p>The Body in the Machine: Music Composition and Computational Art </p>
 <ul>
   <li>
     <a target="_blank" href="https://icmc2022.org/">Roddy (2022). The Body in the Machine: Indices Online. The International Computer Music Conference, Limerick Ireland.</a>
@@ -198,8 +198,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 
-<p>Immersive XR installations w/ Smart Devices & Locative Technologies</p>
-<p><i>Media: Immersive XR installations w/ Smart Devices & Locative Technologies</i></p>
+<p>The Zones Project: Immersive Environments</p>
 
 <ul>
   <li>
@@ -262,7 +261,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 
 </ul>
-<p>Fixed-Media Music Performances and Sound Installations</p>
+<p>Fixed-Media Music</p>
 <ul>
   <li>
     <a target="_blank" href="http://issta.ie/isstc-2016/">Symmetric Relations and Hidden Rotations @ Irish Sound Science and Technology Convocation @ Ulster University September 7th-9th 2016.</a>
