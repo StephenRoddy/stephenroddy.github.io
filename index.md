@@ -29,9 +29,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>Member of the <a target="_blank" href="https://imro.ie/">Irish Music Rights Organisation</a>.
   </li>
 </ul>
-<ul>
 
 <p>Previous</p>
+<ul>
   <li>Government of Ireland Postdoctoral Fellow at the <a target="_blank" href="http://research.ie/">Irish Research Council</a>.
   </li>
   <li>Postdoctoral researcher at the <a target="_blank" href="https://connectcentre.ie/people/stephen-roddy/">CONNECT Centre</a>, <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
@@ -199,6 +199,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 </ul>
 
 <p>Immersive XR installations w/ Smart Devices & Locative Technologies</p>
+<p><i>Media: Immersive XR installations w/ Smart Devices & Locative Technologies</i></p>
+
 <ul>
   <li>
     <a target="_blank" href="https://www.ulster.ac.uk/conference/digital-empathy">Zones 1.5 w/Alan Dormer @ The International Digital Empathy Workshop @ Ulster University October 31st 2016.</a>
@@ -206,7 +208,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>
     <a target="_blank" href="http://issta.ie/isstc-2016/">Zones 1 w/Alan Dormer @ Irish Sound Science and Technology Convocation @ Ulster University September 7th-9th 2016.</a>
   </li>
-</ul>  Generative Music Systems for Live Dance Performance
+</ul>
+
+<p>Music for Dance and Stage</p>
 <ul>
   <li>
     <a target="_blank" href="http://www.danceireland.ie/events/dance-ireland-residency-sibeal-davitt-3">Hear This Dance for @ Dance House for Dance Ireland Residency w/Niall Vallely and Sibeal Davitt, September 14th 2017.</a>
@@ -217,7 +221,20 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>
     <a target="_blank" href="https://www.nuigalway.ie/artsinaction/">Fógraím/ I Proclaim w/Sibéal Davitt & Tristan Rosenstock @ The Cube, NUIG, September 22nd, 2016.</a>
   </li>
-</ul>  Data-driven Music & Sociocultural Data Sonification
+  <li>
+    <a target="_blank" href="http://www.irishworldacademy.ie/">Eleven w/ Amy Prendergast @ The Irish World Academy Limerick, 2011.</a>
+  </li>
+  <li>
+    <a target="_blank" href="http://www.birrtheatre.com/#!dance/c1qa2">(You)th Share w/ Legitimate Bodies Dance Company w/Cristina Golletti & Nick Bryson @ Birr Theatre & Arts Centre 2010.</a>
+  </li>
+  <li>
+    <a target="_blank" href="http://www.birrtheatre.com/dance">Romeo & Juliet w/ Legitimate Bodies Dance Company w/Cristina Golletti & Nick Bryson @ Birr Theatre & Arts Centre 2010.</a>
+  </li>
+  <li>
+    <a target="_blank" href="http://www.birrtheatre.com/dance">Pinocchio - Dance of the Long Nose w/ Legitimate Bodies Dance Company w/Cristina Golletti & Nick Bryson @ Birr Theatre & Arts Centre 2009.</a>
+  </li>
+</ul>  
+<p>Data Sonification & Musification Performances/Installations</p>
 <ul>
   <li>
     <a target="_blank" href="http://stolenmirror.com/2021d01-tides.html?fbclid=IwAR1k0LF5vj-0nQxviDW0JU_v9mNli1h3AtWIAQIfL3dNGSBaxl6LPaRbY4o">Idle Hands- A 31-Part Exploration Of Irish Unemployment From 1983 - 2014 In G Major @ the premiere of TIDES: An ISSTA Anthology.</a>
@@ -243,7 +260,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>
     <a target="_blank" href="http://issta.ie/index.php/isstc/isstc-2014/">Idle Hands- A 31-Part Exploration Of Irish Unemployment From 1983 - 2014 In G Major @ Irish Sound Signal and Technology Convocation @ NUI Maynooth, Ireland August 2014.</a>
   </li>
-</ul>Fixed-Media Music Performances
+
+</ul>
+<p>Fixed-Media Music Performances and Sound Installations</p>
 <ul>
   <li>
     <a target="_blank" href="http://issta.ie/isstc-2016/">Symmetric Relations and Hidden Rotations @ Irish Sound Science and Technology Convocation @ Ulster University September 7th-9th 2016.</a>
@@ -252,21 +271,6 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="http://www.sonoritiesfestival.co.uk/images/Sonorities2016_Programme.pdf">Symmetric Relations and Hidden Rotations @ Sonorities Festival of Contemporary Music @ Belfast November 24-26 2016.</a>
   </li>
 
-</ul>Music for Stage & Dance
-<ul>
-  <li>
-    <a target="_blank" href="http://www.irishworldacademy.ie/">Eleven w/ Amy Prendergast @ The Irish World Academy Limerick, 2011.</a>
-  </li>
-  <li>
-    <a target="_blank" href="http://www.birrtheatre.com/#!dance/c1qa2">(You)th Share w/ Legitimate Bodies Dance Company w/Cristina Golletti & Nick Bryson @ Birr Theatre & Arts Centre 2010.</a>
-  </li>
-  <li>
-    <a target="_blank" href="http://www.birrtheatre.com/dance">Romeo & Juliet w/ Legitimate Bodies Dance Company w/Cristina Golletti & Nick Bryson @ Birr Theatre & Arts Centre 2010.</a>
-  </li>
-  <li>
-    <a target="_blank" href="http://www.birrtheatre.com/dance">Pinocchio - Dance of the Long Nose w/ Legitimate Bodies Dance Company w/Cristina Golletti & Nick Bryson @ Birr Theatre & Arts Centre 2009.</a>
-  </li>
-</ul>
 <p><strong>Other/Earlier Projects</strong></p>
 <ul>
   <li>Public Demonstration of Gestural Control System for UAV (Drone) Flight Trinity College Dublin Open Day 2019.</li>
