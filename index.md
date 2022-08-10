@@ -269,6 +269,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>
     <a target="_blank" href="http://www.sonoritiesfestival.co.uk/images/Sonorities2016_Programme.pdf">Symmetric Relations and Hidden Rotations @ Sonorities Festival of Contemporary Music @ Belfast November 24-26 2016.</a>
   </li>
+</ul>
 
 <p><strong>Other/Earlier Projects</strong></p>
 <ul>
