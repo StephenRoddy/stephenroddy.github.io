@@ -343,7 +343,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p><strong>Funding and Awards</strong></p>
 <ul>
   <li>Irish Research Council Government of Ireland Postdoctoral Research Fellowship 2017-2019.</li>
-  <li>Best use of Sound in a Concert Piece or Demonstration, The International Community for Auditory Display 27th International Conference on Auditory Display 2022.</li>
+  <li><a target="_blank" href ="https://drive.google.com/file/d/1hcDrbxGJzjdk9MkYd95cQ9aQaEd3tudy/view?usp=sharing"> Best use of Sound in a Concert Piece or Demonstration, The International Community for Auditory Display 27th International Conference on Auditory Display 2022.</a></li>
   <li>Trinity College Dublin Postgraduate Research Studentship 2012-2015. </li>
   <li>Trinity College Dublin Travel Grant 2015</li>
   <li>Trinity College Dublin Postgraduate Travel Grant 2013.</li>
