@@ -46,9 +46,7 @@ You can read more about the in my xCoAx paper below:
 
 * [xCoAx 2021 Artwork Paper](/files/xCoAx2021-Roddy.pdf)
 
-### Iteration 6: The Body in the Machine - Somewhere: A web-based, AI/ML mediated journey through soundworks created for '58+1/63 Indices On The Body' w/AMAE/DePinto, Jean-Luc Nancy & music by Stephen Roddy.
-
-<iframe frameborder="0" src="https://drive.google.com/file/d/1mmb5FY5EmSM0Dzx-bym2cGSZBGr1OK_R/preview" style="height: 500px; width: 600px;"></iframe>
+### Iteration 6: The Body in the Machine: Indices Online - Somewhere.
 
 <img src="images/somewhere.png?raw=true"/><br/>
 
