@@ -75,7 +75,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p><strong>Reports & Policy Documents</strong></p>
 <ul>
   <li>
-    <a target="_blank" href="https://drive.google.com/file/d/1NdHUhzr9ep8eoknvkFBfrVtR8mK_rddz/view?usp=sharing">IEEE Committee on Ethically Aligned Design for Artists. (2002) The Voice of the Artist in the Age of the Algorithm. IEEE Ethically Aligned Design Series.</a>
+    <a target="_blank" href="https://drive.google.com/file/d/1NdHUhzr9ep8eoknvkFBfrVtR8mK_rddz/view?usp=sharing">IEEE Committee on Ethically Aligned Design for Artists. (2022) The Voice of the Artist in the Age of the Algorithm. IEEE Ethically Aligned Design Series.</a>
   </li>
 </ul>
 
