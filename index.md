@@ -145,8 +145,12 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 </ul>
 
 <p><strong><strong>Creative & Performing Arts Projects: Performances & Installations</strong></strong></p>
-<p>The Signal to Noise Loops Project: Data-driven Generative Music w/AI/ML</p>
+<p>The Signal to Noise Loops Project: Data-driven Generative Music w/AI&ML</p>
 <ul>
+<li>
+  <a target="_blank" href="https://imma.ie/whats-on/earth-rising/">Signal to Noise Loops v5: Breathing Space @ Earth Rising Eco Art Festival , Irish Museum of Modern Art:IMMA, 21-23 October, 2022.</a>
+</li>
+<li>
   <li>
     <a target="_blank" href="https://icad2022.icad.org/">Signal to Noise Loops v4 @ The International Conference on Auditory Display 2022.</a>
   </li>
