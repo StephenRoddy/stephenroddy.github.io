@@ -150,7 +150,6 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <li>
   <a target="_blank" href="https://imma.ie/whats-on/earth-rising/">Signal to Noise Loops v5: Breathing Space @ Earth Rising Eco Art Festival , Irish Museum of Modern Art:IMMA, 21-23 October, 2022.</a>
 </li>
-<li>
   <li>
     <a target="_blank" href="https://icad2022.icad.org/">Signal to Noise Loops v4 @ The International Conference on Auditory Display 2022.</a>
   </li>
@@ -183,7 +182,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 
-<p>The Body in the Machine: Music Composition & Computer Art w/AI/ML</p>
+<p><strong>The Body in the Machine: Music Composition & Computer Art w/AI/ML</strong></p>
 <ul>
   <li>
     <a target="_blank" href="https://icmc2022.org/">Roddy (2022). The Body in the Machine: Indices Online. The International Computer Music Conference, Limerick Ireland.</a>
@@ -353,7 +352,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>Trinity College Dublin Postgraduate Travel Grant 2013.</li>
 </ul>
 
-<strong>Invited Talks & Panels</strong>
+<p><strong>Invited Talks & Panels</strong></p>
 <ul>
   <li>
     <a target="_blank" href="https://www.facebook.com/events/2480204325324203/">"Whose Music?": Panel Discussion on AI in Music Composition at Music Current 2019, CMC Dublin.</a>
