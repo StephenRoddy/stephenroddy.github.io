@@ -4,7 +4,7 @@ I am an Artist, Researcher, and Lecturer based at Trinity College Dublin (TCD), 
 
 My previous project, based at the CONNECT Centre in TCD and funded by an IRC postdoctoral fellowship, explored the design of Sonification and Auditory Display solutions for Large-scale Internet of Things (IoT) networks. My work is widely disseminated through peer-reviewed journal publications, book chapters, and conferences.
 
-I maintain a vibrant and diverse creative arts practice spanning a variety of media and styles including music composition and performance, sound art installation, interactive art, and music for dance and stage. My work has been described as dark, eclectic, and experimental. My pieces are frequently performed and installed at home and abroad and I have been described as eclectic, dark, and experimental.
+I maintain a vibrant and diverse creative arts practice spanning a variety of media and styles including music composition and performance, sound art installation, interactive art, and music for dance and stage. My work has been described as dark, eclectic, and experimental. My pieces are frequently performed and installed at home and abroad, and I have been described as eclectic, dark, and experimental.
 
 Previous events have included the New York City Electroacoustic Music Festival, Helicotrema Recorded Audio Festival in Venice, Dublin Dance Festival's Embodied at the GPO, and the Sonorities Contemporary Music Festival.
 
