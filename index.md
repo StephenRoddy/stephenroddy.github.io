@@ -1,6 +1,6 @@
 ### Biography
 
-I am an Artist, Researcher, and Lecturer based at Trinity College Dublin (TCD), where I hold an Assistant Professor in Film (Digital Arts). I hold a Ph.D. in Data Sonification, the use of sound to perceptualize data and convey information. My current research/practice is focused on the development of Cybernetic frameworks for the application of Sonification, Artificial Intelligence/Machine Learning (AI/ML), and Human-computer Interaction (HCI) techniques in the Creative Arts.
+I am a Researcher, and Lecturer based at Trinity College Dublin (TCD), where I hold an Assistant Professor in Film (Digital Arts). I hold a Ph.D. in Data Sonification, the use of sound to perceptualize data and convey information. My current research/practice is focused on the development of Cybernetic frameworks for the application of Sonification, Artificial Intelligence/Machine Learning (AI/ML), and Human-computer Interaction (HCI) techniques in the Creative Arts.
 
 My previous project, based at the CONNECT Centre in TCD and funded by an IRC postdoctoral fellowship, explored the design of Sonification and Auditory Display solutions for Large-scale Internet of Things (IoT) networks. My work is widely disseminated through peer-reviewed journal publications, book chapters, and conferences.
 
