@@ -14,7 +14,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <strong>Affiliations</strong>
 <p>Current</p>
 <ul>
-  <li>Assistant Professor in the <a target="_blank" href="https://www.tcd.ie/creativearts/disciplines/film/">Department of Film</a> at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
+  <li>Assistant Professor (Digital Arts) in the <a target="_blank" href="https://www.tcd.ie/creativearts/disciplines/film/">Department of Film</a> at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
   </li>
   <li>Postdoctoral Fellow in the <a target="_blank" href="https://www.tcd.ie/eleceng/">Department of Electronic & Electrical Engineering</a> at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
   </li>
