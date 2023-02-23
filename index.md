@@ -518,7 +518,6 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 
 <p>Radio</p>
 <ul>
-
   <li><a target="_blank" href="https://wfmu.org/playlists/shows/123312"> opening to the ambient light, Ridgewood Radio with David Weinstein January 4th 2023.</a>
   </li>
   <li><a target="_blank" href="https://www.mixcloud.com/Resonance/sonic-darts-6-june-2022-artificial-intelligence/"> Interview about AI in Music Composition on Gwaith Sŵn's Sonic Darts on Resonance.fm, June 6th 2022.</a>
