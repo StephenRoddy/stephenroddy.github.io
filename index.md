@@ -428,13 +428,14 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://stephenroddy.github.io/images/bandcampFront.png">Bandcamp New and Notable: Darkness Visible EP.</a>
   </li>
   <li>
-    <a target="_blank" href="https://tometotheweathermachine.com/blog/stephen-roddy-opening-to-the-ambient-light">Tome To The Weather Machine: opening to the ambient light</a>.
+    <a target="_blank" href="https://tometotheweathermachine.com/blog/stephen-roddy-opening-to-the-ambient-light">Tome To The Weather Machine: opening to the ambient light.</a>.
   </li>
   <li>
     <a target="_blank" href="https://www.brutalresonance.com/feature/whats-in-our-inbox-77/">Brutal Resonance: Darkness Visible.</a>
   </li>
+  <li><a target="_blank" href="https://visualatelier8.com/stephen-roddy-61years/">Visual Ateiler 8: 61Years.</a></li>
   <li>
-    <a target="_blank" href="https://undergroundnproud.com/2022/02/16/stephen-roddy-new-ep-darkness-visible/">Underground N' Proud: Darkness Visible</a>.
+    <a target="_blank" href="https://undergroundnproud.com/2022/02/16/stephen-roddy-new-ep-darkness-visible/">Underground N' Proud: Darkness Visible.</a>.
   </li>
   <li>
     <a target="_blank" href="https://undergroundnproud.com/2022/01/21/stephen-roddy-new-single-no-light-but-rather/">Underground N' Proud: No Light, But Rather.</a>
@@ -518,6 +519,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 
 <p>Radio</p>
 <ul>
+  <li><a target="_blank" href="https://cod.ckcufm.com/programs/118/59555.html"> The Dylan Hunter Show CKCU-FM 93.1: v5:Breathing Space February 24th 2023.</a>
+  </li>
   <li><a target="_blank" href="https://wfmu.org/playlists/shows/123312"> opening to the ambient light, Ridgewood Radio with David Weinstein January 4th 2023.</a>
   </li>
   <li><a target="_blank" href="https://www.mixcloud.com/Resonance/sonic-darts-6-june-2022-artificial-intelligence/"> Interview about AI in Music Composition on Gwaith Sŵn's Sonic Darts on Resonance.fm, June 6th 2022.</a>
