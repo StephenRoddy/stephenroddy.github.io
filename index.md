@@ -305,7 +305,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 </ul>
 <p>Independent Releases</p>
 <ul>
-  <li> <a target="_blank" href="https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-2">Signal to Noise Loops (2023) is Aa series of Human-Machine Collaborations made possible through Cybernetic Musical Systems that unite human performance and composition with techniques and technologies from artificial intelligence, machine learning, and the internet of things.</a> </li>
+  <li> <a target="_blank" href="https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-2">Signal to Noise Loops (2023) is a series of Human-Machine Collaborations made possible through Cybernetic Musical Systems that unite human performance and composition with techniques and technologies from artificial intelligence, machine learning, and the internet of things.</a> </li>
   <li>
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/ep-darkness-visible">Darkness Visible (2022): Generative music EP in an industrial and ark ambient style.</a>
   </li>
