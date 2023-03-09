@@ -45,7 +45,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <ul>
 
   <li>
-    <a target="_blank" href="https://online.ucpress.edu/res">Roddy, S. (Forthcoming: Spring 2023). The Kyoto School and Sound Art: A Nothingness of the Absolute. Resonance: Resonance: The Journal of Sound and Culture, 4(1).</a>
+    <a target="_blank" href="https://online.ucpress.edu/res">Roddy, S. (Forthcoming: Spring 2023). The Kyoto School and Sound Art: A Nothingness of the Absolute. Resonance: The Journal of Sound and Culture, 4(1).</a>
   </li>
   <li>
     <a target="_blank" href="https://direct.mit.edu/leon/article-abstract/doi/10.1162/leon_a_02258/112358/Signal-to-Noise-Loops-A-Cybernetic-Approach-to">Roddy, S. (2023). Signal to Noise Loops: A Cybernetic Approach to Musical Performance with Smart City Data and Generative Music Techniques. Leonardo, 56(1).</a>
