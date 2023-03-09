@@ -43,6 +43,10 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 </ul>
 <p><strong>Journal Articles</strong></p>
 <ul>
+
+  <li>
+    <a target="_blank" href="https://online.ucpress.edu/res">Roddy, S. (Forthcoming: Spring 2023). The Kyoto School and Sound Art: A Nothingness of the Absolute. Resonance: Resonance: The Journal of Sound and Culture, 4(1).</a>
+  </li>
   <li>
     <a target="_blank" href="https://direct.mit.edu/leon/article-abstract/doi/10.1162/leon_a_02258/112358/Signal-to-Noise-Loops-A-Cybernetic-Approach-to">Roddy, S. (2023). Signal to Noise Loops: A Cybernetic Approach to Musical Performance with Smart City Data and Generative Music Techniques. Leonardo, 56(1).</a>
   </li>
@@ -62,7 +66,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p> <strong><strong>Book Chapters</strong></strong></p>
 <ul>
 <li>
-<a target="_blank" href="https://www.routledge.com/search?kw=Algorithms+and+Society">Roddy, S. (Forthcoming: 2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Work. Algorithms and Society Series Routledge Focus.</a>
+<a target="_blank" href="https://www.routledge.com/AI-and-the-Future-of-Creative-Work-Algorithms-and-Society/Filimowicz/p/book/9781032290638">Roddy, S. (Forthcoming: 2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Work. Algorithms and Society Series Routledge Focus.</a>
 </li>
   <li>
     <a target="_blank" href="https://www.taylorfrancis.com/chapters/edit/10.4324/9780429356360-3/meaning-making-embodied-cognition-sound-design-research-stephen-roddy-brian-bridges">Roddy, S. & Bridges, B. (2021) Meaning-making and Embodied Cognition in Sound Design Research. In: Filimowicz, M. editor Doing Research in Sound Design, Routledge. </a>
@@ -301,8 +305,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 </ul>
 <p>Independent Releases</p>
 <ul>
+  <li> <a target="_blank" href="https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-2">Signal to Noise Loops (2023) is Aa series of Human-Machine Collaborations made possible through Cybernetic Musical Systems that unite human performance and composition with techniques and technologies from artificial intelligence, machine learning, and the internet of things.</a> </li>
   <li>
-    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/ep-darkness-visible">Darkness Visible (2022): Generative, ambient and industrial EP.</a>
+    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/ep-darkness-visible">Darkness Visible (2022): Generative music EP in an industrial and ark ambient style.</a>
   </li>
   <li>
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/ep-30-epoch-opus">30-Epoch Opus (2021) A short 4-track EP of AI-driven music. </a>
@@ -311,7 +316,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/jupiter-2">Jupiter (2021) A Doom infused, Blackgaze love-letter to everybody’s favourite gas giant using traditional doom, post-metal and industrial metal instrumentation. 10-track album.</a>
   </li>
   <li>
-    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/wave-grid">Wave Grid (2019) A Synth-heavy tribute to the classic sci-fi and horror soundtracks of the 1980s.10-track album.</a> <a target="_blank" href="https://stephenroddy.bandcamp.com/album/the-journey-home">The Journey: Home (2019) Consists of data-driven generative pieces (using IoT data) and  experimental guitar along with computer music and sonic works exploring changing music technologies. 5-track album.</a>
+    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/wave-grid">Wave Grid (2019) A Synth-heavy tribute to the classic sci-fi and horror soundtracks of the 1980s.10-track album.</a>
   </li>
   <li>
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/le-son-du-corps-et-un-corps-de-sons">Le Son Du Corps Et Un Corps de Sons by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto) (2016) Sound works, experimental guitar and electroacoustic compositions based on 58(+1)/63 Indices on the Body. 16-track album.</a>
