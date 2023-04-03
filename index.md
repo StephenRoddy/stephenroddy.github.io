@@ -4,7 +4,7 @@ I am a Musical Artist & Researcher based in Ireland. I hold a Ph.D. in Data Soni
 
 My previous project, based at the CONNECT Centre in TCD and funded by an IRC postdoctoral fellowship, explored the design of Sonification and Auditory Display solutions for Large-scale Internet of Things (IoT) networks. My work is widely disseminated through peer-reviewed journal publications, book chapters, and conferences.
 
-I maintain a vibrant and diverse creative arts practice spanning a variety of media and styles including music composition and performance, sound art installation, interactive art, and music for dance and stage. My work has been described as dark, eclectic, and experimental. My pieces are frequently performed and installed at home and abroad, and I have been described as eclectic, dark, and experimental.
+I maintain a vibrant and diverse creative arts practice spanning a variety of media and styles including music composition and performance, sound art installation, interactive art, and music for dance and stage. My work has been described as eclectic, and experimental. My pieces are frequently performed and installed at home and abroad.
 
 Previous events have included the New York City Electroacoustic Music Festival, Helicotrema Recorded Audio Festival in Venice, Dublin Dance Festival's Embodied at the GPO, and the Sonorities Contemporary Music Festival.
 
@@ -464,7 +464,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="http://lastdaydeaf.com/abrasive-minerals-no146/">Last Day Deaf: Jupiter Single.</a>
   </li>
   <li>
-    <a target="_blank" href="http://www.rockeramagazine.com/mag/index.php/articles/music-reviews/music/item/3599-issue-20-hard-rockin-saturdays">Rock Era Magazine Jupiter Single.</a>  
+    <a target="_blank" href="https://www.rockeramagazine.com/issue-20-hard-rockin-saturdays/">Rock Era Magazine Jupiter Single.</a>  
   </li>
   <li>
     <a target="_blank" href="https://brutalresonance.com/feature/whats-in-our-inbox-61-featuring-bara-hari-death-loves-veronica-die-robot-and-more/">Brutal Resonance: Jupiter Album</a>.
