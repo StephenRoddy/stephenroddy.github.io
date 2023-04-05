@@ -1,6 +1,6 @@
 ### Biography
 
-I am a Musical Artist & Researcher based in Ireland. I hold a Ph.D. in Data Sonification, the use of sound to perceptualize data and convey information. My current practice is focused on the development of Cybernetic frameworks for the application of Sonification, Artificial Intelligence/Machine Learning (AI/ML), and Human-computer Interaction (HCI) techniques in the Creative Arts.
+I am an Artist, Researcher and lecturer working between Computing and the Sonic Arts. I hold a Ph.D. in Data Sonification, the use of sound to perceptualize data and convey information. My current practice is focused on the development of Cybernetic frameworks for the application of Sonification, Artificial Intelligence/Machine Learning (AI/ML), and Human-computer Interaction (HCI) techniques in the Creative Arts.
 
 My previous project, based at the CONNECT Centre in TCD and funded by an IRC postdoctoral fellowship, explored the design of Sonification and Auditory Display solutions for Large-scale Internet of Things (IoT) networks. My work is widely disseminated through peer-reviewed journal publications, book chapters, and conferences.
 
@@ -45,7 +45,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <ul>
 
   <li>
-    <a target="_blank" href="https://online.ucpress.edu/res">Roddy, S. (Forthcoming: Spring 2023). The Kyoto School and Sound Art: A Nothingness of the Absolute. Resonance: The Journal of Sound and Culture, 4(1).</a>
+    <a target="_blank" href="https://online.ucpress.edu/res/article-abstract/4/1/69/195805/The-Kyoto-School-and-Sound-ArtA-Nothingness-of-the">Roddy, S. (2023). The Kyoto School and Sound Art: A Nothingness of the Absolute. Resonance: The Journal of Sound and Culture, 4(1).</a>
   </li>
   <li>
     <a target="_blank" href="https://direct.mit.edu/leon/article-abstract/doi/10.1162/leon_a_02258/112358/Signal-to-Noise-Loops-A-Cybernetic-Approach-to">Roddy, S. (2023). Signal to Noise Loops: A Cybernetic Approach to Musical Performance with Smart City Data and Generative Music Techniques. Leonardo, 56(1).</a>
