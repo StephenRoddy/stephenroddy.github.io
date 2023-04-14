@@ -14,12 +14,6 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <strong>Affiliations</strong>
 <p>Current</p>
 <ul>
-  <li>Assistant Professor (Digital Arts) in the <a target="_blank" href="https://www.tcd.ie/creativearts/disciplines/film/">Department of Film</a> at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
-  </li>
-  <li>Postdoctoral Fellow in the <a target="_blank" href="https://www.tcd.ie/eleceng/">Department of Electronic & Electrical Engineering</a> at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
-  </li>
-  <li>Lecturer on the <a target="_blank" href="https://www.tcd.ie/eleceng/mmt/">Music and Media Technologies</a> course at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
-  </li>
   <li>Member of the<a target="_blank" href="http://icad.org/"> International Community for Auditory Display.</a>
   </li>
   <li>Member of the <a target="_blank" href="http://computermusic.org/">International Computer Music Association.</a>  
@@ -32,6 +26,12 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 
 <p>Previous</p>
 <ul>
+  <li>Assistant Professor (Digital Arts) in the <a target="_blank" href="https://www.tcd.ie/creativearts/disciplines/film/">Department of Film</a> at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
+  </li>
+  <li>Postdoctoral Fellow in the <a target="_blank" href="https://www.tcd.ie/eleceng/">Department of Electronic & Electrical Engineering</a> at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
+  </li>
+  <li>Lecturer on the <a target="_blank" href="https://www.tcd.ie/eleceng/mmt/">Music and Media Technologies</a> course at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
+  </li>
   <li>Government of Ireland Postdoctoral Fellow at the <a target="_blank" href="http://research.ie/">Irish Research Council</a>.
   </li>
   <li>Postdoctoral researcher at the <a target="_blank" href="https://connectcentre.ie/people/stephen-roddy/">CONNECT Centre</a>, <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
