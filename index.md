@@ -2,7 +2,8 @@
 
 I am an Artist, Researcher and Lecturer working in Digital Technologies and the Sonic Arts. I hold a Ph.D. in Data Sonification, the use of sound to perceptualize data and convey information. My current practice is focused on the development of Cybernetic frameworks for the application of Sonification, Artificial Intelligence/Machine Learning (AI/ML), and Human-computer Interaction (HCI) techniques in the Creative Arts.
 
-My previous project, based at the CONNECT Centre in TCD and funded by an IRC postdoctoral fellowship, explored the design of Sonification and Auditory Display solutions for Large-scale Internet of Things (IoT) networks. My work is widely disseminated through peer-reviewed journal publications, book chapters, and conferences.
+Previous projects have explored the design of Sonification and Auditory Display solutions for Large-scale Internet of Things (IoT) networks and investigated the integration of Sonification with AI/ML techniques for generative music and sound art applications. 
+My work is widely disseminated through peer-reviewed journal publications, book chapters, and conferences.
 
 I maintain a vibrant and diverse creative arts practice spanning a variety of media and styles including music composition and performance, sound art installation, interactive art, and music for dance and stage. My work has been described as eclectic, and experimental. My pieces are frequently performed and installed at home and abroad.
 
@@ -69,13 +70,13 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p> <strong><strong>Book Chapters</strong></strong></p>
 <ul>
 <li>
-<a target="_blank" href="https://www.routledge.com/AI-and-the-Future-of-Creative-Work-Algorithms-and-Society/Filimowicz/p/book/9781032290638">Roddy, S. (Forthcoming: 2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Work. Algorithms and Society Series Routledge Focus.</a>
+<a target="_blank" href="https://www.routledge.com/AI-and-the-Future-of-Creative-Work-Algorithms-and-Society/Filimowicz/p/book/9781032290638">Roddy, S. (Forthcoming: 2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Creative Work. Algorithms and Society Series. Routledge, Focus.</a>
 </li>
   <li>
     <a target="_blank" href="https://www.taylorfrancis.com/chapters/edit/10.4324/9780429356360-3/meaning-making-embodied-cognition-sound-design-research-stephen-roddy-brian-bridges">Roddy, S. & Bridges, B. (2021) Meaning-making and Embodied Cognition in Sound Design Research. In: Filimowicz, M. editor Doing Research in Sound Design, Routledge. </a>
   </li>
   <li>
-    <a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-319-73374-6_12">Roddy S., Bridges B. (2018) Sound, Ecological Affordances and Embodied Mappings in Auditory Display. In: Filimowicz M., Tzankova V. (eds) New Directions in Third Wave Human-Computer Interaction: Volume 2 - Methodologies. Human–Computer Interaction Series. Springer, Cham.</a>
+    <a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-319-73374-6_12">Roddy S., & Bridges B. (2018) Sound, Ecological Affordances and Embodied Mappings in Auditory Display. In: Filimowicz M., Tzankova V. (eds) New Directions in Third Wave Human-Computer Interaction: Volume 2 - Methodologies. Human–Computer Interaction Series. Springer, Cham.</a>
   </li>
 </ul>
 
@@ -92,7 +93,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99595">Roddy, S. (2022). Creating Signal to Noise Loops v4. In the Proceedings of the International Conference on Auditory Display, ICAD 2022.</a>
   </li>
   <li>
-    <a target="_blank" href="https://www.researchgate.net/publication/352737562_The_Design_of_a_Smart_City_Sonification_System_using_a_Conceptual_Blending_and_Musical_Framework_Web_Audio_and_Deep_Learning_Techniques">Roddy, S. & Bridges, B. (2021). The Design of a Smart City Sonification System using a Conceptual Blending and Musical Framework, Web Audio and Deep Learning Techniques. In the Proceedings of the International Conference on Auditory Display, ICAD 2021. </a>
+    <a target="_blank" href="https://www.researchgate.net/publication/352737562_The_Design_of_a_Smart_City_Sonification_System_using_a_Conceptual_Blending_and_Musical_Framework_Web_Audio_and_Deep_Learning_Techniques">Roddy, S., & Bridges, B. (2021). The Design of a Smart City Sonification System using a Conceptual Blending and Musical Framework, Web Audio and Deep Learning Techniques. In the Proceedings of the International Conference on Auditory Display, ICAD 2021. </a>
   </li>
   <li>
     <a target="_blank" href="https://www.researchgate.net/publication/353178938_The_Body_in_the_Machine_Indices_Online">Roddy S. (2021). The Body in the Machine: Indices Online. In Proceedings of xCoAx 2021, Online (+ Graz) 12th-16th July 2021.</a>
@@ -104,7 +105,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://2018.xcoax.org/pdf/xCoAx2018-Roddy.pdf">Roddy, S. (2018). Signal to Noise Loops i++ Live. xCoAx 2018, 11-13 July, Madrid.</a>
   </li>
   <li>
-    <a target="_blank" href="https://www.researchgate.net/publication/326572938_Vowel_Formant_Profiles_and_Image_Schemata_in_Auditory_Display">Roddy, S. & Furlong, D. (2018). Vowel Formant Profiles and Image Schemata in Auditory Display. In Proceedings of HCI 2018 4-6 July 2018, Belfast.</a>
+    <a target="_blank" href="https://www.researchgate.net/publication/326572938_Vowel_Formant_Profiles_and_Image_Schemata_in_Auditory_Display">Roddy, S., & Furlong, D. (2018). Vowel Formant Profiles and Image Schemata in Auditory Display. In Proceedings of HCI 2018 4-6 July 2018, Belfast.</a>
   </li>
   <li>
     <a target="_blank" href="https://www.researchgate.net/publication/319332093_Composing_The_Good_Ship_Hibernia_and_the_Hole_in_the_Bottom_of_the_World">Roddy, S. (2017). Composing The Good Ship Hibernia and the Hole in the Bottom of the World. In Proceedings of Audio Mostly 2017 23-26 August 2017.</a>
@@ -137,7 +138,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://www.researchgate.net/publication/360849585_IoT_and_AI-Driven_Audio_in_the_Smart_City_A_Rhythmanalysis_inspired_approach">Roddy, S. (2018). IoT and AI-Driven Audio in the Smart City: A Rhythmanalysis Inspired Approach. The Irish Sound Science and Technology Association Conference. Ulster University, Magee Campus, Derry/Londonderry.</a>
   </li>
   <li>
-    <a target="_blank" href="https://www.researchgate.net/publication/360849613_Sound_Place_Multiplace">Dormer, A. & Roddy, S. (2016). Sound, Place & Multiplace. The Irish Sound Science and Technology Association Conference. Ulster University, Magee Campus, Derry/Londonderry.</a>
+    <a target="_blank" href="https://www.researchgate.net/publication/360849613_Sound_Place_Multiplace">Dormer, A., & Roddy, S. (2016). Sound, Place & Multiplace. The Irish Sound Science and Technology Association Conference. Ulster University, Magee Campus, Derry/Londonderry.</a>
   </li>
   <li>
     <a target="_blank" href="https://www.researchgate.net/publication/277310047_Sonification_and_the_Digital_Divide">Roddy, S. (2015) Sonification and the Digital Divide. Digital Materials. The National University of Ireland Galway.</a>
@@ -429,6 +430,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 
 <p>Online</p>
 <ul>
+  <li>
+    <a target="_blank" href="https://icad.org/cs-stephen-roddy//">ICAD Community Spotlight: Stephen Roddy.</a>
+  </li>
   <li>
     <a target="_blank" href="https://queencitysoundsandart.wordpress.com/2022/03/06/stephen-roddy-establishes-a-sustained-sense-of-perilous-urgency-on-darkness-visible/">Queen City Sound and Art: Darkness Visible EP.</a>
   </li>
