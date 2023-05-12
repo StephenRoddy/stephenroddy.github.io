@@ -1,6 +1,6 @@
 ### Biography
 
-I am an Artist, Researcher and Lecturer based at the Radical Humanites Lab and the Department of Digital Humanities at UCC. My work spans Digital Technologies and the Sonic Arts. I hold a Ph.D. in Data Sonification, the use of sound to perceptualize data and convey information. My current research and creative practice are focused on the development of Cybernetic frameworks for the application of Sonification, Artificial Intelligence/Machine Learning (AI/ML), and Human-computer Interaction (HCI) techniques in the Creative Arts.
+I am an Artist, Researcher and Lecturer based at the Radical Humanites Lab and the Department of Digital Humanities at University College Cork. My work spans Digital Technologies and the Sonic Arts. I hold a Ph.D. in Data Sonification, the use of sound to perceptualize data and convey information. My current research and creative practice are focused on the development of Cybernetic frameworks for the application of Sonification, Artificial Intelligence/Machine Learning (AI/ML), and Human-computer Interaction (HCI) techniques in the Creative Arts.
 
 Previous projects have explored the design of Sonification and Auditory Display solutions for Large-scale Internet of Things (IoT) networks and investigated the integration of Sonification with AI/ML techniques for generative music and sound art applications. 
 My work is widely disseminated through peer-reviewed journal publications, book chapters, and conferences.
