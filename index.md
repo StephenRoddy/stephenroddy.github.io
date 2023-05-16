@@ -1,8 +1,8 @@
 ### Biography
 
-I am an Artist, Researcher and Lecturer based at the Radical Humanities Lab and the Department of Digital Humanities at University College Cork. My work spans Digital Technologies and the Sonic Arts. I hold a Ph.D. in Data Sonification, the use of sound to perceptualize data and convey information. My current research and creative practice are focused on the development of Cybernetic frameworks for the application of Sonification, Artificial Intelligence/Machine Learning (AI/ML), and Human-computer Interaction (HCI) techniques in the Creative Arts.
+I am an Artist, Researcher and Lecturer based at the Radical Humanities Lab and the Department of Digital Humanities at University College Cork. My work spans digital technologies and the sonic arts. I hold a Ph.D. in data sonification, the use of sound to perceptualize data and convey information. My current research and creative practice are focused on the development of cybernetic frameworks for the application of data sonification, artificial intelligence/machine Learning (AI/ML), internet of things, and human-computer interaction (HCI) techniques in the creative arts.
 
-Previous projects have explored the design of Sonification and Auditory Display solutions for Large-scale Internet of Things (IoT) networks and investigated the integration of Sonification with AI/ML techniques for generative music and sound art applications. 
+Previous projects have explored the design of sonification and auditory display solutions for large-scale internet of things (IoT) networks and investigated the integration of sonification with AI/ML techniques for generative music and sound art applications. 
 My work is widely disseminated through peer-reviewed journal publications, book chapters, and conferences.
 
 I maintain a vibrant and diverse creative arts practice spanning a variety of media and styles including music composition and performance, sound art installation, interactive art, and music for dance and stage. My work has been described as eclectic, and experimental. My pieces are frequently performed and installed at home and abroad.
