@@ -110,10 +110,12 @@ Audiovisual installation for headphones and mobile devices, reflecting on the me
 <br />
 <a href="https://imma.ie/whats-on/earth-rising-2023/" target="_blank"><img src="images/IMMA-ECO.jpg?raw=true"/></a><br/>
 <br />
-<a href="" target="_blank"><img src="redacted.png?raw=true"/></a><br/>
+<a href="" target="_blank"><img src="images/redacted.png?raw=true"/></a><br/>
 <br />
 <br />
+
 <!--
+
 ### Discussion <br />
 The point of mapping data to sound, and more specifically IoT data is to leverage some of the interesting patterns that present themselves across data streams/sets in this manner. Data-driven music is different from sonification where the point is to faithfully communicate or represent the data to the listener. Data-driven music is closer in many ways to algorithmic music composition than it is to sonification because of its focus on finding patterns in the data that might be interesting when mapped to sonic and musical parameters. My previous data-driven music work has employed algorithmic composition techniques and dealt with data from the global financial crash. More recently I have begun to work with IoT data as I believe that the kinds of data we choose to measure and our reasons for measuring them say a lot about what a society values, cares about, and finds interesting while the specific data measurements chronicle the complex interactions between people, the technologies they create and the worlds in which those people and technologies are situated. <br />
 <br />
@@ -121,6 +123,7 @@ While these explicit points of information may not be directly represented in a 
 <br />
 <br />
 -->
+
 ### Performances:
 - [Earth Rising Eco Festival - IMMA 2022](https://imma.ie/whats-on/earth-rising-2023/)
 - [The 27th International Conference on Auditory Display Concert](https://icad2022.icad.org/)

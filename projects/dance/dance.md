@@ -43,12 +43,13 @@ I used a similar participatory design process as before. I would present a proto
 - [Showing](https://www.danceireland.ie/whats-on/events/new-movements-sibeal-davitt/)
 - [Connect Coverage](https://connectcentre.ie/news/stephen-roddy-work-dance-ireland/)
 
+<!--
 ### Creative Skills
 Sound Design. Music Composition & Performance. Live Electronic Music performance. Generative Music.
 
 ### Technical
 Live Audio. Recording. Sound Synthesis & Audio DSP. Python. OSC & MIDI protocols. Audio Engineering.
-
+-->
 ### Tags
 Dance, Technology, Fógraím / I Proclaim, Hear This Dance, Live Music, Embodied At The GPO, Generative Music.
 
