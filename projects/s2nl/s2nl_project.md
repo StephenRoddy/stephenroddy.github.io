@@ -53,7 +53,7 @@ Increased data streams with richer mapping to support the emergence of patterns 
 <br />
 
 #### Iteration 4: COVID-19 Crisis Response: Audiovisual Installation <br/>
-Moved to an online audiovisual installation format and introduced machine learning techniques in the generative music system. Patterns of activity before and during COVID mapped to generative music parameters and to a visual representation of a changing city.
+Moved to an online audiovisual installation format and introduced machine learning techniques in the generative music system. Patterns of activity before and during COVID mapped to generative music parameters to a visual representation of a changing city.
 
 The piece was performed at the [2021 New York Electroacoustic Music Festival](https://nycemf.org/).
 You can find the video and concert program below:
@@ -66,7 +66,7 @@ You can find the video and concert program below:
 
 [NYCEMF2021 Concert Program](/files/2021-Program-Book.pdf)
 
-The sonic component of Signal to Noise Loops V4 was installed in the listening room at the [International Conference on Computer Music](http://icmc2021.org/) at Santiago Chile in July of 2021.
+The sonic component of Signal to Noise Loops V4 was installed in the listening room at the [International Conference on Computer Music](http://icmc2021.org/) in Santiago Chile in July of 2021.
 
 <img src="images/ICMC Santiago Chile 2021.png?raw=true"/><br/>
 [International Computer Music Conference 2021](http://icmc2021.org/program/)
@@ -85,13 +85,13 @@ Signal to Noise Loops V4 will be presented as an online installation for Oíche 
 
 Signal to Noise Loops v4 was also featured in Season 3 of the Video Sound Archive. The Video Sound Archive is an online working archive, dedicated to video and sound that emerged during the pandemic. It provides an alternative to festival and exhibition spaces that accounts for the realities of experiencing art in a time of COVID.
 
-[Signal to Noise Loops v4- Video Sound Archive S3 - Februray 2022](https://www.videosoundarchive.com/submit#image_1-10903455)
+[Signal to Noise Loops v4- Video Sound Archive S3 - February 2022](https://www.videosoundarchive.com/submit#image_1-10903455)
 <br />
 <a href="https://www.videosoundarchive.com/archive-s3" target="_blank"><img src="images/S3_001.jpg?raw=true"/></a><br/>
 <br />
 
 
-Signal to Noise Loops v4 was selectd for performance at the concerts for the 27th International Conference ona Auditory Display (ICAD 2022), where it won the award for the Best use of sound in a Concert Piece or Demonstration. You can see the conference paper describing some of the technical the development of this specific iteration here:
+Signal to Noise Loops v4 was selected for performance at the concerts for the 27th International Conference on Auditory Display (ICAD 2022), where it won the award for the Best use of sound in a Concert Piece or Demonstration. You can see the conference paper describing some of the technical development of this specific iteration here:
 
 
 <iframe frameborder="0" src="https://drive.google.com/file/d/1ZMJ243hDl9Odf47Cv6E5UhhAkl1HbVXZ/preview" style="height: 500px; width: 600px;"></iframe>
@@ -105,28 +105,26 @@ For a more in-depth discussion of the first four iterations of this project plea
 
 
 #### Iteration 5: An Audiovisual Re-emergence<br/>
-Audiovisual installation for headphones mobile devices reflecting on the mediation of human relationships through networked communications technology both and after the pandemic.
+Audiovisual installation for headphones and mobile devices, reflecting on the mediation of human relationships through networked communications technology both and after the pandemic.
 
 <br />
 <a href="https://imma.ie/whats-on/earth-rising-2023/" target="_blank"><img src="images/IMMA-ECO.jpg?raw=true"/></a><br/>
 <br />
 <a href="" target="_blank"><img src="redacted.png?raw=true"/></a><br/>
 <br />
-
-
+<br />
+<!--
 ### Discussion <br />
-The point of mapping data to sound, and more specifically IoT data is to leverage some of the interesting patterns that present themselves across data streams/sets of this manner. Data-driven music is different from sonification where the point is to faithfully communicate or represent the data to the listener. Data-driven music is closer in many ways to algorithmic music composition than it is to sonification because of its focus on finding patterns in the data that might be interesting when mapped to sonic and musical parameters. My previous data-driven music work has employed algorithmic composition techniques and dealt with used from the global financial crash. More recently I have begun to work with IoT data as I believe that the kinds of data we choose to measure and our reasons for measuring them say a lot about what a society values, cares about, and finds interesting while the specific data measurements chronicle the complex interactions between people, the technologies they create and the worlds in which those people and technologies are situated. <br />
+The point of mapping data to sound, and more specifically IoT data is to leverage some of the interesting patterns that present themselves across data streams/sets in this manner. Data-driven music is different from sonification where the point is to faithfully communicate or represent the data to the listener. Data-driven music is closer in many ways to algorithmic music composition than it is to sonification because of its focus on finding patterns in the data that might be interesting when mapped to sonic and musical parameters. My previous data-driven music work has employed algorithmic composition techniques and dealt with data from the global financial crash. More recently I have begun to work with IoT data as I believe that the kinds of data we choose to measure and our reasons for measuring them say a lot about what a society values, cares about, and finds interesting while the specific data measurements chronicle the complex interactions between people, the technologies they create and the worlds in which those people and technologies are situated. <br />
 <br />
-While these explicit points of information may not be directly represented in a performance the rich interleaved patterns of interaction between people, place and technology are transposed into the sonic realm in each performance. While more abstract and implicit in nature it is the aesthetic dimensionality of these interlocked patterns, which is of interest to me. <br />
+While these explicit points of information may not be directly represented in a performance the rich interleaved patterns of interaction between people, place, and technology are transposed into the sonic realm in each performance. While more abstract and implicit in nature it is the aesthetic dimensionality of these interlocked patterns, which is of interest to me. <br />
 <br />
 <br />
-
-### Outputs & Activities
-
+-->
 ### Performances:
 - [Earth Rising Eco Festival - IMMA 2022](https://imma.ie/whats-on/earth-rising-2023/)
 - [The 27th International Conference on Auditory Display Concert](https://icad2022.icad.org/)
-- [Signal to Noise Loops v4- Video Sound Archive S3 - Februray 2022](https://www.videosoundarchive.com/submit#image_1-10903455)
+- [Signal to Noise Loops v4- Video Sound Archive S3 - February 2022](https://www.videosoundarchive.com/submit#image_1-10903455)
 - [Signal to Noise Loops V4- Dublin City Culture Night](https://culturenightdublin.ie/event/signal-to-noise-loops-v4-signal-to-noise-loops-v4/)
 - [2021 Audio Mostly Conference](https://audiomostly.com/2021/program/conference-program/)
 - [International Computer Music Conference 2021](http://icmc2021.org/program/)
@@ -139,13 +137,5 @@ While these explicit points of information may not be directly represented in a 
 ### Signal to Noise Loops Album
 <<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4081177415/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-2">Signal to Noise Loops by Stephen Roddy</a></iframe>
 
-<!--
-### Creative Skills
-Sound Design. Music Composition. Live Electronic Music performance. Instrumental Guitar Performance.  Audio Sound Art. Visual Design.
-
-### Technical
-IoT Networks. Statistical Data Analytic. Python. HTTP, OSC & MIDI protocols. Cellular Automata. Audio DSP. Creative Coding. HTTP. HCI. Auditory Display & Sonification. Audio Engineering.
- -->
-
 ### Tags
-Signal to Noise Loops. Generative Music. IoT Data. Smart Cities. Machine Learning. Cellular Automata.
+Signal to Noise Loops. Cybernetics, Rhythmanallysis, Emergence, Generative Music. IoT Data. Smart Cities. Machine Learning. Cellular Automata.
