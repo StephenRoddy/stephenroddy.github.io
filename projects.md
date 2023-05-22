@@ -3,15 +3,14 @@
 
 ---
 
+[Auditory Display Solutions for Large-scale IoT Networks](/projects/ad_iot/ad_iot)<br />
+<a href="/projects/ad_iot/ad_iot">
+<img src="images/tabs/ADIOTtab3.png?raw=true"/>
+</a>
 
 [Signal to Noise Loops](/projects/s2nl/s2nl_project)<br />
 <a href="/projects/s2nl/s2nl_project">
 <img src="images/tabs/DATAtab.png?raw=true"/>
-</a>
-
-[Auditory Display Solutions for Large-scale IoT Networks](/projects/ad_iot/ad_iot)<br />
-<a href="/projects/ad_iot/ad_iot">
-<img src="images/tabs/ADIOTtab3.png?raw=true"/>
 </a>
 
 [Embodied Sonification](/projects/embodied_sonification/embodied_sonification)<br />
