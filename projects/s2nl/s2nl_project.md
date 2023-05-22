@@ -1,22 +1,17 @@
 ## Signal to Noise Loops<br/>
 
 #### Project Overview<br/>
-Signal to Noise Loops emerged from a broader project entitled 'Auditory Display for Large-scale IoT Networks' carried out at the CONNECT Centre Trinity College Dublin. The Signal to Noise Loops project links live electronic music performance, IoT/Smart City Data, Generative Music techniques and Cybernetics. Each performance draws data from networks of IoT devices placed around Dublin City. Sensor and network data are mapped to control parameters of the live performance. How this takes place is mediated by a generative music system. The state of the system is determined by the state of Dublin city, as represented through the IoT sensor data. The system's state in turn determines the musical choices it makes while improvising alongside a human performer. Each performance with the system is unique as it represents a complex array of data relations that describe the state of Dublin City and any given time. The project involved the iterative development of the system with each performance acting as an evaluation after which the system would be expanded and further refined. <br />
+Signal to Noise Loops emerged from a broader project entitled 'Auditory Display for Large-scale IoT Networks' carried out at the CONNECT Centre Trinity College Dublin. 
 
-#### Iteration 1: Cellular Automata & Direct Mapping <br/>
-The first iteration of the system introduced cellular automata (CA) based approaches to generative music influenced by [Eduardo Reck Miranda](https://link.springer.com/chapter/10.1007/978-1-84628-600-1_8) and Alan Dorin. The CA generated and organised content within the performance at the textural and timbral levels. A variety of cellular automata rulesets (including Conway's Life, Replicator by Fredkin, Gnarl by Evans, and Serviettes) are used to control the application of buffer effects, pitch modulation, and distortion. The degree to which these are applied is determined by the overall noise levels at different monitors around the city.
-The system reacts to a live improvisation by an instrumental performer, in this case, an electric guitarist, in real-time. Alongside the CA component, the state of the city as represented in the noise data directly determined a series of sonic parameters at the timbral, textural, and macro organisational levels throughout a given performance.
-The bulk of the is written in Python and it is used to extend the capabilities of Ableton Live to leverage and map the IoT data. This early version of the system grew out of work undertaken to sonify IoT network data from several sources at CONNECT, the Science Foundation Ireland Research Centre for Future Networks headquartered at Trinity College Dublin.
+The project integrates open data from Internet of Things (IoT) sensor networks in Dublin, Ireland, in a series of experimental music performances and installations. Each piece treats the city, as mediated by the data it produces, as a collaborator in a musical or sonic work. The project is realized through a bespoke generative music system that continues to adapt and expanded as the project evolves. The system is designed in line with principles from the field of Cybernetics to integrate with both the city and the human performer. Thus, the project links electronic music/sonic performance, IoT/Smart City Data, Generative Music techniques, and Cybernetics. Each performance or installation draws data from networks of IoT devices placed around Dublin City. Sensor and network data are mapped to control the parameters of a given performance/installation. How this takes place is mediated by the generative music system. The state of the system is determined by the state of Dublin city, as represented through the IoT sensor data. The system's state in turn determines the musical choices it makes while improvising alongside a human performer. Each performance with the system is unique as it represents a complex array of data relations that describe the state of Dublin City and any given time. The project involved the iterative development of the system with each performance acting as an evaluation after which the system would be expanded and further refined. <br />
 
-#### Performance 1: Sonic Dreams 2017<br/>
-The first use for the system was for the piece 'Noise Loops for Laptop, Improvised Electric Guitar and Dublin City Noise Data'. This was performed at the 2017 Sonic Dreams Festival. In this piece, IoT data from sensors measuring ambient noise levels around Dublin city was mapped to control the performance parameters of a live electric guitar improvisation. The data was mapped to drive the application of the CA and to directly control the timbre of the guitar utilizing a multiband distortion to morph the sound. The data was also mapped to control advanced buffer, delay, and filtering processing of the performance and that also controlled the synthesis of percussive elements within the performance. In this iteration, the system was mapped to control the live DSP process which mashed up and remixed the performance in real-time based on the IoT data. <br />
-<br />
+#### Iteration 1: Evolving Feedback Loops, Cellular Automata, and Direct Mapping <br/>
+This version of the system explored the cybernetic ideas of looping, human-in-the-loop reflexivity, and evolution with cellular automata algorithmic employed to organize sonic content with musical inputs provided via electric guitar performance. Focused on live performance.  
 
 <img src="images/SonicDreams.jpg?raw=true"/>
 * [Sonic Dreams 2017 Poster](images/SonicDreams.jpg)
 
-<iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/album=793201642/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2969131966/transparent=true/" style="border: 0; height: 120px; width: 100%;"><a href="http://stephenroddy.bandcamp.com/album/home-part-2-silence-ep">Home Part 2: Silence EP by Stephen Roddy</a></iframe>
-
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4081177415/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3075108967/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-2">Signal to Noise Loops by Stephen Roddy</a></iframe>
 <br />
 <div style="text-align: center;">
 <span style="font-weight: normal;">
@@ -24,11 +19,10 @@ Dublin City Noise Loops&nbsp;</span></div>
 <div style="text-align: center;">
 <br /></div>
 
-#### Iteration 2: Generative Systems & Musical Interactions<br/>
-The second iteration of the system involved procedural approaches to generative music informed by the works of Brian Eno, Steve Reich, and Terry Riley. It generated harmonic and sonic materials at the level of the individual object/note/event. The mode of musical interaction here was changed also. The system no longer reacted to an electric guitar performance but instead reacted to improvised electronic music generated by the performer. This system employed liine’s Lemur app for iOS to control the synthesis of audio materials in Native Instrument’s Reaktor and the Ableton Live Wavetable Synth. Reaktor also ran patches employing a mixture of additive and subtractive synthesis techniques to generate audio materials. This opened up a wealth of new possibilities for mapping Iotdata to sonic parameters. The system was also expanded here to allow IoT data to be 'played back' at a variety of user-defined rates moving away from a purely real-time model for using the data. <br />
 
-#### Performance 2: xCoAx 2018<br/>
-The next performance with the system titled 'Signal to Noise Loops i++'' took place at xCoAx in Madrid in 2018. This performance involved the more refined version of the system which had been further developed after the SAW festival performance. The system was updated to generate music alongside the human performer. Essentially, the system would 'listen' to what the human performer played and then make decisions about what it wanted to play, and whether or not it wanted to intervene in the human’s performance. When the IoT data represented a healthy, happy, calm city the system would embellish the performance and when the data represented a more chaotic city, the system would disregard the performance replacing it with harsh sounding procedurally generated harmonic materials. I gave a talk describing how this iteration of the system worked at the conference and took part in a broader artists panel also.<br />
+#### Iteration 2: Generative Systems, Musical Interactions, and Richer Data <br/>
+Looping developed into a full generative music system with musical interaction via the Lemur for iPad. Richer data streams and reorganization of mapping in terms of Lefebvre's Rhythmanalysis. 
+
 
 * [xCoAx Performance](images/xcoaxPerformance.jpg)
 * [xCoAx Artist Talk](images/xcoax1.jpg)
@@ -42,12 +36,10 @@ The next performance with the system titled 'Signal to Noise Loops i++'' took pl
 <iframe frameborder="0" src="https://drive.google.com/file/d/1awK-N8_hdNML3_gH56VgX2g1jtuekjO6/preview" style="height: 500px; width: 600px;"></iframe>
 <br />
 
-#### Iteration 3: More Data<br/>
-The third iteration of the system made use of new IoT data sources. The thinking here was to structure the system so that it could be said to 'make decisions' based on the 'state’ of Dublin City as represented in the wider set of IoT data sources. The system reads noise levels, pollution levels, traffic flows (pedestrian and vehicle), emergency warnings, and weather data and these data points define the state of the generative system (both the CA and procedural components), and data to sound mapping strategy, and thereby the music. <br />
-When the data represents a healthy and functioning city the generative system is in a positive state and collaborates better with the human performer in a harmonious manner, coordinating its music-making with that of the human. When the city is in a sub-optimal state, the system begins to overwrite the human performer and make more independent musical decisions that are reflective of the state of the city.<br />
 
-#### Performances 3 & 4: ISSTA & CSMC 2018<br/>
-A third performance took place at ISSTA 2018 in Derry/Londonderry and a fourth performance took place at CSMC 2018 in Dublin. In these performances, the wider set of data sources described above are mapped to control a range of sound synthesis, timbral and performance parameters in the piece, as well as interacting with the procedural and CA components of the generative system described previously. <br />
+#### Iteration 3: Toward Emergence through Eurythmia <br/>
+Increased data streams with richer mapping to support the emergence of patterns in sound that represented patterns of social and political activity across the city.
+
 
 <img src="images/csmc2018_concert_performers.jpg.webp?raw=true"/><br/>
 * [CSMC2018 Concert Performance](/images/csmc2018_concert_performers.jpg.webp)
@@ -60,14 +52,9 @@ A third performance took place at ISSTA 2018 in Derry/Londonderry and a fourth p
 <iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/album=793201642/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3477147735/transparent=true/" style="border: 0; height: 120px; width: 100%;"><a href="http://stephenroddy.bandcamp.com/album/home-part-2-silence-ep">Home Part 2: Silence EP by Stephen Roddy</a></iframe>Signal to Noise Loops i++ </div>
 <br />
 
-#### Iteration 4: Machine Learning
-While the earlier systems used procedural techniques alone to generate materials at the level of the note/object/event version 4 integrates machine learning tools alongside procedural techniques. The system uses Google Magenta's 'Continue' tool (using RNNs) to elaborate upon the data-driven, procedurally generated harmonic materials. It also uses 'Interpolate' (driven by MusicVAE) to generate a series of melodies with qualities lying along a linear spectrum <i>between</i> two input melodic sequences.
+#### Iteration 4: COVID-19 Crisis Response: Audiovisual Installation <br/>
+Moved to an online audiovisual installation format and introduced machine learning techniques in the generative music system. Patterns of activity before and during COVID mapped to generative music parameters and to a visual representation of a changing city.
 
-#### Online Pivot: COVID-19 Crisis Response <br />
-While working on the fourth iteration of the system the COVID-19 Crisis hit. To continue the project, I chose to adapt it to an online mode of presentation. I also chose to make use of data representing the city before the COVID-19 crisis hit as well as during the COVID-19 crisis. This involved using the new iteration of the system to create a fixed composition in two movements. In the interests of clarity, I used one stream of data, the original Noise Data. The first movement used data from March of 2019 while the second movement used data from March 2020.
-Alongside the piece, I also created a visualisation of the data which maps the Noise data to control the radii and colours of dots in a dot-matrix representation of Dublin City.
-
-#### Performances 5, 6, 7, 8 & 9: The New York electroacoustic Music festival, The International Computer Music Conference, Audio Mostly, Dublin City Culture Night
 The piece was performed at the [2021 New York Electroacoustic Music Festival](https://nycemf.org/).
 You can find the video and concert program below:
 
@@ -103,7 +90,6 @@ Signal to Noise Loops v4 was also featured in Season 3 of the Video Sound Archiv
 <a href="https://www.videosoundarchive.com/archive-s3" target="_blank"><img src="images/S3_001.jpg?raw=true"/></a><br/>
 <br />
 
-#### Performance 10: The Interntaional Confernece on Auditory Display 2022.
 
 Signal to Noise Loops v4 was selectd for performance at the concerts for the 27th International Conference ona Auditory Display (ICAD 2022), where it won the award for the Best use of sound in a Concert Piece or Demonstration. You can see the conference paper describing some of the technical the development of this specific iteration here:
 
@@ -111,6 +97,22 @@ Signal to Noise Loops v4 was selectd for performance at the concerts for the 27t
 <iframe frameborder="0" src="https://drive.google.com/file/d/1ZMJ243hDl9Odf47Cv6E5UhhAkl1HbVXZ/preview" style="height: 500px; width: 600px;"></iframe>
 
 <br />
+
+#### Leonardo Article
+For a more in-depth discussion of the first four iterations of this project please see my article in Volume 56 Issue 1 of Leonardo where they are analyzed and contextualized in detail. 
+
+- [ Signal to Noise Loops: A Cybernetic Approach to Musical Performance with Smart City Data and Generative Music Techniques ](https://direct.mit.edu/leon/article-abstract/56/1/87/112358/Signal-to-Noise-Loops-A-Cybernetic-Approach-to)
+
+
+#### Iteration 5: An Audiovisual Re-emergence<br/>
+Audiovisual installation for headphones mobile devices reflecting on the mediation of human relationships through networked communications technology both and after the pandemic.
+
+<br />
+<a href="https://imma.ie/whats-on/earth-rising-2023/" target="_blank"><img src="images/IMMA-ECO.jpg?raw=true"/></a><br/>
+<br />
+<a href="" target="_blank"><img src="redacted.png?raw=true"/></a><br/>
+<br />
+
 
 ### Discussion <br />
 The point of mapping data to sound, and more specifically IoT data is to leverage some of the interesting patterns that present themselves across data streams/sets of this manner. Data-driven music is different from sonification where the point is to faithfully communicate or represent the data to the listener. Data-driven music is closer in many ways to algorithmic music composition than it is to sonification because of its focus on finding patterns in the data that might be interesting when mapped to sonic and musical parameters. My previous data-driven music work has employed algorithmic composition techniques and dealt with used from the global financial crash. More recently I have begun to work with IoT data as I believe that the kinds of data we choose to measure and our reasons for measuring them say a lot about what a society values, cares about, and finds interesting while the specific data measurements chronicle the complex interactions between people, the technologies they create and the worlds in which those people and technologies are situated. <br />
@@ -122,6 +124,7 @@ While these explicit points of information may not be directly represented in a 
 ### Outputs & Activities
 
 ### Performances:
+- [Earth Rising Eco Festival - IMMA 2022](https://imma.ie/whats-on/earth-rising-2023/)
 - [The 27th International Conference on Auditory Display Concert](https://icad2022.icad.org/)
 - [Signal to Noise Loops v4- Video Sound Archive S3 - Februray 2022](https://www.videosoundarchive.com/submit#image_1-10903455)
 - [Signal to Noise Loops V4- Dublin City Culture Night](https://culturenightdublin.ie/event/signal-to-noise-loops-v4-signal-to-noise-loops-v4/)
@@ -133,23 +136,8 @@ While these explicit points of information may not be directly represented in a 
 - [Signal to Noise Loops i++ Live @ xCoAx 2018, Madrid](https://2018.xcoax.org/#perf04)
 - [Noise Loops for Laptop, Improvised Electric Guitar and Dublin City Noise Level Data @ Sonic Dreams 2017, Sonic Arts Waterford, September 30th 2017](https://1.bp.blogspot.com/-HhZc6oL93Og/W0yMNH4jnVI/AAAAAAAAGFE/VlxW3bOMTlono3rkqbBMtE4XAxElOOgAQCLcBGAs/s1600/Sonic-Dreams-Festival-2017-final-poster-2.jpg)
 
-### Recordings
-<h4>Link to Performances with earlier iterations of the System:</h4>
-Dublin City Noise Loops<br />
-<a href="https://open.spotify.com/track/63x9Nav3h61MNbcV6uycCX">https://open.spotify.com/track/63x9Nav3h61MNbcV6uycCX</a><br />
-<a href="https://music.apple.com/us/album/dublin-city-noise-loops/1450892433?i=1450892435">https://music.apple.com/us/album/dublin-city-noise-loops/1450892433?i=1450892435</a><br />
-<a href="https://stephenroddy.bandcamp.com/track/dublin-city-noise-loops">https://stephenroddy.bandcamp.com/track/dublin-city-noise-loops</a><br />
-<br />
-Signal to Noise Loops i++<br />
-<a href="https://open.spotify.com/track/5B4bh4fpgR9mFqv3OgKDRs">https://open.spotify.com/track/5B4bh4fpgR9mFqv3OgKDRs</a><br />
-<a href="https://music.apple.com/us/album/signal-to-noise-loops-i/1450892433?i=1450892434">https://music.apple.com/us/album/signal-to-noise-loops-i/1450892433?i=1450892434</a><br />
-<a href="https://stephenroddy.bandcamp.com/track/signal-to-noise-loops-i">https://stephenroddy.bandcamp.com/track/signal-to-noise-loops-i</a><br />
-<br />
-Signal to Noise Loops V4<br />
-<a href="https://www.youtube.com/embed/f5yggfFRPAA">Signal to Noise Loops V4 on YouTube</a><br />
-<br />
-xCoAx Paper on Signal to Noise Loops i++<br />
-<a href="https://www.researchgate.net/publication/328902641_Signal_to_Noise_Loops_i_Noise_Water_Air">Link to Paper on Research Gate</a>
+### Signal to Noise Loops Album
+<<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4081177415/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-2">Signal to Noise Loops by Stephen Roddy</a></iframe>
 
 <!--
 ### Creative Skills
