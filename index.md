@@ -1,10 +1,10 @@
 ### Biography
 
-I am a Researcher, Lecturer, and Artist based at the Radical Humanities Lab and the Department of Digital Humanities at University College Cork. My work spans digital technologies and the sonic arts. I hold a Ph.D. in data sonification, the use of sound to perceptualize data and convey information. My current research and creative practice are focused on the development of cybernetic frameworks for the application of data sonification, artificial intelligence/machine Learning (AI/ML), the internet of things, and human-computer interaction (HCI) techniques in the creative arts.
+I am a Researcher and Lecturer based at the Radical Humanities Lab and the Department of Digital Humanities at University College Cork. My work spans digital technologies and the creative arts. I hold a Ph.D. in data sonification, the use of sound to perceptualize data and convey information. My current research and creative practice are focused on the development of cybernetic frameworks for the application of data sonification, artificial intelligence/machine Learning (AI/ML), internet of things (IoT), and human-computer interaction (HCI) techniques in the creative arts.
 
 Previous projects have explored the design of sonification and auditory display solutions for large-scale Internet of Things (IoT) networks and investigated the integration of sonification with AI/ML techniques for generative music and sound art applications. My work is widely disseminated through peer-reviewed journal publications, book chapters, and conferences.
 
-I maintain a vibrant and diverse creative arts practice spanning a variety of media and styles including music composition and performance, sound art installation, interactive art, and music for dance and stage. My work has been described as eclectic, and experimental. My pieces are frequently performed and installed at home and abroad.
+I also maintain a vibrant and diverse creative arts practice spanning a variety of media and styles including music composition and performance, sound art installation, interactive art, and music for dance and stage. My work has been described as eclectic, and experimental. It is frequently performed/installed at home and abroad.
 
 Previous events have included the New York City Electroacoustic Music Festival, IMMA’s Eco Rising Festival, and the Helicotrema Recorded Audio Festival in Venice.
 
@@ -189,7 +189,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 
-<p><strong>The Body in the Machine: Music Composition & Computer Art w/AI/ML</strong></p>
+<p>The Body in the Machine: Music Composition & Computer Art w/AI/ML</p>
 <ul>
   <li>
     <a target="_blank" href="https://icmc2022.org/">Roddy (2022). The Body in the Machine: Indices Online. The International Computer Music Conference, Limerick Ireland.</a>
@@ -396,6 +396,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://www.tcd.ie/creative-arts/atrl/">Sonification, Soundart & IoT @ The Arts and Technology Research Lab, Trinity College Dublin, December 12th 2016.</a>
   </li>
 </ul>
+
+<!--
+
 <h4>  <strong>Lecturing </strong></h4>
 <ul>
   <li>
@@ -409,6 +412,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 <h4> </h4>
+
+-->
+
 <h4>Seminars</h4>
 <ul>
   <li>
