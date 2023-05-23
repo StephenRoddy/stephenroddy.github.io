@@ -2,7 +2,7 @@
 
 I am a Researcher and Lecturer based at the Radical Humanities Lab and the Department of Digital Humanities at University College Cork. My work spans digital technologies and the creative arts. I hold a Ph.D. in data sonification, the use of sound to perceptualize data and convey information. My current research and creative practice are focused on the development of cybernetic frameworks for the application of data sonification, artificial intelligence/machine Learning (AI/ML), internet of things (IoT), and human-computer interaction (HCI) techniques in the creative arts.
 
-Previous projects have explored the design of sonification and auditory display solutions for large-scale Internet of Things (IoT) networks and investigated the integration of sonification with AI/ML techniques for generative music and sound art applications. My work is widely disseminated through peer-reviewed journal publications, book chapters, and conferences.
+Previous projects have explored the design of sonification and auditory display solutions for large-scale IoT networks and investigated the integration of sonification with AI/ML techniques for generative music and sound art applications. My work is widely disseminated through peer-reviewed journal publications, book chapters, and conferences.
 
 I also maintain a vibrant and diverse creative arts practice spanning a variety of media and styles including music composition and performance, sound art installation, interactive art, and music for dance and stage. My work has been described as eclectic, and experimental. It is frequently performed/installed at home and abroad.
 
