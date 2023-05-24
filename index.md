@@ -1,13 +1,11 @@
 ### Biography
 
-I am a Researcher, Lecturer, and Artist based at the Radical Humanities Lab and the Department of Digital Humanities at University College Cork. My work spans digital technologies and the sonic arts. I hold a Ph.D. in data sonification, the use of sound to perceptualize data and convey information. My current research and creative practice are focused on the development of cybernetic frameworks for the application of data sonification, artificial intelligence/machine Learning (AI/ML), the internet of things, and human-computer interaction (HCI) techniques in the creative arts.
+I am an Artist, Researcher, and Lecturer based at the Radical Humanities Lab and the Department of Digital Humanities at University College Cork. My work is situated at the intersection of computing and the creative arts. I hold a Ph.D. in data sonification: the use of sound to perceptualize data and convey information. My research is focused on the application of sonification, auditory display, artificial intelligence/machine learning (AI/ML), internet of things (IoT), and human-computer interaction (HCI) techniques in the creative arts and beyond, from the perspectives of embodied cognitive science, and cybernetics.
 
-Previous projects have explored the design of sonification and auditory display solutions for large-scale Internet of Things (IoT) networks and investigated the integration of sonification with AI/ML techniques for generative music and sound art applications. My work is widely disseminated through peer-reviewed journal publications, book chapters, and conferences.
+Previous projects have explored the design of auditory display solutions for large-scale IoT networks and investigated the integration of sonification and AI/ML techniques in generative music and sound art applications. This work was carried out under an IRC Postdoctoral Fellowship at CONNECT: the SFI Research Centre for Future Networks and Communications, at Trinity College Dublin (TCD), and the Department of Electronic & Electrical Engineering also at TCD. My work is widely disseminated through peer-reviewed journal publications, book chapters, and conference proceedings.
 
-I maintain a vibrant and diverse creative arts practice spanning a variety of media and styles including music composition and performance, sound art installation, interactive art, and music for dance and stage. My work has been described as eclectic, and experimental. My pieces are frequently performed and installed at home and abroad.
-
+I maintain a vibrant and diverse creative arts practice spanning a variety of media and styles including music composition and performance, sound art installation, interactive art, and music for dance and stage. My work has been described as eclectic, and experimental. It is frequently performed and installed at home and abroad.
 Previous events have included the New York City Electroacoustic Music Festival, IMMA’s Eco Rising Festival, and the Helicotrema Recorded Audio Festival in Venice.
-
 
 <p style="text-align: right;"><a target="_blank" href="https://orcid.org/0000-0001-8491-3031"><img alt="ORCID" height="35" src="https://2.bp.blogspot.com/-vabc-yhp5mM/W8i5-AjX0FI/AAAAAAAAGJ8/a7K1q1ULs64dGgBSTBzTfG6PvO9AY_DRACLcBGAs/s1600/thumb.png" width="35"></a><a target="_blank" href="https://www.researchgate.net/profile/Stephen_Roddy"><img alt="Research Gate" height="35" src="https://3.bp.blogspot.com/-Ex65n3bU3pM/W8i59jkAaDI/AAAAAAAAGJw/ncVh0RKbw7YNyaiRbIRQbGjAUVnQ-yd7wCLcBGAs/s1600/resGate.png" width="35"></a><a target="_blank" href="https://scholar.google.com/citations?user=qhL5rvsAAAAJ"><img alt="Google Scholar" height="35" src="https://3.bp.blogspot.com/-iAkJO3AGZeg/W8i8FRoFTXI/AAAAAAAAGKg/ySdFR0idHFA6reXrJiL6efXlzStl1UNLQCLcBGAs/s1600/gs.png" width="35"></a> <a target="_blank" href="https://www.linkedin.com/in/stephenroddy/"><img alt="LinkedIn" height="35" src="https://3.bp.blogspot.com/-Or4vD44Vi3Y/W8jVi70R5iI/AAAAAAAAGLI/9rLTQrOysuAeHjLIe1y1CRlyU3d5r4WsACLcBGAs/s1600/07_linkedin.png" width="35"></a> <a target="_blank" href="https://github.com/StephenRoddy"><img alt="Github" height="35" src="https://1.bp.blogspot.com/-9E50Ti_mBbs/XQPjlaNjY_I/AAAAAAAAGVw/3USHyh_MWRcEY6bor3zEnN8F-8ywivCywCLcBGAs/s1600/Github_icon-icons.com_49946.png" width="35"></a></p>
 
@@ -69,7 +67,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p> <strong><strong>Book Chapters</strong></strong></p>
 <ul>
 <li>
-<a target="_blank" href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003299875-2/creative-machine-human-collaboration-stephen-roddy">Roddy, S. (Forthcoming: 2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Creative Work. Algorithms and Society Series. Routledge, Focus.</a>
+<a target="_blank" href="10.4324/9781003299875-2">Roddy, S. (Forthcoming: 2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Creative Work. Algorithms and Society Series. Routledge, Focus.</a>
 </li>
   <li>
     <a target="_blank" href="https://www.taylorfrancis.com/chapters/edit/10.4324/9780429356360-3/meaning-making-embodied-cognition-sound-design-research-stephen-roddy-brian-bridges">Roddy, S. & Bridges, B. (2021) Meaning-making and Embodied Cognition in Sound Design Research. In: Filimowicz, M. editor Doing Research in Sound Design, Routledge. </a>
@@ -189,7 +187,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 
-<p><strong>The Body in the Machine: Music Composition & Computer Art w/AI/ML</strong></p>
+<p>The Body in the Machine: Music Composition & Computer Art w/AI/ML</p>
 <ul>
   <li>
     <a target="_blank" href="https://icmc2022.org/">Roddy (2022). The Body in the Machine: Indices Online. The International Computer Music Conference, Limerick Ireland.</a>
@@ -396,6 +394,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://www.tcd.ie/creative-arts/atrl/">Sonification, Soundart & IoT @ The Arts and Technology Research Lab, Trinity College Dublin, December 12th 2016.</a>
   </li>
 </ul>
+
+<!--
+
 <h4>  <strong>Lecturing </strong></h4>
 <ul>
   <li>
@@ -409,6 +410,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 <h4> </h4>
+
+-->
+
 <h4>Seminars</h4>
 <ul>
   <li>

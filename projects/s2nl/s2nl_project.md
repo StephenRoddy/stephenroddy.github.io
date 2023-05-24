@@ -49,7 +49,7 @@ Increased data streams with richer mapping to support the emergence of patterns 
 
 <br />
 <div style="text-align: center;">
-<iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/album=793201642/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3477147735/transparent=true/" style="border: 0; height: 120px; width: 100%;"><a href="http://stephenroddy.bandcamp.com/album/home-part-2-silence-ep">Home Part 2: Silence EP by Stephen Roddy</a></iframe>Signal to Noise Loops i++ </div>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4081177415/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1330097678/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-2">Signal to Noise Loops by Stephen Roddy</a></iframe>Signal to Noise Loops i++</div>
 <br />
 
 #### Iteration 4: COVID-19 Crisis Response: Audiovisual Installation <br/>
@@ -108,7 +108,7 @@ For a more in-depth discussion of the first four iterations of this project plea
 Audiovisual installation for headphones and mobile devices, reflecting on the mediation of human relationships through networked communications technology both and after the pandemic.
 
 <br />
-<a href="https://imma.ie/whats-on/earth-rising-2023/" target="_blank"><img src="images/IMMA-ECO.jpg?raw=true"/></a><br/>
+<a href="https://imma.ie/whats-on/earth-rising-2023/" target="_blank"><img src="images/IMMA_ECO_S.png?raw=true"/></a><br/>
 <br />
 <a href="" target="_blank"><img src="images/redacted.png?raw=true"/></a><br/>
 <br />
@@ -138,7 +138,7 @@ While these explicit points of information may not be directly represented in a 
 - [Noise Loops for Laptop, Improvised Electric Guitar and Dublin City Noise Level Data @ Sonic Dreams 2017, Sonic Arts Waterford, September 30th 2017](https://1.bp.blogspot.com/-HhZc6oL93Og/W0yMNH4jnVI/AAAAAAAAGFE/VlxW3bOMTlono3rkqbBMtE4XAxElOOgAQCLcBGAs/s1600/Sonic-Dreams-Festival-2017-final-poster-2.jpg)
 
 ### Signal to Noise Loops Album
-<<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4081177415/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-2">Signal to Noise Loops by Stephen Roddy</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4081177415/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-2">Signal to Noise Loops by Stephen Roddy</a></iframe>
 
 ### Tags
 Signal to Noise Loops. Cybernetics, Rhythmanallysis, Emergence, Generative Music. IoT Data. Smart Cities. Machine Learning. Cellular Automata.
