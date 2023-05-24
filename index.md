@@ -67,7 +67,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p> <strong><strong>Book Chapters</strong></strong></p>
 <ul>
 <li>
-<a target="_blank" href="10.4324/9781003299875-2">Roddy, S. (Forthcoming: 2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Creative Work. Algorithms and Society Series. Routledge, Focus.</a>
+<a target="_blank" href="https://doi.org/10.4324/9781003299875-2">Roddy, S. (Forthcoming: 2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Creative Work. Algorithms and Society Series. Routledge, Focus.</a>
 </li>
   <li>
     <a target="_blank" href="https://www.taylorfrancis.com/chapters/edit/10.4324/9780429356360-3/meaning-making-embodied-cognition-sound-design-research-stephen-roddy-brian-bridges">Roddy, S. & Bridges, B. (2021) Meaning-making and Embodied Cognition in Sound Design Research. In: Filimowicz, M. editor Doing Research in Sound Design, Routledge. </a>
