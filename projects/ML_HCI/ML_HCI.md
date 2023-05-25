@@ -4,8 +4,6 @@
 
 This project began as part of my postdoctoral research exploring Automated Music Synthesis at the Department of Electrical and Electronic Engineering at Trinity College Dublin. The project investigated methods for integrating machine learning and deep learning techniques (ML/DL) into the electronic music production and performance pipelines.  
 
-Non-traditional outputs 
-
 #### Phase 1: Machine Learning for Music Generation
 
 ##### LSTM Architectures
