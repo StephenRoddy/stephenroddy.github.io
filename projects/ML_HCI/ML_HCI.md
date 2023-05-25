@@ -58,6 +58,7 @@ Make sure that your webcam can see both of your hands:
 
 - [Prototype 2: Gestural Control of Sound Synthesis](https://stephenroddy.github.io/projects/ML_HCI/web_apps/Gesture_Synthesis/index.html)
 - [Prototype 1: Animated Drone](https://stephenroddy.github.io/projects/ML_HCI/web_apps/Gesture_Drone/index.html)
+<!-- Should I add the other prototypes? There are more AM and FM approaches with cleaner interface design and more interesting gesture to sound mappings? -->
 
 ### Tags
 Generative Music. Machine Learning. Computer Vision. Musical Interaction. Gestural Interfaces. Creative Coding. Web Applications. 
