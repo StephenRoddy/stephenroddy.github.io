@@ -39,59 +39,25 @@ This initial work was followed with the development of a GAN-based system but th
 - [Signal to Noise Loops](https://stephenroddy.github.io/projects/s2nl/s2nl_project)
 - [Indices Online](https://stephenroddy.github.io/projects/indices/indices_audio)
 
-#### CV& ML techniques for Gestural Interaction in Live Music Performance & Installation 
+#### CV& ML Techniques for Gestural Interaction in Live Music Performance & Installation 
 
 The second phase of the project explored computer vision (CV) and ML techniques for gestural control of performance systems (UAVs: drones, and music/sound synthesis). My colleagues and I at the Department of Electrical and Electronic Engineering TCD, designed and built a gestural control interface that could be used to control the flight of a drone.
 The hardware required to communicate with the drone was designed and built by a colleague. I built the system gestural interface system HTML, Javascript, and Node.js and used the tone.js, p5.js, ml5.js libraries. 
 This interface was integrated with a hardware setup in which an Arduino was used to control the RC device for the drone.
 The system allowed users to control the flight path of a drone through their hand movements. The users' hand movements are captured via camera/webcam and analysed using the ml5js [Posenet](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5) implementation. These hand movements were also sonified, converting the user interactions into musical sounds (tone.js) and mapped to control the animation of the drone on a computer screen. The system was installed and opened to the members of the public during Trinity College Dublin's 2019 Open Day.
-While controlling the flight path of a drone through physical gesture feels novel and provides endless hours of entertainment, it is the application of the CV & ML techniques to the control of sound synthesis parameters that proved most fruitful in this project.
+While controlling the flight path of a drone through physical gestures feels novel and provides hours of entertainment, it is the application of the CV & ML techniques to the control of sound synthesis parameters, with on-screen visual feedback that proved most fruitful in this project.
 
 <img src="images/Drone Project.gif?raw=true"/><br/>
 - [More on youtube](https://youtu.be/nK5spkN2TOA)
 
-Prototypes of these applications are included below.
-Both prototypes require access to your webam feed.
-To use the prototypes stand in front of your webcam and move your hands to control sonic and visual parameters:
+Prototypes of these applications, built with ml5.js and p5.js are included below.
+Both prototypes require access to your webcam feed.
+To activate the prototypes first, click your mouse on the screen inside the animation area.
+Then, stand in front of your webcam and move your hands to control sonic and visual parameters.
+Make sure that your webcam can see both of your hands:
 
 - [Prototype 2: Gestural Control of Sound Synthesis](https://stephenroddy.github.io/projects/ML_HCI/web_apps/Gesture_Synthesis/index.html)
 - [Prototype 1: Animated Drone](https://stephenroddy.github.io/projects/ML_HCI/web_apps/Gesture_Drone/index.html)
 
-
-
-<!--
-### Creative Skills
-Music Compostion. Sound Design. Creative Computing. HCI & Interaction Design. UX Design. Visual Design. Interface Design.
-
-### Technical & Research Skills
- Machine Learning. Deep Learning. Keras. Music21. MIDI. HTML/CSS/Javascript. Python. Computer Vision. Sound & Music Computing. Serial. Data Analysis. Audio Engineering. Audio DSP. Sound Synthesis. Data Analysis. User Evaluation.
--->
-
 ### Tags
-Musical Interaction. Gestural Interfaces. Machine Learning. Compter Vision. Generative Music. 
-
-<!--
-<iframe src="https://editor.p5js.org/roddyst/embed/3LK9dABOj"></iframe>
-
-[Link: https://editor.p5js.org/roddyst/present/3LK9dABOj](https://editor.p5js.org/roddyst/present/3LK9dABOj)
-
-<iframe src="https://editor.p5js.org/roddyst/embed/sAdryDYz1"></iframe>
-
-//Notes:
-
-
-1. Talk about the original designs.
-  - Show the screen shots.
-  - Talk about how they were designed for the wrong interaction type.
-    w/buttons etc.
-  - Introduce the final prototype idea.
-  - Demonstrate the working prototype for the multiple synthesis types I've already created it for.
-
-
-1. Upload the Interface for AM Synthesis.
-2. Upload the Interface for FM Synthesis.
-
-1. Talk about the original project elements with the machine learning training for musical models that I did.
-2. Then talk about the pivot over to controlling Drones.
-3. Then cover the movement from drones to sound synthesis.
--->
+Generative Music. Machine Learning. Computer Vision. Musical Interaction. Gestural Interfaces. Creative Coding. Web Applications. 
