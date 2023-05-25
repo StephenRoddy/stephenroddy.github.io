@@ -30,6 +30,9 @@ bck = loadImage('scrnFlip.png');
 
 
 function setup() {
+     // mimics the autoplay policy
+  getAudioContext().suspend(); // USed with the triggerig of userStartAudio() via mousePressed() to adhere to adhere to browser audio policies.
+
 //Visuals
 let canvas = createCanvas(1000, 1000);
 frameRate(fr);
@@ -161,4 +164,8 @@ let modDepth = map(rightX, 0, width, modMinDepth, modMaxDepth);
   modulator.amp(modDepth);
 
 
+}
+
+function mousePressed() {
+  userStartAudio();
 }

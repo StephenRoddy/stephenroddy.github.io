@@ -4,15 +4,15 @@
 
 This project began as part of my postdoctoral research exploring Automated Music Synthesis at the Department of Electrical and Electronic Engineering at Trinity College Dublin. The project investigated methods for integrating machine learning and deep learning techniques (ML/DL) into the electronic music production and performance pipelines.  
 
-#### Phase 1: Machine Learning for Music Generation
+#### Generative Machine Learning for Music Production Pipelines
 
 ##### LSTM Architectures
-Initial work focused on music production applications, specifically music generation at the MIDI event level. The models used Long short-term memory (LSTM) type architectures (using recurrent neural networks or RNNs) implemented with Tensorflow (Keras in Python). This allowed for the generation of new musical materials using features learned from an input MIDI data set. A variety of models were created in this way, some focusing on specific instruments and others focusing on specific artists and styles. The models developed for melody and harmony are generally focused on patterns at the note and chord levels.
+Initial work focused on music production applications, specifically music generation at the MIDI event level. The models used Long short-term memory (LSTM) type architectures (using recurrent neural networks or RNNs) implemented with Tensorflow (Keras in Python). This allowed for the generation of new musical materials using features learned from an input MIDI data set. A variety of models were created in this way, some focusing on specific instruments and others focusing on specific artists, styles, and applications. The models developed for melody and harmony are generally focused on patterns at the note and chord levels.
 
 <img src="images/model_def_py.png?raw=true"/><br/>
 
 ##### Data set
-To assemble the training data for initial experiments, I acquired a large number of MIDI files from a range of online sources. These experiments explored several musical genres/styles. The MIDI files were cleaned and split into sub-files on the basis of instrumentation etc. They were then mapped to integer values (with MIT's [Music21 toolkit](https://web.mit.edu/music21/)) so that a one-hot encoding scheme could be applied.
+To assemble the training data for initial experiments, I acquired a large number of MIDI files from a range of online sources across a wide range of musical styles. These experiments explored several musical genres/styles. The MIDI files were cleaned and split into sub-files on the basis of instrumentation etc. They were then mapped to integer values (with MIT's [Music21 toolkit](https://web.mit.edu/music21/)) so that a one-hot encoding scheme could be applied.
 
 ##### Overview 
 For training, data is split into n-length musical sequences. Each sequence is then paired with its following sequence element: n+1. This conditions the network to predict the next element for a given n-length sequence provided to it at prediction/generation time.
@@ -21,7 +21,7 @@ For training, data is split into n-length musical sequences. Each sequence is th
 While the models were effective, the musical outputs were, unsurprisingly, heavily tied to and constrained by the training data. Instances of direct replication and interpolation were obvious, though I addressed issues of overfitting with dropout layers. Extrapolation over musical materials tended to progress in a predictable manner. While a testament to the power of the techniques involved, this approach alone isn't a sufficient method for generating interesting musical materials. More interesting outputs can be obtained by varying the input data set, the model architecture, and the hyperparameters of the model.
 These approaches can then be integrated into a larger music production pipeline to create interesting music. You can hear examples of this approach below. Relevant models created during this phase were the KennyG_ENERATOR and DefLSTM.
 
-#### Phase 1 Outputs: 30 Epoch Opus
+#### Musical Outputs: 30 Epoch Opus
 
 30 Epoch Opus, is a short EP of AI-driven music. It features 4 musical works in diverse styles. The harmonic materials (melodies and harmonies) for each piece were composed using deep learning models both of which had an LSTM-based architecture.
 
@@ -39,20 +39,19 @@ This initial work was followed with the development of a GAN-based system but th
 - [Signal to Noise Loops](https://stephenroddy.github.io/projects/s2nl/s2nl_project)
 - [Indices Online](https://stephenroddy.github.io/projects/indices/indices_audio)
 
-#### Phase 2 ML for Live Performance & Installation 
+#### CV& ML techniques for Gestural Interaction in Live Music Performance & Installation 
 
 The second phase of the project explored computer vision (CV) and ML techniques for gestural control of performance systems (UAVs: drones, and music/sound synthesis). My colleagues and I at the Department of Electrical and Electronic Engineering TCD, designed and built a gestural control interface that could be used to control the flight of a drone.
 The hardware required to communicate with the drone was designed and built by a colleague. I built the system gestural interface system HTML, Javascript, and Node.js and used the tone.js, p5.js, ml5.js libraries. 
 This interface was integrated with a hardware setup in which an Arduino was used to control the RC device for the drone.
 The system allowed users to control the flight path of a drone through their hand movements. The users' hand movements are captured via camera/webcam and analysed using the ml5js [Posenet](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5) implementation. These hand movements were also sonified, converting the user interactions into musical sounds (tone.js) and mapped to control the animation of the drone on a computer screen. The system was installed and opened to the members of the public during Trinity College Dublin's 2019 Open Day.
+While controlling the flight path of a drone through physical gesture feels novel and provides endless hours of entertainment, it is the application of the CV & ML techniques to the control of sound synthesis parameters that proved most fruitful in this project.
 
 <img src="images/Drone Project.gif?raw=true"/><br/>
 - [More on youtube](https://youtu.be/nK5spkN2TOA)
 
-##### Gestural Control of Sound Synthesis
-Phase 3 of this project is still ongoing. It aims to integrate work carried out in the first two phases of the project. I have adapted the gestural control system I designed during phase 2 to control the parameters of different sound synthesis routines. While phase 1 of the project was exploratory in nature and phase 2 was centred around developing a workable application, I have adopted a standard iterative development style in phase 3. This return to a structured HCI style research and development model is resulting in the production and refinement of a series or prototypes for the gestural control of sound synthesis parameters.
-
-You can experience a stable prototype of these here.
+Prototypes of these applications are included below.
+Both prototypes require access to your webam feed.
 To use the prototypes stand in front of your webcam and move your hands to control sonic and visual parameters:
 
 - [Prototype 2: Gestural Control of Sound Synthesis](https://stephenroddy.github.io/projects/ML_HCI/web_apps/Gesture_Synthesis/index.html)
@@ -69,8 +68,7 @@ Music Compostion. Sound Design. Creative Computing. HCI & Interaction Design. UX
 -->
 
 ### Tags
-Human-computer Interaction. Gestural Interfaces. Machine Learning. Music. Embodied Cognition. Stephen Roddy.
-
+Musical Interaction. Gestural Interfaces. Machine Learning. Compter Vision. Generative Music. 
 
 <!--
 <iframe src="https://editor.p5js.org/roddyst/embed/3LK9dABOj"></iframe>
