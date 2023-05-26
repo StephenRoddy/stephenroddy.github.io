@@ -1,4 +1,4 @@
-### AI and ML for Musical Applications
+### AI, ML, & Cybernetics for Musical Applications
 
 #### Overview
 
@@ -63,6 +63,7 @@ Make sure that your webcam can see both of your hands:
 #### Stochastic Processes, Probabilistic Techniques, and Cybernetic Control Loops
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2956786163/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/darkness-visible">Darkness Visible by Stephen Roddy</a></iframe>
+
 
 During the production of 30 Epoch Opus, I found that noisier outputs tended to be more musically interesting. As such, I adapted the model architecture, ultimately creating the 2Def2Lep model, to take advantage of these noisier patterns. I explored this further across 3 tracks on the Darkness Visible EP. Here I dispensed with the ML approaches and instead designed a generative music system that produces musical materials using stochastic processes and probabilistic techniques. After its original initialization, system parameters are controlled by a series of self-regulating feedback loops. 
 While the design of the system was informed by works created by Xenkis, Cage, and Eno, the end aesthetic result was received much differently:
