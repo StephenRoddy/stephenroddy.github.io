@@ -42,15 +42,16 @@ This initial work was followed with the development of a GAN-based system but th
 #### CV & ML Techniques for Gestural Interaction in Live Music Performance & Installation 
 
 The second phase of the project explored computer vision (CV) and ML techniques for gestural control of performance systems (UAVs: drones, and music/sound synthesis). My colleagues and I at the Department of Electrical and Electronic Engineering TCD, designed and built a gestural control interface that could be used to control the flight of a drone.
-The hardware required to communicate with the drone was designed and built by a colleague. I built the system gestural interface system HTML, Javascript, and Node.js and used the tone.js, p5.js, ml5.js libraries. 
+The hardware required to communicate with the drone was designed and built by a colleague. I built the system gestural interface system HTML, Javascript, and Node.js and used the tone.js, p5.js, ml5.js libraries. 
 This interface was integrated with a hardware setup in which an Arduino was used to control the RC device for the drone.
-The system allowed users to control the flight path of a drone through their hand movements. The users' hand movements are captured via camera/webcam and analysed using the ml5js [Posenet](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5) implementation. These hand movements were also sonified, converting the user interactions into musical sounds (tone.js) and mapped to control the animation of the drone on a computer screen. The system was installed and opened to the members of the public during Trinity College Dublin's 2019 Open Day.
-While controlling the flight path of a drone through physical gestures feels novel and provides hours of entertainment, it is the application of the CV & ML techniques to the control of sound synthesis parameters, with on-screen visual feedback that proved most fruitful in this project.
+The system allowed users to control the flight path of a drone through their hand movements. The users' hand movements are captured via camera/webcam and analysed using the ml5js [Posenet](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5) implementation. The system was installed and opened to the public during Trinity College Dublin's 2019 Open Day.
+Alternative iterations of this concept were also created, in which the users' hand movements were also sonified, converting the user interactions into musical sounds (w/ p5.sound.js & tone.js) and mapped to control the animation of the drone on a computer screen.
+While controlling the flight path of a drone through physical gestures feels novel and provides some entertainment value, it is the application of CV & ML techniques to the control of sound synthesis parameters, with on-screen visual feedback that proved most fruitful in this project.
 
 <img src="images/Drone Project.gif?raw=true"/><br/>
 - [More on youtube](https://youtu.be/nK5spkN2TOA)
 
-Prototypes of these applications, built with ml5.js and p5.js are included below.
+Examples of these musical applications, built with ml5.js and p5.js are included below.
 Both prototypes require access to your webcam feed.
 To activate the prototypes first, click your mouse on the screen inside the animation area.
 Then, stand in front of your webcam and move your hands to control sonic and visual parameters.
