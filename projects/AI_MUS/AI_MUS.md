@@ -39,7 +39,7 @@ This initial work was followed with the development of a GAN-based system but th
 - [Signal to Noise Loops](https://stephenroddy.github.io/projects/s2nl/s2nl_project)
 - [Indices on the Body](https://stephenroddy.github.io/projects/indices/indices_audio)
 
-#### CV& ML Techniques for Gestural Interaction in Live Music Performance & Installation 
+#### CV & ML Techniques for Gestural Interaction in Live Music Performance & Installation 
 
 The second phase of the project explored computer vision (CV) and ML techniques for gestural control of performance systems (UAVs: drones, and music/sound synthesis). My colleagues and I at the Department of Electrical and Electronic Engineering TCD, designed and built a gestural control interface that could be used to control the flight of a drone.
 The hardware required to communicate with the drone was designed and built by a colleague. I built the system gestural interface system HTML, Javascript, and Node.js and used the tone.js, p5.js, ml5.js libraries. 
