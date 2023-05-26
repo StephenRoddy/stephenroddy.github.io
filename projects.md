@@ -33,8 +33,8 @@
 <img src="images/tabs/dsTab2.png?raw=true"/>
 </a>
 
-[Deep Learning for Music and HCI](/projects/ML_HCI/ML_HCI)<br />
-<a href="/projects/ML_HCI/ML_HCI">
+[Deep Learning for Music and HCI](/projects/AI_MUS/AI_MUS)<br />
+<a href="/projects/AI_MUS/AI_MUS">
 <img src="images/tabs/AItab.png?raw=true"/>
 </a>
 

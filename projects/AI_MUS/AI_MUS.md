@@ -1,4 +1,4 @@
-### Deep Learning for Music and Human-Computer Interaction
+### AI and ML for Musical Applications
 
 #### Overview
 
@@ -34,10 +34,10 @@ To create interesting harmonic/melodic results, the model used for the first 3 t
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=951154666/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/30-epoch-opus">30 Epoch Opus by Stephen Roddy</a></iframe>
 
 ##### Further Steps 
-This initial work was followed with the development of a GAN-based system but the long training times involved made this approach less useful than the LSTM systems for generating musical materials as part of a traditional music production workflow. The LSTM systems described above were easily integrated with Python notebooks allowing for better control and interaction when running in cloud computing environments during a standard music production workflow. I also explored the application of MusicVAE, which originated with Google's [Magenta Project](https://magenta.tensorflow.org/), which proved tricky to re-train on-the-fly during the production workflow. Regardless, I did make use of both of these approaches in other projects:
+This initial work was followed with the development of a GAN-based system but the long training times involved made this approach less useful than the LSTM systems for generating musical materials as part of a traditional music production workflow. The LSTM systems described above were easily integrated with Python notebooks allowing for better control and interaction when running in cloud computing environments during a standard music production workflow. I also explored the application of MusicVAE, which originated with Google's [Magenta Project](https://magenta.tensorflow.org/), which proved tricky to re-train on-the-fly during the production workflow. Regardless, I did make use of both of these approaches in other projects along with itrations on the LSTM-based techniques described above. For example, an updated version of the the model used in 30 Epoch Opus titled, 2Def2Lep was used in the production of Whispering Signals, and Loopscape #1 on the Signal to Noise Loops release and GAN-based models were used to create live visual materials for the Indices on the Body project.
 
 - [Signal to Noise Loops](https://stephenroddy.github.io/projects/s2nl/s2nl_project)
-- [Indices Online](https://stephenroddy.github.io/projects/indices/indices_audio)
+- [Indices on the Body](https://stephenroddy.github.io/projects/indices/indices_audio)
 
 #### CV& ML Techniques for Gestural Interaction in Live Music Performance & Installation 
 
@@ -56,9 +56,24 @@ To activate the prototypes first, click your mouse on the screen inside the anim
 Then, stand in front of your webcam and move your hands to control sonic and visual parameters.
 Make sure that your webcam can see both of your hands:
 
-- [Prototype 2: Gestural Control of Sound Synthesis](https://stephenroddy.github.io/projects/ML_HCI/web_apps/Gesture_Synthesis/index.html)
-- [Prototype 1: Animated Drone](https://stephenroddy.github.io/projects/ML_HCI/web_apps/Gesture_Drone/index.html)
+- [Prototype 2: Gestural Control of Sound Synthesis](https://stephenroddy.github.io/projects/AI_MUS/web_apps/Gesture_Synthesis/index.html)
+- [Prototype 1: Animated Drone](https://stephenroddy.github.io/projects/AI_MUS/web_apps/Gesture_Drone/index.html)
 <!-- Should I add the other prototypes? There are more AM and FM approaches with cleaner interface design and more interesting gesture to sound mappings? -->
 
+#### Stochastic Processes, Probabilistic Techniques, and Cybernetic Control Loops
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2956786163/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/darkness-visible">Darkness Visible by Stephen Roddy</a></iframe>
+
+During the production of 30 Epoch Opus, I found that noisier outputs tended to be more musically interesting. As such, I adapted the model architecture, ultimately creating the 2Def2Lep model, to take advantage of these noisier patterns. I explored this further across 3 tracks on the Darkness Visible EP. Here I dispensed with the ML approaches and instead designed a generative music system that produces musical materials using stochastic processes and probabilistic techniques. After its original initialization, system parameters are controlled by a series of self-regulating feedback loops. 
+While the design of the system was informed by works created by Xenkis, Cage, and Eno, the end aesthetic result was received much differently:
+
+> An experimental composer from Ireland, Stephen Roddy proves equally adept at crushing soundscapes as he does mysterious melodies. - Bandcamp New & Notable Mar 13, 2022.
+
+> unsettlingly beautiful ambient landscape with moving pads, arcing sounds of processed guitar and electronics and uneasy drones and percussive patterns. - Tome to the Weather Machine
+
+> Distorted synths sketch the sonic landscape while a steady beat, high energy drones and simple electronic arpeggios serve as a path through this fraught world where a sense of menace hover all around - Queen City Sounds and Art
+
+You can learn more about the creation of the EP as well as the artwork design from the [liner notes](https://stephenroddy.bandcamp.com/album/darkness-visible) on [Bandcamp](https://stephenroddy.bandcamp.com/album/darkness-visible).
+
 ### Tags
-Generative Music. Machine Learning. Computer Vision. Musical Interaction. Gestural Interfaces. Creative Coding. Web Applications. 
+Generative Music. Machine Learning. Computer Vision. Musical Interaction. Gestural Interfaces. Creative Coding. Web Applications. Stochastic Processes. Probabilistic Techniques.
