@@ -12,7 +12,9 @@ As part of this project Jean Luc Nancy recorded himself reading his 58 indices o
 
 
 You can hear that piece here:
+<div style="text-align: center;">
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1061781095/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=570375840/transparent=true/" seamless><a href="http://stephenroddy.bandcamp.com/album/le-son-du-corps-et-un-corps-de-sons">Le Son Du Corps Et Un Corps de Sons by Stephen Roddy feat. Jean-Luc Nancy, AMAE &amp; DePinto)</a></iframe>
+</div>
 
 * [21, 7 & 3 (feat. Jean-Luc Nancy, Amae & DePinto)](https://stephenroddy.bandcamp.com/track/21-7-3-feat-jean-luc-nancy-amae-depinto)
 
@@ -24,7 +26,9 @@ Credit: Pier Giorgio De Pinto
 
 Later, in 2016/2017, I recorded additional Soundworks and musical pieces incorporating Nancy's indexes, a portion of which will be set to performances and recorded by video artists as part of the 63 Videos on the Body project. You can hear those pieces here on my collection"Le Son Du Corps Et Un Corps de Sons" available on:
 
+<div style="text-align: center;">
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1061781095/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://stephenroddy.bandcamp.com/album/le-son-du-corps-et-un-corps-de-sons">Le Son Du Corps Et Un Corps de Sons by Stephen Roddy feat. Jean-Luc Nancy, AMAE &amp; DePinto)</a></iframe>
+</div>
 
 * [Spotify](https://open.spotify.com/album/3DsDLwlP74rKzIRaGvsyeh)
 * [Apple Music](https://music.apple.com/us/album/le-son-du-corps-et-un-corps-de-sons/1314413365)
@@ -42,7 +46,9 @@ Visit the installation here:
 
 You can read more about the in my xCoAx paper below:
 
+<div style="text-align: center;">
 <iframe frameborder="0" src="https://drive.google.com/file/d/1mmb5FY5EmSM0Dzx-bym2cGSZBGr1OK_R/preview" style="height: 500px; width: 600px;"></iframe>
+</div>
 
 * [xCoAx 2021 Artwork Paper](/files/xCoAx2021-Roddy.pdf)
 

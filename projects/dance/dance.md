@@ -36,7 +36,9 @@ In 2017 I was commissioned to work on a second project that expanded on Fógraí
 ### Research & Development Process
 I used a similar participatory design process as before. I would present a prototype to my collaborators during a session and incorporate their feedback and ideas using rapid prototyping techniques. I gained more general audience feedback through public showings we did in June and September as well as more informal feedback sessions with colleagues and friends.
 
+<div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WWRnM_9cv9E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 - [Announcement](https://www.danceireland.ie/whats-on/events/dance-ireland-residency-sibeal-davitt-3)

@@ -61,7 +61,9 @@ These have been gathered into a collection entitled 'The Human Cost', named for 
 
 [Spotify](https://open.spotify.com/artist/6FZOlLhsey17jwrTGBV07c) | [Apple Music](https://music.apple.com/ie/album/the-human-cost/1278676607)
 
+<div style="text-align: center;">
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2888609678/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://stephenroddy.bandcamp.com/album/the-human-cost-sonification-and-irelands-economic-crash">The Human Cost: Sonification and Ireland&#39;s Economic Crash by Stephen Roddy</a></iframe>
+</div>
 
 You can learn more about  these compositions here:
 [The Human Cost Sonifications](../human_cost/human_cost)
@@ -81,7 +83,9 @@ A number of these pieces have been performed live at academic conferences and cu
 <img src="images/Issta2015 copy.jpg?raw=true"/>
 
 ### Embodied Sonification PhD Thesis
+<div style="text-align: center;">
 <iframe height="842" src="https://drive.google.com/file/d/0BwMBM58DHm2balNPRERtbEJYNHM/preview" width="592"></iframe><br/>
+</div>
 
 * [Digital Appendices](https://www.dropbox.com/sh/byilxk53kzkdr8b/AADpZQZO3iv0hRL7rU72Pk-ha?dl=0)<br/>
 * [Link to thesis in Trinity College Dublin Repository](http://www.tara.tcd.ie/handle/2262/80506)

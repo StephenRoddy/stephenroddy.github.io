@@ -58,11 +58,15 @@ Moved to an online audiovisual installation format and introduced machine learni
 The piece was performed at the [2021 New York Electroacoustic Music Festival](https://nycemf.org/).
 You can find the video and concert program below:
 
+<div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f5yggfFRPAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 [Youtube Link](https://www.youtube.com/watch?v=f5yggfFRPAA)
 
+<div style="text-align: center;">
 <iframe frameborder="0" src="https://drive.google.com/file/d/17JsG6ejsXp0xaS7fLn68oP-1kyStzXYM/preview" style="height: 500px; width: 600px;"></iframe>
+</div>
 
 [NYCEMF2021 Concert Program](/files/2021-Program-Book.pdf)
 
@@ -72,7 +76,11 @@ The sonic component of Signal to Noise Loops V4 was installed in the listening r
 [International Computer Music Conference 2021](http://icmc2021.org/program/)
 
 Signal to Noise Loops V4 was performed at the [2021 Audio Mostly Conference](https://audiomostly.com/2021/program/conference-program/) at the University of Trento, Italy.
+
+<div style="text-align: center;">
 <iframe frameborder="0" src="https://drive.google.com/file/d/1jqRP-YzONc0cKgIxSpwHkfQi90Cp9Afi/preview" style="height: 500px; width: 600px;"></iframe>
+</div>
+
 [Audio Mostly Programme Link](/files/AudioMostly 2021 Programme.pdf).
 
 The sixteenth edition of Culture Night / Oíche Chultúir will take place on Friday 17 September 2021.
@@ -93,9 +101,9 @@ Signal to Noise Loops v4 was also featured in Season 3 of the Video Sound Archiv
 
 Signal to Noise Loops v4 was selected for performance at the concerts for the 27th International Conference on Auditory Display (ICAD 2022), where it won the award for the Best use of sound in a Concert Piece or Demonstration. You can see the conference paper describing some of the technical development of this specific iteration here:
 
-
+<div style="text-align: center;">
 <iframe frameborder="0" src="https://drive.google.com/file/d/1ZMJ243hDl9Odf47Cv6E5UhhAkl1HbVXZ/preview" style="height: 500px; width: 600px;"></iframe>
-
+</div>
 <br />
 
 #### Leonardo Article
@@ -138,7 +146,9 @@ While these explicit points of information may not be directly represented in a 
 - [Noise Loops for Laptop, Improvised Electric Guitar and Dublin City Noise Level Data @ Sonic Dreams 2017, Sonic Arts Waterford, September 30th 2017](https://1.bp.blogspot.com/-HhZc6oL93Og/W0yMNH4jnVI/AAAAAAAAGFE/VlxW3bOMTlono3rkqbBMtE4XAxElOOgAQCLcBGAs/s1600/Sonic-Dreams-Festival-2017-final-poster-2.jpg)
 
 ### Signal to Noise Loops Album
+<div style="text-align: center;">
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4081177415/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-2">Signal to Noise Loops by Stephen Roddy</a></iframe>
+</div>
 
 ### Tags
 Signal to Noise Loops. Cybernetics, Rhythmanallysis, Emergence, Generative Music. IoT Data. Smart Cities. Machine Learning. Cellular Automata.

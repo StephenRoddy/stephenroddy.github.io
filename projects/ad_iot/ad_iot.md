@@ -73,8 +73,9 @@ The third phase of the project involved the refinement of the mapping strategies
 Having finalised the design of a framework for representing IoT Network Traffic Data and put forward a set of guidelines for developing frameworks of this type, phase four of the project shifted focus again to consider a broader range of data sources. In the original funding application this phase of the project was intended to explore more creative/artistic applications of auditory display.
 During phase 4 I focused on writing functional code that could to be easily deployed to the web. The two frameworks designed during this phase are designed to run client-side with the standard HTML/Javascript/CSS stack and sound is synthesised using the tone.js library. In introduced Machine Learning (MuiscVAE, a javascript based variational autoencoder implementation created for musical data by the Google Magenta team) and Evolutionary Computing techniques (mostly genetic algorithms) to aid in the process of mapping data to sound. First, I created an ambient auditory display solution for monitoring financial markets. The data was from the from highly volatile 2018 cryptocurrency markets. It represented the live dollar values of different cryptocurrencies, retrieved via the Coinbase Pro API (originally GDAX). I created multiple mapping strategies for this data, some to generative musical pieces that would represent the overall state of the data in a more stimulating and creative manner and others to more straightforward sound parameters similar to auditory graphs. The framework makes use Evolutionary Computing and Machine Learning techniques. It was presented at the 2018 conference on the Computer Simulation of Musical Creativity.
 
-
+<div style="text-align: center;">
 <iframe frameborder="0"  src="https://drive.google.com/file/d/1oPZuZ2_x340rgC9gYP1iBps0DFnUYmDn/preview" style="height: 500px; width: 600px;"></iframe>
+</div>
 <br/>
 - [Link to CSMC Paper](/papers/Roddy.pdf)
 
@@ -122,7 +123,7 @@ It also uses weather data from the OpenWeather Maps API including rainfall, wind
 
 <img src="images/Model_3_Smart_City.png?raw=true"/><br/>
 
-A number of strategies to mapping data to sound were adopted here.
+A number of strategies for mapping data to sound were adopted here.
 Traditional approaches to mapping data to sound (parameter mapping sonification) were employed alongside approaches that involve machine learning techniques. For example in the generative engine the highest point in the dataset is represented with a unique musical pattern and the lowest point is represented with another. By blending these motifs together using MusicVAE new musical patterns are generated to represent values between these two points. Essentially, the high point of the data is represented with one musical motif and the low point with another one. All data points in between are then represented as blends of these two motifs. This is a refinement of the target states approach I used for the previous framework.
 
 
@@ -200,9 +201,9 @@ This project resulted in a large body of outputs across a range of disciplines. 
 
 You can read our recent ICAD 2021 paper here:
 
+<div style="text-align: center;">
 <iframe frameborder="0" src="https://drive.google.com/file/d/1uL_GeuWMenjJnn2SgdbKfVwvD0_n5Hgm/preview" style="height: 500px; width: 600px;"></iframe>
-
-
+</div>
 
 
 #### Book Chapter
@@ -242,4 +243,4 @@ HTML/CSS/Javascript. Python. Csound. OSC& MIDI. Programming. Data Analysis. Audi
 
 
 ### Tags
-Internet of Things Networks, Embodied Cognition. Sonification. Auditory Display. Stephen Roddy.
+Sonification. Auditory Display. Internet of Things Networks. Smart Cities. Embodied Cognition. Machine Learning. Data. Stephen Roddy.

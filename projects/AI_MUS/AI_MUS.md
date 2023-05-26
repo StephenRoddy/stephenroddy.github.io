@@ -31,7 +31,9 @@ The instruments and timbres that have been chosen to synthesize (or sound out) t
 
 To create interesting harmonic/melodic results, the model used for the first 3 tracks is left partially underfit and uses highly novel input data chosen for its originality. This underfitting allows some features present in the original data to “shine through” but prevents the material from becoming an overly generalised representation of the inputs. This leaves space for an element of chance and surprise in the output. The model architecture and hyperparameters have been selected to support this approach. The model used for the fourth track, 100 Epoch Opus, is a much better fit for its training data. The originality of the harmonic materials here stems from a process of trial and error where a large number of outputs were auditioned before the novel material presented itself.
 
+<div style="text-align: center;">
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=951154666/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/30-epoch-opus">30 Epoch Opus by Stephen Roddy</a></iframe>
+</div>
 
 ##### Further Steps 
 This initial work was followed with the development of a GAN-based system but the long training times involved made this approach less useful than the LSTM systems for generating musical materials as part of a traditional music production workflow. The LSTM systems described above were easily integrated with Python notebooks allowing for better control and interaction when running in cloud computing environments during a standard music production workflow. I also explored the application of MusicVAE, which originated with Google's [Magenta Project](https://magenta.tensorflow.org/), which proved tricky to re-train on-the-fly during the production workflow. Regardless, I did make use of both of these approaches in other projects along with itrations on the LSTM-based techniques described above. For example, an updated version of the the model used in 30 Epoch Opus titled, 2Def2Lep was used in the production of Whispering Signals, and Loopscape #1 on the Signal to Noise Loops release and GAN-based models were used to create live visual materials for the Indices on the Body project.
@@ -63,8 +65,9 @@ Make sure that your webcam can see both of your hands:
 
 #### Stochastic Processes, Probabilistic Techniques, and Cybernetic Control Loops
 
+<div style="text-align: center;">
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2956786163/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/darkness-visible">Darkness Visible by Stephen Roddy</a></iframe>
-
+</div>
 
 During the production of 30 Epoch Opus, I found that noisier outputs tended to be more musically interesting. As such, I adapted the model architecture, ultimately creating the 2Def2Lep model, to take advantage of these noisier patterns. I explored this further across 3 tracks on the Darkness Visible EP. Here I dispensed with the ML approaches and instead designed a generative music system that produces musical materials using stochastic processes and probabilistic techniques. After its original initialization, system parameters are controlled by a series of self-regulating feedback loops. 
 While the design of the system was informed by works created by Xenkis, Cage, and Eno, the end aesthetic result was received much differently:
