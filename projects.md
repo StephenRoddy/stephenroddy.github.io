@@ -18,19 +18,19 @@
 <img src="images/tabs/EStab.png?raw=true"/>
 </a>
 
-[The Human Cost Sonifications](/projects/human_cost/human_cost)<br />
-<a href="/projects/human_cost/human_cost">
-<img src="images/tabs/HC2tab.png?raw=true"/>
-</a>
-
 [Indices on the Body](/projects/indices/indices_audio)<br />
 <a href="/projects/indices/indices_audio">
 <img src="images/tabs/INDXtab.png?raw=true"/>
 </a>
 
-[Deep Learning for Music and HCI](/projects/ML_HCI/ML_HCI)<br />
-<a href="/projects/ML_HCI/ML_HCI">
+[AI, ML, & Cybernetics for Musical Applications](/projects/AI_MUS/AI_MUS)<br />
+<a href="/projects/AI_MUS/AI_MUS">
 <img src="images/tabs/AItab.png?raw=true"/>
+</a>
+
+[The Human Cost Sonifications](/projects/human_cost/human_cost)<br />
+<a href="/projects/human_cost/human_cost">
+<img src="images/tabs/HC2tab.png?raw=true"/>
 </a>
 
 [Data-scape: An Online Framework for Data Sonification](/projects/data-scape/data-scape)<br />
@@ -48,6 +48,11 @@
 <img src="images/tabs/ZNStab.jpg?raw=true"/>
 </a>
 
+[Data-scape: An Online Framework for Data Sonification](/projects/data-scape/data-scape)<br />
+<a href="/projects/data-scape/data-scape">
+<img src="images/tabs/dsTab2.png?raw=true"/>
+</a>
+
 <br />
 
 <!--
@@ -57,10 +62,14 @@
 [dog.display()](/projects/dog-display/dog_display)<br />
 
 -->
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 
+<!---
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <p style="font-size:11px">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+--->
+
 <!-- Remove above link if you don't want to attibute -->
 
 <!--

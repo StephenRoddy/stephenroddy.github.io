@@ -11,7 +11,9 @@ My pieces are intended to communicate to the listener with a listener through fe
 
 ###  Coldwater Pass
 
+<div style="text-align: center;">
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2888609678/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=585665569/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/the-human-cost-sonification-and-irelands-economic-crash">The Human Cost: Sonification and Ireland&#39;s Economic Crash by Stephen Roddy</a></iframe>
+</div>
 
 Coldwater Pass is a data-driven composition that explores some of the human dimensions of Ireland’s economic crash focusing specifically on the relationship between poverty, drug crime, emigration, and suicide. It exploits the power of sound to re-embody the impersonal statistical data revealing aspects of the human realities underlying the cold hard facts.
 
@@ -24,7 +26,9 @@ All of this is underpinned by a rhythmic percussion pattern for which each hit i
 
 ###  The Human Cost
 
+<div style="text-align: center;">
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2888609678/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3659420609/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/the-human-cost-sonification-and-irelands-economic-crash">The Human Cost: Sonification and Ireland&#39;s Economic Crash by Stephen Roddy</a></iframe>
+</div>
 
 The Human Cost is a data-driven composition that further explores the impact of Ireland’s economic crash. The aim of the piece is to express economic data through the manipulation of musical tension and release patterns.
 
@@ -36,7 +40,9 @@ An algorithm based on a heartbeat metaphor that is mapped to express the fall in
 
 ###  Idle Hands- A 31-Part Exploration Of Irish Unemployment From 1983 - 2014 In G Major
 
+<div style="text-align: center;">
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2888609678/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=643812216/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/the-human-cost-sonification-and-irelands-economic-crash">The Human Cost: Sonification and Ireland&#39;s Economic Crash by Stephen Roddy</a></iframe>
+</div>
 
 Idle Hands Performed at the Irish Sound Science and Technology Convocation 2014
 The Human Cost: A Sonification of Ireland's is a set of data-driven compositions that explores the impact of Ireland's recent financial crash on its people.
@@ -56,7 +62,9 @@ Idle Hands is a data-driven musical composition based on the Central Statistics 
 
 ### Doom & Gloom
 
+<div style="text-align: center;">
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2888609678/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1639177409/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/the-human-cost-sonification-and-irelands-economic-crash">The Human Cost: Sonification and Ireland&#39;s Economic Crash by Stephen Roddy</a></iframe>
+</div>
 
 Doom and Gloom is a data-driven composition that explores the human cost of Ireland’s economic crash. The piece opens on a conversational montage from Finian’s Rainbow that offers an eerily ironic foreshadowing of the bleak and desolate future looming on the horizon for an Ireland that has lost its “pot of gold”.
 
@@ -68,7 +76,9 @@ The piece is realized using FOG synthesis techniques (an extension of “fonctio
 
 ### The good Ship Hibernia and the Hole in the Bottom of the world
 
+<div style="text-align: center;">
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2888609678/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3224625818/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/the-human-cost-sonification-and-irelands-economic-crash">The Human Cost: Sonification and Ireland&#39;s Economic Crash by Stephen Roddy</a></iframe>
+</div>
 
 "The Good Ship Hibernia" is an Embodied Soundscape Sonification. It uses both soundscape and harmonic materials and employs sonification techniques to reflect the World Bank's figures for Irish GDP growth rate from 1979 to 2013.
 

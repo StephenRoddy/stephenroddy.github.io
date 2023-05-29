@@ -58,6 +58,9 @@ function preload() {
 }
 
 function setup() {
+    // mimics the autoplay policy
+  getAudioContext().suspend(); // USed with the triggerig of userStartAudio() via mousePressed() to adhere to adhere to browser audio policies.
+
  // let canvas = createCanvas(640, 480);
  //let canvas = createCanvas(windowWidth*.75,windowHeight)*.75;
   
@@ -221,11 +224,16 @@ function drawDrone()  {
 }     
       
       // this doesn't work
-      function mousePressed() {
+ /*function mousePressed() {
   if (mouseX > 0 && mouseX < 100 && mouseY > 0 && mouseY < 100) {
     let fs = fullscreen();
     fullscreen(!fs);
   }
+}
+*/
+
+function mousePressed() {
+  userStartAudio();
 }
 
     </script>
