@@ -33,13 +33,13 @@
 <img src="images/tabs/HC2tab.png?raw=true"/>
 </a>
 
-[Data-scape: An Online Framework for Data Sonification](/projects/data-scape/data-scape)<br />
+[Absolute Nothingness: Investigating the Roots of Contemporary Sound Art Aesthetics](/projects/ab_no/ab_no)<br />
 <a href="/projects/data-scape/data-scape">
-<img src="images/tabs/dsTab2.png?raw=true"/>
+<img src="images/tabs/ab_no.png?raw=true"/>
 </a>
 
 [Dance Performance Projects](/projects/dance/dance)<br />
-<a href="/projects/dance/dance">
+<a href="/projects/ab_no/ab_no">
 <img src="images/tabs/DANCEtab.png?raw=true"/>
 </a>
 
