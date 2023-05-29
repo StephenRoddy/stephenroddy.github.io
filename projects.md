@@ -34,7 +34,7 @@
 </a>
 
 [Absolute Nothingness: The Roots of Contemporary Sound Art Aesthetics](/projects/ab_no/ab_no)<br />
-<a href="/projects/data-scape/data-scape">
+<a href="/projects/ab_no/ab_no">
 <img src="images/tabs/ab_no.png?raw=true"/>
 </a>
 
