@@ -13,4 +13,3 @@ The following articles outline how Kyoto School thinking has shaped sound art pr
 * [Absolute Nothingness: The Kyoto School and Sound Art Practice](
 https://www.researchgate.net/publication/318115471_Absolute_Nothingness_The_Kyoto_School_and_Sound_Art_Practice)
 
-##### More info coming soon
