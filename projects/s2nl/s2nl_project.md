@@ -122,7 +122,7 @@ Audiovisual installation for headphones and mobile devices, reflecting on the me
 <br />
 <br />
 
-#### Aside: Controlling the Proportion of Information Present in a Sonification Signal. 
+#### Technical Aside: Controlling the Proportion of Information Present in a Sonification Signal. 
 From time to time in the development of a complex creative and technical project, problems will emerge that require the design of a bespoke solution which may hold some novelty in and of itself. In the case of this project, one such problem was the need to control the proportion of information present in a sonified signal at any given time so that the data could be 'turned up or down' in the same manner that the volume might be.  
 This is a tricky problem as the information in a given sonification is a function of the mapping of the data to acoustic parameters and the ensuing perception and interpretation of those acoustic pressure waves as sounds by the listener.   
 However, I found that implementing a pre-sonification smoothing filter on the data in a time series sonification smoothes out rapidly varying components of the data, essentially reducing the proportion of information reaching the listener's ears. I formalized this solution and created a technical implementation in Max/MSP that can be integrated into sonification production/performance workflows in Max and Ableton Live.   
