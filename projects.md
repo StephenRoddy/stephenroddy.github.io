@@ -28,14 +28,14 @@
 <img src="images/tabs/INDXtab.png?raw=true"/>
 </a>
 
-[Data-scape: An Online Framework for Data Sonification](/projects/data-scape/data-scape)<br />
-<a href="/projects/data-scape/data-scape">
-<img src="images/tabs/dsTab2.png?raw=true"/>
-</a>
-
 [Deep Learning for Music and HCI](/projects/ML_HCI/ML_HCI)<br />
 <a href="/projects/ML_HCI/ML_HCI">
 <img src="images/tabs/AItab.png?raw=true"/>
+</a>
+
+[Data-scape: An Online Framework for Data Sonification](/projects/data-scape/data-scape)<br />
+<a href="/projects/data-scape/data-scape">
+<img src="images/tabs/dsTab2.png?raw=true"/>
 </a>
 
 [Dance Performance Projects](/projects/dance/dance)<br />
