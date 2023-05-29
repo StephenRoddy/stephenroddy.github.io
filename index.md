@@ -361,6 +361,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p><strong>Invited Talks & Panels</strong></p>
 <ul>
   <li>
+    <a target="_blank" href="https://www.ulster.ac.uk/faculties/arts-humanities-and-social-sciences/events/creative-research-and-careers">In Practice: PhD conference on creative research and careers. Ulster University, Derry, 2021.</a>
+  </li>
+  <li>
     <a target="_blank" href="https://www.facebook.com/events/2480204325324203/">"Whose Music?": Panel Discussion on AI in Music Composition at Music Current 2019, CMC Dublin.</a>
   </li>
   <li>
