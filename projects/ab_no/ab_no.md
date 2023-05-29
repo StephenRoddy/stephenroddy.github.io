@@ -4,7 +4,7 @@
 
 This ongoing project is investigating the roots of contemporary sound art aesthetics. It is currently exploring how the thinking of Kyoto School philosophers, Nishida, Tanabe, and Nishitani shaped and influenced the development of sound art historically, and continues to shape contemporary sound art practices today.
 
-#### Phase 1 Writings
+#### Writings
 
 The following articles outline how Kyoto School thinking has shaped sound art practice.
 
