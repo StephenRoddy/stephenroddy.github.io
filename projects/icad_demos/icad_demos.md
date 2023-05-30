@@ -96,3 +96,7 @@ This project resulted in a large body of outputs across a range of disciplines. 
 You can read our recent ICAD 2021 paper here:
 
 <iframe frameborder="0" src="https://drive.google.com/file/d/1uL_GeuWMenjJnn2SgdbKfVwvD0_n5Hgm/preview" style="height: 500px; width: 600px;"></iframe>
+<br />
+<br />
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
+Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></small></p>

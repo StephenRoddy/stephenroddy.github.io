@@ -55,7 +55,10 @@ Live Audio. Recording. Sound Synthesis & Audio DSP. Python. OSC & MIDI protocols
 -->
 ### Tags
 Dance, Technology, Fógraím / I Proclaim, Hear This Dance, Live Music, Embodied At The GPO, Generative Music.
-
+<br />
+<br />
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
+Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></small></p>
 
 <!--
 

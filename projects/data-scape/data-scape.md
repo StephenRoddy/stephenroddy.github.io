@@ -24,3 +24,7 @@ Javascript, React, ApexCharts, d3.js, Tone.js, p5.js, Bootstrap, Node.js JSX, JS
 
 ### Data Source for Prototype:
 [COVID-19 HPSC Stats Ireland - GeoHive Open Data Catalogue](https://opendata-geohive.hub.arcgis.com/datasets/d8eb52d56273413b84b0187a4e9117be_0/geoservice?geometry=-7.694%2C53.288%2C-7.691%2C53.289)
+<br />
+<br />
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
+Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></small></p>

@@ -93,3 +93,7 @@ Harmonic material also sounds throughout the journey. This material was performe
 
 ### Learn more about the research project from which these pieces emerged here:
 - [Embodied Sonification](../embodied_sonification/embodied_sonification)
+<br />
+<br />
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
+Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></small></p>

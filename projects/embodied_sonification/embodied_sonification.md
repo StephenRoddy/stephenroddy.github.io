@@ -141,3 +141,7 @@ User Evaluations. A/B Testing. Perceptual Testing. Experimental Design. Distribu
 
 #### Tags
 Embodied Cognition. Sonification. Auditory Display. Stephen Roddy.
+<br />
+<br />
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
+Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></small></p>
