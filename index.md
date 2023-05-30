@@ -6,9 +6,6 @@ Previous projects have explored the design of auditory display solutions for lar
 
 I maintain a vibrant and diverse creative arts practice spanning a variety of media and styles including music composition and performance, sound art installation, interactive art, and music for dance and stage. My work has been described as eclectic, and experimental. It is frequently performed and installed at home and abroad.
 Previous events have included the New York City Electroacoustic Music Festival, IMMA’s Eco Rising Festival, and the Helicotrema Recorded Audio Festival in Venice.
-<!--
-<p style="text-align: right;"><a target="_blank" href="https://orcid.org/0000-0001-8491-3031"><img alt="ORCID" height="35" src="https://2.bp.blogspot.com/-vabc-yhp5mM/W8i5-AjX0FI/AAAAAAAAGJ8/a7K1q1ULs64dGgBSTBzTfG6PvO9AY_DRACLcBGAs/s1600/thumb.png" width="35"></a><a target="_blank" href="https://www.researchgate.net/profile/Stephen_Roddy"><img alt="Research Gate" height="35" src="https://3.bp.blogspot.com/-Ex65n3bU3pM/W8i59jkAaDI/AAAAAAAAGJw/ncVh0RKbw7YNyaiRbIRQbGjAUVnQ-yd7wCLcBGAs/s1600/resGate.png" width="35"></a><a target="_blank" href="https://scholar.google.com/citations?user=qhL5rvsAAAAJ"><img alt="Google Scholar" height="35" src="https://3.bp.blogspot.com/-iAkJO3AGZeg/W8i8FRoFTXI/AAAAAAAAGKg/ySdFR0idHFA6reXrJiL6efXlzStl1UNLQCLcBGAs/s1600/gs.png" width="35"></a> <a target="_blank" href="https://www.linkedin.com/in/stephenroddy/"><img alt="LinkedIn" height="35" src="https://3.bp.blogspot.com/-Or4vD44Vi3Y/W8jVi70R5iI/AAAAAAAAGLI/9rLTQrOysuAeHjLIe1y1CRlyU3d5r4WsACLcBGAs/s1600/07_linkedin.png" width="35"></a> <a target="_blank" href="https://github.com/StephenRoddy"><img alt="Github" height="35" src="https://1.bp.blogspot.com/-9E50Ti_mBbs/XQPjlaNjY_I/AAAAAAAAGVw/3USHyh_MWRcEY6bor3zEnN8F-8ywivCywCLcBGAs/s1600/Github_icon-icons.com_49946.png" width="35"></a></p>
--->
 
 <strong>Affiliations</strong>
 <p>Current</p>
