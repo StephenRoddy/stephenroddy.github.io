@@ -1,6 +1,6 @@
-### Data-scape: An Online Framework for Data Sonification
+## Data-scape: An Online Framework for Data Sonification
 
-#### Project Description
+### Project Description
 I am currently working on an online framework for data sonification that draws upon my research in the field over the past 9 years.
 The prototype is being built to represent COVID-19 data. The final framework will be usable with a wide range of different data sources.
 

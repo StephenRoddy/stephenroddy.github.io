@@ -1,3 +1,4 @@
+<base target="_blank">
 ### The Zones Project
 
 #### Project Description

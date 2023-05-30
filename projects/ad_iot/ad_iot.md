@@ -1,10 +1,11 @@
-### Auditory Display for Large-scale Internet of Things (IoT) Networks.
+<base target="_blank">
+## Auditory Display for Large-scale Internet of Things (IoT) Networks.
 
-#### Project Description
+### Project Description
 
 Auditory Display for Large Scale IoT Networks was a Postdoctoral project I undertook at CONNECT, the Science Foundation Ireland Research Centre for Future Networks headquartered at Trinity College Dublin. The project was funded by an Irish Research Council Government of Ireland Postdoctoral Research Fellowship.
 
-#### Research Process.
+### Research Process
 
 This project was driven by the overarching research question: Can auditory display solutions present complex information in an intuitive manner in the context of IoT network monitoring tasks?. To answer this I began by talking to users who work with IoT networks, experts in the fields of IoT and Auditory Display and I also consulted the academic literature more generally.I broke the research question into smaller pieces: How can we best represent complex IoT data with sound? How useful can sound be for understanding data of this nature? What sounds should be used for different IoT data types and in what contexts? etc.
 I used theoretical frameworks from the field of Embodied Cognitive Science that apply to meaning-making and music cognition to ground the work in a meaningful context and I applied standard HCI methodologies to answer these questions posed above. This involved an iterative development process in which I would create a prototype solution based on the Embodied Cognition literature, evaluate the efficacy of the solution with users and then repeatedly iterate upon the design of the prototype taking the results of each successive evaluation into account.
@@ -112,11 +113,7 @@ Bringing these steams together results in musical systems which are representati
 * [PDF Version of Poster](papers/poster_icad.pdf)
 
 
-#### Smart Cities Data
-
-https://www.stephenroddy.com/projects/icad_demos/papers/poster_icad.pdf
-
-
+### Smart Cities Data
 
 This final phase of the project also involved the development of a framework for Smart Cities data. Rather than dealing with data at the level of the network, this phase investigated the use of sensor level data. The framework uses traffic data from open APIs around Dublin including Noise level data (Sonitus Systems API), number of public bikes available at stands and number of Free Parking Spaces in multi-storey car parks (Dublin City Council API), Travel Times on key routes around the city (Transport Infrastructure Ireland).
 It also uses weather data from the OpenWeather Maps API including rainfall, windspeed and temperature levels. Theoretical frameworks from Embodied Cognitive Science and music theory were once again used to guide the initial design of the framework. The framework is comprised of the same four component layers involved in the previous framework and represented in the figure above. The output consists of three data-driven sound objects presented in sequence. The first object represents weather data the second represents traffic data and the third represents the number of available bikes at city bike stands. When attended to in sequence, the sonification is intended to give an overall sense of the state of the city in terms of these three categories.
@@ -218,7 +215,7 @@ You can read our recent ICAD 2021 paper here:
 - [Roddy, S. (2017) Absolute Nothingness: The Kyoto School and Soundart Practice. In Proceedings of Invisible Places 2017.](https://www.researchgate.net/publication/318115471_Absolute_Nothingness_The_Kyoto_School_and_Sound_Art_Practice)
 - [Sounding Human with Data: The Role of Embodied Conceptual Metaphors and Aesthetics in Representing and Exploring Data Sets @ Music Technology Workshop 2016, Michael Smurfit Business School, University College Dublin, June 10th 2016](http://www.ucd.ie/mustwork2016/t4media/MusTWork_2016_Proceedings.pdf)
 
-#### Science Communication Article
+#### Invited Science Communication
 - [Technology Trends Transforming the World' for Impakter January 2019](https://impakter.com/technology-trends-transforming-the-world/)
 
 #### Conference Presentation
@@ -232,15 +229,11 @@ You can read our recent ICAD 2021 paper here:
 - [Sonification @ The Connect Centre for Future Networks and Communications, Trinity College Dublin, August 2016](https://connectcentre.ie/)
 - [Sounding Human with Data. @ The International Digital Empathy Workshop, Ulster University, October 31st 2016](https://www.ulster.ac.uk/conference/digital-empathy)
 
-
-
 ### Creative Skills
 HCI Design. Interaction Design. UX Design. Sound Design. Music Composition. Data Sonification. Data Visualisation.
 
 ### Technical & Research Skills
 HTML/CSS/Javascript. Python. Csound. OSC& MIDI. Programming. Data Analysis. Audio Engineering. Recording. Data Analysis. Data Sonification. Data Visualisation. User Evaluations. A/B Testing. Experimental Design. Distributed User Testing.
-
-
 
 ### Tags
 Sonification. Auditory Display. Internet of Things Networks. Smart Cities. Embodied Cognition. Machine Learning. Data. Stephen Roddy.

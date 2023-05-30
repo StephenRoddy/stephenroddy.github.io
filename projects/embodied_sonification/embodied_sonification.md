@@ -3,7 +3,7 @@
 ### Project Overview
 Sonification is the representation of data with sound and Auditory Display is the use of audio to present information to a listener. In certain contexts and for certain types of data sound can be an effective means of representation and communication. This project involved the development of Sonification and Auditory Display frameworks based on human-centered design principles derived from embodied cognition an area of cognitive science that is critical to our understanding of meaning-making in cognition. The research and development portions of the project were carried out in fulfillment of a PhD degree at the Department of Electronic and Electrical Engineering in Trinity College Dublin under the supervision of Dr. Dermot Furlong. Throughout the project music composition and sound design practices informed by the embodied cognition literature were employed as exploratory research methods. This helped to identify exciting new possibilities for mapping data to sound. These possibilities were then empirically tested to confirm their efficacy for sonification tasks. A number of data-driven musical works were created as a byproduct of the research process.
 
-### Coding & Technology
+#### Coding & Technology
 The majority of the project was coded in Csound a programming language for audio written in C. Many of the stimuli used experiments and evaluations were also produced in Csound. Additional sounds and stimuli were produced in Native Instruments Reaktor 5 and production work was carried out int the Logic Pro X DAW. Rapid prototyping platforms were developed in Csound and used to prototype new ideas in an efficient manner. The two prototyping platforms below were developed using fof (fonction d'onde formantique') synthesis methods and generate simulated vocal gestures.
 
 * [Prototyping Platform 1](code/Prototyping_Model1_Vocal_Gesture2015)<br/>
@@ -11,7 +11,7 @@ The majority of the project was coded in Csound a programming language for audio
 
 <img src="images/CsoundCode.png?raw=true"/><br/>
 
-### Data to Sound
+#### Data to Sound
 The project involved the development of new techniques and frameworks for mapping a range of datatypes to sound in order to represent changes in the original data set.
 Physical and spatial datatypes like temperature, distance, height, weight, speed, amount, texture, etc. were used in the project.Weather data was also used. As the project progressed the focus fell increasingly on socio-economic data
 
@@ -35,27 +35,31 @@ The final phase explored how doppler shifting can be used to add a sense of temp
 **Temporospatial Motion Framework:**<br/>
 [Original Framework](audio/Ch5/Example of Original Framework.mp3) | [Refined Framework](audio/Ch5/Example of Refined Framework .mp3)
 
-### Research Methods
+#### Research Methods
 The project applied empirical research methods and involved many rounds of evaluation collecting and analysing both quantitative and qualitative data. It involved both user-centric HCI methods (e.g. user evaluations, A/B testing, surveys etc.) and more traditional psychological experiments designed to gauge users judgements of stimuli. Some pilot testing was done in with small in person groups but the majority of the testing was carried out online in order to sample from a large international group of users.
 
-### Findings
+#### Findings
 Overall the project found that designing sonifications on the basis of principles from the field of embodied cognition generally leads to more effective solutions. The project resulted in the Embodied Sonification Listening Model, which reconciles embodied cognition principles with the task of "sonification listening": listening to a sound in order to extract information about the dataset it represents. For a more detailed description of findings see the finished document.
 
 <img src="images/page2.png?raw=true"/><br/>
 
 ### Research Outputs
-This project resulted in a number of conference presentations.
+This was a multidisciplinary project that resulted a varied range of outputs across a broad range of media, disciplines and venues.
 
-* [Roddy,  S., & Furlong, D. (2015). Embodied Auditory Display Affordances. In  Proceedings of the 12th Sound and Music Computing Conference: National  University of Ireland Maynooth (pp. 477-484).](papers/EmbodiedAffordancesinAuditoryDisplayRoddyFurlong.pdf)<br/>
-* [Roddy,  S., & Furlong, D. (2015). Sonification Listening: An Empirical  Embodied Approach. In Proceedings of The 21st International Conference on Auditory Display (ICAD 2015) July 8–10, 2015, Graz, Austria.  (pp.181-187).](papers/SonificationListeningAnempiricalEmbodiedApproachRoddyandFurlong2015.pdf)<br/>
-* [Roddy,  S., & Furlong, D. (2013). Embodied cognition in auditory display.  In Proceedings Of the 19th International Conference on Auditory Display,  July 6-10 Łódź, Poland ( pp. 127-134).](papers/SonificationListeningAnempiricalEmbodiedApproachRoddyandFurlong2015.pdf)<br/>
-* [Roddy,  S., & Furlong, D. (2013). Rethinking the Transmission Medium in  Live Computer Music Performance. Presented at the Irish Sound Science and Technology Convocation, Dún Laoghaire Institute of Art, Design and Technology.](papers/ISSTC2013RODDY.pdf)<br/>
+#### Journal Articles
+- [Roddy, S. (2020) Using Conceptual Metaphors to Represent Temporal Context in Time-Series Data Sonification. Interacting with Computers](https://academic.oup.com/iwc/article-abstract/doi/10.1093/iwc/iwz036/5670599)
+- [Roddy, S., & Furlong, D. (2014). Embodied Aesthetics in Auditory Display. Organised Sound, 19(01), 70-77](papers/Organised Sound - Embodied Aesthetics in Auditory Display.pdf)
 
-It also resulted in a number of journal articles including an article in [Organised Sound](papers/Organised Sound - Embodied Aesthetics in Auditory Display.pdf)<br/>
-* [Organised Sound Paper](papers/Organised Sound - Embodied Aesthetics in Auditory Display.pdf)<br/>
+#### Conference Papers
+- [Roddy, S. & Furlong, D. (2018) Vowel Formant Profiles and Image Schemata in Auditory Display. In Proceedings of HCI 2018 4-6 July 2018, Belfast](https://www.researchgate.net/publication/326572938_Vowel_Formant_Profiles_and_Image_Schemata_in_Auditory_Display)
+- [Roddy, S. (2017) Composing The Good Ship Hibernia and the Hole in the Bottom of the World. In Proceedings of Audio Mostly 2017 23-26 August 2017](https://www.researchgate.net/publication/319332093_Composing_The_Good_Ship_Hibernia_and_the_Hole_in_the_Bottom_of_the_World)
+- [Roddy, S., & Furlong, D. (2015). Embodied Auditory Display Affordances. In Proceedings of the 12th Sound and Music Computing Conference: National University of Ireland Maynooth (pp. 477-484)](https://www.researchgate.net/publication/280641643_Embodied_Auditory_Display_Affordances)
+- [Roddy, S., & Furlong, D. (2015). Sonification Listening: An Empirical Embodied Approach. In Proceedings of The 21st International Conference on Auditory Display (ICAD 2015) July 8–10, 2015, Graz, Austria. (pp.181-187)](https://smartech.gatech.edu/bitstream/handle/1853/54125/ICAD%20Proceedings%2015-Roddy.pdf?sequence=1&isAllowed=y)
+- [Roddy, S., & Furlong, D. (2013). Embodied cognition in auditory display. In Proceedings Of the 19th International Conference on Auditory Display, July 6-10 Łódź, Poland ( pp. 127-134)](https://smartech.gatech.edu/handle/1853/51657)
+- [Roddy, S., & Furlong, D. (2013). Rethinking the Transmission Medium in Live Computer Music Performance. Presented at the Irish Sound Science and Technology Convocation, Dún Laoghaire Institute of Art, Design and Technology](http://issta.ie/wp-content/uploads/ISSTC-2013-RODDY.pdf)
 
-### Creative Technology and Multimedia Outputs
-Data-driven music composition and sound design techniques were used to aid in the design of sonification mapping strategies. These approaches allowed me to find novel and interesting sonic parameters for mapping data.  This practice resulted in the production of a number of data-driven sound works in the course of the research project.
+#### Musical and Creative Technology Outputs
+Data-driven music composition and sound design techniques were used to aid in the design of sonification mapping strategies. These approaches allowed me to find novel and interesting sonic parameters for mapping data. This practice resulted in the production of a number of data-driven sound works in the course of the research project.
 
 These have been gathered into a collection entitled 'The Human Cost', named for the socioeconomic data from the 2008 financial crash represented in the pieces and are available from the usual streaming services online:
 
@@ -82,34 +86,13 @@ A number of these pieces have been performed live at academic conferences and cu
 
 <img src="images/Issta2015 copy.jpg?raw=true"/>
 
-### Embodied Sonification PhD Thesis
+#### Embodied Sonification PhD Thesis
 <div style="text-align: center;">
 <iframe height="842" src="https://drive.google.com/file/d/0BwMBM58DHm2balNPRERtbEJYNHM/preview" width="592"></iframe><br/>
 </div>
 
 * [Digital Appendices](https://www.dropbox.com/sh/byilxk53kzkdr8b/AADpZQZO3iv0hRL7rU72Pk-ha?dl=0)<br/>
 * [Link to thesis in Trinity College Dublin Repository](http://www.tara.tcd.ie/handle/2262/80506)
-
-### Press
-* [CMC Salon Series Press Release](https://www.cmc.ie/content/contemporary-music-centres-salon-series-opens-eclectic-electro-acoustic-program)<br/>
-* [The Offaly Express](https://www.offalyexpress.ie/news/home/265639/offaly-man-prepares-for-unique-musical-performance-in-london.html)<br/>
-* [Glór Mundo 29th September 2017](https://www.facebook.com/GlorMundO/posts/868313836667030)<br/>
-* [Glór Mundo 27th September 2017](https://www.facebook.com/glormundo/posts/868313836667030)
-
-### Outputs
-This was a multidisciplinary project that resulted in a number of outputs across a broad range of disciplines.
-
-#### Journal Articles
-- [Roddy, S. (2020) Using Conceptual Metaphors to Represent Temporal Context in Time-Series Data Sonification. Interacting with Computers](https://academic.oup.com/iwc/article-abstract/doi/10.1093/iwc/iwz036/5670599)
-- [Roddy, S., & Furlong, D. (2014). Embodied Aesthetics in Auditory Display. Organised Sound, 19(01), 70-77](https://www.cambridge.org/core/journals/organised-sound/article/embodied-aesthetics-in-auditory-display/65EC753E1FA165ADAB7E1034FEAE6576)
-
-#### Conference Papers
-- [Roddy, S. & Furlong, D. (2018) Vowel Formant Profiles and Image Schemata in Auditory Display. In Proceedings of HCI 2018 4-6 July 2018, Belfast](https://www.researchgate.net/publication/326572938_Vowel_Formant_Profiles_and_Image_Schemata_in_Auditory_Display)
-- [Roddy, S. (2017) Composing The Good Ship Hibernia and the Hole in the Bottom of the World. In Proceedings of Audio Mostly 2017 23-26 August 2017](https://www.researchgate.net/publication/319332093_Composing_The_Good_Ship_Hibernia_and_the_Hole_in_the_Bottom_of_the_World)
-- [Roddy, S., & Furlong, D. (2015). Embodied Auditory Display Affordances. In Proceedings of the 12th Sound and Music Computing Conference: National University of Ireland Maynooth (pp. 477-484)](https://www.researchgate.net/publication/280641643_Embodied_Auditory_Display_Affordances)
-- [Roddy, S., & Furlong, D. (2015). Sonification Listening: An Empirical Embodied Approach. In Proceedings of The 21st International Conference on Auditory Display (ICAD 2015) July 8–10, 2015, Graz, Austria. (pp.181-187)](https://smartech.gatech.edu/bitstream/handle/1853/54125/ICAD%20Proceedings%2015-Roddy.pdf?sequence=1&isAllowed=y)
-- [Roddy, S., & Furlong, D. (2013). Embodied cognition in auditory display. In Proceedings Of the 19th International Conference on Auditory Display, July 6-10 Łódź, Poland ( pp. 127-134)](https://smartech.gatech.edu/handle/1853/51657)
-- [Roddy, S., & Furlong, D. (2013). Rethinking the Transmission Medium in Live Computer Music Performance. Presented at the Irish Sound Science and Technology Convocation, Dún Laoghaire Institute of Art, Design and Technology](http://issta.ie/wp-content/uploads/ISSTC-2013-RODDY.pdf)
 
 #### Performances and installations
 - [The Good Ship Hibernia @ Audio Mostly Queen Mary University London 23-26 August 2017](https://audiomostly.com/2017/)
@@ -126,16 +109,34 @@ This was a multidisciplinary project that resulted in a number of outputs across
 - [Data Listening @ Discover Research Dublin 2015, Trinity College Dublin](https://discoverresearchdublin.com/)
 - [Sonification and the Digital Divide @ Digital Material Conference, National University of Ireland Galway, May 21st 2015](https://irishhumanities.com/events/digital-material-conference/)
 
-#### Press & Radio
-- [Newspaper Article "Offaly man prepares for 'unique' musical performance in London". The Offaly Express, 17 August 2017.](https://www.offalyexpress.ie/news/home/265639/offaly-man-prepares-for-unique-musical-performance-in-london.html)
-- [Symmetric Relations and Hidden Rotations - Nova Sunday 13 September 2015 - Nova RTÉ lyric fm](https://www.rte.ie/lyricfm/nova/programmes/2015/0913/727619-nova-sunday-13-september-2015/)
+#### Radio Broadcasts
+<ul>
+<li>
+    <a target="_blank" href="https://www.mixcloud.com/widget/iframe/?feed=%2Fgubu-odee%2Fthe-gubu-st-patricks-day-session%2F">The Good Ship Hibernia and the Hole in the Bottom of the World - Glór Mundo St Patricks Day Session 2018 - Glór Mundo - 93.7fm.</a>
+  </li>
+  <li>
+    <a target="_blank" href="http://www.rte.ie/lyricfm/nova/programmes/2015/0913/727619-nova-sunday-13-september-2015/">Symmetric Relations and Hidden Rotations - Nova Sunday 13 September 2015 - Nova RTÉ lyric fm.</a>
+  </li>
+  <li>
+    <a target="_blank" href="http://www.rte.ie/lyricfm/nova/programmes/2015/1011/734052-nova-sunday-11-october-2015/">No Output: Cellular Storm Nova Sunday 11 October 2015 - Nova RTÉ lyric fm.</a>
+  </li>
+  <li>
+    <a target="_blank" href="http://www.rte.ie/lyricfm/nova/programmes/2015/1108/740526-nova-sunday-8-november-2015/?clipid=2017805">Extensive Structure No 1 - Nova Sunday 8 November 2015 - Nova RTÉ lyric fm.</a>
+  </li>
+</ul>
 
+#### Press
+* [Newspaper Article "Offaly man prepares for 'unique' musical performance in London". The Offaly Express, 17 August 2017.](https://www.offalyexpress.ie/news/home/265639/offaly-man-prepares-for-unique-musical-performance-in-london.html)
+* [CMC Salon Series Press Release](https://www.cmc.ie/content/contemporary-music-centres-salon-series-opens-eclectic-electro-acoustic-program)<br/>
+* [The Offaly Express](https://www.offalyexpress.ie/news/home/265639/offaly-man-prepares-for-unique-musical-performance-in-london.html)<br/>
+* [Glór Mundo 29th September 2017](https://www.facebook.com/GlorMundO/posts/868313836667030)<br/>
+* [Glór Mundo 27th September 2017](https://www.facebook.com/glormundo/posts/868313836667030)<br />
 
-### Creative Skills
+#### Creative Skills
 HCI Design. Interaction Design. UX Design. Sound Design. Music Composition. Data Sonification. Data Visualisation.
 
-### Research & Technical Skills
+#### Research & Technical Skills
 User Evaluations. A/B Testing. Perceptual Testing. Experimental Design. Distributed User Testing. Programming. Data Analysis. Audio Engineering. Recording. Data Analysis. Data Sonification. Data Visualisation. 
 
-### Tags
+#### Tags
 Embodied Cognition. Sonification. Auditory Display. Stephen Roddy.

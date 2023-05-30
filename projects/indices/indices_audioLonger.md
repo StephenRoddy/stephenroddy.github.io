@@ -1,7 +1,7 @@
-## Sound, Music & Machine Learning: 58+1 Indices On The Body:
+<base target="_blank">
+### 58+1 Indices On The Body with AMAE/DePinto & Jean-Luc Nancy
 
-
-### Iteration 1: First Piece and Venice Performance
+#### Iteration 1: First Piece and Venice Performance
 
 [When ready click here to begin](https://stephenroddy.github.io/58IndicesLangTrans/)
 [Mobile version available here](https://stephenroddy.github.io/58IndicesLangTrans/mobile.html)
@@ -22,7 +22,7 @@ You can hear that piece here:
 
 <img src="images/12186271_1116088238416382_7289188895621671914_o.jpg?raw=true"/><br/>
 
-### Iteration 2: Further Pieces
+#### Iteration 2: Further Pieces
 
 Later, in 2016/2017, I recorded additional Soundworks and musical pieces incorporating Nancy's indexes, a portion of which will be set to performances and recorded by video artists as part of the 63 Videos on the Body project. You can hear those pieces here on my collection"Le Son Du Corps Et Un Corps de Sons" available on:
 
@@ -67,7 +67,7 @@ This discordant configuration however is in perfect harmony with Nancy's vision 
 
 >Why indices? Because there's no totality to the body, no synthetic unity. There are pieces, zones, fragments. There's one bit after another, a stomach, an eyelash, a thumb-nail, a shoulder, a breast, a nose, an upper intestine, a choledoch, a pancreas: anatomy is endless, until eventually running into an exhaustive enumeration of cells. But this doesn't yield a totality...
 
-## Directions
+#### Directions
 
    1. Follow link for the Piece: [Click Here for the Piece](https://stephenroddy.github.io/58IndicesLangTrans/)
 
@@ -83,7 +83,7 @@ This discordant configuration however is in perfect harmony with Nancy's vision 
 [Mobile version](https://stephenroddy.github.io/58IndicesLangTrans/mobile.html)
 
 <--
-## Technical/Performance Requirements:
+#### Technical/Performance Requirements:
 
 The piece was debuted at ISSTA 2019.
 
@@ -92,10 +92,10 @@ The piece can also be made available for the audience to experience at the confe
 
 The audio is mixed for a standard stereo setup. The entire performance is available as a web app in standard and mobile versions. The piece can be installed using two stereo speakers, a screen/projector and an interaction medium. The piece can also be made available for the audience to experience via the Web App. This can be launched locally from a laptop or accessed online during the performance.
 
-## Credits
+#### Credits
 
 This project builds on code originally created by Yannis Yannakopoulos at codrops and is powered by p5js and its p5.sound library. By Yannis Yannakopoulos [Twitter](https://twitter.com/neundex) [GitHub](https://github.com/codrops)- [p5js](http://www.p5js.org) [ml5.js](https://ml5js.org/). To create your own sentiment analysis model using the imdb dataset see here: [link](https://machinelearningmastery.com/predict-sentiment-movie-reviews-using-deep-learning/)).
 
 
-## License
+#### License
 This resource can be used freely if integrated or build upon in personal or commercial projects such as websites, web apps and web templates intended for sale. It is not allowed to take the resource "as-is" and sell it, redistribute, re-publish it, or sell "pluginized" versions of it. Free plugins built using this resource should have a visible mention and link to the original work. Always consider the licenses of all included libraries, scripts and images used. 
