@@ -10,7 +10,8 @@ This ongoing project is investigating the roots of contemporary sound art aesthe
 ### Writings
 
 The following articles outline how Kyoto School thinking has shaped sound art practice.
-The article in [Resonance: The Journal of Sound And Culture](https://online.ucpress.edu/res/article/4/1/69/195805/The-Kyoto-School-and-Sound-ArtA-Nothingness-of-the) explores intersections between the Kyoto School and relevant 20th-century art movements analyzing key sound art pieces in relation to important themes developed in Kyoto School thought while the conference paper presented at [Invisible Places](http://invisibleplaces.org/) provides a higher level overview of the topic focusing mostly on historical perspectives.
+The article in [Resonance: The Journal of Sound And Culture](https://online.ucpress.edu/res/article/4/1/69/195805/The-Kyoto-School-and-Sound-ArtA-Nothingness-of-the) explores intersections between the Kyoto School and relevant 20th-century art movements analyzing key sound art pieces in relation to important themes developed in Kyoto School thought .
+The conference paper presented at [Invisible Places](http://invisibleplaces.org/) provides a higher level overview of the topic focusing mostly on historical perspectives.
 
 
 * [The Kyoto School and Sound Art: A Nothingness of the Absolute](https://doi.org/10.1525/res.2023.4.1.69)
