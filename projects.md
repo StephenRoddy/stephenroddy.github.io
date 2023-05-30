@@ -28,14 +28,14 @@
 <img src="images/tabs/AItab.png?raw=true"/>
 </a>
 
-[The Human Cost Sonifications](/projects/human_cost/human_cost)<br />
-<a href="/projects/human_cost/human_cost">
-<img src="images/tabs/HC2tab.png?raw=true"/>
-</a>
-
 [Absolute Nothingness: The Roots of Contemporary Sound Art Aesthetics](/projects/ab_no/ab_no)<br />
 <a href="/projects/ab_no/ab_no">
 <img src="images/tabs/ab_no.png?raw=true"/>
+</a>
+
+[The Human Cost Sonifications](/projects/human_cost/human_cost)<br />
+<a href="/projects/human_cost/human_cost">
+<img src="images/tabs/HC2tab.png?raw=true"/>
 </a>
 
 [Dance Performance Projects](/projects/dance/dance)<br />
