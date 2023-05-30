@@ -1,11 +1,11 @@
 <base target="_blank">
 ## Absolute Nothingness: The Roots of Contemporary Sound Art Aesthetics
 
+<img src="images/index2.png?raw=true"/><br/>
+
 ### Project Overview
 
 This ongoing project is investigating the roots of contemporary sound art aesthetics. It is currently exploring how the thinking of Kyoto School philosophers, Nishida, Tanabe, and Nishitani shaped the historical development and philosophical underpinnings of sound art, and continues to influence contemporary sound art practices today.
-
-<img src="images/index2.png?raw=true"/><br/>
 
 ### Writings
 
