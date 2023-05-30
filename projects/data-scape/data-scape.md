@@ -1,3 +1,4 @@
+<base target="_blank">
 ## Data-scape: An Online Framework for Data Sonification
 
 ### Project Description

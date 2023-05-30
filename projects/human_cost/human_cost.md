@@ -1,3 +1,4 @@
+<base target="_blank">
 ### The Human Cost: Sonification and Ireland's Economic Crash
 
 #### Project Overview

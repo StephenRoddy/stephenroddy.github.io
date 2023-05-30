@@ -1,3 +1,4 @@
+<base target="_blank">
 ## Embodied Sonification
 
 ### Project Overview

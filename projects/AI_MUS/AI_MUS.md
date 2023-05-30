@@ -1,23 +1,24 @@
-### AI, ML, & Cybernetics for Musical Applications
+<base target="_blank">
+## AI, ML, & Cybernetics for Musical Applications
 
-#### Overview
+### Overview
 
 This project began as part of my postdoctoral research exploring Automated Music Synthesis at the Department of Electrical and Electronic Engineering at Trinity College Dublin. The project investigated methods for integrating machine learning and deep learning techniques (ML/DL) into the electronic music production and performance pipelines.  
 
-#### Generative Machine Learning for Music Production Pipelines
+### Generative Machine Learning for Music Production Pipelines
 
-##### LSTM Architectures
+#### LSTM Architectures
 Initial work focused on music production applications, specifically music generation at the MIDI event level. The models used Long short-term memory (LSTM) type architectures (using recurrent neural networks or RNNs) implemented with Tensorflow (Keras in Python). This allowed for the generation of new musical materials using features learned from an input MIDI data set. A variety of models were created in this way, some focusing on specific instruments and others focusing on specific artists, styles, and applications. The models developed for melody and harmony are generally focused on patterns at the note and chord levels.
 
 <img src="images/model_def_py.png?raw=true"/><br/>
 
-##### Data set
+#### Data set
 To assemble the training data for initial experiments, I acquired a large number of MIDI files from a range of online sources across a wide range of musical styles. These experiments explored several musical genres/styles. The MIDI files were cleaned and split into sub-files on the basis of instrumentation etc. They were then mapped to integer values (with MIT's [Music21 toolkit](https://web.mit.edu/music21/)) so that a one-hot encoding scheme could be applied.
 
-##### Overview 
+#### Training 
 For training, data is split into n-length musical sequences. Each sequence is then paired with its following sequence element: n+1. This conditions the network to predict the next element for a given n-length sequence provided to it at prediction/generation time.
 
-##### Results 
+#### Results 
 While the models were effective, the musical outputs were, unsurprisingly, heavily tied to and constrained by the training data. Instances of direct replication and interpolation were obvious, though I addressed issues of overfitting with dropout layers. Extrapolation over musical materials tended to progress in a predictable manner. While a testament to the power of the techniques involved, this approach alone isn't a sufficient method for generating interesting musical materials. More interesting outputs can be obtained by varying the input data set, the model architecture, and the hyperparameters of the model.
 These approaches can then be integrated into a larger music production pipeline to create interesting music. You can hear examples of this approach below. Relevant models created during this phase were the KennyG_ENERATOR and DefLSTM.
 
@@ -35,13 +36,13 @@ To create interesting harmonic/melodic results, the model used for the first 3 t
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=951154666/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/30-epoch-opus">30 Epoch Opus by Stephen Roddy</a></iframe>
 </div>
 
-##### Further Steps 
+#### Further Steps 
 This initial work was followed with the development of a GAN-based system but the long training times involved made this approach less useful than the LSTM systems for generating musical materials as part of a traditional music production workflow. The LSTM systems described above were easily integrated with Python notebooks allowing for better control and interaction when running in cloud computing environments during a standard music production workflow. I also explored the application of MusicVAE, which originated with Google's [Magenta Project](https://magenta.tensorflow.org/), which proved tricky to re-train on-the-fly during the production workflow. Regardless, I did make use of both of these approaches in other projects along with itrations on the LSTM-based techniques described above. For example, an updated version of the the model used in 30 Epoch Opus titled, 2Def2Lep was used in the production of Whispering Signals, and Loopscape #1 on the Signal to Noise Loops release and GAN-based models were used to create live visual materials for the Indices on the Body project.
 
 - [Signal to Noise Loops](https://stephenroddy.github.io/projects/s2nl/s2nl_project)
 - [Indices on the Body](https://stephenroddy.github.io/projects/indices/indices_audio)
 
-#### CV & ML Techniques for Gestural Interaction in Live Music Performance & Installation 
+### CV & ML Techniques for Gestural Interaction in Live Music Performance & Installation 
 
 The second phase of the project explored computer vision (CV) and ML techniques for gestural control of performance systems (UAVs: drones, and music/sound synthesis). My colleagues and I at the Department of Electrical and Electronic Engineering TCD, designed and built a gestural control interface that could be used to control the flight of a drone.
 The hardware required to communicate with the drone was designed and built by a colleague. I built the system gestural interface system HTML, Javascript, and Node.js and used the tone.js, p5.js, ml5.js libraries. 
