@@ -1,7 +1,7 @@
 <base target="_blank">
-### Signal to Noise Loops<br/>
+## Signal to Noise Loops<br/>
 
-#### Project Overview<br/>
+### Project Overview<br/>
 Signal to Noise Loops emerged from a broader project entitled 'Auditory Display for Large-scale IoT Networks' carried out at the CONNECT Centre Trinity College Dublin. 
 
 The project integrates open data from Internet of Things (IoT) sensor networks in Dublin, Ireland, in a series of experimental music performances and installations. Each piece treats the city, as mediated by the data it produces, as a collaborator in a musical or sonic work. The project is realized through a bespoke generative music system that continues to adapt and expanded as the project evolves. The system is designed in line with principles from the field of Cybernetics to integrate with both the city and the human performer. Thus, the project links electronic music/sonic performance, IoT/Smart City Data, Generative Music techniques, and Cybernetics. Each performance or installation draws data from networks of IoT devices placed around Dublin City. Sensor and network data are mapped to control the parameters of a given performance/installation. How this takes place is mediated by the generative music system. The state of the system is determined by the state of Dublin city, as represented through the IoT sensor data. The system's state in turn determines the musical choices it makes while improvising alongside a human performer. Each performance with the system is unique as it represents a complex array of data relations that describe the state of Dublin City and any given time. The project involved the iterative development of the system with each performance acting as an evaluation after which the system would be expanded and further refined. <br />

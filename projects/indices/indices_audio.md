@@ -1,8 +1,8 @@
 <base target="_blank">
-### 58+1 Indices On The Body with AMAE/DePinto & Jean-Luc Nancy
+## 58+1 Indices On The Body with AMAE/DePinto & Jean-Luc Nancy
 
 
-#### Iteration 1: First Piece and Venice Performance
+### Iteration 1: First Piece and Venice Performance
 
 This project grew in dialogue with another ongoing project titled 58+1 Indices on the body. That project is a collaboration between the artistic collective AMAE and the artist Pier Giorgio De Pinto and philosopher Jean-luc Nancy. This project focuses on Nancy's 58 indices sur le corps (58 indices on the body), written in 2006 by Jean-Luc Nancy presented in his book Corpus. The project combines performances, videos, interactive installations and collaborations with a large and varied group of artists.
 
@@ -23,7 +23,7 @@ You can hear that piece here:
 <img src="images/12186271_1116088238416382_7289188895621671914_o.jpg?raw=true"/><br/>
 Credit: Pier Giorgio De Pinto
 
-#### Iteration 2: Further Pieces
+### Iteration 2: Further Pieces
 
 Later, in 2016/2017, I recorded additional Soundworks and musical pieces incorporating Nancy's indexes, a portion of which will be set to performances and recorded by video artists as part of the 63 Videos on the Body project. You can hear those pieces here on my collection"Le Son Du Corps Et Un Corps de Sons" available on:
 
@@ -34,7 +34,7 @@ Later, in 2016/2017, I recorded additional Soundworks and musical pieces incorpo
 * [Spotify](https://open.spotify.com/album/3DsDLwlP74rKzIRaGvsyeh)
 * [Apple Music](https://music.apple.com/us/album/le-son-du-corps-et-un-corps-de-sons/1314413365)
 
-##### Iterations 3, 4 & 5: The Body in the Machine: Indices Online
+### Iterations 3, 4 & 5: The Body in the Machine: Indices Online
 
 In 2021 I developed an online art installation entitled 'The Body in the Machine: Indices Online' to be delivered for the xCoAx 2021: 9th Conference on Computation, Communication, Aesthetics & X [xCoAx 2021](https://2021.xcoax.org/). This built upon two earlier iteration of the work. 'Indices Online' was installed at the 2020 edition of [NIME: The International Conference on New Interfaces for Musical Expression](https://nime2020.bcu.ac.uk/indices-online/) and '8+1 Indices On The Body: A Reflection on Translations through Language, Technology and Sounds - Selected Indices Soundworks and Musical Pieces w/Sentiment Analysis' was installed for the [2019 Irish Sound Science and Technology Event at the Cork School of Music](https://drive.google.com/file/d/1W_np9Jb-QEeny_Hd4wzR12Zvv-CdpXFr/view).
 
@@ -53,7 +53,7 @@ You can read more about the in my xCoAx paper below:
 
 * [xCoAx 2021 Artwork Paper](/files/xCoAx2021-Roddy.pdf)
 
-#### Iteration 6: The Body in the Machine: Indices Online - Somewhere.
+### Iteration 6: The Body in the Machine: Indices Online - Somewhere.
 
 <img src="images/somewhere.png?raw=true"/><br/>
 
@@ -69,5 +69,5 @@ Sound Design. Music Composition. Sound Art. Visual Design.
 ### Technical
 Javascript. HTML. CSS. Git.Sentiment Analysis. Machine Learning Knowledge. Creative Coding. Audio Recording and Engineering.Web Development.
 -->
-#### Tags
+### Tags
 Indices on the Body. Pier De Pinto. AMAE. Jean-Luc Nancy. Stephen Roddy. Sound. Music. Contemporary Art.
