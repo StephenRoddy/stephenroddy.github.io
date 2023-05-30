@@ -47,7 +47,7 @@ Overall the project found that designing sonifications on the basis of principle
 This was a multidisciplinary project that resulted a varied range of outputs across a broad range of media, disciplines and venues.
 
 #### Journal Articles
-- [Roddy, S. (2020) Using Conceptual Metaphors to Represent Temporal Context in Time-Series Data Sonification. Interacting with Computers](https://academic.oup.com/iwc/article-abstract/doi/10.1093/iwc/iwz036/5670599)
+- [Roddy, S. (2020) Using Conceptual Metaphors to Represent Temporal Context in Time-Series Data Sonification. Interacting with Computers](papers/Roddy_2020_Preprint.pdf)
 - [Roddy, S., & Furlong, D. (2014). Embodied Aesthetics in Auditory Display. Organised Sound, 19(01), 70-77](papers/Organised Sound - Embodied Aesthetics in Auditory Display.pdf)
 
 #### Conference Papers
