@@ -1,6 +1,6 @@
 ### Biography
 
-I am an Artist, Researcher, and Lecturer based at the Radical Humanities Lab and the Department of Digital Humanities at University College Cork. My work is situated at the intersection of computing and the creative arts. I hold a Ph.D. in data sonification: the use of sound to perceptualize data and convey information. My research is focused on the application of sonification, auditory display, artificial intelligence/machine learning (AI/ML), internet of things (IoT), and human-computer interaction (HCI) techniques in the creative arts and beyond, from the perspectives of cybernetis and embodied cognitive science.
+I am an Artist, Researcher, and Lecturer based at the Radical Humanities Lab and the Department of Digital Humanities at University College Cork. My work is situated at the intersection of computing and the creative arts. I hold a Ph.D. in data sonification: the use of sound to perceptualize data and convey information. My research is focused on the application of sonification, auditory display, artificial intelligence/machine learning (AI/ML), internet of things (IoT), and human-computer interaction (HCI) techniques in the creative arts and beyond, from the perspectives of embodied cognitive science, and cybernetics.
 
 Previous projects have explored the design of auditory display solutions for large-scale IoT networks and investigated the integration of sonification and AI/ML techniques in generative music and sound art applications. This work was carried out under an IRC Postdoctoral Fellowship at CONNECT: the SFI Research Centre for Future Networks and Communications, at Trinity College Dublin (TCD), and the Department of Electronic & Electrical Engineering also at TCD. My work is widely disseminated through peer-reviewed journal publications, book chapters, and conference proceedings.
 
@@ -601,7 +601,6 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 ---
-<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
-Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></small>
-</p>
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
 <!-- Remove above link if you don't want to attibute -->

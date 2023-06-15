@@ -28,14 +28,14 @@
 <img src="images/tabs/AItab.png?raw=true"/>
 </a>
 
-[The Human Cost Sonifications](/projects/human_cost/human_cost)<br />
-<a href="/projects/human_cost/human_cost">
-<img src="images/tabs/HC2tab.png?raw=true"/>
-</a>
-
 [Absolute Nothingness: The Roots of Contemporary Sound Art Aesthetics](/projects/ab_no/ab_no)<br />
 <a href="/projects/ab_no/ab_no">
 <img src="images/tabs/ab_no.png?raw=true"/>
+</a>
+
+[The Human Cost Sonifications](/projects/human_cost/human_cost)<br />
+<a href="/projects/human_cost/human_cost">
+<img src="images/tabs/HC2tab.png?raw=true"/>
 </a>
 
 [Dance Performance Projects](/projects/dance/dance)<br />
@@ -62,8 +62,8 @@
 [dog.display()](/projects/dog-display/dog_display)<br />
 
 -->
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
+Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></small></p>
 <!---
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>

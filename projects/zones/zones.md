@@ -90,3 +90,7 @@ For example, in the DroneScape Sonification above data is mapped to control the 
 
 
 <img src="images/great_hall.jpg?raw=true"/><br/>
+<br />
+<br />
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
+Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></small></p>

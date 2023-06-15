@@ -67,3 +67,7 @@ Embodied at the GPO and the Sonorities Contemporary Music Festival.
   <div style="margin-bottom: 5px; margin-left: auto; margin-right: auto; text-align: center;">
   <a href="https://open.spotify.com/artist/6FZOlLhsey17jwrTGBV07c" target="_blank">Spotify</a> | <a href="https://itunes.apple.com/us/artist/stephen-roddy/id1105554061" target="_blank">Apple Music</a> | <a href="https://play.google.com/store/music/artist/Stephen_Roddy?id=Aih2l4nvz4c2etfb42wzvfkmwhm" target="_blank">Google Play</a> | <a href="https://www.amazon.com/s/ref=ntt_srch_drd_B01EJ9KE26?ie=UTF8&amp;field-keywords=Stephen%20Roddy&amp;index=digital-music&amp;search-type=ss" target="_blank">Amazon</a> | <a href="http://www.deezer.com/us/artist/10217120" target="_blank">Deezer</a> | <a href="https://stephenroddy.bandcamp.com/" target="_blank">Bandcamp</a>  | <a href="https://listen.tidal.com/artist/7765412" target="_blank">Tidal</a> </div>
 <br />
+<br />
+<br />
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
+Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></small></p>

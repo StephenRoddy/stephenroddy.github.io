@@ -16,3 +16,7 @@ You can try out the app in its current state here:
 
 ### Technologies
 Javascript, React, Bootstrap, Node.js JSX, JSON, HTML5, CSS, RESTful, API
+<br />
+<br />
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
+Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></small></p>

@@ -71,3 +71,7 @@ Javascript. HTML. CSS. Git.Sentiment Analysis. Machine Learning Knowledge. Creat
 -->
 ### Tags
 Indices on the Body. Pier De Pinto. AMAE. Jean-Luc Nancy. Stephen Roddy. Sound. Music. Contemporary Art.
+<br />
+<br />
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
+Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></small></p>

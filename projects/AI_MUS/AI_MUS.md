@@ -83,3 +83,7 @@ You can learn more about the creation of the EP as well as the artwork design fr
 
 ### Tags
 Generative Music. Machine Learning. Computer Vision. Musical Interaction. Gestural Interfaces. Creative Coding. Web Applications. Stochastic Processes. Probabilistic Techniques.
+<br />
+<br />
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
+Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></small></p>

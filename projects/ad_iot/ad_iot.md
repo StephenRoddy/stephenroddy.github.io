@@ -237,3 +237,7 @@ HTML/CSS/Javascript. Python. Csound. OSC& MIDI. Programming. Data Analysis. Audi
 
 ### Tags
 Sonification. Auditory Display. Internet of Things Networks. Smart Cities. Embodied Cognition. Machine Learning. Data. Stephen Roddy.
+<br />
+<br />
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
+Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></small></p>
