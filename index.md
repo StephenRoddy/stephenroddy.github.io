@@ -85,6 +85,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p><strong>Peer Reviewed Conference Papers</strong></p>
 <ul>
   <li>
+    <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99596">Roddy, S. (2022). A Technique for Controlling the Proportion of Information in the Sonification of Complex Time Series Data. The 27th International Conference on Auditory Display.</a>
+  </li>
+  <li>
     <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99595">Roddy, S. (2022). Creating Signal to Noise Loops v4. In the Proceedings of the International Conference on Auditory Display, ICAD 2022.</a>
   </li>
   <li>
@@ -124,11 +127,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="http://issta.ie/wp-content/uploads/ISSTC-2013-RODDY.pdf">Roddy, S., & Furlong, D. (2013). Rethinking the Transmission Medium in Live Computer Music Performance. Presented at the Irish Sound Science and Technology Convocation, Dún Laoghaire Institute of Art, Design and Technology.</a>
   </li>
 </ul>
-<p><strong><strong>Short Papers and Abstracts</strong></strong></p>
+<p><strong><strong>Abstracts & Talks</strong></strong></p>
 <ul>
-  <li>
-    <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99596">Roddy, S. (2022). A Technique for Controlling the Proportion of Information in the Sonification of Complex Time Series Data. The 27th International Conference on Auditory Display.</a>
-  </li>
   <li>
     <a target="_blank" href="https://www.researchgate.net/publication/360849585_IoT_and_AI-Driven_Audio_in_the_Smart_City_A_Rhythmanalysis_inspired_approach">Roddy, S. (2018). IoT and AI-Driven Audio in the Smart City: A Rhythmanalysis Inspired Approach. The Irish Sound Science and Technology Association Conference. Ulster University, Magee Campus, Derry/Londonderry.</a>
   </li>
