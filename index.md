@@ -324,7 +324,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/stardust-sonata">Stardust Sonata (2016) Experimental guitar instrumentals converge with computer music and electroacoustic techniques in a tribute to David Bowie. 6-track album.</a>
   </li>
   <li>
-    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/the-human-cost-a-sonification-of-irelands-economic-crash">The Human Cost: A Sonification of Ireland's Economic Crash (2016) Includes sonifications and data-driven musical works exploring the socioeconomic data from Ireland’s 2008 financial crash. Includes works composed for my Ph.D. 6-track album.</a>
+    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/the-human-cost-a-sonification-of-irelands-economic-crash">The Human Cost: A Sonification of Ireland's Economic Crash (2016) Includes sonifications and data-driven musical works exploring the socioeconomic data from Ireland’s 2008 financial crash. Includes works composed for my Ph.D. 5-track album.</a>
   </li>
   <li>
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/purple-waves">Purple Waves (2016) Experimental  guitar with computer music techniques composed in  tribute to Prince. 9-track album.</a>
