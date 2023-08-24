@@ -82,7 +82,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 
-<p><strong>Peer Reviewed Conference Papers</strong></p>
+<p><strong>Peer Reviewed Conference Proceedings</strong></p>
 <ul>
   <li>
     <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99596">Roddy, S. (2022). A Technique for Controlling the Proportion of Information in the Sonification of Complex Time Series Data. The 27th International Conference on Auditory Display.</a>
