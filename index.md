@@ -302,7 +302,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="http://stolenmirror.com/2021d01-tides.html">2021. Idle Hands [...] featured on Tides: An ISSTA Anthology. On the Stolen Mirror Label.</a>
   </li>
     <li>
-    <a target="_blank" href="images/brl.png">2019. Der Kardinal featured on Dead Leaves - Charity Compilation (Out of Print). By Brutal Resonance .</a>
+    <a target="_blank" href="images/brl.png">2019. Der Kardinal featured on Dead Leaves - Charity Compilation (Out of Print). By Brutal Resonance.</a>
   </li>
 </ul>
 <p>Independent Releases</p>
