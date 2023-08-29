@@ -80,7 +80,7 @@ During the production of 30 Epoch Opus, I found that noisier outputs tended to b
 
 You can learn more about the creation of the EP as well as the artwork design from the [liner notes](https://stephenroddy.bandcamp.com/album/darkness-visible) on [Bandcamp](https://stephenroddy.bandcamp.com/album/darkness-visible).
 
-### Ethical, Social and Politcal Dimensions of AI 
+### Ethical, Social and Politcal Dimensions of AI/ML
 Alongside the technical and creative and posibilities opened up by AI/ML technologies, this project has also explored the ethical, social and political dimensions of AI adoption in the creative arts. I have explored these questions during my time with the IEEE Committee on Ethically Aligned Design for Artists. Our first publication, The Voice of the ARtist in the age of the Algorithm explores some of the ethical questions raised by the application of AI/ML technologies in the creative industries and mkaes recomendations:
 
 - Artists should mobilize and collectively exert power to encourage and influence the development of human artist-centric AI systems.
@@ -104,7 +104,7 @@ More recently the project has been concerned with how artists navigate the myria
 
 
 ### Tags
-Generative Music. Machine Learning. Computer Vision. Musical Interaction. Gestural Interfaces. Creative Coding. Web Applications. Stochastic Processes. Probabilistic Techniques.
+Artificial Intelligence. Machine Learning. Computer Vision. Musical Interaction. Gestural Interfaces. Creative Coding. Web Applications. Generative Music. Stochastic Processes. Probabilistic Techniques.
 <br />
 <br />
 <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
