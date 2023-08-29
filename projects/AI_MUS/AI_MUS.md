@@ -3,7 +3,7 @@
 
 ### Overview
 
-This project began as part of my postdoctoral research exploring Automated Music Synthesis at the Department of Electrical and Electronic Engineering at Trinity College Dublin. The project investigated methods for integrating machine learning and deep learning techniques (ML/DL) into the electronic music production and performance pipelines.  
+This project began as part of my postdoctoral research exploring Automated Music Synthesis at the Department of Electrical and Electronic Engineering at Trinity College Dublin. The project investigated methods for integrating machine learning and deep learning techniques (ML/DL) into the electronic music production and performance pipelines. Over time the project has grown to account for ethical, social and cultural factors as well as introducing a Cybernetic framework for the application of AI/ML technologies in the creative arts. 
 
 ### Generative Machine Learning for Music Production Pipelines
 
