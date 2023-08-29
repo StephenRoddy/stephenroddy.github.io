@@ -110,7 +110,7 @@ Signal to Noise Loops v4 was selected for performance at the concerts for the 27
 #### Leonardo Article
 For a more in-depth discussion of the first four iterations of this project please see my article in Volume 56 Issue 1 of Leonardo where they are analyzed and contextualized in detail. 
 
-- [ Signal to Noise Loops: A Cybernetic Approach to Musical Performance with Smart City Data and Generative Music Techniques ](https://direct.mit.edu/leon/article-abstract/56/1/87/112358/Signal-to-Noise-Loops-A-Cybernetic-Approach-to)
+- [Signal to Noise Loops: A Cybernetic Approach to Musical Performance with Smart City Data and Generative Music Techniques ](https://direct.mit.edu/leon/article-abstract/56/1/87/112358/Signal-to-Noise-Loops-A-Cybernetic-Approach-to)
 
 
 #### Iteration 5: An Audiovisual Re-emergence<br/>
