@@ -85,7 +85,7 @@ You can learn more about the creation of the EP as well as the artwork design fr
 
 <img src="images/Becoming-Machine-TEXT-scaled.jpg?raw=true"/><br/>
 
-An audiovisual extension of "opening to the ambient light" which uses a Javascript implementation of the Fast Fourier Transform to map musical data to visual information was produced for the Becoming-Human pavillion at the 2023 edition of the [Wrong Biennale](https://thewrong.org/). The pavillion is run by [CapitArt](https://capitart.com/aboutus/) and the piece will go on display in the [Artsect Gallery](https://www.artsect.xyz/) in London at the start of November 2023 and be available online in the Virtual Exhibition through February 2024.
+An audiovisual expression of "opening to the ambient light", which uses a Javascript implementation of the Fast Fourier Transform to map musical data to visual information, was produced for the Becoming-Human pavillion curated by [Isil Ezgi Celik](https://capitart.com/capitart/) of [CapitArt](https://capitart.com/aboutus/) for the 2023 edition of the [Wrong Biennale](https://thewrong.org/). The piece will go on display in the [Artsect Gallery](https://www.artsect.xyz/) in London at the start of November 2023 and be available online in the Virtual Exhibition until February 2024.
 
 Information about the exhibition can be accessed on the CapitArt website here:
 - [Becoming-Machine Website](https://capitart.com/becoming-machine/)
