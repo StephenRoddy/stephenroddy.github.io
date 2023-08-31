@@ -1,6 +1,6 @@
 ### Biography
 
-I am a Musician, Researcher and Lecturer based at the Radical Humanities Lab and the Department of Digital Humanities at University College Cork. My work spans engineering and the creative arts, focusing on sound and music computing. I hold a Ph.D. in sonification: the use of sound to perceptualize data and convey information. My research explores the application of auditory display, artificial intelligence/machine learning (AI/ML), internet of things (IoT), and human-computer interaction (HCI) techniques in the creative arts. I approach this primarily through the perspectives of cybernetics and embodied cognitive science.
+I am a Musical Artist, Researcher and Lecturer based at the Radical Humanities Lab and the Department of Digital Humanities at University College Cork. My work spans engineering and the creative arts, focusing on sound and music computing. I hold a Ph.D. in sonification: the use of sound to perceptualize data and convey information. My research explores the application of auditory display, artificial intelligence/machine learning (AI/ML), internet of things (IoT), and human-computer interaction (HCI) techniques in the creative arts. I approach this primarily through the perspectives of cybernetics and embodied cognitive science.
 
 Previous projects have involved the design of auditory display solutions for large-scale IoT networks and investigated the integration of sonification and AI/ML techniques in generative music and sound art applications. This work was carried out under an IRC Postdoctoral Fellowship at CONNECT: the SFI Research Centre for Future Networks and Communications, at Trinity College Dublin (TCD), and subsequently at the Department of Electronic & Electrical Engineering also at TCD. My work is widely disseminated through peer-reviewed journal publications, book chapters, and conference proceedings.
 
@@ -147,7 +147,14 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 
-<p><strong><strong>Creative & Performing Arts Projects: Performances & Installations</strong></strong></p>
+<p><strong><strong>Musical Performances & Sound Art Installations</strong></strong></p>
+
+<p>Forthcoming Performances & Installations:</p>
+<ul>
+<li>
+  <a target="_blank" href="https://capitart.com/becoming-machine/">opening to the ambient light, Becoming-Machine Pavillion at The Wrong Biennale. Curated by Isil Ezgi Celik, CapitArt. November 2023-February 2024. Physical exhibition at Artsect Gallery, London in November 2023.</a>
+</li>
+</ul>
 <p>The Signal to Noise Loops Project: Data-driven Generative Music w/AI&ML</p>
 <ul>
 <li>
@@ -296,6 +303,12 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 
 <p><strong>Discography</strong></p>
 
+<p>Forthcoming Recordings:</p>
+<ul>
+  <li>
+    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/leviathan">2023. Leviathan. A dark ambient exploration of our impending climate catatrophe. On Fiadh Productions</a>
+  </li>
+</ul>
 <p>Label Releases</p>
 <ul>
   <li>
@@ -349,7 +362,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 
-<p>Available on: <a target="_blank" href="https://stephenroddy.bandcamp.com/">Bandcamp</a> | <a target="_blank" href="https://open.spotify.com/artist/6FZOlLhsey17jwrTGBV07c">Spotify</a> | <a target="_blank" href="https://itunes.apple.com/us/artist/stephen-roddy/id1105554061">Apple Music</a> | <a target="_blank" href="https://play.google.com/store/music/artist/Stephen_Roddy?id=Aih2l4nvz4c2etfb42wzvfkmwhm">Google Play</a> | <a target="_blank" href="https://www.amazon.com/s/ref=ntt_srch_drd_B01EJ9KE26?ie=UTF8&amp;field-keywords=Stephen%20Roddy&amp;index=digital-music&amp;search-type=ss">Amazon</a> | <a target="_blank" href="http://www.deezer.com/us/artist/10217120">Deezer</a> | <a target="_blank" href="https://listen.tidal.com/artist/7765412">Tidal</a>   </p>
+<p>Available on: <a target="_blank" href="https://stephenroddy.bandcamp.com/">Bandcamp</a> | <a target="_blank" href="https://open.spotify.com/artist/6FZOlLhsey17jwrTGBV07c">Spotify</a> | <a target="_blank" href="https://itunes.apple.com/us/artist/stephen-roddy/id1105554061">Apple Music</a> | <a target="_blank" href="https://play.google.com/store/music/artist/Stephen_Roddy?id=Aih2l4nvz4c2etfb42wzvfkmwhm">Google Play</a> | <a target="_blank" href="https://www.amazon.com/s/ref=ntt_srch_drd_B01EJ9KE26?ie=UTF8&amp;field-keywords=Stephen%20Roddy&amp;index=digital-music&amp;search-type=ss">Amazon</a> | <a target="_blank" href="http://www.deezer.com/us/artist/10217120">Deezer</a> | <a target="_blank" href="https://listen.tidal.com/artist/7765412">Tidal</a></p>
 <p><strong>Funding and Awards</strong></p>
 <ul>
   <li>Irish Research Council Government of Ireland Postdoctoral Research Fellowship 2017-2019.</li>
