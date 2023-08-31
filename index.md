@@ -149,7 +149,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 
 <p><strong><strong>Musical Performances & Sound Art Installations</strong></strong></p>
 
-<p>Forthcoming Performances:</p>
+<p>Forthcoming Performances & Installations:</p>
 <ul>
 <li>
   <a target="_blank" href="https://capitart.com/becoming-machine/">opening to the ambient light, Becoming-Machine Pavillion  at The Wrong Biennale. Curated by Isil Ezgi Celik, CapitArt. November 2023-February 2024. Physical exhibition at Artsect Gallery, London in November 2023.</a>
@@ -355,7 +355,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 
-<p>Available on: <a target="_blank" href="https://stephenroddy.bandcamp.com/">Bandcamp</a> | <a target="_blank" href="https://open.spotify.com/artist/6FZOlLhsey17jwrTGBV07c">Spotify</a> | <a target="_blank" href="https://itunes.apple.com/us/artist/stephen-roddy/id1105554061">Apple Music</a> | <a target="_blank" href="https://play.google.com/store/music/artist/Stephen_Roddy?id=Aih2l4nvz4c2etfb42wzvfkmwhm">Google Play</a> | <a target="_blank" href="https://www.amazon.com/s/ref=ntt_srch_drd_B01EJ9KE26?ie=UTF8&amp;field-keywords=Stephen%20Roddy&amp;index=digital-music&amp;search-type=ss">Amazon</a> | <a target="_blank" href="http://www.deezer.com/us/artist/10217120">Deezer</a> | <a target="_blank" href="https://listen.tidal.com/artist/7765412">Tidal</a>   </p>
+<p>Available on: <a target="_blank" href="https://stephenroddy.bandcamp.com/">Bandcamp</a> | <a target="_blank" href="https://open.spotify.com/artist/6FZOlLhsey17jwrTGBV07c">Spotify</a> | <a target="_blank" href="https://itunes.apple.com/us/artist/stephen-roddy/id1105554061">Apple Music</a> | <a target="_blank" href="https://play.google.com/store/music/artist/Stephen_Roddy?id=Aih2l4nvz4c2etfb42wzvfkmwhm">Google Play</a> | <a target="_blank" href="https://www.amazon.com/s/ref=ntt_srch_drd_B01EJ9KE26?ie=UTF8&amp;field-keywords=Stephen%20Roddy&amp;index=digital-music&amp;search-type=ss">Amazon</a> | <a target="_blank" href="http://www.deezer.com/us/artist/10217120">Deezer</a> | <a target="_blank" href="https://listen.tidal.com/artist/7765412">Tidal</a></p>
 <p><strong>Funding and Awards</strong></p>
 <ul>
   <li>Irish Research Council Government of Ireland Postdoctoral Research Fellowship 2017-2019.</li>
