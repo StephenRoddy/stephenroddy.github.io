@@ -306,7 +306,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p>Forthcoming Recordings:</p>
 <ul>
   <li>
-    <a target="_blank" href=https://stephenroddy.bandcamp.com/album/leviathan">2023. Leviathan. A dark ambient exploration of our impending climate catatrophe. On Fiadh Productions</a>
+    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/leviathan">2023. Leviathan. A dark ambient exploration of our impending climate catatrophe. On Fiadh Productions</a>
   </li>
 </ul>
 <p>Label Releases</p>
