@@ -154,6 +154,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <li>
   <a target="_blank" href="https://capitart.com/becoming-machine/">opening to the ambient light, Becoming-Machine Pavillion  at The Wrong Biennale. Curated by Isil Ezgi Celik, CapitArt. November 2023-February 2024. Physical exhibition at Artsect Gallery, London in November 2023.</a>
 </li>
+</ul>
 <p>The Signal to Noise Loops Project: Data-driven Generative Music w/AI&ML</p>
 <ul>
 <li>
