@@ -42,7 +42,12 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 </ul>
 <p><strong>Journal Articles</strong></p>
 <ul>
-
+  <li>
+    <a target="_blank" href="">Roddy, S. & Parmar, R. (Forthcoming 2024). Commentary:AI/ML in the Sonic Arts- Pitfalls and Pathways. Resonance: The Journal of Sound and Culture, 5(1).</a>
+  </li>
+  <li>
+    <a target="_blank" href="">Roddy, S. (Forthcoming 2024). An Interview with Nao Tokui. Resonance: The Journal of Sound and Culture, 5(1).</a>
+  </li>
   <li>
     <a target="_blank" href="https://online.ucpress.edu/res/article-abstract/4/1/69/195805/The-Kyoto-School-and-Sound-ArtA-Nothingness-of-the">Roddy, S. (2023). The Kyoto School and Sound Art: A Nothingness of the Absolute. Resonance: The Journal of Sound and Culture, 4(1).</a>
   </li>
@@ -451,14 +456,18 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 
 <p><strong>Media Coverage</strong></p>
 
-<p>Online</p>
+<p>Reviews & Coverage Online</p>
 <ul>
   <li>
-    <a target="_blank" href="https://icad.org/cs-stephen-roddy//">ICAD Community Spotlight: Stephen Roddy.</a>
+    <a target="_blank" href="https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/">Avant Music News: Leviathan Review (2023).</a>
   </li>
   <li>
     <a target="_blank" href="https://queencitysoundsandart.wordpress.com/2022/03/06/stephen-roddy-establishes-a-sustained-sense-of-perilous-urgency-on-darkness-visible/">Queen City Sound and Art: Darkness Visible EP.</a>
   </li>
+  <li>
+    <a target="_blank" href="https://icad.org/cs-stephen-roddy//">ICAD Community Spotlight: Stephen Roddy.</a>
+  </li>
+  
   <li>
     <a target="_blank" href="https://stephenroddy.github.io/images/bandcampFront.png">Bandcamp New and Notable: Darkness Visible EP.</a>
   </li>
