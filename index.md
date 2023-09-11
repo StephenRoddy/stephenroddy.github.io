@@ -156,8 +156,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 
 <p>Forthcoming Performances & Installations:</p>
 <ul>
-<li>
-  <a target="_blank" href="https://www.aisthesislab.art/data">Signal to Noise loops V5, Metatopia - Hybrid Spaces Pavillion at The Wrong Biennale 2023. Curated by Luciana de Paula Santos, Aisthesis Lab. November 2023-March 2024.</a>
+<li style = "display: none;">
+  <a target="_blank"  href="https://www.aisthesislab.art/data">Signal to Noise loops V5, Metatopia - Hybrid Spaces Pavillion at The Wrong Biennale 2023. Curated by Luciana de Paula Santos, Aisthesis Lab. November 2023-March 2024.</a>
 </li>
 <li>
   <a target="_blank" href="https://capitart.com/becoming-machine/">opening to the ambient light, Becoming-Machine Pavillion at The Wrong Biennale 2023. Curated by Isil Ezgi Celik, CapitArt. November 2023-March 2024. Physical exhibition at Artsect Gallery, London in November 2023.</a>
