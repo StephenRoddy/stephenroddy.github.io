@@ -43,7 +43,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p><strong>Journal Articles</strong></p>
 <ul>
   <li>
-    <a target="_blank" href="">Roddy, S. & Parmar, R. (Forthcoming 2024). Commentary:AI/ML in the Sonic Arts- Pitfalls and Pathways. Resonance: The Journal of Sound and Culture, 5(1).</a>
+    <a target="_blank" href="">Roddy, S. & Parmar, R. (Forthcoming 2024). Commentary: AI/ML in the Sonic Arts - Pitfalls and Pathways. Resonance: The Journal of Sound and Culture, 5(1).</a>
   </li>
   <li>
     <a target="_blank" href="">Roddy, S. (Forthcoming 2024). An Interview with Nao Tokui. Resonance: The Journal of Sound and Culture, 5(1).</a>
