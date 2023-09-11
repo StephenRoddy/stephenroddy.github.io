@@ -459,7 +459,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p>Reviews & Coverage Online</p>
 <ul>
   <li>
-    <a target="_blank" href="https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/">Avant Music News: Leviathan Review (2023).</a>
+    <a target="_blank" href="https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/">Avant Music News: Leviathan Review (2023; Fiadh Productions).</a>
   </li>
   <li>
     <a target="_blank" href="http://industrialcomplexx.com/stephen-roddy-leviathan/">Industrial Complexx: Stephen Roddy - Leviathan.</a>
