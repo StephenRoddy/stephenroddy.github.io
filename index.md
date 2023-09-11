@@ -462,6 +462,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/">Avant Music News: Leviathan Review (2023).</a>
   </li>
   <li>
+    <a target="_blank" href="http://industrialcomplexx.com/stephen-roddy-leviathan/">Industrial Complexx: Stephen Roddy - Leviathan.</a>
+  </li>
+  <li>
     <a target="_blank" href="https://queencitysoundsandart.wordpress.com/2022/03/06/stephen-roddy-establishes-a-sustained-sense-of-perilous-urgency-on-darkness-visible/">Queen City Sound and Art: Darkness Visible EP.</a>
   </li>
   <li>
