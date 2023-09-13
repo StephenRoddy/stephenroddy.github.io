@@ -566,6 +566,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 
 <p>Radio</p>
 <ul>
+  <li><a target="_blank" href="/images/Brainvoyager Electronic Fusion.jpg"> Brainvoyager Electronic Fusion Episode 419: Piteraq Over Tasiilaq.</a>
+  </li>
   <li><a target="_blank" href="https://cod.ckcufm.com/programs/118/59555.html"> The Dylan Hunter Show CKCU-FM 93.1: v5:Breathing Space February 24th 2023.</a>
   </li>
   <li><a target="_blank" href="https://wfmu.org/playlists/shows/123312"> opening to the ambient light, Ridgewood Radio with David Weinstein January 4th 2023.</a>
