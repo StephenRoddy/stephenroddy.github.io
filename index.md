@@ -459,7 +459,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p>Reviews & Coverage Online</p>
 <ul>
   <li>
-    <a target="_blank" href="https://stephenroddy.github.io/images/leviathanNewandNotableWide.png">Bandcamp New and Notable: Leviathan September 16th 2023.</a>
+    <a target="_blank" href="https://stephenroddy.github.io/images/leviathanNewandNotableWide.png">Bandcamp: New and Notable - Leviathan September 16th 2023.</a>
   </li>
   <li>
     <a target="_blank" href="https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/">Avant Music News: Leviathan Review (2023; Fiadh Productions).</a>
@@ -477,7 +477,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://icad.org/cs-stephen-roddy//">ICAD Community Spotlight: Stephen Roddy.</a>
   </li>
   <li>
-    <a target="_blank" href="https://stephenroddy.github.io/images/bandcampFront.png">Bandcamp New and Notable: Darkness Visible March 13th 2022.</a>
+    <a target="_blank" href="https://stephenroddy.github.io/images/bandcampFront.png">Bandcamp: New and Notable - Darkness Visible March 13th 2022.</a>
   </li>
   <li>
     <a target="_blank" href="https://tometotheweathermachine.com/blog/stephen-roddy-opening-to-the-ambient-light">Tome To The Weather Machine: opening to the ambient light.</a>.
