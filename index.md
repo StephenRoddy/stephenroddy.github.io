@@ -465,6 +465,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/">Avant Music News: Leviathan Review (2023; Fiadh Productions).</a>
   </li>
   <li>
+    <a target="_blank" href="https://tometotheweathermachine.com/blog/stephen-roddy-opening-to-the-ambient-light">Tome To The Weather Machine: Thonis - Heracleion, Peaceful Beneath The Waves. 18th September 2023.</a>.
+  </li>
+  <li>
     <a target="_blank" href="http://industrialcomplexx.com/stephen-roddy-leviathan/">Industrial Complexx: Stephen Roddy - Leviathan.</a>
   </li>
   <li>
@@ -480,7 +483,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://stephenroddy.github.io/images/bandcampFront.png">Bandcamp: New and Notable - Darkness Visible March 13th 2022.</a>
   </li>
   <li>
-    <a target="_blank" href="https://tometotheweathermachine.com/blog/stephen-roddy-opening-to-the-ambient-light">Tome To The Weather Machine: opening to the ambient light.</a>.
+    <a target="_blank" href="https://tometotheweathermachine.com/blog/stephen-roddy-opening-to-the-ambient-light">Tome To The Weather Machine: opening to the ambient light. 31st January 2022</a>.
   </li>
   <li>
     <a target="_blank" href="https://www.brutalresonance.com/feature/whats-in-our-inbox-77/">Brutal Resonance: Darkness Visible.</a>
