@@ -471,7 +471,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://avantmusicnews.com/2023/09/12/amn-picks-of-the-week-worrell-blackman-king-stephen-roddy-dronal-gdanian-john-zorn/">Avant Music News. Picks of the Week: Worrell, Blackman & King / Stephen Roddy / Dronal / Gdanian / John Zorn.</a>
   </li>
   <li>
-    <a target="_blank" href="https://tometotheweathermachine.com/blog/stephen-roddy-opening-to-the-ambient-light">Tome To The Weather Machine: Thonis - Heracleion, Peaceful Beneath The Waves. 18th September 2023.</a>.
+    <a target="_blank" href="https://tometotheweathermachine.com/blog/stephen-roddy-thonis-heracleion-peaceful-beneath-the-waves">Tome To The Weather Machine: Thonis - Heracleion, Peaceful Beneath The Waves. 18th September 2023.</a>.
   </li>
   <li>
     <a target="_blank" href="https://queencitysoundsandart.wordpress.com/2022/03/06/stephen-roddy-establishes-a-sustained-sense-of-perilous-urgency-on-darkness-visible/">Queen City Sound and Art: Darkness Visible EP.</a>
