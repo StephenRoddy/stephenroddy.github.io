@@ -44,7 +44,7 @@ These sonifications represent an aggregate of 3 data types (device, gate and upl
 - [Sonification 1](/audio/PN Sonifications/A/PN1 Sonification_10-15.7.16_1d.m4a)
 - [Sonification 2](/audio/PN Sonifications/B/PN2 Sonification_10-15.7.16_1c.m4a)
 
-The following sonification represents the same data (device gateway and upload messages) from Jun 22nd to July 15th 2016. The data to sound mapping strategy is much richer than the previous examples.
+The following sonification represents the same data (device gateway and upload messages) from Jun 22nd to July 15th 2016. The data to sound mapping strategy is much richer than the previous examples. There are 2 categories of sound used in this sonification: Impulse sounds and meter sounds. The meters are those sustained sounds that play continuously. They represent  average/mean changes in each of the monitored streams of data overall. The impluse sounds are shorter patterns that play once per time unit and highlight to the data recorded within that unit of time.
 
 - [Sonification 3](/audio/pn_son/Historical Son.mp3)
 
