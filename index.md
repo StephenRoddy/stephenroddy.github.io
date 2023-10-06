@@ -5,7 +5,7 @@ I am a Musician, Artist and Lecturer based at the [Radical Humanities Lab](https
 Previous projects have involved the design of auditory display solutions for large-scale IoT networks and investigated the integration of sonification and AI/ML techniques in generative music and sound art applications. This work was carried out under an IRC Postdoctoral Fellowship at CONNECT: the SFI Research Centre for Future Networks and Communications, at Trinity College Dublin (TCD), and subsequently at the Department of Electronic & Electrical Engineering also at TCD. My work is widely disseminated through peer-reviewed journal publications, book chapters, and conference proceedings.
 
 I maintain a vibrant and diverse creative arts practice spanning a variety of media and styles including music composition and performance, digital art and sound art. My work has been described as eclectic, and experimental. It is frequently performed and installed at home and abroad.
-Previous events have included the New York City Electroacoustic Music Festival, IMMA’s Eco Rising Festival, and the Helicotrema Recorded Audio Festival in Venice.
+Previous events have included the New York City Electroacoustic Music Festival, IMMA’s Earth Rising Festival, and the Helicotrema Recorded Audio Festival in Venice.
 
 <strong>Affiliations</strong>
 <p>Current</p>
