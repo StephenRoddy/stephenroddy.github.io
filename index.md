@@ -314,8 +314,6 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 
 <p><strong>Discography</strong></p>
 
-<p>Forthcoming Recordings:</p>
-
 <p>Label Releases</p>
 <ul>
   <li>
