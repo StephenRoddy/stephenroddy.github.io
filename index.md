@@ -166,7 +166,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <a target="_blank" href="https://drive.google.com/file/d/1R-xlfXewd59_RpPh-iD3x7YMUbsCtNYg/view?usp=sharing"> Thonis-Heracleion, peaceful beneath the waves @ the Leviathan Album Launch, the Radical Humanities Laboratory, October 6th 2023.</a>
 </li>
 </ul>
-<p>The Signal to Noise Loops Project: Data-driven Generative Music w/AI&ML</p>
+<p>The Signal to Noise Loops Project: Data-driven Generative Music w/AI&ML.</p>
 <ul>
 <li>
   <a target="_blank" href="https://imma.ie/whats-on/earth-rising/">Signal to Noise Loops v5: Breathing Space @ Earth Rising Eco Art Festival , Irish Museum of Modern Art:IMMA, 21-23 October, 2022.</a>
