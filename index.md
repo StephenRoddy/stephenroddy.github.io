@@ -154,13 +154,16 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 
 <p><strong><strong>Musical Performances & Sound Art Installations</strong></strong></p>
 
-<p>Forthcoming Performances & Installations:</p>
+<p>Recent/Forthcoming Performances & Installations:</p>
 <ul>
 <li style = "display: none;">
   <a target="_blank"  href="https://www.aisthesislab.art/data">Signal to Noise loops V5, Metatopia - Hybrid Spaces Pavillion at The Wrong Biennale 2023. Curated by Luciana de Paula Santos, Aisthesis Lab. November 2023-March 2024.</a>
 </li>
 <li>
   <a target="_blank" href="https://capitart.com/becoming-machine/">opening to the ambient light, Becoming-Machine Pavillion at The Wrong Biennale 2023. Curated by Isil Ezgi Celik, CapitArt. November 2023-March 2024. Physical exhibition at Artsect Gallery, London in November 2023.</a>
+</li>
+<li>
+  <a target="_blank" href="https://drive.google.com/file/d/1R-xlfXewd59_RpPh-iD3x7YMUbsCtNYg/view?usp=sharing"> Thonis-Heracleion, peaceful beneath the waves at the Leviathan Album Launch. At the Radical Humanities Laboratory, October 6th 2023.</a>
 </li>
 </ul>
 <p>The Signal to Noise Loops Project: Data-driven Generative Music w/AI&ML</p>
@@ -575,7 +578,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p>Radio</p>
 <ul>
   <li>
-    <a target="_blank" href="https://www.mixcloud.com/noplacelikedrone/">Leviathan. No Place Like Drone, Dublin Digital Radio, October 5th 2023.</a>
+    <a target="_blank" href="https://www.mixcloud.com/DublinDigitalRadio/no-place-like-drone-041023-lowercase-laments/">Leviathan. No Place Like Drone, Dublin Digital Radio, October 5th 2023.</a>
   </li>
   <li><a target="_blank" href="https://hibernationproject.ca/ears-have-eyes/"> Ears Have Eyes - PHONOSTALGIA: from other times and places. Thonis-Heracleion, peaceful beneath the waves. 11th October 2023</a>
   </li>
