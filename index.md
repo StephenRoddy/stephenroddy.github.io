@@ -315,13 +315,12 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p><strong>Discography</strong></p>
 
 <p>Forthcoming Recordings:</p>
+
+<p>Label Releases</p>
 <ul>
   <li>
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/leviathan">2023. Leviathan. A dark ambient exploration of our impending climate catatrophe. On Fiadh Productions</a>
   </li>
-</ul>
-<p>Label Releases</p>
-<ul>
   <li>
     <a target="_blank" href="http://stolenmirror.com/2021d01-tides.html">2021. Idle Hands [...] featured on Tides: An ISSTA Anthology. On the Stolen Mirror Label.</a>
   </li>
