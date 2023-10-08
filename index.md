@@ -163,7 +163,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <a target="_blank" href="https://capitart.com/becoming-machine/">opening to the ambient light, Becoming-Machine Pavillion at The Wrong Biennale 2023. Curated by Isil Ezgi Celik, CapitArt. November 2023-March 2024. Physical exhibition at Artsect Gallery, London in November 2023.</a>
 </li>
 <li>
-  <a target="_blank" href="https://drive.google.com/file/d/1R-xlfXewd59_RpPh-iD3x7YMUbsCtNYg/view?usp=sharing"> Thonis-Heracleion, peaceful beneath the waves at the Leviathan Album Launch. At the Radical Humanities Laboratory, October 6th 2023.</a>
+  <a target="_blank" href="https://drive.google.com/file/d/1R-xlfXewd59_RpPh-iD3x7YMUbsCtNYg/view?usp=sharing"> Thonis-Heracleion, peaceful beneath the waves @ the Leviathan Album Launch, the Radical Humanities Laboratory, October 6th 2023.</a>
 </li>
 </ul>
 <p>The Signal to Noise Loops Project: Data-driven Generative Music w/AI&ML</p>
