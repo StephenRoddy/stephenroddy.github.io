@@ -574,7 +574,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 
 <p>Radio</p>
 <ul>
-  <li><a target="_blank" href="https://hibernationproject.ca/2023/10/10/phonostalgia/"> Ears Have Eyes - PHONOSTALGIA: from other times and places. Thonis-Heracleion, peaceful beneath the waves. 11th October 2023</a>
+  <li><a target="_blank" href="https://hibernationproject.ca/2023/10/10/phonostalgia/"> Ears Have Eyes - PHONOSTALGIA: from other times and places. Thonis-Heracleion, peaceful beneath the waves. 11th October 2023.</a>
   </li>
   <li>
     <a target="_blank" href="https://www.mixcloud.com/DublinDigitalRadio/no-place-like-drone-041023-lowercase-laments/">Leviathan. No Place Like Drone, Dublin Digital Radio, October 5th 2023.</a>
