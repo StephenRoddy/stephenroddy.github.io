@@ -574,16 +574,18 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 
 <p>Radio</p>
 <ul>
-  <li><a target="_blank" href="https://hibernationproject.ca/2023/10/10/phonostalgia/"> Ears Have Eyes - PHONOSTALGIA: from other times and places. Thonis-Heracleion, peaceful beneath the waves. 11th October 2023.</a>
+  <li><a target="_blank" href="https://hibernationproject.ca/2023/10/10/phonostalgia/"> Thonis-Heracleion, peaceful beneath the waves. Ears Have Eyes - PHONOSTALGIA: from other times and places, 11th October 2023.</a>
   </li>
   <li>
     <a target="_blank" href="https://www.mixcloud.com/DublinDigitalRadio/no-place-like-drone-041023-lowercase-laments/">Leviathan. No Place Like Drone, Dublin Digital Radio, October 5th 2023.</a>
   </li>
-  <li><a target="_blank" href="https://www.mixcloud.com/brainvoyager/brainvoyager-electronic-fusion-419-16-september-2023/?fbclid=IwAR1wzAPXZNaeH7WJ4vukHNct-6SVC_SyYWHGdwbbasbU57R8fCN86ppCApU">Brainvoyager Electronic Fusion Episode #419: 'Piteraq Over Tasiilaq' from Leviathan.</a>
+  <li><a target="_blank" href="https://www.mixcloud.com/brainvoyager/brainvoyager-electronic-fusion-419-16-september-2023/?fbclid=IwAR1wzAPXZNaeH7WJ4vukHNct-6SVC_SyYWHGdwbbasbU57R8fCN86ppCApU">Piteraq Over Tasiilaq. Brainvoyager Electronic Fusion Episode #419, Modul303, SCIFI.radio & Radio Dark Tunnel 16-17 Septtember 2023</a>
   </li>
-  <li><a target="_blank" href="https://cod.ckcufm.com/programs/118/59555.html">The Dylan Hunter Show CKCU-FM 93.1: v5:Breathing Space February 24th 2023.</a>
+  <li><a target="_blank" href="https://spinitron.com/WRUW/pl/17998423/Popular-Culture-Process-Filter">Leviathan. Popular Culture Process Filter w/ Chuck Nicklow. WRUW FM 91.1 Cleveland, 11th October 2023.</a>
   </li>
-  <li><a target="_blank" href="https://wfmu.org/playlists/shows/123312">opening to the ambient light, Ridgewood Radio with David Weinstein January 4th 2023.</a>
+  <li><a target="_blank" href="https://cod.ckcufm.com/programs/118/59555.html">v5: Breathing Space, The Dylan Hunter Show CKCU-FM 93.1. February 24th 2023.</a>
+  </li>
+  <li><a target="_blank" href="https://wfmu.org/playlists/shows/123312">opening to the ambient light, Ridgewood Radio with David Weinstein. January 4th 2023.</a>
   </li>
   <li><a target="_blank" href="https://www.mixcloud.com/Resonance/sonic-darts-6-june-2022-artificial-intelligence/">Interview about AI in Music Composition on Gwaith Sŵn's Sonic Darts on Resonance.fm, June 6th 2022.</a>
   </li>
