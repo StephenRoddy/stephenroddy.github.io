@@ -1,11 +1,20 @@
 ### Biography
 
+Stephen Roddy (Ph.D, M.A., B.Sc.) is a Researcher and Lecturer based at the [Radical Humanities Lab](https://www.ucc.ie/en/future-humanities/radical/) and the Department of [Digital Humanities](https://www.ucc.ie/en/dah/) at [University College Cork](https://www.ucc.ie/en/). His work spans engineering and the creative arts and he hold a Ph.D. in sonification: the use of sound to perceptualize data and convey information. His research explores the application of auditory display, artificial intelligence/machine learning (AI/ML), internet of things (IoT), and human-computer interaction (HCI) techniques in creative arts contexts. This work is approached primarily through the perspectives of cybernetics and embodied cognitive science and is methodologically grounded in engineering, HCI and practice based research approaches.
+
+Stephen's previous projects have involved the design of auditory display solutions for large-scale IoT networks and investigated the integration of sonification and AI/ML techniques in generative music, sound art and digital art applications. This work was carried out under an IRC Postdoctoral Fellowship at CONNECT: the SFI Research Centre for Future Networks and Communications, at Trinity College Dublin (TCD), and subsequently at the Department of Electronic & Electrical Engineering also at TCD. His work is widely disseminated through peer-reviewed journal publications, book chapters, and conference proceedings.
+
+Stephen maintains a vibrant and diverse creative arts practice which forms a core component of his resarch strategy. His creative activities span a variety of media and styles including music composition and performance, digital art, and sound art. His creative work, described as [majestic and sweeping](https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/) yet [beautifully unesttling](https://www.stephenroddy.com/images/leviathanNewandNotableWide.png) is frequently performed and installed at home and abroad.
+Previous events have included the New York City Electroacoustic Music Festival, IMMA’s Earth Rising Festival, and the Helicotrema Recorded Audio Festival in Venice.
+
+<div style = "display: none;">
 I am a Researcher and Lecturer based at the [Radical Humanities Lab](https://www.ucc.ie/en/future-humanities/radical/) and the Department of [Digital Humanities](https://www.ucc.ie/en/dah/) at [University College Cork](https://www.ucc.ie/en/). My work spans engineering and the creative arts, focusing on sound and music computing. I hold a Ph.D. in sonification: the use of sound to perceptualize data and convey information. My research explores the application of auditory display, artificial intelligence/machine learning (AI/ML), internet of things (IoT), and human-computer interaction (HCI) techniques in the creative arts. I approach this primarily through the perspectives of cybernetics and embodied cognitive science.
 
 Previous projects have involved the design of auditory display solutions for large-scale IoT networks and investigated the integration of sonification and AI/ML techniques in generative music and sound art applications. This work was carried out under an IRC Postdoctoral Fellowship at CONNECT: the SFI Research Centre for Future Networks and Communications, at Trinity College Dublin (TCD), and subsequently at the Department of Electronic & Electrical Engineering also at TCD. My work is widely disseminated through peer-reviewed journal publications, book chapters, and conference proceedings.
 
 I maintain a vibrant and diverse creative arts practice spanning a variety of media and styles including music composition and performance, digital art and sound art. My work has been described as eclectic, and experimental. It is frequently performed and installed at home and abroad.
 Previous events have included the New York City Electroacoustic Music Festival, IMMA’s Earth Rising Festival, and the Helicotrema Recorded Audio Festival in Venice.
+</div>
 
 <strong>Affiliations</strong>
 <p>Current</p>
