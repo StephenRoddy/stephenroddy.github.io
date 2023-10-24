@@ -168,6 +168,10 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 </ul>
 <p>The Signal to Noise Loops Project: Data-driven Generative Music w/AI&ML.</p>
 <ul>
+  <li >
+  <a target="_blank"  href="https://www.ulster.ac.uk/conference/ubimus">Signal to Noise loops V5.1, UbiMus2023 International Symposium on Ubiquitous Music, Ulster University, Derry. November 2nd-4th 2023.</a>
+</li>
+
 <li>
   <a target="_blank" href="https://imma.ie/whats-on/earth-rising/">Signal to Noise Loops v5: Breathing Space @ Earth Rising Eco Art Festival , Irish Museum of Modern Art:IMMA, 21-23 October, 2022.</a>
 </li>
