@@ -22,13 +22,15 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>Researcher in the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/radical/">Radical Humanities Laboratory</a> at <a target="_blank" href="https://www.ucc.ie">University College Cork</a>.</li>
   <li>Lecturer in the <a target="_blank" href="https://www.ucc.ie/en/dah/">Department of Digital Humanities</a> at <a target="_blank" href="https://www.ucc.ie"> University College Cork</a>.
   </li>
-  <li>Member of the<a target="_blank" href="http://icad.org/">International Community for Auditory Display</a>.
+  <li>Member of the <a target="_blank" href="https://ethicsinaction.ieee.org/">IEEE Committee for Ethically Aligned Design</a> in the Arts.   
   </li>
-  <li>Member of the<a target="_blank" href="https://internetofsounds.net/about/">Internet of Sounds Research Network</a>.
+  <li>Member of the <a target="_blank" href="http://icad.org/">International Community for Auditory Display</a>.
+  </li>
+  <li>Member of the <a target="_blank" href="https://internetofsounds.net/about/">Internet of Sounds Research Network</a>.
+  </li>
+  <li>Member of the <a target="_blank" href="http://issta.ie/">Irish Sound Science and Technology Association</a>.
   </li>
   <li>Member of the <a target="_blank" href="http://computermusic.org/">International Computer Music Association</a>.  
-  </li>
-  <li>Member of the <a target="_blank" href="https://ethicsinaction.ieee.org/">IEEE Committee for Ethically Aligned Design</a> in the Arts.   
   </li>
   <li>Member of the <a target="_blank" href="https://imro.ie/">Irish Music Rights Organisation</a>.
   </li>
