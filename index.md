@@ -658,7 +658,3 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 ---
-<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
-Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></small>
-</p>
-<!-- Remove above link if you don't want to attibute -->
