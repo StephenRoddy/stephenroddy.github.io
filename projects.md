@@ -60,19 +60,6 @@
 [Astronomy Picture of the Day: Web App](/projects/NASA_APOD/nasa_apod)<br />
 [dog.display()](/projects/dog-display/dog_display)<br />
 
--->
-<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
-Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></small></p>
-<!---
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<p style="font-size:11px">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
---->
-
-<!-- Remove above link if you don't want to attibute -->
-
-<!--
----
 [Sound, Music & Audio Production](/projects/Music/music)
 <img src="images/tabs/STRtab.png?raw=true"/>
 -->
