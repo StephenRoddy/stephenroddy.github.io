@@ -3,7 +3,7 @@
 
 ---
 
-[Artificial Intellligence in Sound & Music Computing](/projects/AI_MUS/AI_MUS)<br />
+[Artificial Intelligence in Sound & Music Computing](/projects/AI_MUS/AI_MUS)<br />
 <a href="/projects/AI_MUS/AI_MUS">
 <img src="images/tabs/AItab.png?raw=true"/>
 </a>

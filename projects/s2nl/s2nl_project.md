@@ -7,7 +7,7 @@ Signal to Noise Loops emerged from a broader project entitled 'Auditory Display 
 The project integrates open data from Internet of Things (IoT) sensor networks in Dublin, Ireland, in a series of experimental music performances and installations. Each piece treats the city, as mediated by the data it produces, as a collaborator in a musical or sonic work. The project is realized through a bespoke generative music system that continues to adapt and expanded as the project evolves. The system is designed in line with principles from the field of Cybernetics to integrate with both the city and the human performer. Thus, the project links electronic music/sonic performance, IoT/Smart City Data, Generative Music techniques, and Cybernetics. Each performance or installation draws data from networks of IoT devices placed around Dublin City. Sensor and network data are mapped to control the parameters of a given performance/installation. How this takes place is mediated by the generative music system. The state of the system is determined by the state of Dublin city, as represented through the IoT sensor data. The system's state in turn determines the musical choices it makes while improvising alongside a human performer. Each performance with the system is unique as it represents a complex array of data relations that describe the state of Dublin City and any given time. The project involved the iterative development of the system with each performance acting as an evaluation after which the system would be expanded and further refined. <br />
 
 #### Iteration 1: Evolving Feedback Loops, Cellular Automata, and Direct Mapping <br/>
-This version of the system explored the cybernetic ideas of looping, human-in-the-loop reflexivity, and evolution with cellular automata algorithmic employed to organize sonic content with musical inputs provided via electric guitar performance. Focused on live performance.  
+The first iteration of the project was explored with reference to the concepts of the feedback loop and cellular automata. It explored how both systems can be applied in a generative manner and mapped noise data from a sensor network to drive a generative music system the implemented these ideas. The resulting performance combined human-in-the-loop guitar-based improvisation with data-driven sound manipulation in the context of a live real-time performance. 
 
 <img src="images/SonicDreams.jpg?raw=true"/>
 * [Sonic Dreams 2017 Poster](images/SonicDreams.jpg)
@@ -22,8 +22,7 @@ Dublin City Noise Loops&nbsp;</span></div>
 
 
 #### Iteration 2: Generative Systems, Musical Interactions, and Richer Data <br/>
-Looping developed into a full generative music system with musical interaction via the Lemur for iPad. Richer data streams and reorganization of mapping in terms of Lefebvre's Rhythmanalysis. 
-
+Iteration two introduced additional data sources (e.g. air pollution and water level measurements etc.) to create more complex musical outputs. The cellular automata were replaced with ‘decision loop’ structures that monitor the inputs of the performer and city respectively and decide how to respond. Musical information was input via Lemur over OSC and synthesised with a wavetable algorithm creating a richer and more intricate musical landscape.
 
 * [xCoAx Performance](images/xcoaxPerformance.jpg)
 * [xCoAx Artist Talk](images/xcoax1.jpg)
@@ -39,8 +38,7 @@ Looping developed into a full generative music system with musical interaction v
 
 
 #### Iteration 3: Toward Emergence through Eurythmia <br/>
-Increased data streams with richer mapping to support the emergence of patterns in sound that represented patterns of social and political activity across the city.
-
+The third iteration integrated further smart city data sources (e.g. pedestrian and vehicular traffic flow, weather data, and emergency warnings). This iteration ceded much more control to the city and it defined increasingly larger proportions of each performance. The performer still inputs musical information as a starting point for the system but the system will always evolve and iterate over these inputs. 
 
 <img src="images/csmc2018_concert_performers.jpg.webp?raw=true"/><br/>
 * [CSMC2018 Concert Performance](/images/csmc2018_concert_performers.jpg.webp)
@@ -54,7 +52,7 @@ Increased data streams with richer mapping to support the emergence of patterns 
 <br />
 
 #### Iteration 4: COVID-19 Crisis Response: Audiovisual Installation <br/>
-Moved to an online audiovisual installation format and introduced machine learning techniques in the generative music system. Patterns of activity before and during COVID mapped to generative music parameters to a visual representation of a changing city.
+The fourth iteration of the systems represented an almost complete surrender of control from the performer. Commissioned during COVID-19, this installation was completely online with no live element and utilized machine learning techniques in the generative music system. Data was also visualized with noise values expressed as changes in the parameters of a dot-matrix map of Dublin City.
 
 The piece was performed at the [2021 New York Electroacoustic Music Festival](https://nycemf.org/).
 You can find the video and concert program below:
@@ -113,14 +111,15 @@ For a more in-depth discussion of the first four iterations of this project plea
 - [Signal to Noise Loops: A Cybernetic Approach to Musical Performance with Smart City Data and Generative Music Techniques ](https://direct.mit.edu/leon/article-abstract/56/1/87/112358/Signal-to-Noise-Loops-A-Cybernetic-Approach-to)
 
 
-#### Iteration 5: An Audiovisual Re-emergence<br/>
-Audiovisual installation for headphones and mobile devices, reflecting on the mediation of human relationships through networked communications technology both and after the pandemic.
+#### Iteration 5 & 5.1: <br/>
+Iteration five continued this surrender of authorship. It was commissioned for the 2022 Earth Rising festival taking place at the Irish Museum of Modern Art in the wake of the COVID lockdowns and was designed for mobile and smart devices. It juxtaposed data from during and after the pandemic using an update of the generative music system designed for iteration four, and a new visualisation system. It was followed by iteration 5.1 in 2023 which was installed at the Ubiquitous Music Symposium in Derry and explored the dissolution of the hybrid digital-physical computing practices that had defined life during the pandemic. 
 
 <br />
 <a href="https://imma.ie/whats-on/earth-rising-2023/" target="_blank"><img src="images/IMMA_ECO_S.png?raw=true"/></a><br/>
 <br />
-<a href="" target="_blank"><img src="images/redacted.png?raw=true"/></a><br/>
+<a href="" target="_blank"><img src="images/s2nl5_1.png?raw=true"/></a><br/>
 <br />
+<a href="" target="_blank"><img src="images/s2nl5_1_broken.png?raw=true"/></a><br/>
 <br />
 
 ### Technical Advancement: Controlling the Proportion of Information Present in a Sonification Signal. 

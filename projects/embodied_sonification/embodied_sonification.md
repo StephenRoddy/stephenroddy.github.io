@@ -44,7 +44,7 @@ The project proposes Embodied Sonification Listening Model, or ESLM (presented a
 
 The model is formalized below. 
 
-<img src="images/elsmF.png?raw=true"/><br/>
+<img src="images/eslmF.png?raw=true"/><br/>
 
 The ESLM proposes the following:
 

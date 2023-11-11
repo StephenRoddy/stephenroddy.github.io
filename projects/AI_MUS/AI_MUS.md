@@ -1,5 +1,5 @@
 <base target="_blank">
-## AI, ML, & Cybernetics for Musical Applications
+## Artificial Intelligence in Sound and Music Computing
 
 ### Overview
 
@@ -86,12 +86,16 @@ You can learn more about the creation of the EP as well as the artwork design fr
 
 ### opening to the ambient light at The Wrong Biennale
 
-<img src="images/Becoming-Machine-TEXT-scaled.jpg?raw=true"/><br/>
+<img src="images/thewrongbiennale.png?raw=true"/><br/>
 
 An audiovisual expression of "opening to the ambient light", which uses a Javascript implementation of the Fast Fourier Transform to map musical data to visual information, was produced for the Becoming-Human pavillion curated by [Isil Ezgi Celik](https://capitart.com/capitart/) of [CapitArt](https://capitart.com/aboutus/) for the 2023 edition of the [Wrong Biennale](https://thewrong.org/). The piece will go on display in the [Artsect Gallery](https://www.artsect.xyz/) in London at the start of November 2023 and be available online in the Virtual Exhibition until February 2024.
 
-Information about the exhibition can be accessed on the CapitArt website here:
+
+Information about the exhibition can be accessed on the websites of The Wrong Biennale and CapitArt website here:
+- [The Wrong Biennale](https://thewrong.org/BecomingMachine)
 - [Becoming-Machine Website](https://capitart.com/becoming-machine/)
+
+
 
 #### Overview of the piece 
 opening to the ambient light is a stochastic composition expressed in an ambient style through generative means. It is informed in its structural realization by Xenakis' stochastic work while its aesthetic aspect is realized in reference to Milton's Paradise Lost. Gordon Pask's cybernetic conversation theory provided a conceptual apparatus to approach Deleuze’s becoming-machine, that mode of existence in which the border between the human and machinic becomes less a force of division and more of a method of integration through deterritorialization. Sonically the piece conjures something of the interplay of light and darkness that continually recurs across Milton's epic poem Paradise Lost. This is recontextualized in terms of man and machine as generative audiovisual techniques render the struggle between chaos and cosmos as randomly generated parameters that become intelligible compositional choices thanks to a series of self-correcting feedback loops at the micro, meso, and macro levels of the stochastically driven generative music system underlying the piece. The sonic and visual result is a conversation in which the light and dark become immanent for the listener through their dialog with one another. Man and machine cease to be at odds here and rather a third thing, Deleuze’s becoming-machine is set in process. This process in turn announces itself both visually and sonically As the fixed identity of the human as composer/artist and machine as tool is challenged in this piece as the machine makes compositional choices from within a possibility space defined in collaboration with the human, but not entirely by the human. The fixed identity of the composer and the visual artist are disregarded here as a process of transformation, disrupts established musical and visual categories opening up a space for new creative possibilities. In this way, the conversation itself between sound & space, light & dark machine & human, operating as becoming-machine, thus producing the work
