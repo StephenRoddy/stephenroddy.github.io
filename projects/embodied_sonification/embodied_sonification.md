@@ -42,18 +42,22 @@ The final phase explored how doppler shifting can be used to add a sense of temp
 
 The project proposes Embodied Sonification Listening Model, or ESLM (presented above), as a means for describing how meaning emerges in sonification listening, from an embodied perspective. The model is proposed early in the thesis alongside supporting empirical results from experimental investigations of its applicability.The implementations and evaluations in the remainder of the thesis are designed with this model in mind.
 
-The model is formalized below. 
-
-<img src="images/eslmF.png?raw=true"/><br/>
-
-The ESLM proposes the following:
+The ESLM asserts the following:
 
 1. Listeners attend to the sound as though it were the data during sonification listening. 
 2. The sound is experienced as a metaphorical representation of the data. 
 3. Two metaphors involved in this process. 
 * In the first, the sound heard is identified with the original data source. 
 * In the second changes in the sound are identified as changes in the data from the original source. 
-4. Crucially, this entire process is mediated by the listener’s background of previous knowledge.   
+4. Crucially, this entire process is mediated by the listener’s background of previous knowledge.  
+
+<img src="images/eslmF.png?raw=true"/><br/>
+
+At a given time t a listener attending to a sonification ƒ(t) will associate the sound they are hearing (the sonic complex sC), with the phenomenon of which they imagine the represented data to be a measurement (the data phenomenon dP). This constitutes the first metaphorical mapping (m1).
+The second metaphorical mapping (m2) involves the association of changes along dimensions within the sonification (sonic dimension, sD) with changes in the original dataset (measurement dimension, dM). These mappings are further constrained and modulated by the listener’s embodied knowledge, eK. This contains the listener’s understanding of the sound, the data, any instructions or training they have received regarding the sonification and any associations, conscious or unconscious, the listener draws between or to these elements.
+An embodied sonic dimension is defined here as any individual sonic aspect that a listener can attend to as a meaningful perceptual unit which remains identifiable while evolving in time along a continuous bi-polar axis. 
+An embodied complex is defined as any perceptual grouping that contains multiple embodied sonic dimensions and can also be identified by a listener as a meaningful perceptual unit.
+
 
 #### Research Methods
 The project applied empirical research methods and involved many rounds of evaluation collecting and analysing both quantitative and qualitative data. It involved both user-centric HCI methods (e.g. user evaluations, A/B testing, surveys etc.) and more traditional psychological experiments designed to gauge users judgements of stimuli. Some pilot testing was done in with small in person groups but the majority of the testing was carried out online in order to sample from a large international group of users.
