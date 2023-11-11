@@ -36,11 +36,30 @@ The final phase explored how doppler shifting can be used to add a sense of temp
 **Temporospatial Motion Framework:**<br/>
 [Original Framework](audio/Ch5/Example of Original Framework.mp3) | [Refined Framework](audio/Ch5/Example of Refined Framework .mp3)
 
+#### The Embodied Sonification Listening Model
+
+<img src="images/eslm.png?raw=true"/><br/>
+
+The project proposes Embodied Sonification Listening Model, or ESLM (presented above), as a means for describing how meaning emerges in sonification listening, from an embodied perspective. The model is proposed early in the thesis alongside supporting empirical results from experimental investigations of its applicability.The implementations and evaluations in the remainder of the thesis are designed with this model in mind.
+
+The model is formalized below. 
+
+<img src="images/elsmF.png?raw=true"/><br/>
+
+The ESLM proposes the following:
+
+1. Listeners attend to the sound as though it were the data during sonification listening. 
+2. The sound is experienced as a metaphorical representation of the data. 
+3. Two metaphors involved in this process. 
+* In the first, the sound heard is identified with the original data source. 
+* In the second changes in the sound are identified as changes in the data from the original source. 
+4. Crucially, this entire process is mediated by the listener’s background of previous knowledge.   
+
 #### Research Methods
 The project applied empirical research methods and involved many rounds of evaluation collecting and analysing both quantitative and qualitative data. It involved both user-centric HCI methods (e.g. user evaluations, A/B testing, surveys etc.) and more traditional psychological experiments designed to gauge users judgements of stimuli. Some pilot testing was done in with small in person groups but the majority of the testing was carried out online in order to sample from a large international group of users.
 
 #### Findings
-Overall the project found that designing sonifications on the basis of principles from the field of embodied cognition generally leads to more effective solutions. The project resulted in the Embodied Sonification Listening Model, which reconciles embodied cognition principles with the task of "sonification listening": listening to a sound in order to extract information about the dataset it represents. For a more detailed description of findings see the finished document.
+Overall the project found that designing sonifications on the basis of principles from the field of embodied cognition generally leads to more effective solutions. The project provides support for the Embodied Sonification Listening Model, which reconciles embodied cognition principles with the task of "sonification listening": listening to a sound in order to extract information about the dataset it represents. For a more detailed description of findings see the finished document.
 
 <img src="images/page2.png?raw=true"/><br/>
 
