@@ -136,16 +136,6 @@ You can read more in the paper below, which was presented at ICAD 2022.
 - [A Technique for Controlling the Proportion of Information in the Sonification of Complex Time Series Data - ICAD 2022](files/ICAD2022_10_Roddy.pdf)
  
 
-<!--
-
-### Discussion <br />
-The point of mapping data to sound, and more specifically IoT data is to leverage some of the interesting patterns that present themselves across data streams/sets in this manner. Data-driven music is different from sonification where the point is to faithfully communicate or represent the data to the listener. Data-driven music is closer in many ways to algorithmic music composition than it is to sonification because of its focus on finding patterns in the data that might be interesting when mapped to sonic and musical parameters. My previous data-driven music work has employed algorithmic composition techniques and dealt with data from the global financial crash. More recently I have begun to work with IoT data as I believe that the kinds of data we choose to measure and our reasons for measuring them say a lot about what a society values, cares about, and finds interesting while the specific data measurements chronicle the complex interactions between people, the technologies they create and the worlds in which those people and technologies are situated. <br />
-<br />
-While these explicit points of information may not be directly represented in a performance the rich interleaved patterns of interaction between people, place, and technology are transposed into the sonic realm in each performance. While more abstract and implicit in nature it is the aesthetic dimensionality of these interlocked patterns, which is of interest to me. <br />
-<br />
-<br />
--->
-
 ### Performances:
 - [Earth Rising Eco Festival - IMMA 2022](https://imma.ie/whats-on/earth-rising-2023/)
 - [The 27th International Conference on Auditory Display Concert](https://icad2022.icad.org/)
