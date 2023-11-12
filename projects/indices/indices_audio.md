@@ -48,7 +48,7 @@ Visit the installation here:
 You can read more about the in my xCoAx paper below:
 
 <div style="text-align: center;">
-<iframe frameborder="0" src="https://drive.google.com/file/d/1mmb5FY5EmSM0Dzx-bym2cGSZBGr1OK_R/preview" style="height: 500px; width: 600px;"></iframe>
+<iframe frameborder="0" src="https://drive.google.com/file/d/1mmb5FY5EmSM0Dzx-bym2cGSZBGr1OK_R/preview" style="border: 0; width: 350px; height: 470px;"></iframe>
 </div>
 
 * [xCoAx 2021 Artwork Paper](/files/xCoAx2021-Roddy.pdf)

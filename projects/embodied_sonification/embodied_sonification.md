@@ -112,7 +112,7 @@ A number of these pieces have been performed live at academic conferences and cu
 
 #### Embodied Sonification PhD Thesis
 <div style="text-align: center;">
-<iframe height="842" src="https://drive.google.com/file/d/0BwMBM58DHm2balNPRERtbEJYNHM/preview" width="592"></iframe><br/>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://drive.google.com/file/d/0BwMBM58DHm2balNPRERtbEJYNHM/preview" ></iframe><br/>
 </div>
 
 * [Digital Appendices](https://www.dropbox.com/sh/byilxk53kzkdr8b/AADpZQZO3iv0hRL7rU72Pk-ha?dl=0)<br/>

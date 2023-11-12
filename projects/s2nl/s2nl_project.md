@@ -33,7 +33,7 @@ Iteration two introduced additional data sources (e.g. air pollution and water l
 
 <h4>xCoAx paper describing earlier iteration of the system:</h4>
 <br />
-<iframe frameborder="0" src="https://drive.google.com/file/d/1awK-N8_hdNML3_gH56VgX2g1jtuekjO6/preview" style="height: 500px; width: 600px;"></iframe>
+<iframe src="https://drive.google.com/file/d/1awK-N8_hdNML3_gH56VgX2g1jtuekjO6/preview" style="border: 0; width: 350px; height: 470px;"></iframe>
 <br />
 
 
@@ -58,13 +58,14 @@ The piece was performed at the [2021 New York Electroacoustic Music Festival](ht
 You can find the video and concert program below:
 
 <div style="text-align: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f5yggfFRPAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="border: 0; width: 350px; height: 265px;" src="https://www.youtube.com/embed/f5yggfFRPAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 [Youtube Link](https://www.youtube.com/watch?v=f5yggfFRPAA)
 
 <div style="text-align: center;">
-<iframe frameborder="0" src="https://drive.google.com/file/d/17JsG6ejsXp0xaS7fLn68oP-1kyStzXYM/preview" style="height: 500px; width: 600px;"></iframe>
+<iframe frameborder="0" src="https://drive.google.com/file/d/17JsG6ejsXp0xaS7fLn68oP-1kyStzXYM/preview" style="border: 0; width: 350px; height: 470px;
+"></iframe>
 </div>
 
 [NYCEMF2021 Concert Program](/files/2021-Program-Book.pdf)
@@ -77,7 +78,7 @@ The sonic component of Signal to Noise Loops V4 was installed in the listening r
 Signal to Noise Loops V4 was performed at the [2021 Audio Mostly Conference](https://audiomostly.com/2021/program/conference-program/) at the University of Trento, Italy.
 
 <div style="text-align: center;">
-<iframe frameborder="0" src="https://drive.google.com/file/d/1jqRP-YzONc0cKgIxSpwHkfQi90Cp9Afi/preview" style="height: 500px; width: 600px;"></iframe>
+<iframe frameborder="0" src="https://drive.google.com/file/d/1jqRP-YzONc0cKgIxSpwHkfQi90Cp9Afi/preview" style="border: 0; width: 350px; height: 470px;"></iframe>
 </div>
 
 [Audio Mostly Programme Link](/files/AudioMostly 2021 Programme.pdf).
@@ -101,7 +102,7 @@ Signal to Noise Loops v4 was also featured in Season 3 of the Video Sound Archiv
 Signal to Noise Loops v4 was selected for performance at the concerts for the 27th International Conference on Auditory Display (ICAD 2022), where it won the award for the Best use of sound in a Concert Piece or Demonstration. You can see the conference paper describing some of the technical development of this specific iteration here:
 
 <div style="text-align: center;">
-<iframe frameborder="0" src="https://drive.google.com/file/d/1ZMJ243hDl9Odf47Cv6E5UhhAkl1HbVXZ/preview" style="height: 500px; width: 600px;"></iframe>
+<iframe frameborder="0" src="https://drive.google.com/file/d/1ZMJ243hDl9Odf47Cv6E5UhhAkl1HbVXZ/preview" style="border: 0; width: 350px; height: 470px;"></iframe>
 </div>
 <br />
 
@@ -130,7 +131,7 @@ A key advantage of this approach to controlling the proportion of information in
 You can read more in the paper below, which was presented at ICAD 2022. 
 
 <div style="text-align: center;">
-<iframe frameborder="0" src="https://drive.google.com/file/d/1UR74pT7luOkVZV_wy8QrVRu4nUaZrXPH/preview" style="height: 500px; width: 600px;"></iframe>
+<iframe frameborder="0" src="https://drive.google.com/file/d/1UR74pT7luOkVZV_wy8QrVRu4nUaZrXPH/preview" style="border: 0; width: 350px; height: 470px;"></iframe>
 </div>
 
 - [A Technique for Controlling the Proportion of Information in the Sonification of Complex Time Series Data - ICAD 2022](files/ICAD2022_10_Roddy.pdf)

@@ -39,7 +39,7 @@
 </a>
 
 [Dance Performance Projects](/projects/dance/dance)<br />
-<a href="/projects/ab_no/ab_no">
+<a href="/projects/dance/dance">
 <img src="images/tabs/DANCEtab.png?raw=true"/>
 </a>
 
