@@ -1,14 +1,11 @@
 <base target="_blank">
-## The Human Cost: Sonification and Ireland's Economic Crash
+## The Human Cost: A Sonification of Ireland's Economic Crash
 
 ### Project Overview
-Sonification is the mapping of data to sound in order to communicate something about the original data source.
 
-This collection is built around sonified materials where data from the Irish financial crash of 2008 is mapped to sound in order to communicate information to the listener. The pieces are not sonifications in the pure sense but rather leverage the sonification technique for com compositional aims
+The Human Cost is a series of sonifications exploring the impact and fallout of Ireland's 2008 financial crash. Sonification is the use of sound to perceptualize data and convey information. These sonifications focus on socioeconomic data in order to better understand the human impact of the crash, through the expressive medium of sound. The data in question was provided by Ireland's Central Statistics Office and the world bank.
+The majority of these pieces are the result of research undertaken during the completion of my PhD entitled 'Embodied Sonification'. Tracks 2, 3 and 4 feature in the PhD document while tracks 1 and 5 make use of techniques and materials developed in the course of that research. 
 
-These data-driven compositions are the result of empirical research undertaken during the completion of my PhD entitled 'Embodied Sonification'. Tracks 2, 3 and 4 feature in the PhD document while tracks 1 and 5 make use of techniques and materials developed i the course of my research.
-
-My pieces are intended to communicate to the listener with a listener through feeling. The are intended to make the listener feel the data as opposed to simply hear or see the data. Sound provides the perfect medium by which to achieve this.
 
 ###  Coldwater Pass
 
@@ -45,10 +42,6 @@ An algorithm based on a heartbeat metaphor that is mapped to express the fall in
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2888609678/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=643812216/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/the-human-cost-sonification-and-irelands-economic-crash">The Human Cost: Sonification and Ireland&#39;s Economic Crash by Stephen Roddy</a></iframe>
 </div>
 
-Idle Hands Performed at the Irish Sound Science and Technology Convocation 2014
-The Human Cost: A Sonification of Ireland's is a set of data-driven compositions that explores the impact of Ireland's recent financial crash on its people.
-
-The social and economic data used in these compositions is provided by the Central Statistics Office.
 Idle Hands is a data-driven musical composition based on the Central Statistics Office’s Standardised Unemployment Rate for period from 1983 to 2014 -the total span of the CSO unemployment record. It is a gently evolving piece in G major that expresses the unemployment contour as a function of pitch and timbre.
 
  A leading tone rises and falls in time with the unemployment statistics over a small accompanying set of evolving timbral motifs -the harmonic complexity of which reference future gradients of the data contour. There are two complementary elements to the composition, the data and the baseline. Evolving timbre and pitch represent the data. Sustained harmonics centered on G major provide a baseline against which to contextualise the data material.
