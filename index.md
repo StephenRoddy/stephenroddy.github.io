@@ -54,10 +54,10 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="">Roddy, S. (Forthcoming 2023). An Interview with Nao Tokui. Resonance: The Journal of Sound and Culture, 4(4).</a>
   </li>
   <li>
-    <a target="_blank" href="https://direct.mit.edu/leon/article-abstract/doi/10.1162/leon_a_02258/112358/Signal-to-Noise-Loops-A-Cybernetic-Approach-to">Roddy, S. (2023). Signal to Noise Loops: A Cybernetic Approach to Musical Performance with Smart City Data and Generative Music Techniques. Leonardo, 56(1).</a>
+    <a target="_blank" href="/projects/s2nl/papers/leon_a_02258.pdf">Roddy, S. (2023). Signal to Noise Loops: A Cybernetic Approach to Musical Performance with Smart City Data and Generative Music Techniques. Leonardo, 56(1).</a>
   </li>
   <li>
-    <a target="_blank" href="https://online.ucpress.edu/res/article-abstract/4/1/69/195805/The-Kyoto-School-and-Sound-ArtA-Nothingness-of-the">Roddy, S. (2023). The Kyoto School and Sound Art: A Nothingness of the Absolute. Resonance: The Journal of Sound and Culture, 4(1).</a>
+    <a target="_blank" href="/projects/ab_no_papers/RES0401_05_Roddy.pdf">Roddy, S. (2023). The Kyoto School and Sound Art: A Nothingness of the Absolute. Resonance: The Journal of Sound and Culture, 4(1).</a>
   </li>
   <li>
     <a target="_blank" href="https://academic.oup.com/iwc/advance-article-abstract/doi/10.1093/iwc/iwz036/5670599">Roddy, S. (2020). Using Conceptual Metaphors to Represent Temporal Context in Time-Series Data Sonification. Interacting with Computers. </a>
@@ -75,10 +75,10 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p> <strong><strong>Book Chapters</strong></strong></p>
 <ul>
 <li>
-<a target="_blank" href="https://doi.org/10.4324/9781003299875-2">Roddy, S. (2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Creative Work. Algorithms and Society Series. Routledge, Focus.</a>
+<a target="_blank" href="/projects/AI_MUS/papers/Roddy_Creative Machine Human Collaboration - Algorithms and Society.pdf">Roddy, S. (2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Creative Work. Algorithms and Society Series. Routledge, Focus.</a>
 </li>
   <li>
-    <a target="_blank" href="https://www.taylorfrancis.com/chapters/edit/10.4324/9780429356360-3/meaning-making-embodied-cognition-sound-design-research-stephen-roddy-brian-bridges">Roddy, S. & Bridges, B. (2021) Meaning-making and Embodied Cognition in Sound Design Research. In: Filimowicz, M. editor Doing Research in Sound Design, Routledge. </a>
+    <a target="_blank" href="">Roddy, S. & Bridges, B. (2021) Meaning-making and Embodied Cognition in Sound Design Research. In: Filimowicz, M. editor Doing Research in Sound Design, Routledge. </a>
   </li>
   <li>
     <a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-319-73374-6_12">Roddy S., & Bridges B. (2018) Sound, Ecological Affordances and Embodied Mappings in Auditory Display. In: Filimowicz M., Tzankova V. (eds) New Directions in Third Wave Human-Computer Interaction: Volume 2 - Methodologies. Human–Computer Interaction Series. Springer, Cham.</a>
