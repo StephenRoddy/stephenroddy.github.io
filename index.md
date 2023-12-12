@@ -60,16 +60,16 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="/projects/ab_no_papers/RES0401_05_Roddy.pdf">Roddy, S. (2023). The Kyoto School and Sound Art: A Nothingness of the Absolute. Resonance: The Journal of Sound and Culture, 4(1).</a>
   </li>
   <li>
-    <a target="_blank" href="https://academic.oup.com/iwc/advance-article-abstract/doi/10.1093/iwc/iwz036/5670599">Roddy, S. (2020). Using Conceptual Metaphors to Represent Temporal Context in Time-Series Data Sonification. Interacting with Computers. </a>
+    <a target="_blank" href="/projects/embodied_sonification/papers/Roddy_2020_Preprint.pdf">Roddy, S. (2020). Using Conceptual Metaphors to Represent Temporal Context in Time-Series Data Sonification. Interacting with Computers. </a>
   </li>
   <li>
-    <a target="_blank" href="https://link.springer.com/article/10.1007/s12193-020-00318-y">Roddy S., & Bridges. B. (2020). Mapping for Meaning: the Embodied Sonification Listening Model and its Implications for the Mapping Problem in Sonic Information Design. J Multimodal User Interfaces.</a> <a target="_blank" href="https://link.springer.com/article/10.1007/s12193-020-00318-y"></a>
+    <a target="_blank" href="/projects/other_projects/papers/Roddy Bridges Mapping for Meaning.pdf">Roddy S., & Bridges. B. (2020). Mapping for Meaning: the Embodied Sonification Listening Model and its Implications for the Mapping Problem in Sonic Information Design. J Multimodal User Interfaces.</a> <a target="_blank" href="https://link.springer.com/article/10.1007/s12193-020-00318-y"></a>
   </li>
   <li>
     <a target="_blank" href="https://www.researchcatalogue.net/view/515156/515157">Roddy S., & Bridges B. (2018). Addressing the Mapping Problem in Sonic Information Design through Embodied Image Schemata, Conceptual Metaphors and Conceptual Blending. The Journal of Sonic Studies. 17.</a>
   </li>
   <li>
-    <a target="_blank" href="https://www.cambridge.org/core/journals/organised-sound/article/embodied-aesthetics-in-auditory-display/65EC753E1FA165ADAB7E1034FEAE6576">Roddy, S., & Furlong, D. (2014). Embodied Aesthetics in Auditory Display. Organised Sound, 19(01), 70-77.</a>  
+    <a target="_blank" href="/projects/embodied_sonification/papers/Organised Sound - Embodied Aesthetics in Auditory Display.pdf">Roddy, S., & Furlong, D. (2014). Embodied Aesthetics in Auditory Display. Organised Sound, 19(01), 70-77.</a>  
   </li>
 </ul>
 <p> <strong><strong>Book Chapters</strong></strong></p>
@@ -78,10 +78,10 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <a target="_blank" href="/projects/AI_MUS/papers/Roddy_Creative Machine Human Collaboration - Algorithms and Society.pdf">Roddy, S. (2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Creative Work. Algorithms and Society Series. Routledge, Focus.</a>
 </li>
   <li>
-    <a target="_blank" href="">Roddy, S. & Bridges, B. (2021) Meaning-making and Embodied Cognition in Sound Design Research. In: Filimowicz, M. editor Doing Research in Sound Design, Routledge. </a>
+    <a target="_blank" href="/projects/other_projects/papers/Meaning-making and Embodied Cognition in Sound Design Research(GREEN OA).pdf">Roddy, S. & Bridges, B. (2021) Meaning-making and Embodied Cognition in Sound Design Research. In: Filimowicz, M. editor Doing Research in Sound Design, Routledge. </a>
   </li>
   <li>
-    <a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-319-73374-6_12">Roddy S., & Bridges B. (2018) Sound, Ecological Affordances and Embodied Mappings in Auditory Display. In: Filimowicz M., Tzankova V. (eds) New Directions in Third Wave Human-Computer Interaction: Volume 2 - Methodologies. Human–Computer Interaction Series. Springer, Cham.</a>
+    <a target="_blank" href="/projects/other_projects/papers/">Roddy S., & Bridges B. (2018) Sound, Ecological Affordances and Embodied Mappings in Auditory Display. In: Filimowicz M., Tzankova V. (eds) New Directions in Third Wave Human-Computer Interaction: Volume 2 - Methodologies. Human–Computer Interaction Series. Springer, Cham.</a>
   </li>
 </ul>
 
