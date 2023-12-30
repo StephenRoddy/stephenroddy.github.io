@@ -48,10 +48,10 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p><strong>Journal Articles</strong></p>
 <ul>
   <li>
-    <a target="_blank" href="">Roddy, S. & Parmar, R. (Forthcoming 2023). Commentary: AI/ML in the Sonic Arts - Pitfalls and Pathways. Resonance: The Journal of Sound and Culture, 4(4).</a>
+    <a target="_blank" href="https://online.ucpress.edu/res/article-abstract/4/4/399/198793/AI-ML-in-the-Sonic-ArtsPitfalls-and-Pathways">Roddy, S. & Parmar, R. (2023). Commentary: AI/ML in the Sonic Arts - Pitfalls and Pathways. Resonance: The Journal of Sound and Culture, 4(4).</a>
   </li>
   <li>
-    <a target="_blank" href="">Roddy, S. (Forthcoming 2023). An Interview with Nao Tokui. Resonance: The Journal of Sound and Culture, 4(4).</a>
+    <a target="_blank" href="https://online.ucpress.edu/res/article-abstract/4/4/409/198795/InterviewNao-Tokui-in-Conversation-with-Stephen">Roddy, S. (2023). An Interview with Nao Tokui. Resonance: The Journal of Sound and Culture, 4(4).</a>
   </li>
   <li>
     <a target="_blank" href="/projects/s2nl/papers/leon_a_02258.pdf">Roddy, S. (2023). Signal to Noise Loops: A Cybernetic Approach to Musical Performance with Smart City Data and Generative Music Techniques. Leonardo, 56(1).</a>
