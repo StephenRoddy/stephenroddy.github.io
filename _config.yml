@@ -1,13 +1,13 @@
 # Site Specific Configuration
-name: LightSpeed
+name: Stephen Roddy
 description: A simple Jekyll theme
-url: https://example.com
+url: www.stephenroddy.com
 author: tajacks
 timezone: America/Toronto
 timezone_short: ET
 
 # Keywords
-keywords: ['seo', 'key', 'words']
+keywords: ['stephen', 'roddy', 'reseearch', 'music', 'sonification', 'AI', 'ML', 'Sensor Networks']
 
 # Analytics (Plausible requires sign-up)
 analytics:
@@ -45,4 +45,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-seo-tag
+
+  
 

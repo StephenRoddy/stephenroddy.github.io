@@ -1,15 +1,16 @@
 ### Biography
 
 Stephen Roddy is a Researcher and Lecturer working at the intersection of engineering and the creative arts at the [Radical Humanities Lab](https://www.ucc.ie/en/future-humanities/radical/) and the Department of [Digital Humanities](https://www.ucc.ie/en/dah/) at [University College Cork](https://www.ucc.ie/en/). He has a background in [sound and music computing (SMC)](https://en.wikipedia.org/wiki/Sound_and_music_computing) holding a Ph.D. in sonification: the use of sound to perceptualize data and convey information. Stephen's research explores the application of auditory display/sonification, artificial intelligence/machine learning (AI/ML), and sensor networking techniques in SMC, human-computer interaction (HCI), and creative arts contexts. This work is approached primarily through the perspectives of embodied cognitive science and cybernetics and is methodologically grounded in both computational and practice-based research methodologies.
-
+< br />< br />
 Stephen's previous projects have involved the design of auditory display solutions for large-scale IoT networks and investigated the integration of sonification and AI/ML techniques in generative music, sound art, and digital art applications. Much of this work was carried out under an IRC Postdoctoral Fellowship at CONNECT: the SFI Research Centre for Future Networks and Communications, at Trinity College Dublin (TCD), and subsequently at the Department of Electronic & Electrical Engineering at TCD. His work is widely disseminated through peer-reviewed journal publications, book chapters, and conference proceedings.
-
+< br />< br />
 Stephen maintains a vibrant and diverse creative arts practice which forms a core component of his research activity. His creative projects span a variety of media and styles, including music composition and performance, generative and data-driven music and art practices, digital art, and sound art. His creative work, described as [majestic and sweeping](https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/) yet [beautifully unsettling](https://www.stephenroddy.com/images/leviathanNewandNotableWide.png), is frequently performed and installed at home and abroad. His most recent musical work [Leviathan](https://stephenroddy.bandcamp.com/album/leviathan) is available through [Fiadh Productions](https://fiadh.bandcamp.com/album/leviathan).
 Previous events have included the New York City Electroacoustic Music Festival, IMMA’s Earth Rising Festival, and the Helicotrema Recorded Audio Festival in Venice.
-
-
+< br />< br />
 <strong>Affiliations</strong>
+< br />< br />
 <p>Current</p>
+< br />
 <ul>
   <li>Researcher in the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/radical/">Radical Humanities Laboratory</a> at <a target="_blank" href="https://www.ucc.ie">University College Cork</a>.</li>
   <li>Lecturer in the <a target="_blank" href="https://www.ucc.ie/en/dah/">Department of Digital Humanities</a> at <a target="_blank" href="https://www.ucc.ie"> University College Cork</a>.
@@ -27,8 +28,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>Member of the <a target="_blank" href="https://imro.ie/">Irish Music Rights Organisation</a>.
   </li>
 </ul>
-
+< br />< br />
 <p>Previous</p>
+< br />
 <ul>
   <li>Assistant Professor (Digital Arts) in the <a target="_blank" href="https://www.tcd.ie/creativearts/disciplines/film/">Department of Film</a> at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
   </li>
@@ -45,7 +47,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>Board member for the <a target="_blank" href="http://www.interferencejournal.org/">Interference Journal</a> 2018-2019.
   </li>
 </ul>
+< br />< br />
 <p><strong>Journal Articles</strong></p>
+< br />
 <ul>
   <li>
     <a target="_blank" href="https://doi.org/10.1525/res.2023.4.4.399">Roddy, S. & Parmar, R. (2023). AI/ML in the Sonic Arts - Pitfalls and Pathways. Resonance: The Journal of Sound and Culture, 4(4).</a>
@@ -71,8 +75,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>
     <a target="_blank" href="/projects/embodied_sonification/papers/Organised Sound - Embodied Aesthetics in Auditory Display.pdf">Roddy, S., & Furlong, D. (2014). Embodied Aesthetics in Auditory Display. Organised Sound, 19(01), 70-77.</a>  
   </li>
-</ul>
-<p> <strong><strong>Book Chapters</strong></strong></p>
+</ul>< br />< br />< br />
+<p> <strong><strong>Book Chapters</strong></strong></p>< br />
 <ul>
 <li>
 <a target="_blank" href="/projects/AI_MUS/papers/Roddy_Creative Machine Human Collaboration - Algorithms and Society.pdf">Roddy, S. (2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Creative Work. Algorithms and Society Series. Routledge, Focus.</a>
@@ -84,15 +88,15 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="/projects/other_projects/papers/">Roddy S., & Bridges B. (2018) Sound, Ecological Affordances and Embodied Mappings in Auditory Display. In: Filimowicz M., Tzankova V. (eds) New Directions in Third Wave Human-Computer Interaction: Volume 2 - Methodologies. Human–Computer Interaction Series. Springer, Cham.</a>
   </li>
 </ul>
-
-<p><strong>Reports & Policy Documents</strong></p>
+< br />< br />
+<p><strong>Reports & Policy Documents</strong></p>< br />
 <ul>
   <li>
     <a target="_blank" href="https://drive.google.com/file/d/1NdHUhzr9ep8eoknvkFBfrVtR8mK_rddz/view?usp=sharing">IEEE Committee on Ethically Aligned Design for Artists. (2022) The Voice of the Artist in the Age of the Algorithm. IEEE Ethically Aligned Design Series.</a>
   </li>
 </ul>
-
-<p><strong>Peer Reviewed Conference Proceedings</strong></p>
+< br />< br />
+<p><strong>Peer Reviewed Conference Proceedings</strong></p>< br />
 <ul>
   <li>
     <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99596">Roddy, S. (2022). A Technique for Controlling the Proportion of Information in the Sonification of Complex Time Series Data. The 27th International Conference on Auditory Display.</a>
@@ -136,8 +140,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>
     <a target="_blank" href="http://issta.ie/wp-content/uploads/ISSTC-2013-RODDY.pdf">Roddy, S., & Furlong, D. (2013). Rethinking the Transmission Medium in Live Computer Music Performance. Presented at the Irish Sound Science and Technology Convocation, Dún Laoghaire Institute of Art, Design and Technology.</a>
   </li>
-</ul>
-<p><strong>Abstracts & Talks</strong></p>
+</ul>< br />< br />
+<p><strong>Abstracts & Talks</strong></p>< br />
 <ul>
   <li>
     <a target="_blank" href="https://www.dkit.ie/conference/ihci-2023/">Roddy, S. (2023). Signal to Noise Loops  A Cybernetic Approach to  Musical Performance w/Smart City Data and  Generative Music  Techniques. The Irish Human-computer Interaction Symposium. Dundalk Institute  of Technology.</a>
@@ -152,17 +156,17 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://www.researchgate.net/publication/277310047_Sonification_and_the_Digital_Divide">Roddy, S. (2015) Sonification and the Digital Divide. Digital Materials. The National University of Ireland Galway.</a>
   </li>
 </ul>
-
-<p><strong>Popular Science & Technology Writing</strong></p>
+< br />< br />
+<p><strong>Popular Science & Technology Writing</strong></p>< br />
 <ul>
   <li>
     <a target="_blank" href="https://impakter.com/technology-trends-transforming-the-world/">'Technology Trends Transforming the World'</a> for <a target="_blank" href="https://impakter.com/technology-trends-transforming-the-world/">Impakter</a> January 2019.  
   </li>
 </ul>
-
-<p><strong><strong>Musical Performances & Sound Art Installations</strong></strong></p>
-
-<p>Recent/Forthcoming Performances & Installations:</p>
+< br />< br />
+<p><strong>Musical Performances & Sound Art Installations</strong></p>< br />
+< br />< br />
+<p>Recent/Forthcoming Performances & Installations:</p>< br />
 <ul>
 <li>
   <a target="_blank" href="https://capitart.com/becoming-machine/">opening to the ambient light, Becoming-Machine Pavillion at The Wrong Biennale 2023. Curated by Isil Ezgi Celik, CapitArt. November 2023-March 2024. Physical exhibition at Artsect Gallery, London in November 2023.</a>
@@ -179,7 +183,6 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li >
   <a target="_blank"  href="https://www.ulster.ac.uk/conference/ubimus">Signal to Noise loops V5.1, UbiMus2023 International Symposium on Ubiquitous Music, Ulster University, Derry. November 2nd-4th 2023.</a>
 </li>
-
 <li>
   <a target="_blank" href="https://imma.ie/whats-on/earth-rising/">Signal to Noise Loops v5: Breathing Space @ Earth Rising Eco Art Festival , Irish Museum of Modern Art:IMMA, 21-23 October, 2022.</a>
 </li>
@@ -214,8 +217,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://1.bp.blogspot.com/-HhZc6oL93Og/W0yMNH4jnVI/AAAAAAAAGFE/VlxW3bOMTlono3rkqbBMtE4XAxElOOgAQCLcBGAs/s1600/Sonic-Dreams-Festival-2017-final-poster-2.jpg">Noise Loops for Laptop, Improvised Electric Guitar and Dublin City Noise Level Data @ Sonic Dreams 2017, Sonic Arts Waterford, September 30th 2017.</a>
   </li>
 </ul>
-
-<p>The Body in the Machine: Music Composition & Computer Art w/AI/ML</p>
+< br />< br />
+<p>The Body in the Machine: Music Composition & Computer Art w/AI/ML</p>< br />
 <ul>
   <li>
     <a target="_blank" href="https://icmc2022.org/">Roddy (2022). The Body in the Machine: Indices Online. The International Computer Music Conference, Limerick Ireland.</a>
@@ -233,9 +236,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://58indicesonthebody.wordpress.com/2015/11/18/amaede-pinto-at-pinault-foundation-punta-della-dogana-venice/">Jean Luc Nancy Indices 21 7 and 3</a> <a target="_blank" href="https://58indicesonthebody.wordpress.com/2015/11/18/amaede-pinto-at-pinault-foundation-punta-della-dogana-venice/">w/AMAE/De Pinto and Jean Luc Nancy @ Helicotrema Recorded Audio Festival, Pinault Foundation, Punta Della Dogana/Palazzo Grassi, November 4th 2015.</a>
   </li>
 </ul>
-
-<p>The Zones Project: Immersive & Reactive XR Environments</p>
-
+< br />< br />
+<p>The Zones Project: Immersive & Reactive XR Environments</p>< br />
 <ul>
   <li>
     <a target="_blank" href="https://www.ulster.ac.uk/conference/digital-empathy">Zones 1.5 w/Alan Dormer @ The International Digital Empathy Workshop @ Ulster University October 31st 2016.</a>
@@ -244,8 +246,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="http://issta.ie/isstc-2016/">Zones 1 w/Alan Dormer @ Irish Sound Science and Technology Convocation @ Ulster University September 7th-9th 2016.</a>
   </li>
 </ul>
-
-<p>Music Composition for Dance & Stage</p>
+< br />< br />
+<p>Music Composition for Dance & Stage</p>< br />
 <ul>
   <li>
     <a target="_blank" href="http://www.danceireland.ie/events/dance-ireland-residency-sibeal-davitt-3">Hear This Dance for @ Dance House for Dance Ireland Residency w/Niall Vallely and Sibeal Davitt, September 14th 2017.</a>
@@ -297,7 +299,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 
 </ul>
-<p>Fixed-Media Musical Compositions for Performance & Installation</p>
+< br />< br />
+<p>Fixed-Media Musical Compositions for Performance & Installation</p>< br />
 <ul>
   <li>
     <a target="_blank" href="http://issta.ie/isstc-2016/">Symmetric Relations and Hidden Rotations @ Irish Sound Science and Technology Convocation @ Ulster University September 7th-9th 2016.</a>
@@ -306,8 +309,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="http://www.sonoritiesfestival.co.uk/images/Sonorities2016_Programme.pdf">Symmetric Relations and Hidden Rotations @ Sonorities Festival of Contemporary Music @ Belfast November 24-26 2016.</a>
   </li>
 </ul>
-
-<p><strong>Other/Earlier Projects</strong></p>
+< br />< br />< br />
+<p><strong>Other/Earlier Projects</strong></p>< br />
 <ul>
   <li>Public Demonstration of Gestural Control System for UAV (Drone) Flight Trinity College Dublin Open Day 2019.</li>
   <li>
@@ -323,10 +326,11 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="http://www.dmarc.ie/">Fúsball @ DMARC, University of Limerick, 2009.</a>
   </li>
 </ul>
-
+< br />< br />
 <p><strong>Discography</strong></p>
+< br />
 
-<p>Label Releases</p>
+<p>Label Releases</p>< br />
 <ul>
   <li>
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/leviathan">2023. Leviathan. A dark ambient exploration of our impending climate catastrophe. On Fiadh Productions</a>
@@ -337,8 +341,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <li>
     <a target="_blank" href="images/brl.png">2019. Der Kardinal featured on Dead Leaves - Charity Compilation (Out of Print). By Brutal Resonance.</a>
   </li>
-</ul>
-<p>Independent Releases</p>
+</ul>< br />< br />
+<p>Independent Releases</p>< br />
 <ul>
   <li> <a target="_blank" href="https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-2">Signal to Noise Loops (2023) is a series of human-machine collaborations made possible through cybernetic musical systems that unite human performance and composition with techniques and technologies from artificial intelligence, machine learning, and the internet of things.</a> </li>
   <li>
@@ -381,9 +385,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/alethia">Alethia (2013) Melodic guitar driven and electronic pieces. 11-track album.</a>
   </li>
 </ul>
-
-<p>Available on: <a target="_blank" href="https://stephenroddy.bandcamp.com/">Bandcamp</a> | <a target="_blank" href="https://open.spotify.com/artist/6FZOlLhsey17jwrTGBV07c">Spotify</a> | <a target="_blank" href="https://itunes.apple.com/us/artist/stephen-roddy/id1105554061">Apple Music</a> | <a target="_blank" href="https://play.google.com/store/music/artist/Stephen_Roddy?id=Aih2l4nvz4c2etfb42wzvfkmwhm">Google Play</a> | <a target="_blank" href="https://www.amazon.com/s/ref=ntt_srch_drd_B01EJ9KE26?ie=UTF8&amp;field-keywords=Stephen%20Roddy&amp;index=digital-music&amp;search-type=ss">Amazon</a> | <a target="_blank" href="http://www.deezer.com/us/artist/10217120">Deezer</a> | <a target="_blank" href="https://listen.tidal.com/artist/7765412">Tidal</a></p>
-<p><strong>Funding and Awards</strong></p>
+< br />< br />
+<p>Available on: <a target="_blank" href="https://stephenroddy.bandcamp.com/">Bandcamp</a> | <a target="_blank" href="https://open.spotify.com/artist/6FZOlLhsey17jwrTGBV07c">Spotify</a> | <a target="_blank" href="https://itunes.apple.com/us/artist/stephen-roddy/id1105554061">Apple Music</a> | <a target="_blank" href="https://play.google.com/store/music/artist/Stephen_Roddy?id=Aih2l4nvz4c2etfb42wzvfkmwhm">Google Play</a> | <a target="_blank" href="https://www.amazon.com/s/ref=ntt_srch_drd_B01EJ9KE26?ie=UTF8&amp;field-keywords=Stephen%20Roddy&amp;index=digital-music&amp;search-type=ss">Amazon</a> | <a target="_blank" href="http://www.deezer.com/us/artist/10217120">Deezer</a> | <a target="_blank" href="https://listen.tidal.com/artist/7765412">Tidal</a></p>< br />< br />
+<p><strong>Funding and Awards</strong></p>< br />
 <ul>
   <li>Irish Research Council Government of Ireland Postdoctoral Research Fellowship 2017-2019.</li>
   <li><a target="_blank" href ="https://drive.google.com/file/d/1hcDrbxGJzjdk9MkYd95cQ9aQaEd3tudy/view?usp=sharing"> Best use of Sound in a Concert Piece or Demonstration, The International Community for Auditory Display 27th International Conference on Auditory Display 2022.</a></li>
@@ -391,8 +395,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>Trinity College Dublin Travel Grant 2015</li>
   <li>Trinity College Dublin Postgraduate Travel Grant 2013.</li>
 </ul>
-
-<p><strong>Invited Talks & Panels</strong></p>
+< br />< br />
+<p><strong>Invited Talks & Panels</strong></p>< br />
 <ul>
   <li>
     <a target="_blank" href="https://www.ulster.ac.uk/faculties/arts-humanities-and-social-sciences/events/creative-research-and-careers">In Practice: PhD conference on creative research and careers. Ulster University, Derry, 2021.</a>
@@ -449,8 +453,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <h4> </h4>
 
 -->
-
-<h4>Seminars</h4>
+< br />< br />
+<h4>Seminars</h4>< br />
 <ul>
   <li>
     <a target="_blank" href="http://www.tcd.ie/eleceng/mmt/">Usability Testing Methods, March 2018-2021 @ Music and Media Technologies, Trinity College Dublin.</a>
@@ -465,10 +469,10 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://www.tcd.ie/eleceng/mmt/">Csound & Synthesis, 2013 @Music and Media Technologies, Trinity College Dublin.</a>
   </li>
 </ul>
-
-<p><strong>Media Coverage</strong></p>
-
-<p>Reviews & Coverage Online</p>
+< br />< br />
+<p><strong>Media Coverage</strong></p>< br />
+< br />< br />
+<p>Reviews & Coverage Online</p>< br />
 <ul>
   <li>
     <a target="_blank" href="https://stephenroddy.github.io/images/leviathanNewandNotableWide.png">Bandcamp: New and Notable - Leviathan September 16th 2023.</a>
@@ -583,8 +587,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://metaphoricalboat.blogspot.com/2014/09/line-in-life-and-death-of-terminus.html">The Metaphorical Boat: Terminus Abruptus</a>.
   </li>
 </ul>
-
-<p>Radio</p>
+< br />< br />
+<p>Radio</p>< br />
 <ul>
   <li><a target="_blank" href="https://hibernationproject.ca/2023/10/10/phonostalgia/"> Thonis-Heracleion, peaceful beneath the waves. Ears Have Eyes - PHONOSTALGIA: from other times and places, 11th October 2023.</a>
   </li>
@@ -641,8 +645,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="http://www.facebook.com/GlorMundO/posts/872771719554575">Sketch 2, Improvised Guitar Take 1 - Glór Mundo 4th October 2017 - Glór Mundo - 93.7fm.</a>
   </li>
 </ul>
-
-<p>Newsprint</p>
+< br />< br />
+<p>Newsprint</p>< br />
 <ul>
   <li>
     <a target="_blank" href="https://www.independent.ie/irish-news/news/its-great-to-be-out-again-culture-night-brings-joy-back-to-young-and-old-plus-relieved-artists-40862444.html">Irish Independent - ‘It’s great to be out again’ – Culture Night brings joy back to young and old, plus relieved artists.</a>
