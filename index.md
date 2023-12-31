@@ -1,6 +1,22 @@
-## Biography Stephen Roddy is a Researcher and Lecturer working at the intersection of engineering and the creative arts at the \[Radical Humanities Lab\](https://www.ucc.ie/en/future-humanities/radical/) and the Department of \[Digital Humanities\](https://www.ucc.ie/en/dah/) at \[University College Cork\](https://www.ucc.ie/en/). He has a background in \[sound and music computing (SMC)\](https://en.wikipedia.org/wiki/Sound\_and\_music\_computing) holding a Ph.D. in sonification: the use of sound to perceptualize data and convey information. Stephen's research explores the application of auditory display/sonification, artificial intelligence/machine learning (AI/ML), and sensor networking techniques in SMC, human-computer interaction (HCI), and creative arts contexts. This work is approached primarily through the perspectives of embodied cognitive science and cybernetics and is methodologically grounded in both computational and practice-based research methodologies. < br />< br /> Stephen's previous projects have involved the design of auditory display solutions for large-scale IoT networks and investigated the integration of sonification and AI/ML techniques in generative music, sound art, and digital art applications. Much of this work was carried out under an IRC Postdoctoral Fellowship at CONNECT: the SFI Research Centre for Future Networks and Communications, at Trinity College Dublin (TCD), and subsequently at the Department of Electronic & Electrical Engineering at TCD. His work is widely disseminated through peer-reviewed journal publications, book chapters, and conference proceedings. < br />< br /> Stephen maintains a vibrant and diverse creative arts practice which forms a core component of his research activity. His creative projects span a variety of media and styles, including music composition and performance, generative and data-driven music and art practices, digital art, and sound art. His creative work, described as \[majestic and sweeping\](https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/) yet \[beautifully unsettling\](https://www.stephenroddy.com/images/leviathanNewandNotableWide.png), is frequently performed and installed at home and abroad. His most recent musical work \[Leviathan\](https://stephenroddy.bandcamp.com/album/leviathan) is available through \[Fiadh Productions\](https://fiadh.bandcamp.com/album/leviathan). Previous events have included the New York City Electroacoustic Music Festival, IMMA’s Earth Rising Festival, and the Helicotrema Recorded Audio Festival in Venice. < br />< br /> ### Affiliations < br />< br /> ####
+---
+layout: default
+title: Stephen Roddy
+---
 
-Current
+## Biography 
+
+Stephen Roddy is a Researcher and Lecturer working at the intersection of engineering and the creative arts at the \[Radical Humanities Lab\](https://www.ucc.ie/en/future-humanities/radical/) and the Department of \[Digital Humanities\](https://www.ucc.ie/en/dah/) at \[University College Cork\](https://www.ucc.ie/en/). He has a background in \[sound and music computing (SMC)\](https://en.wikipedia.org/wiki/Sound\_and\_music\_computing) holding a Ph.D. in sonification: the use of sound to perceptualize data and convey information. Stephen's research explores the application of auditory display/sonification, artificial intelligence/machine learning (AI/ML), and sensor networking techniques in SMC, human-computer interaction (HCI), and creative arts contexts. This work is approached primarily through the perspectives of embodied cognitive science and cybernetics and is methodologically grounded in both computational and practice-based research methodologies. 
+
+Stephen's previous projects have involved the design of auditory display solutions for large-scale IoT networks and investigated the integration of sonification and AI/ML techniques in generative music, sound art, and digital art applications. Much of this work was carried out under an IRC Postdoctoral Fellowship at CONNECT: the SFI Research Centre for Future Networks and Communications, at Trinity College Dublin (TCD), and subsequently at the Department of Electronic & Electrical Engineering at TCD. His work is widely disseminated through peer-reviewed journal publications, book chapters, and conference proceedings.
+
+Stephen maintains a vibrant and diverse creative arts practice which forms a core component of his research activity. His creative projects span a variety of media and styles, including music composition and performance, generative and data-driven music and art practices, digital art, and sound art. His creative work, described as \[majestic and sweeping\](https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/) yet \[beautifully unsettling\](https://www.stephenroddy.com/images/leviathanNewandNotableWide.png), is frequently performed and installed at home and abroad. His most recent musical work \[Leviathan\](https://stephenroddy.bandcamp.com/album/leviathan) is available through \[Fiadh Productions\](https://fiadh.bandcamp.com/album/leviathan). Previous events have included the New York City Electroacoustic Music Festival, IMMA’s Earth Rising Festival, and the Helicotrema Recorded Audio Festival in Venice.
+
+
+<p style="text-align: left;"><a target="_blank" href="https://orcid.org/0000-0001-8491-3031"><img alt="ORCID" height="35" src="/images/links/orcid.png" width="35"></a><a target="_blank" href="https://www.researchgate.net/profile/Stephen_Roddy"><img alt="Research Gate" height="35" src="/images/links/resGate.png" width="35"></a><a target="_blank" href="https://scholar.google.com/citations?user=qhL5rvsAAAAJ"><img alt="Google Scholar" height="35" src="/images/links/gs.png" width="35"></a> <a target="_blank" href="https://www.linkedin.com/in/stephenroddy/"><img alt="LinkedIn" height="35" src="/images/links/linkedin.png" width="35"></a> <a target="_blank" href="https://github.com/StephenRoddy"><img alt="Github" height="35" src="/images/links/Github.png" width="35"></a><a target="_blank" href="https://stephenroddy.bandcamp.com/"><img alt="BandCamp" height="35" src="/images/links/BandCamp.png" width="35"></a></p>
+
+## Affiliations
+
+### Current
 
 < br />
 
@@ -13,11 +29,7 @@ Current
 *   Member of the [International Computer Music Association](http://computermusic.org/).
 *   Member of the [Irish Music Rights Organisation](https://imro.ie/).
 
-< br />< br /> ####
-
-Previous
-
-< br />
+### Previous
 
 *   Assistant Professor (Digital Arts) in the [Department of Film](https://www.tcd.ie/creativearts/disciplines/film/) at [Trinity College Dublin](https://www.tcd.ie/).
 *   Postdoctoral Fellow in the [Department of Electronic & Electrical Engineering](https://www.tcd.ie/eleceng/) at [Trinity College Dublin](https://www.tcd.ie/).
@@ -27,11 +39,7 @@ Previous
 *   Board member of the [Irish Sound Science and Technology Association](http://issta.ie/) 2016-2019.
 *   Board member for the [Interference Journal](http://www.interferencejournal.org/) 2018-2019.
 
-< br />< br /> ###
-
-**Journal Articles**
-
-< br />
+## Journal Articles
 
 *   [Roddy, S. & Parmar, R. (2023). AI/ML in the Sonic Arts - Pitfalls and Pathways. Resonance: The Journal of Sound and Culture, 4(4).](https://doi.org/10.1525/res.2023.4.4.399)
 *   [Roddy, S. (2023). Nao Tokui in Conversation with Stephen Roddy (Interview). Resonance: The Journal of Sound and Culture, 4(4).](https://doi.org/10.1525/res.2023.4.4.409)
@@ -42,29 +50,19 @@ Previous
 *   [Roddy S., & Bridges B. (2018). Addressing the Mapping Problem in Sonic Information Design through Embodied Image Schemata, Conceptual Metaphors and Conceptual Blending. The Journal of Sonic Studies. 17.](https://www.researchcatalogue.net/view/515156/515157)
 *   [Roddy, S., & Furlong, D. (2014). Embodied Aesthetics in Auditory Display. Organised Sound, 19(01), 70-77.](/projects/embodied_sonification/papers/Organised Sound - Embodied Aesthetics in Auditory Display.pdf)
 
-< br />< br />< br /> ###
-
-****Book Chapters****
-
-< br />
+## Book Chapters
 
 *   [Roddy, S. (2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Creative Work. Algorithms and Society Series. Routledge, Focus.](/projects/AI_MUS/papers/Roddy_Creative Machine Human Collaboration - Algorithms and Society.pdf)
 *   [Roddy, S. & Bridges, B. (2021) Meaning-making and Embodied Cognition in Sound Design Research. In: Filimowicz, M. editor Doing Research in Sound Design, Routledge.](/projects/other_projects/papers/Meaning-making and Embodied Cognition in Sound Design Research(GREEN OA).pdf)
 *   [Roddy S., & Bridges B. (2018) Sound, Ecological Affordances and Embodied Mappings in Auditory Display. In: Filimowicz M., Tzankova V. (eds) New Directions in Third Wave Human-Computer Interaction: Volume 2 - Methodologies. Human–Computer Interaction Series. Springer, Cham.](/projects/other_projects/papers/)
 
-< br />< br /> ###
 
-**Reports & Policy Documents**
+## Reports & Policy Documents
 
-< br />
 
 *   [IEEE Committee on Ethically Aligned Design for Artists. (2022) The Voice of the Artist in the Age of the Algorithm. IEEE Ethically Aligned Design Series.](https://drive.google.com/file/d/1NdHUhzr9ep8eoknvkFBfrVtR8mK_rddz/view?usp=sharing)
 
-< br />< br /> ###
-
-**Peer Reviewed Conference Proceedings**
-
-< br />
+## Peer Reviewed Conference Proceedings
 
 *   [Roddy, S. (2022). A Technique for Controlling the Proportion of Information in the Sonification of Complex Time Series Data. The 27th International Conference on Auditory Display.](http://www.tara.tcd.ie/handle/2262/99596)
 *   [Roddy, S. (2022). Creating Signal to Noise Loops v4. In the Proceedings of the International Conference on Auditory Display, ICAD 2022.](http://www.tara.tcd.ie/handle/2262/99595)
@@ -81,40 +79,26 @@ Previous
 *   [Roddy, S., & Furlong, D. (2013). Embodied cognition in auditory display. In Proceedings Of the 19th International Conference on Auditory Display, July 6-10 Łódź, Poland ( pp. 127-134).](https://smartech.gatech.edu/handle/1853/51657)
 *   [Roddy, S., & Furlong, D. (2013). Rethinking the Transmission Medium in Live Computer Music Performance. Presented at the Irish Sound Science and Technology Convocation, Dún Laoghaire Institute of Art, Design and Technology.](http://issta.ie/wp-content/uploads/ISSTC-2013-RODDY.pdf)
 
-< br />< br />
-
-**Abstracts & Talks**
-
-< br />
+## Abstracts & Talks
 
 *   [Roddy, S. (2023). Signal to Noise Loops A Cybernetic Approach to Musical Performance w/Smart City Data and Generative Music Techniques. The Irish Human-computer Interaction Symposium. Dundalk Institute of Technology.](https://www.dkit.ie/conference/ihci-2023/)
 *   [Roddy, S. (2018). IoT and AI-Driven Audio in the Smart City: A Rhythmanalysis Inspired Approach. The Irish Sound Science and Technology Association Conference. Ulster University, Magee Campus, Derry/Londonderry.](https://www.researchgate.net/publication/360849585_IoT_and_AI-Driven_Audio_in_the_Smart_City_A_Rhythmanalysis_inspired_approach)
 *   [Dormer, A., & Roddy, S. (2016). Sound, Place & Multiplace. The Irish Sound Science and Technology Association Conference. Ulster University, Magee Campus, Derry/Londonderry.](https://www.researchgate.net/publication/360849613_Sound_Place_Multiplace)
 *   [Roddy, S. (2015) Sonification and the Digital Divide. Digital Materials. The National University of Ireland Galway.](https://www.researchgate.net/publication/277310047_Sonification_and_the_Digital_Divide)
 
-< br />< br /> ###
-
-**Popular Science & Technology Writing**
-
-< br />
+## Popular Science & Technology Writing
 
 *   ['Technology Trends Transforming the World'](https://impakter.com/technology-trends-transforming-the-world/) for [Impakter](https://impakter.com/technology-trends-transforming-the-world/) January 2019.
 
-< br />< br /> ###
+## Musical Performances & Sound Art Installations
 
-**Musical Performances & Sound Art Installations**
-
-< br /> < br />< br /> ###
-
-Recent/Forthcoming Performances & Installations:
-
-< br />
+### Recent/Forthcoming Performances & Installations:
 
 *   [opening to the ambient light, Becoming-Machine Pavillion at The Wrong Biennale 2023. Curated by Isil Ezgi Celik, CapitArt. November 2023-March 2024. Physical exhibition at Artsect Gallery, London in November 2023.](https://capitart.com/becoming-machine/)
 *   [Signal to Noise loops V5, Metatopia - Hybrid Spaces Pavillion at The Wrong Biennale 2023. Curated by Luciana de Paula Santos, Aisthesis Lab. November 2023-March 2024.](https://www.aisthesislab.art/)
 *   [Thonis-Heracleion, peaceful beneath the waves @ the Leviathan Album Launch, the Radical Humanities Laboratory, October 6th 2023.](https://drive.google.com/file/d/1R-xlfXewd59_RpPh-iD3x7YMUbsCtNYg/view?usp=sharing)
 
-The Signal to Noise Loops Project: Data-driven Generative Music w/AI&ML.
+### The Signal to Noise Loops Project: Data-driven Generative Music w/AI&ML
 
 *   [Signal to Noise loops V5.1, UbiMus2023 International Symposium on Ubiquitous Music, Ulster University, Derry. November 2nd-4th 2023.](https://www.ulster.ac.uk/conference/ubimus)
 *   [Signal to Noise Loops v5: Breathing Space @ Earth Rising Eco Art Festival , Irish Museum of Modern Art:IMMA, 21-23 October, 2022.](https://imma.ie/whats-on/earth-rising/)
@@ -129,11 +113,7 @@ The Signal to Noise Loops Project: Data-driven Generative Music w/AI&ML.
 *   [Signal to Noise Loops i++ Live @ xCoAx 2018, Madrid.](https://2018.xcoax.org/#perf04)
 *   [Noise Loops for Laptop, Improvised Electric Guitar and Dublin City Noise Level Data @ Sonic Dreams 2017, Sonic Arts Waterford, September 30th 2017.](https://1.bp.blogspot.com/-HhZc6oL93Og/W0yMNH4jnVI/AAAAAAAAGFE/VlxW3bOMTlono3rkqbBMtE4XAxElOOgAQCLcBGAs/s1600/Sonic-Dreams-Festival-2017-final-poster-2.jpg)
 
-< br />< br />
-
-The Body in the Machine: Music Composition & Computer Art w/AI/ML
-
-< br />
+### The Body in the Machine: Music Composition & Computer Art w/AI/ML
 
 *   [Roddy (2022). The Body in the Machine: Indices Online. The International Computer Music Conference, Limerick Ireland.](https://icmc2022.org/)
 *   [Roddy (2021). The Body in the Machine: Indices Online. In Proceedings of xCoAx 2021, Online (+ Graz) 12th-16th July 2021.](https://2021.xcoax.org/sro/)
@@ -141,18 +121,12 @@ The Body in the Machine: Music Composition & Computer Art w/AI/ML
 *   [58 Indices On The Body: A Reflection on Translations through Language, Technology and Sounds - Selected Indices Soundworks and Musical Pieces w/Sentiment Analysis. @ ISSTA 2019, Cork School of Music October 2019.](http://issta.ie/)
 *   [Jean Luc Nancy Indices 21 7 and 3](https://58indicesonthebody.wordpress.com/2015/11/18/amaede-pinto-at-pinault-foundation-punta-della-dogana-venice/) [w/AMAE/De Pinto and Jean Luc Nancy @ Helicotrema Recorded Audio Festival, Pinault Foundation, Punta Della Dogana/Palazzo Grassi, November 4th 2015.](https://58indicesonthebody.wordpress.com/2015/11/18/amaede-pinto-at-pinault-foundation-punta-della-dogana-venice/)
 
-< br />< br />
-
-The Zones Project: Immersive & Reactive XR Environments
-
-< br />
+### The Zones Project: Immersive & Reactive XR Environments
 
 *   [Zones 1.5 w/Alan Dormer @ The International Digital Empathy Workshop @ Ulster University October 31st 2016.](https://www.ulster.ac.uk/conference/digital-empathy)
 *   [Zones 1 w/Alan Dormer @ Irish Sound Science and Technology Convocation @ Ulster University September 7th-9th 2016.](http://issta.ie/isstc-2016/)
 
-< br />< br />
-
-Music Composition for Dance & Stage
+### Music Composition for Dance & Stage
 
 < br />
 
@@ -164,7 +138,7 @@ Music Composition for Dance & Stage
 *   [Romeo & Juliet w/ Legitimate Bodies Dance Company w/Cristina Golletti & Nick Bryson @ Birr Theatre & Arts Centre 2010.](http://www.birrtheatre.com/dance)
 *   [Pinocchio - Dance of the Long Nose w/ Legitimate Bodies Dance Company w/Cristina Golletti & Nick Bryson @ Birr Theatre & Arts Centre 2009.](http://www.birrtheatre.com/dance)
 
-Sonification & Musification for Performance & Installation
+### Sonification & Musification for Performance & Installation
 
 *   [Idle Hands- A 31-Part Exploration Of Irish Unemployment From 1983 - 2014 In G Major @ the premiere of TIDES: An ISSTA Anthology.](http://stolenmirror.com/2021d01-tides.html?fbclid=IwAR1k0LF5vj-0nQxviDW0JU_v9mNli1h3AtWIAQIfL3dNGSBaxl6LPaRbY4o)
 *   [The Good Ship Hibernia @ Audio Mostly Queen Mary University London 23-26 August 2017.](https://audiomostly.com/2017/)
@@ -175,20 +149,12 @@ Sonification & Musification for Performance & Installation
 *   [Extensive Structure no 1, The Human Cost, Doom & Gloom @ Contemporary Music Centre Spring Salon Series, National Concert Hall, Kevin Barry Room March 24th 2015.](https://www.cmc.ie/news/200315/cmcs-salon-series-returns-24-march-eclectic-programme-electro-acoustic-works/)
 *   [Idle Hands- A 31-Part Exploration Of Irish Unemployment From 1983 - 2014 In G Major @ Irish Sound Signal and Technology Convocation @ NUI Maynooth, Ireland August 2014.](http://issta.ie/index.php/isstc/isstc-2014/)
 
-< br />< br />
-
-Fixed-Media Musical Compositions for Performance & Installation
-
-< br />
+### Fixed-Media Musical Compositions
 
 *   [Symmetric Relations and Hidden Rotations @ Irish Sound Science and Technology Convocation @ Ulster University September 7th-9th 2016.](http://issta.ie/isstc-2016/)
 *   [Symmetric Relations and Hidden Rotations @ Sonorities Festival of Contemporary Music @ Belfast November 24-26 2016.](http://www.sonoritiesfestival.co.uk/images/Sonorities2016_Programme.pdf)
 
-< br />< br />< br />
-
-**Other/Earlier Projects**
-
-< br />
+### Other/Earlier Projects
 
 *   Public Demonstration of Gestural Control System for UAV (Drone) Flight Trinity College Dublin Open Day 2019.
 *   [Deslitary The Ghost of Lochmarne w/Daniel O'Connor, Online Video/Music, 2013.](http://deslitary.blogspot.ie/)
@@ -196,25 +162,15 @@ Fixed-Media Musical Compositions for Performance & Installation
 *   [Bike @ DMARC, University of Limerick, 2010](http://www.dmarc.ie/). [Shifting Sands @ DMARC, University of Limerick, 2010 .](http://www.dmarc.ie/)
 *   [Fúsball @ DMARC, University of Limerick, 2009.](http://www.dmarc.ie/)
 
-< br />< br />
+#### Discography
 
-**Discography**
-
-< br />
-
-Label Releases
-
-< br />
+### Label Releases
 
 *   [2023\. Leviathan. A dark ambient exploration of our impending climate catastrophe. On Fiadh Productions](https://stephenroddy.bandcamp.com/album/leviathan)
 *   [2021\. Idle Hands \[...\] featured on Tides: An ISSTA Anthology. On the Stolen Mirror Label.](http://stolenmirror.com/2021d01-tides.html)
 *   [2019\. Der Kardinal featured on Dead Leaves - Charity Compilation (Out of Print). By Brutal Resonance.](images/brl.png)
 
-< br />< br />
-
-Independent Releases
-
-< br />
+### Independent Releases
 
 *   [Signal to Noise Loops (2023) is a series of human-machine collaborations made possible through cybernetic musical systems that unite human performance and composition with techniques and technologies from artificial intelligence, machine learning, and the internet of things.](https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-2)
 *   [Darkness Visible (2022): Generative music EP in an industrial and ark ambient style.](https://stephenroddy.bandcamp.com/album/ep-darkness-visible)
@@ -231,15 +187,9 @@ Independent Releases
 *   [Line-In: R (2014) Computer music, electroacoustic and minimalist compositions. 10-track album.](https://stephenroddy.bandcamp.com/album/line-in-r)
 *   [Alethia (2013) Melodic guitar driven and electronic pieces. 11-track album.](https://stephenroddy.bandcamp.com/album/alethia)
 
-< br />< br />
+**Available on:** [Bandcamp](https://stephenroddy.bandcamp.com/) | [Spotify](https://open.spotify.com/artist/6FZOlLhsey17jwrTGBV07c) | [Apple Music](https://itunes.apple.com/us/artist/stephen-roddy/id1105554061) | [Google Play](https://play.google.com/store/music/artist/Stephen_Roddy?id=Aih2l4nvz4c2etfb42wzvfkmwhm) | [Amazon](https://www.amazon.com/s/ref=ntt_srch_drd_B01EJ9KE26?ie=UTF8&field-keywords=Stephen%20Roddy&index=digital-music&search-type=ss) | [Deezer](http://www.deezer.com/us/artist/10217120) | [Tidal](https://listen.tidal.com/artist/7765412)
 
-Available on: [Bandcamp](https://stephenroddy.bandcamp.com/) | [Spotify](https://open.spotify.com/artist/6FZOlLhsey17jwrTGBV07c) | [Apple Music](https://itunes.apple.com/us/artist/stephen-roddy/id1105554061) | [Google Play](https://play.google.com/store/music/artist/Stephen_Roddy?id=Aih2l4nvz4c2etfb42wzvfkmwhm) | [Amazon](https://www.amazon.com/s/ref=ntt_srch_drd_B01EJ9KE26?ie=UTF8&field-keywords=Stephen%20Roddy&index=digital-music&search-type=ss) | [Deezer](http://www.deezer.com/us/artist/10217120) | [Tidal](https://listen.tidal.com/artist/7765412)
-
-< br />< br />
-
-**Funding and Awards**
-
-< br />
+### Funding and Awards
 
 *   Irish Research Council Government of Ireland Postdoctoral Research Fellowship 2017-2019.
 *   [Best use of Sound in a Concert Piece or Demonstration, The International Community for Auditory Display 27th International Conference on Auditory Display 2022.](https://drive.google.com/file/d/1hcDrbxGJzjdk9MkYd95cQ9aQaEd3tudy/view?usp=sharing)
@@ -247,11 +197,7 @@ Available on: [Bandcamp](https://stephenroddy.bandcamp.com/) | [Spotify](https:/
 *   Trinity College Dublin Travel Grant 2015
 *   Trinity College Dublin Postgraduate Travel Grant 2013.
 
-< br />< br />
-
-**Invited Talks & Panels**
-
-< br />
+### Invited Talks & Panels
 
 *   [In Practice: PhD conference on creative research and careers. Ulster University, Derry, 2021.](https://www.ulster.ac.uk/faculties/arts-humanities-and-social-sciences/events/creative-research-and-careers)
 *   ["Whose Music?": Panel Discussion on AI in Music Composition at Music Current 2019, CMC Dublin.](https://www.facebook.com/events/2480204325324203/)
@@ -266,26 +212,16 @@ Available on: [Bandcamp](https://stephenroddy.bandcamp.com/) | [Spotify](https:/
 *   [Sonification and the Digital Divide @ Digital Material Conference, National University of Ireland Galway, May 21st 2015.](http://www.nuigalway.ie:85/mooreinstitute/site/view/2042/)
 *   [Sonification, Soundart & IoT @ The Arts and Technology Research Lab, Trinity College Dublin, December 12th 2016.](https://www.tcd.ie/creative-arts/atrl/)
 
-< br />< br />
-
-#### Seminars
-
-< br />
+### Seminars
 
 *   [Usability Testing Methods, March 2018-2021 @ Music and Media Technologies, Trinity College Dublin.](http://www.tcd.ie/eleceng/mmt/)
 *   [Embodied Cognition and Sonification Research Methods, 2016 @ Music and Media Technologies, Trinity College Dublin.](http://www.tcd.ie/eleceng/mmt/)
 *   [Empirical Research Methods in Music and Media Technologies, 2015 @ Music and Media Technologies, Trinity College Dublin.](http://www.tcd.ie/eleceng/mmt/)
 *   [Csound & Synthesis, 2013 @Music and Media Technologies, Trinity College Dublin.](https://www.tcd.ie/eleceng/mmt/)
 
-< br />< br />
+### Media Coverage
 
-**Media Coverage**
-
-< br /> < br />< br />
-
-Reviews & Coverage Online
-
-< br />
+#### Reviews & Coverage Online
 
 *   [Bandcamp: New and Notable - Leviathan September 16th 2023.](https://stephenroddy.github.io/images/leviathanNewandNotableWide.png)
 *   [Avant Music News: Leviathan Review (2023; Fiadh Productions).](https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/)
@@ -326,11 +262,7 @@ Reviews & Coverage Online
 *   [Pure Mzine: The Life and Death of Terminus Abruptus](https://issuu.com/puremzinebackissues/docs/puremzinenov2014).
 *   [The Metaphorical Boat: Terminus Abruptus](https://metaphoricalboat.blogspot.com/2014/09/line-in-life-and-death-of-terminus.html).
 
-< br />< br />
-
-Radio
-
-< br />
+#### Radio
 
 *   [Thonis-Heracleion, peaceful beneath the waves. Ears Have Eyes - PHONOSTALGIA: from other times and places, 11th October 2023.](https://hibernationproject.ca/2023/10/10/phonostalgia/)
 *   [Leviathan. No Place Like Drone, Dublin Digital Radio, October 5th 2023.](https://www.mixcloud.com/DublinDigitalRadio/no-place-like-drone-041023-lowercase-laments/)
@@ -353,11 +285,7 @@ Radio
 *   [Cellular Storm \[Excerpt\] & The Good Ship Hibernia and the Hole in the Bottom of the World - Glór Mundo 29th September 2017 - Glór Mundo - 93.7fm.](https://www.facebook.com/GlorMundO/posts/868313836667030)
 *   [Sketch 2, Improvised Guitar Take 1 - Glór Mundo 4th October 2017 - Glór Mundo - 93.7fm.](http://www.facebook.com/GlorMundO/posts/872771719554575)
 
-< br />< br />
-
-Newsprint
-
-< br />
+#### Newsprint
 
 *   [Irish Independent - ‘It’s great to be out again’ – Culture Night brings joy back to young and old, plus relieved artists.](https://www.independent.ie/irish-news/news/its-great-to-be-out-again-culture-night-brings-joy-back-to-young-and-old-plus-relieved-artists-40862444.html)
 *   [Newspaper Article "Offaly man prepares for 'unique' musical performance in London". The Offaly Express, 17 August 2017.](https://www.offalyexpress.ie/news/home/265639/offaly-man-prepares-for-unique-musical-performance-in-london.html)
