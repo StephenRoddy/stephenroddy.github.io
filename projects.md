@@ -1,11 +1,7 @@
----
-layout: default
-title: Research & Creative Projects
----
-
-## Research & Creative Projects
-
+### Research & Creative Projects
 <!-- //Use some ahref tags to make the images link across to the pages also -->
+
+---
 
 [Artificial Intelligence in Sound & Music Computing](/projects/AI_MUS/AI_MUS)<br />
 <a href="/projects/AI_MUS/AI_MUS">
