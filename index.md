@@ -1,4 +1,4 @@
-### Biography
+## Biography
 
 Stephen Roddy is a Researcher and Lecturer working at the intersection of engineering and the creative arts at the [Radical Humanities Lab](https://www.ucc.ie/en/future-humanities/radical/) and the Department of [Digital Humanities](https://www.ucc.ie/en/dah/) at [University College Cork](https://www.ucc.ie/en/). He has a background in [sound and music computing (SMC)](https://en.wikipedia.org/wiki/Sound_and_music_computing) holding a Ph.D. in sonification: the use of sound to perceptualize data and convey information. Stephen's research explores the application of auditory display/sonification, artificial intelligence/machine learning (AI/ML), and sensor networking techniques in SMC, human-computer interaction (HCI), and creative arts contexts. This work is approached primarily through the perspectives of embodied cognitive science and cybernetics and is methodologically grounded in both computational and practice-based research methodologies.
 < br />< br />
@@ -7,9 +7,9 @@ Stephen's previous projects have involved the design of auditory display solutio
 Stephen maintains a vibrant and diverse creative arts practice which forms a core component of his research activity. His creative projects span a variety of media and styles, including music composition and performance, generative and data-driven music and art practices, digital art, and sound art. His creative work, described as [majestic and sweeping](https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/) yet [beautifully unsettling](https://www.stephenroddy.com/images/leviathanNewandNotableWide.png), is frequently performed and installed at home and abroad. His most recent musical work [Leviathan](https://stephenroddy.bandcamp.com/album/leviathan) is available through [Fiadh Productions](https://fiadh.bandcamp.com/album/leviathan).
 Previous events have included the New York City Electroacoustic Music Festival, IMMA’s Earth Rising Festival, and the Helicotrema Recorded Audio Festival in Venice.
 < br />< br />
-<strong>Affiliations</strong>
+### Affiliations
 < br />< br />
-<p>Current</p>
+#### <p>Current</p>
 < br />
 <ul>
   <li>Researcher in the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/radical/">Radical Humanities Laboratory</a> at <a target="_blank" href="https://www.ucc.ie">University College Cork</a>.</li>
@@ -29,7 +29,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 < br />< br />
-<p>Previous</p>
+#### <p>Previous</p>
 < br />
 <ul>
   <li>Assistant Professor (Digital Arts) in the <a target="_blank" href="https://www.tcd.ie/creativearts/disciplines/film/">Department of Film</a> at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
@@ -48,7 +48,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 < br />< br />
-<p><strong>Journal Articles</strong></p>
+### <p><strong>Journal Articles</strong></p>
 < br />
 <ul>
   <li>
@@ -76,7 +76,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="/projects/embodied_sonification/papers/Organised Sound - Embodied Aesthetics in Auditory Display.pdf">Roddy, S., & Furlong, D. (2014). Embodied Aesthetics in Auditory Display. Organised Sound, 19(01), 70-77.</a>  
   </li>
 </ul>< br />< br />< br />
-<p> <strong><strong>Book Chapters</strong></strong></p>< br />
+### <p> <strong><strong>Book Chapters</strong></strong></p>< br />
 <ul>
 <li>
 <a target="_blank" href="/projects/AI_MUS/papers/Roddy_Creative Machine Human Collaboration - Algorithms and Society.pdf">Roddy, S. (2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Creative Work. Algorithms and Society Series. Routledge, Focus.</a>
@@ -89,14 +89,14 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 < br />< br />
-<p><strong>Reports & Policy Documents</strong></p>< br />
+### <p><strong>Reports & Policy Documents</strong></p>< br />
 <ul>
   <li>
     <a target="_blank" href="https://drive.google.com/file/d/1NdHUhzr9ep8eoknvkFBfrVtR8mK_rddz/view?usp=sharing">IEEE Committee on Ethically Aligned Design for Artists. (2022) The Voice of the Artist in the Age of the Algorithm. IEEE Ethically Aligned Design Series.</a>
   </li>
 </ul>
 < br />< br />
-<p><strong>Peer Reviewed Conference Proceedings</strong></p>< br />
+### <p><strong>Peer Reviewed Conference Proceedings</strong></p>< br />
 <ul>
   <li>
     <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99596">Roddy, S. (2022). A Technique for Controlling the Proportion of Information in the Sonification of Complex Time Series Data. The 27th International Conference on Auditory Display.</a>
@@ -157,16 +157,16 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 < br />< br />
-<p><strong>Popular Science & Technology Writing</strong></p>< br />
+### <p><strong>Popular Science & Technology Writing</strong></p>< br />
 <ul>
   <li>
     <a target="_blank" href="https://impakter.com/technology-trends-transforming-the-world/">'Technology Trends Transforming the World'</a> for <a target="_blank" href="https://impakter.com/technology-trends-transforming-the-world/">Impakter</a> January 2019.  
   </li>
 </ul>
 < br />< br />
-<p><strong>Musical Performances & Sound Art Installations</strong></p>< br />
+### <p><strong>Musical Performances & Sound Art Installations</strong></p>< br />
 < br />< br />
-<p>Recent/Forthcoming Performances & Installations:</p>< br />
+### <p>Recent/Forthcoming Performances & Installations:</p>< br />
 <ul>
 <li>
   <a target="_blank" href="https://capitart.com/becoming-machine/">opening to the ambient light, Becoming-Machine Pavillion at The Wrong Biennale 2023. Curated by Isil Ezgi Celik, CapitArt. November 2023-March 2024. Physical exhibition at Artsect Gallery, London in November 2023.</a>
