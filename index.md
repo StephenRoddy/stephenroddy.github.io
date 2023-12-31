@@ -57,7 +57,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="/projects/s2nl/papers/leon_a_02258.pdf">Roddy, S. (2023). Signal to Noise Loops: A Cybernetic Approach to Musical Performance with Smart City Data and Generative Music Techniques. Leonardo, 56(1).</a>
   </li>
   <li>
-    <a target="_blank" href="/projects/ab_no/papers/RES0401_05_Roddy.pdf">Roddy, S. (2023). The Kyoto School and Sound Art: A Nothingness of the Absolute. Resonance: The Journal of Sound and Culture, 4(1).</a>
+    <a target="_blank" href="/projects/ab_no/papers/Roddy_Ab_No_Preprint.pdf">Roddy, S. (2023). The Kyoto School and Sound Art: A Nothingness of the Absolute. Resonance: The Journal of Sound and Culture, 4(1).</a>
   </li>
   <li>
     <a target="_blank" href="/projects/embodied_sonification/papers/Roddy_2020_Preprint.pdf">Roddy, S. (2020). Using Conceptual Metaphors to Represent Temporal Context in Time-Series Data Sonification. Interacting with Computers. </a>
