@@ -95,7 +95,7 @@ Information about the exhibition can be accessed on the websites of The Wrong Bi
 - [The Wrong Biennale](https://thewrong.org/BecomingMachine)
 - [Becoming-Machine Website](https://capitart.com/becoming-machine/)
 
-For an overview of the ethos and operation of The Wrong Biennale see the follwoing article by FakeWhale's FW\<LOG>. It includes an interview with David Quiles Guilló, the founder of the Wrong Biennale and features my audiovisual composition "opening to the ambient light".  
+For an overview of the ethos and operation of The Wrong Biennale see the follwoing article by Fakewhale's FW\<LOG>. It includes an interview with David Quiles Guilló, the founder of the Wrong Biennale and features my audiovisual composition "opening to the ambient light".  
 - [The Wrong Biennale is Reshaping the Experience of Art](https://log.fakewhale.xyz/insights/the-wrong-biennale-is-reshaping-the-experience-of-art/)
 
 #### Overview of the piece 
