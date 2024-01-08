@@ -128,8 +128,6 @@ More recently the project has been concerned with how artists navigate the myria
 - [Roddy, S. (2023). Nao Tokui in Conversation with Stephen Roddy (Interview). Resonance: The Journal of Sound and Culture, 4(4).](https://doi.org/10.1525/res.2023.4.4.409)
 
 
-
-
 ### Tags
 Artificial Intelligence. Machine Learning. Computer Vision. Musical Interaction. Gestural Interfaces. Creative Coding. Web Applications. Generative Music. Stochastic Processes. Probabilistic Techniques.
 <br />
