@@ -95,7 +95,8 @@ Information about the exhibition can be accessed on the websites of The Wrong Bi
 - [The Wrong Biennale](https://thewrong.org/BecomingMachine)
 - [Becoming-Machine Website](https://capitart.com/becoming-machine/)
 
-
+For an overview of the ethos and operation of The Wrong Biennale see the follwoing article by FakeWhale's FW\<LOG>. It includes an interview with David Quiles Guilló, the founder of the Wrong Biennale and features my audiovisual composition "opening to the ambient light".  
+- [The Wrong Biennale is Reshaping the Experience of Art](https://log.fakewhale.xyz/insights/the-wrong-biennale-is-reshaping-the-experience-of-art/)
 
 #### Overview of the piece 
 opening to the ambient light is a stochastic composition expressed in an ambient style through generative means. It is informed in its structural realization by Xenakis' stochastic work while its aesthetic aspect is realized in reference to Milton's Paradise Lost. Gordon Pask's cybernetic conversation theory provided a conceptual apparatus to approach Deleuze’s becoming-machine, that mode of existence in which the border between the human and machinic becomes less a force of division and more of a method of integration through deterritorialization. Sonically the piece conjures something of the interplay of light and darkness that continually recurs across Milton's epic poem Paradise Lost. This is recontextualized in terms of man and machine as generative audiovisual techniques render the struggle between chaos and cosmos as randomly generated parameters that become intelligible compositional choices thanks to a series of self-correcting feedback loops at the micro, meso, and macro levels of the stochastically driven generative music system underlying the piece. The sonic and visual result is a conversation in which the light and dark become immanent for the listener through their dialog with one another. Man and machine cease to be at odds here and rather a third thing, Deleuze’s becoming-machine is set in process. This process in turn announces itself both visually and sonically As the fixed identity of the human as composer/artist and machine as tool is challenged in this piece as the machine makes compositional choices from within a possibility space defined in collaboration with the human, but not entirely by the human. The fixed identity of the composer and the visual artist are disregarded here as a process of transformation, disrupts established musical and visual categories opening up a space for new creative possibilities. In this way, the conversation itself between sound & space, light & dark machine & human, operating as becoming-machine, thus producing the work
@@ -120,7 +121,13 @@ An example of how this approach can be applied in practice is provided by my Sig
 
 - [Signal to Noise Loops: A Cybernetic Approach to Musical Performance with Smart City Data and Generative Music Techniques ](https://direct.mit.edu/leon/article-abstract/56/1/87/112358/Signal-to-Noise-Loops-A-Cybernetic-Approach-to)
 
-More recently the project has been concerned with how artists navigate the myriad pitfalls and pathways that AI/ML technologies open up for their sonic arts practices. Some of this research is due to be published later in 2023.
+More recently the project has been concerned with how artists navigate the myriad pitfalls and pathways that AI/ML technologies open up for their sonic arts practices:
+
+- [Roddy, S. & Parmar, R. (2023). AI/ML in the Sonic Arts - Pitfalls and Pathways. Resonance: The Journal of Sound and Culture, 4(4).](https://doi.org/10.1525/res.2023.4.4.399)
+
+- [Roddy, S. (2023). Nao Tokui in Conversation with Stephen Roddy (Interview). Resonance: The Journal of Sound and Culture, 4(4).](https://doi.org/10.1525/res.2023.4.4.409)
+
+
 
 
 ### Tags
