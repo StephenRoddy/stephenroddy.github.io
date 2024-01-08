@@ -124,7 +124,6 @@ An example of how this approach can be applied in practice is provided by my Sig
 More recently the project has been concerned with how artists navigate the myriad pitfalls and pathways that AI/ML technologies open up for their sonic arts practices:
 
 - [Roddy, S. & Parmar, R. (2023). AI/ML in the Sonic Arts - Pitfalls and Pathways. Resonance: The Journal of Sound and Culture, 4(4).](https://doi.org/10.1525/res.2023.4.4.399)
-
 - [Roddy, S. (2023). Nao Tokui in Conversation with Stephen Roddy (Interview). Resonance: The Journal of Sound and Culture, 4(4).](https://doi.org/10.1525/res.2023.4.4.409)
 
 
