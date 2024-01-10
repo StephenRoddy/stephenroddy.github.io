@@ -597,6 +597,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>
     <a target="_blank" href="https://www.mixcloud.com/DublinDigitalRadio/no-place-like-drone-041023-lowercase-laments/">Leviathan. No Place Like Drone, Dublin Digital Radio, October 5th 2023.</a>
   </li>
+  <li><a target="_blank" href="https://whatsthiscalled.net/2023/09/30/30-september-2023/">What’s This Called?, KFFP-LP FM 90.3 Portland Oregon, September 30th 2023.</a></li>
   <li><a target="_blank" href="https://www.mixcloud.com/brainvoyager/brainvoyager-electronic-fusion-419-16-september-2023/?fbclid=IwAR1wzAPXZNaeH7WJ4vukHNct-6SVC_SyYWHGdwbbasbU57R8fCN86ppCApU">Piteraq Over Tasiilaq. Brainvoyager Electronic Fusion Episode #419, Modul303, SCIFI.radio & Radio Dark Tunnel 16-17 Septtember 2023</a>
   </li>
   <li><a target="_blank" href="https://spinitron.com/WRUW/pl/17998423/Popular-Culture-Process-Filter">Leviathan. Popular Culture Process Filter w/ Chuck Nicklow. WRUW FM 91.1 Cleveland, 11th October 2023.</a>
