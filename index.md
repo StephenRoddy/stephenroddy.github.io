@@ -81,7 +81,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="/projects/other_projects/papers/Meaning-making and Embodied Cognition in Sound Design Research(GREEN OA).pdf">Roddy, S. & Bridges, B. (2021) Meaning-making and Embodied Cognition in Sound Design Research. In: Filimowicz, M. editor Doing Research in Sound Design, Routledge. </a>
   </li>
   <li>
-    <a target="_blank" href="/projects/other_projects/papers/">Roddy S., & Bridges B. (2018) Sound, Ecological Affordances and Embodied Mappings in Auditory Display. In: Filimowicz M., Tzankova V. (eds) New Directions in Third Wave Human-Computer Interaction: Volume 2 - Methodologies. Human–Computer Interaction Series. Springer, Cham.</a>
+    <a target="_blank" href="/projects/other_projects/papers/Roddy Bridges Preprint.pdf">Roddy S., & Bridges B. (2018) Sound, Ecological Affordances and Embodied Mappings in Auditory Display. In: Filimowicz M., Tzankova V. (eds) New Directions in Third Wave Human-Computer Interaction: Volume 2 - Methodologies. Human–Computer Interaction Series. Springer, Cham.</a>
   </li>
 </ul>
 
