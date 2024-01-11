@@ -8,7 +8,7 @@ Stephen maintains a vibrant and diverse creative arts practice which forms a cor
 Previous events have included the New York City Electroacoustic Music Festival, IMMA’s Earth Rising Festival, and the Helicotrema Recorded Audio Festival in Venice.
 
 
-<strong>Recent Release:</strong>
+<strong>Recent Work:</strong>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=205411815/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/leviathan">Leviathan by Stephen Roddy</a></iframe>
 <br /><br />
 
