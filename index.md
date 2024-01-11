@@ -177,7 +177,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p>The Signal to Noise Loops Project: Data-driven Generative Music w/AI&ML.</p>
 <ul>
   <li >
-  <a target="_blank"  href="https://www.ulster.ac.uk/conference/ubimus">Signal to Noise loops V5.1, UbiMus2023 International Symposium on Ubiquitous Music, Ulster University, Derry. November 2nd-4th 2023.</a>
+  <a target="_blank"  href="/projects/s2nl/papers/UBMIUS_23.pdf">Signal to Noise loops V5.1, UbiMus2023 International Symposium on Ubiquitous Music, Ulster University, Derry. November 2nd-4th 2023.</a>
 </li>
 
 <li>
