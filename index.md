@@ -483,6 +483,11 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>
     <a target="_blank" href="https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/">Avant Music News: Leviathan Review (2023; Fiadh Productions).</a>
   </li>
+ <li>
+    <a target="_blank" href="https://www.thesleepingshaman.com/articles/top-ten-2023-george-green/">The Sleeping Shaman: George Green AOTY Honorable Mention: Leviathan - Stephen Roddy (2023; Fiadh Productions).</a>
+  </li>
+
+
   <li>
     <a target="_blank" href="http://industrialcomplexx.com/stephen-roddy-leviathan/">Industrial Complexx: Stephen Roddy - Leviathan.</a>
   </li>
