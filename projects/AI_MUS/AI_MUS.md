@@ -46,6 +46,32 @@ This initial work was followed with the development of a GAN-based system but th
 - [Signal to Noise Loops](https://stephenroddy.github.io/projects/s2nl/s2nl_project)
 - [Indices on the Body](https://stephenroddy.github.io/projects/indices/indices_audio)
 
+
+##### Whispering Signals
+
+The musical loops on this track were generated using 3Def3Lep an LSTM-based machine learning model trained on a similar corpus of materials to those explored on 30 Epoch Opus: MIDI renderings of the tracks from Def Leppard's 1987 classic Hysteria. For some reason, the model produces excellent musical information for experimental and ambient compositions.
+
+In this iteration of the model, additional musical parameters were captured from the original dataset and the result was mapped to looping musical structures.
+
+The sounds here involve a mixture of purely digital sound synthesis using a variety of techniques, processed samples, and re-synthesized samples.
+The final composition is quiet and delicate.
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4081177415/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=514950703/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-compilation">Signal to Noise Loops - Compilation by Stephen Roddy</a></iframe>
+
+##### Loopscape #1
+
+Layers of atmospheric drones loop over one another in this richly detailed tour through a cybernetic soundscape. 
+Waves of noise swell and crash over the sonic landscape revealing the delicate musical lamentations suspended just below the surface.
+A sense of awe and longing permeates the piece making for an other-worldly listening experience.
+
+This piece was created with signal, noise, and generative AI methods in mind once again. There are no sonification methods this time around. After experimenting with the MusicVAE model to produce some lackluster, materials I reverted back to my own 3Def3Lep model to produce musical information that better suits the style of the project and my own personal taste. 
+Materials produced by the model were mapped to sound using a variety of sound synthesis routines in Reaktor. These materials were then heavily processed using techniques similar to my earlier collections of works Stardust Sonata and the other pieces here that experiment with timbre and texture: 61years and Soma. This time, however, the harmonic information across the frequency spectra of both channels (which I was thinking of as the signal coming through from the original generative model) was split from the noise information. 
+
+The noise information was then processed using the 'extensive structures' methodology I developed on earlier works. I then composed these elements to create the finished piece.
+The result is a kind of journey through a meditative soundscape composed of loops of signal and noise that sometimes interlock and evolve together and at other points fall into contrast with one another. It represents a return to an exploration of signals and noise, on both the timbral and texture levels with structures derived from a generative AI model.
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4081177415/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2724687699/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-compilation">Signal to Noise Loops - Compilation by Stephen Roddy</a></iframe>
+
 ### CV & ML Techniques for Gestural Interaction in Live Music Performance & Installation 
 
 The second phase of the project explored computer vision (CV) and ML techniques for gestural control of performance systems (UAVs: drones, and music/sound synthesis). My colleagues and I at the Department of Electrical and Electronic Engineering TCD, designed and built a gestural control interface that could be used to control the flight of a drone.
