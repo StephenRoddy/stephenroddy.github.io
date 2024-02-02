@@ -67,7 +67,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="/projects/embodied_sonification/papers/Roddy_2020_Preprint.pdf">Roddy, S. (2020). Using Conceptual Metaphors to Represent Temporal Context in Time-Series Data Sonification. Interacting with Computers. </a>
   </li>
   <li>
-    <a target="_blank" href="/projects/other_projects/papers/Roddy Bridges Mapping for Meaning.pdf">Roddy S., & Bridges. B. (2020). Mapping for Meaning: the Embodied Sonification Listening Model and its Implications for the Mapping Problem in Sonic Information Design. J Multimodal User Interfaces.</a> <a target="_blank" href="https://link.springer.com/article/10.1007/s12193-020-00318-y"></a>
+    <a target="_blank" href="https://link.springer.com/article/10.1007/s12193-020-00318-y">Roddy S., & Bridges. B. (2020). Mapping for Meaning: the Embodied Sonification Listening Model and its Implications for the Mapping Problem in Sonic Information Design. J Multimodal User Interfaces.</a> <a target="_blank" href="https://link.springer.com/article/10.1007/s12193-020-00318-y"></a>
   </li>
   <li>
     <a target="_blank" href="https://www.researchcatalogue.net/view/515156/515157">Roddy S., & Bridges B. (2018). Addressing the Mapping Problem in Sonic Information Design through Embodied Image Schemata, Conceptual Metaphors and Conceptual Blending. The Journal of Sonic Studies. 17.</a>
