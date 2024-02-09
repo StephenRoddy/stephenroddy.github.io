@@ -67,7 +67,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="/projects/embodied_sonification/papers/Roddy_2020_Preprint.pdf">Roddy, S. (2020). Using Conceptual Metaphors to Represent Temporal Context in Time-Series Data Sonification. Interacting with Computers. </a>
   </li>
   <li>
-    <a target="_blank" href="/projects/other_projects/papers/Roddy Bridges Mapping for Meaning.pdf">Roddy S., & Bridges. B. (2020). Mapping for Meaning: the Embodied Sonification Listening Model and its Implications for the Mapping Problem in Sonic Information Design. J Multimodal User Interfaces.</a> <a target="_blank" href="https://link.springer.com/article/10.1007/s12193-020-00318-y"></a>
+    <a target="_blank" href="https://link.springer.com/article/10.1007/s12193-020-00318-y">Roddy S., & Bridges. B. (2020). Mapping for Meaning: the Embodied Sonification Listening Model and its Implications for the Mapping Problem in Sonic Information Design. J Multimodal User Interfaces.</a> <a target="_blank" href="https://link.springer.com/article/10.1007/s12193-020-00318-y"></a>
   </li>
   <li>
     <a target="_blank" href="https://www.researchcatalogue.net/view/515156/515157">Roddy S., & Bridges B. (2018). Addressing the Mapping Problem in Sonic Information Design through Embodied Image Schemata, Conceptual Metaphors and Conceptual Blending. The Journal of Sonic Studies. 17.</a>
@@ -213,6 +213,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
   <li>
     <a target="_blank" href="https://2018.xcoax.org/#perf04">Signal to Noise Loops i++ Live @ xCoAx 2018, Madrid.</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://imma.ie/whats-on/imma-collection-coast-lines-2/">1967-2017: aspen 5+6 Experiments in Art and Technology (E.A.T.) & the Orthogonal Methods Group (OMG). w/OMG. Irish Museum of Modern Art (IMMA) October 2017 - September 2018.</a>
   </li>
   <li>
     <a target="_blank" href="https://1.bp.blogspot.com/-HhZc6oL93Og/W0yMNH4jnVI/AAAAAAAAGFE/VlxW3bOMTlono3rkqbBMtE4XAxElOOgAQCLcBGAs/s1600/Sonic-Dreams-Festival-2017-final-poster-2.jpg">Noise Loops for Laptop, Improvised Electric Guitar and Dublin City Noise Level Data @ Sonic Dreams 2017, Sonic Arts Waterford, September 30th 2017.</a>
