@@ -650,7 +650,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>
     <a target="_blank" href="http://www.rte.ie/lyricfm/nova/programmes/2015/1108/740526-nova-sunday-8-november-2015/?clipid=2017805">Extensive Structure No 1 - Nova Sunday 8 November 2015 - Nova RTÉ lyric fm.</a>
   </li>
-  <li style = "visibility: hidden">
+  <li style = "display: none">
     <a target="_blank" href="http://www.rte.ie/radio1/arena/programmes/2016/0405/779721-arena-tuesday-5-april-2016/?clipid=2150076">Excerpts from Fógraim/I Proclaim - Arena Tuesday 5 April 2016 - Arena - RTÉ 1.</a>
   </li>
   <li>
