@@ -633,7 +633,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://listen.dublindigitalradio.com/resident/monthly-diatribe">Signal to Noise Loops: A Quiet Year. Monthly Diatribe, Dublin Digital Radio, October 27th, 2021.</a>  
   </li>
   <li>
-    <a target="_blank" href="https://open.spotify.com/episode/7cLYlSGysR9Kd4NkjgfKTm">Search Party - The Noisy Plug Episode 7</a>  
+    <a target="_blank" href="https://music.amazon.com/podcasts/846a2c7a-5067-4e6c-a980-1efa7f4a079f/episodes/2de7f1d9-6f14-4642-b94b-33f9d5f66e84/the-noisy-plug-the-noisy-plug---episode-7">Search Party - The Noisy Plug Episode 7</a>  
   </li>
   <li>
     <a target="_blank" href="https://www.facebook.com/GlorMundO/posts/1132493006915777">Sketch 2, Improvised Guitar Take 1 - Glór Mundo 17th October 2018 - Glór Mundo - 93.7fm.</a>
