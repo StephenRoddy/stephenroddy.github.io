@@ -14,7 +14,8 @@ function setup() {
   createCanvas(600, 400);
   stroke(0, 0, 0,66);
   strokeWeight(2);
-  
+  img.resize(img.width*.8, img.height*.8);
+
  
   
   //section dedicated to setting initial vertical grid line positions
@@ -40,7 +41,7 @@ function draw() {
   background(255, 255, 255);
   
   
-  image(img, -350, 0);
+  image(img, -160, 40);
   
   push();
   fill(255, 255, 255);
