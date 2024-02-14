@@ -7,7 +7,7 @@ Stephen's previous projects have involved the design of auditory display solutio
 Stephen maintains a vibrant and diverse creative arts practice which forms a core component of his research activity. His creative projects span a variety of media and styles, including music composition and performance, generative and data-driven music and art practices, digital art, and sound art. His creative work, described as [majestic and sweeping](https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/) yet [beautifully unsettling](https://www.stephenroddy.com/images/leviathanNewandNotableWide.png), is frequently performed and installed at home and abroad. His most recent musical work [Leviathan](https://stephenroddy.bandcamp.com/album/leviathan) is available through [Fiadh Productions](https://fiadh.bandcamp.com/album/leviathan).
 Previous events have included the New York City Electroacoustic Music Festival, IMMA’s Earth Rising Festival, and the Helicotrema Recorded Audio Festival in Venice.
 
-<iframe width="600" height="400" src="resources/rhl_logo/"></iframe>
+<iframe width="600" height="400" src="resources/rhl_logo/logo.html"></iframe>
 
 <strong>Recent Work:</strong>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=205411815/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/leviathan">Leviathan by Stephen Roddy</a></iframe>
