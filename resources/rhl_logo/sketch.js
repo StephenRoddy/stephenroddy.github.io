@@ -3,18 +3,17 @@
 // source https://editor.p5js.org/GDD140-J_Chaput/sketches/xVa-sh40u
 //------------------------------------------------------------------------------------
 
-let img, horizon = [], grid = []; //horizon for mountains & clouds, grid for ground
-let starX = [], starY = [], starR = []; //x and y coordinates plus radius for stars
+let rhl, grid = []; //horizon
 
 function preload() {
-  img = loadImage("RHL.png");
+  rhl = loadImage("RHL.png");
 }
 
 function setup() {
   createCanvas(600, 400);
   stroke(0, 0, 0,66);
   strokeWeight(2);
-  img.resize(img.width*.8, img.height*.8);
+  rhl.resize(rhl.width*.6, rhl.height*.6);
 
  
   
@@ -41,11 +40,10 @@ function draw() {
   background(255, 255, 255);
   
   
-  image(img, -160, 40);
+  image(rhl, 10, 40);
   
   push();
-  fill(255, 255, 255);
-  rect(0, 300, 600, 300);
+    line(0, 300, width, 300);
   pop();
   
   //horizontal grid lines
