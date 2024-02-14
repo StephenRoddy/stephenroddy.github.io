@@ -13,7 +13,7 @@ function setup() {
   createCanvas(600, 400);
   stroke(0, 0, 0,66);
   strokeWeight(2);
-  rhl.resize(rhl.width*.6, rhl.height*.6);
+  rhl.resize(rhl.width*.7, rhl.height*.7);
 
  
   
@@ -40,7 +40,7 @@ function draw() {
   background(255, 255, 255);
   
   
-  image(rhl, 10, 40);
+  image(rhl, -70, 50);
   
   push();
     line(0, 300, width, 300);
@@ -73,9 +73,9 @@ class GridLine {
     }
     
     push();
-    stroke(0, 0, 0,66);
-    strokeWeight(2);
-    line(this.x, 302, map(this.x, -20, 620, -250, 850), 400);
+      stroke(0, 0, 0,66);
+      strokeWeight(2);
+      line(this.x, 302, map(this.x, -20, 620, -250, 850), 400);
     pop();
   }
 }
