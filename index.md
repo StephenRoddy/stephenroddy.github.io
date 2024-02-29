@@ -685,6 +685,6 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
 </ul>
 
-<iframe width="601" height="401" frameBorder="0" src="resources/rhl_logo/logo.html">Browser not compatible.</iframe>
+<iframe style = 'visibility: hidden' width="601" height="401" frameBorder="0" src="resources/rhl_logo/logo.html">Browser not compatible.</iframe>
 
 ---
