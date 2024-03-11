@@ -2,7 +2,7 @@
 ## Aesthetics of Nothingness
 
 <br/>
-<img src="images/index2.png?raw=true"/><br/>
+<img style = 'display: none' src="images/index2.png?raw=true"/><br/>
 <br/>
 
 ### Project Overview
