@@ -28,7 +28,7 @@
 <img src="images/tabs/INDXtab.png?raw=true"/>
 </a>
 
-[Absolute Nothingness: The Roots of Contemporary Sound Art Aesthetics](/projects/ab_no/ab_no)<br />
+[Aesthetics of Nothingness](/projects/ab_no/ab_no)<br />
 <a href="/projects/ab_no/ab_no">
 <img src="images/tabs/ab_no.png?raw=true"/>
 </a>
