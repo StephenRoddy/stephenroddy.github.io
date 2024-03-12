@@ -1,10 +1,6 @@
 <base target="_blank">
 ## Aesthetics of Nothingness
 
-<br/>
-<img style = 'display: none' src="images/index2.png?raw=true"/><br/>
-<br/>
-
 ### Project Overview
 
 This ongoing project is investigating aesthetic expressions of the concept of 'Nothingness' as developed across disparate fields of research and cultural practice, specifically music and sound art. Beginning with the roots of contemporary sound art aesthetics it has explored how the concept of Absolute Nothingness as described in the work of Kyoto School philosophers, Nishida, Tanabe, and Nishitani shaped the historical development and philosophical underpinnings of sound art, and continue to influence contemporary sound art practices today. 
@@ -24,8 +20,9 @@ https://www.researchgate.net/publication/318115471_Absolute_Nothingness_The_Kyot
 
 
 ### Music
-
+<br/>
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=205411815/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/leviathan">Leviathan by Stephen Roddy</a></iframe>
+<br/>
 
 Leviathan was recorded around midsummer 2023, from June 20th-24th, with the final piece recorded on July 2nd. It was recorded in response to our rapidly intensifying climate catastrophe. July 3rd, 2023 was the hottest day ever recorded on this planet and 2 days later on July 5th a particularly intense El Niño arrived.
 There are many interpretations of the Leviathan concept, but here Leviathan is the mythological world-serpent who encircles the Earth in a ring, and upon whom the Earth is built. It is the anima mundi or world-soul that separates the material earth from the chaos of the immaterial. The death of the Leviathan is the end of the material world and so the death of the Earth too. Iterations and deviations on this central idea recur across diverse cultures with Babylonian Tiamat, Sesha of the Hindu Puranas, and Norse Jörmungandr, but the version described here above is most identifiable with Ophite Gnosticism.
