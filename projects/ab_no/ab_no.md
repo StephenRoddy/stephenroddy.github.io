@@ -42,7 +42,7 @@ Ireland.
 
 * [Leviathan - Stephen Roddy ](https://stephenroddy.bandcamp.com/album/leviathan)
 * [Leviathan on Fiadh Productions](https://fiadh.bandcamp.com/album/leviathan)
-* [Casettes from Ratti Incantati ](https://fiadh.bandcamp.com/album/leviathan)
+* [Casettes from Ratti Incantati ](https://rattiincantati.com/products/stephen-roddy-leviathan?_pos=1&_sid=e4c94a8ba)
 
 <br />
 <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
