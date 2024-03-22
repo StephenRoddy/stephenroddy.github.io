@@ -19,15 +19,18 @@ The conference paper presented at [Invisible Places](http://invisibleplaces.org/
 https://www.researchgate.net/publication/318115471_Absolute_Nothingness_The_Kyoto_School_and_Sound_Art_Practice)
 
 
-### Music
-
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=205411815/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/leviathan">Leviathan by Stephen Roddy</a></iframe>
-
-You can read more in Leviathan's album credits and liner notes booklet here:
-
+### Leviathan
+<br />
+You can read more about the concepts explored in Leviathan's in the liner notes booklet here:
+<br />
 <div style="text-align: center;">
 <iframe style="border: 0; width: 500px; height: 500px;" src="https://drive.google.com/file/d/1q06eAMJUBEDF6wrs18pt4ggB20SHwXe7/preview" ></iframe><br/>
 </div>
+<br />
+<div style="text-align: center;">
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=205411815/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/leviathan">Leviathan by Stephen Roddy</a></iframe>
+</div>
+<br />
 
 * [Leviathan - Stephen Roddy ](https://stephenroddy.bandcamp.com/album/leviathan)
 * [Leviathan on Fiadh Productions](https://fiadh.bandcamp.com/album/leviathan)
