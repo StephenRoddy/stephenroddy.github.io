@@ -19,9 +19,9 @@ The conference paper presented at [Invisible Places](http://invisibleplaces.org/
 https://www.researchgate.net/publication/318115471_Absolute_Nothingness_The_Kyoto_School_and_Sound_Art_Practice)
 
 
-### Leviathan
+### Music: Leviathan
 <br />
-You can read about the concepts explored in Leviathan's in the liner notes booklet below. It contains a detailed overview of the album along with in-depth notes on each track.
+You can read about the concepts explored in Leviathan in the liner notes booklet below. It contains a detailed overview of the album along with in-depth notes on each track.
 <br />
 <div style="text-align: center;">
 <iframe style="border: 0; width: 500px; height: 500px;" src="https://drive.google.com/file/d/1q06eAMJUBEDF6wrs18pt4ggB20SHwXe7/preview" ></iframe><br/>
