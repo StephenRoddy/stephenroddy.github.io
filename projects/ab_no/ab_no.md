@@ -26,7 +26,7 @@ https://www.researchgate.net/publication/318115471_Absolute_Nothingness_The_Kyot
 You can read more in Leviathan's album credits and liner notes booklet here:
 
 <div style="text-align: center;">
-<iframe frameborder="0"  src="https://drive.google.com/file/d/1IKldbo48sByi3VUbb3s5EMgqkqXnIyzz/preview" style="border: 0; width: 100%; height: 100%;"></iframe>
+<iframe frameborder="0"  src="https://drive.google.com/file/d/1q06eAMJUBEDF6wrs18pt4ggB20SHwXe7/preview" style="border: 0; width: 100%; height: 500px;"></iframe>
 </div>
 <br/>
 
