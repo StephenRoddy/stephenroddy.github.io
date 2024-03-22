@@ -154,7 +154,7 @@ More recently the project has been concerned with how artists navigate the myria
 
 
 ### Tags
-Artificial Intelligence. Machine Learning. Computer Vision. Musical Interaction. Gestural Interfaces. Creative Coding. Web Applications. Generative Music. Stochastic Processes. Probabilistic Techniques.
+Cybernetics. Artificial Intelligence. Machine Learning. Computer Vision. Musical Interaction. Gestural Interfaces. Creative Coding. Web Applications. Generative Music. Stochastic Processes. Probabilistic Techniques.
 <br />
 <br />
 <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
