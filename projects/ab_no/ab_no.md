@@ -21,7 +21,7 @@ https://www.researchgate.net/publication/318115471_Absolute_Nothingness_The_Kyot
 
 ### Leviathan
 <br />
-You can read more about the concepts explored in Leviathan's in the liner notes booklet below. It contains a detailed overview of the album along with in-depth notes on each track.
+You can read about the concepts explored in Leviathan's in the liner notes booklet below. It contains a detailed overview of the album along with in-depth notes on each track.
 <br />
 <div style="text-align: center;">
 <iframe style="border: 0; width: 500px; height: 500px;" src="https://drive.google.com/file/d/1q06eAMJUBEDF6wrs18pt4ggB20SHwXe7/preview" ></iframe><br/>
@@ -31,7 +31,7 @@ You can read more about the concepts explored in Leviathan's in the liner notes 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=205411815/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/leviathan">Leviathan by Stephen Roddy</a></iframe>
 
 <br />
-
+<strong>Available here:</strong>
 
 * [Leviathan - Stephen Roddy ](https://stephenroddy.bandcamp.com/album/leviathan)
 * [Leviathan on Fiadh Productions](https://fiadh.bandcamp.com/album/leviathan)
