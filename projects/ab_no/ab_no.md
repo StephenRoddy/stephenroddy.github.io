@@ -24,7 +24,7 @@ https://www.researchgate.net/publication/318115471_Absolute_Nothingness_The_Kyot
 You can read about the concepts explored in Leviathan in the liner notes booklet below. It contains a detailed overview of the album along with in-depth notes on each track.
 <br />
 <div style="text-align: center;">
-<iframe style="border: 0; width: 500px; height: 500px;" src="https://drive.google.com/file/d/1q06eAMJUBEDF6wrs18pt4ggB20SHwXe7/preview" ></iframe><br/>
+<iframe style="border: none; width: 100%; aspect-ratio: 1;" " src="https://drive.google.com/file/d/1q06eAMJUBEDF6wrs18pt4ggB20SHwXe7/preview" ></iframe><br/>
 </div>
 <br />
 <strong>Listen Here:</strong>
