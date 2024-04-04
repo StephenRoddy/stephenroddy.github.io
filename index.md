@@ -1,6 +1,6 @@
 ### Coming Soon: Stardust Sonanta - (Physical Release)
 
-<img src="/images/profile2.jpg?raw=true"/>
+<img src="/images/mockup.png?raw=true"/>
 <br/>
 
 This year will see the physical release of Stardust Sonaata on casette through [Fiadh Productions](https://fiadh.bandcamp.com/). It was originally recorded in 2016 appearing on digital platforms in different a number of guises thereafter but has never been given a physical on a proper label. That is all set to change later this year. The digital version will be updated and expanded with more comprehensive liner notes also. You can see the liner notes below:
