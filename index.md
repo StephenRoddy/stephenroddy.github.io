@@ -1,6 +1,4 @@
 ## Stardust Sonata - Physical Release
-<br/>
-
 <div style="text-align: center;">
 <img src="/images/mockup.png?raw=true"/>
 </div>
