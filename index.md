@@ -1,4 +1,4 @@
-### Stardust Sonata - Physical Release
+## Stardust Sonata - Physical Release
 <br/>
 
 <div style="text-align: center;">
