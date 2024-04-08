@@ -1,4 +1,4 @@
-### Academic Work
+### Biography
 
 Stephen Roddy is a Musician, Researcher and Lecturer working at the intersection of engineering and the creative arts at the [Radical Humanities Lab](https://www.ucc.ie/en/future-humanities/radical/) and the Department of [Digital Humanities](https://www.ucc.ie/en/dah/) at [University College Cork](https://www.ucc.ie/en/). He has a background in [sound and music computing (SMC)](https://en.wikipedia.org/wiki/Sound_and_music_computing) holding a Ph.D. in sonification: the use of sound to perceptualize data and convey information. Stephen's research explores the application of auditory display/sonification, artificial intelligence/machine learning (AI/ML), and sensor networking techniques in SMC, human-computer interaction (HCI), and creative arts contexts. This work is approached primarily through the perspectives of embodied cognitive science and cybernetics and is methodologically grounded in both computational and practice-based research methodologies.
 
