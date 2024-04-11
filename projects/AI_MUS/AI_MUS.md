@@ -1,9 +1,9 @@
 <base target="_blank">
-## Towards a Cybernetic Framework for Artificial Intelligence & Machine Learning in Sound & Music Computing
+## Towards a Cybernetics of Artificial Intelligence & Machine Learning in Sound & Music Computing
 
 ### Overview
 
-This project began as part of my postdoctoral research exploring Automated Music Synthesis at the Department of Electrical and Electronic Engineering at Trinity College Dublin. The project investigated methods for integrating machine learning and deep learning techniques (ML/DL) into the electronic music production and performance pipelines. Over time the project has grown to account for ethical, social and cultural factors as well as introducing a Cybernetic framework for the application of AI/ML technologies in the creative arts. 
+This project began as part of my postdoctoral research exploring Automated Music Synthesis at the Department of Electrical and Electronic Engineering at Trinity College Dublin. The project investigated methods for integrating machine learning and deep learning techniques (ML/DL) into the electronic music production and performance pipelines. Over time the project has grown to account for ethical, social and cultural factors as well as introducing a Cybernetic appraoch for the application of AI/ML technologies in the creative arts. 
 
 ### Generative Machine Learning for Music Production Pipelines
 
@@ -138,8 +138,8 @@ You can read our paper in greater detail here:
 
 - [IEEE Committee on Ethically Aligned Design for Artists. (2022) The Voice of the Artist in the Age of the Algorithm. IEEE Ethically Aligned Design Series.](https://drive.google.com/file/d/1NdHUhzr9ep8eoknvkFBfrVtR8mK_rddz/view?usp=sharing)
 
-### Developing a Cybernetic Framework
-Following on from my work with the committee I began the development of a cybernetic framework for the application of AI/ML technologies in the creative arts. The point of this framework is to account for the the master-servant dynamic at play in AI/ML applications as well as the anxiety that advancing AI/ML systems will replace human creatives. The approach developed instead is informed by creative applications of cybernetics, and the work of George E. Lewis, in particular. You can read more about this approach here:
+### Developing a Cybernetics of AI/ML
+Following on from my work with the committee I began the development of a cybernetics approach to the application of AI/ML technologies in the creative arts. The point of this approach is to account for the the master-servant dynamic at play in AI/ML applications as well as the anxiety that advancing AI/ML systems will replace human creatives. The approach developed instead is informed by creative applications of cybernetics, and the work of George E. Lewis, in particular. You can read more about this approach here:
 
 - [Roddy, S. (2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Creative Work. Algorithms and Society Series. Routledge, Focus.](https://doi.org/10.4324/9781003299875-2)
 
