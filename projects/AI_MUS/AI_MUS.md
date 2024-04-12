@@ -1,5 +1,5 @@
 <base target="_blank">
-## Towards a Cybernetics of Artificial Intelligence & Machine Learning in Sound & Music Computing
+## A Cybernetics of Artificial Intelligence & Machine Learning in Sound & Music Computing
 
 ### Overview
 
