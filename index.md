@@ -21,16 +21,15 @@ Leviathan was released in October 2023 on [Fiadh Productions](https://fiadh.band
 <img src="/images/levmockup.png?raw=true"/>
 </div> 
 <br>
+<strong>Listen Here:</strong>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=205411815/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/leviathan">Leviathan by Stephen Roddy</a></iframe>
 <br>
-You can read about the concepts explored in Leviathan in the liner notes booklet below. It contains a detailed overview of the album along with in-depth notes on each track.
+You can listen to the album above and read about the concepts explored in Leviathan in the liner notes booklet below. It contains a detailed overview of the album along with in-depth notes on each track. There is also a limited supply of tapes available through [Ratti Incantati ](https://rattiincantati.com/products/stephen-roddy-leviathan?_pos=1&_sid=e4c94a8ba).
 <br />
 <div style="text-align: center;">
 <iframe style="border: none; width: 100%; aspect-ratio: 1; " src="https://drive.google.com/file/d/1q06eAMJUBEDF6wrs18pt4ggB20SHwXe7/preview" ></iframe><br/>
 </div>
 <br />
-<strong>Listen Here:</strong>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=205411815/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/leviathan">Leviathan by Stephen Roddy</a></iframe>
-
 <br />
 <strong>Available here:</strong>
 
