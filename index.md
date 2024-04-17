@@ -11,7 +11,7 @@ This year will see the physical release of Stardust Sonata on casette through [F
 <div style="text-align: center;">
 <iframe style="border: none; width: 100%; aspect-ratio: 1;" src="https://drive.google.com/file/d/19lNMWcNpna3l2dzXTnT9fleigM4FReMi/preview"></iframe>
 </div>
-
+<br>
 
 ## Leviathan - Physical & Digital Release 2023
 
@@ -19,7 +19,7 @@ Leviathan was released in October 2023 on [Fiadh Productions](https://fiadh.band
 
 <div style="text-align: center;">
 <img src="/images/mockupLev.jpg?raw=true"/>
-</div>
+</div> 
 <br>
 
 <br />
