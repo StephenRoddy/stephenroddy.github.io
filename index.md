@@ -4,7 +4,6 @@
 <img src="/images/From-Dreams-to-Living-Things-II-Brawling-Sparrows-Brilliant-Moon-Artist-Mairead-McGuinness-artwork-scaled.png?raw=true"/>
 </div>
 <br>
-
 <i>From Dreams to Living Things II: Brawling Sparrows Brilliant Moon</i> is the second compilation from [Fiadh](https://fiadh.bandcamp.com/) following on from last year's <i>[From Dreams to Living Things](https://fiadh.bandcamp.com/album/from-dreams-to-living-things)</i>.
 The compilation features tracks from over 50 Fiadh artists and bands including my own track <i>Connemara Chaos</i> which originally appeared on <i>Jupiter</i>.
 All proceeds from the record will be donated to [Heartstone Sanctuary](https://www.heartstone.earth/) a vegan organic animal sanctuary in the North West of Ireland. 
