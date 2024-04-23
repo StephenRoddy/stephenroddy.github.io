@@ -472,7 +472,10 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 
 <p>Reviews & Coverage Online</p>
 <ul>
- 
+
+  <li>
+    <a target="_blank" href="https://ghostcultmag.com/exclusive-album-stream-from-dreams-to-living-things-ii-brawling-sparrows-brilliant-moon-charity-compilation-is-streaming-in-full/">Ghost Cult Magazine: Fiadh Compilation Launch. April 22nd 2024.</a>
+  </li> 
   <li>
     <a target="_blank" href="https://stephenroddy.github.io/images/leviathanNewandNotableWide.png">Bandcamp: New and Notable - Leviathan September 16th 2023.</a>
   </li>
