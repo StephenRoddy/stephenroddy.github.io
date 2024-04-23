@@ -331,6 +331,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p>Label Releases</p>
 <ul>
   <li>
+    <a target="_blank" href="https://fiadh.bandcamp.com/album/from-dreams-to-living-things-ii-brawling-sparrows-brilliant-moon">2024. From Dreams to Living Things II: Brawling Sparrows Brilliant Moon. A compilation album of more than 50 Fiadh Productions artists to raise money for Heartstone Sanctuary. On Fiadh Productions</a>
+  </li>
+  <li>
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/leviathan">2023. Leviathan. A dark ambient exploration of our impending climate catastrophe. On Fiadh Productions</a>
   </li>
   <li>
