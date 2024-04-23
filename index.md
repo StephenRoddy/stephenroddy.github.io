@@ -6,19 +6,17 @@
 <br>
 
 <i>From Dreams to Living Things II: Brawling Sparrows Brilliant Moon</i> is the second compilation from [Fiadh](https://fiadh.bandcamp.com/) following on from last year's <i>[From Dreams to Living Things](https://fiadh.bandcamp.com/album/from-dreams-to-living-things)</i>.
-
-The compilation features tracks from over 50 Fiadh artists and bands including my own track <i>Connemara Chaos</i> which originally appeared on <i>Jupiter</i>i>.
-
+The compilation features tracks from over 50 Fiadh artists and bands including my own track <i>Connemara Chaos</i> which originally appeared on <i>Jupiter</i>.
 All proceeds from the record will be donated to [Heartstone Sanctuary](https://www.heartstone.earth/) a vegan organic animal sanctuary in the North West of Ireland. 
 
-Cover Art by [Mairead McGuinness](https//www.instagram.com/maireadmcguinnessart) 
+Cover Art by [Mairead McGuinness](https//www.instagram.com/maireadmcguinnessart).
+Read more about the release on [Ghost Cult](https://ghostcultmag.com/exclusive-album-stream-from-dreams-to-living-things-ii-brawling-sparrows-brilliant-moon-charity-compilation-is-streaming-in-full/).
+Get the album through [Fiadh Productions](https://fiadh.bandcamp.com/album/from-dreams-to-living-things-ii-brawling-sparrows-brilliant-moon).
 
-Read more about the release on [Ghost Cult](https://ghostcultmag.com/exclusive-album-stream-from-dreams-to-living-things-ii-brawling-sparrows-brilliant-moon-charity-compilation-is-streaming-in-full/)
-
-Get the album through [Fiadh Productions](https://fiadh.bandcamp.com/album/from-dreams-to-living-things-ii-brawling-sparrows-brilliant-moon)
 
 You can sample some of the tracks below:
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1836613001/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://fiadh.bandcamp.com/album/from-dreams-to-living-things-ii-brawling-sparrows-brilliant-moon">From Dreams to Living Things II: Brawling Sparrows Brilliant Moon by Fiadh Productions</a></iframe>
+<br>
 
 ## Stardust Sonata - Physical Release 2024
 
