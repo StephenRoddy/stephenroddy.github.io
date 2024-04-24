@@ -8,7 +8,7 @@
 The compilation features tracks from over 50 Fiadh artists and bands including my own track <i>Connemara Chaos</i> which originally appeared on <i>Jupiter</i>.
 All proceeds from the record will be donated to [Heartstone Sanctuary](https://www.heartstone.earth/) a vegan organic animal sanctuary in the North West of Ireland. 
 
-Cover Art by [Mairead McGuinness](https//www.instagram.com/maireadmcguinnessart).<br>
+Cover Art by [Mairead McGuinness](https//instagram.com/maireadmcguinnessart).<br>
 Read more about the release on [Ghost Cult](https://ghostcultmag.com/exclusive-album-stream-from-dreams-to-living-things-ii-brawling-sparrows-brilliant-moon-charity-compilation-is-streaming-in-full/).<br>
 Get the album through [Fiadh Productions](https://fiadh.bandcamp.com/album/from-dreams-to-living-things-ii-brawling-sparrows-brilliant-moon).<br>
 
