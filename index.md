@@ -1,4 +1,4 @@
-## Stardust Sonata - Physical Release June 21st 2024
+## Stardust Sonata - June 21st 2024
 
 <div style="text-align: center;">
 <img src="/images/mockupStardust.png?raw=true"/>
