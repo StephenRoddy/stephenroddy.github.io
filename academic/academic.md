@@ -210,7 +210,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
     <a target="_blank" href="https://2018.xcoax.org/#perf04">Signal to Noise Loops i++ Live @ xCoAx 2018, Madrid.</a>
   </li>
   <li>
-    <a target="_blank" href="https://imma.ie/whats-on/imma-collection-coast-lines-2/">1967-2017: aspen 5+6 Experiments in Art and Technology (E.A.T.) & the Orthogonal Methods Group (OMG). w/OMG. Irish Museum of Modern Art (IMMA) October 2017 - September 2018.</a>
+    <a target="_blank" href="https://imma.ie/whats-on/imma-collection-coast-lines-2/">1967-2017: aspen 5+6 Experiments in Art and Technology (E.A.T.) & the Orthogonal Methods Group (OMG). w/OMG. For the Coastlines exhibition at the Irish Museum of Modern Art (IMMA) October 2017 - September 2018.</a>
   </li>
   <li>
     <a target="_blank" href="https://1.bp.blogspot.com/-HhZc6oL93Og/W0yMNH4jnVI/AAAAAAAAGFE/VlxW3bOMTlono3rkqbBMtE4XAxElOOgAQCLcBGAs/s1600/Sonic-Dreams-Festival-2017-final-poster-2.jpg">Noise Loops for Laptop, Improvised Electric Guitar and Dublin City Noise Level Data @ Sonic Dreams 2017, Sonic Arts Waterford, September 30th 2017.</a>
