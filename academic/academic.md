@@ -331,6 +331,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 <p>Label Releases</p>
 <ul>
   <li>
+    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/stardust-sonata">2024. Stardust Sonata. A tribute and lament to David Bowie recorded in the winter of 2016 shortly after the release of Blackstar and Bowie’s premature death. The six tracks feature ambient soundscapes informed y the sound Bowie developed with brian Eno and Robert Fripp on his infamous "berlin Trilogy". On Fiadh Productions.</a>
+  </li>
+  <li>
     <a target="_blank" href="https://fiadh.bandcamp.com/album/from-dreams-to-living-things-ii-brawling-sparrows-brilliant-moon">2024. From Dreams to Living Things II: Brawling Sparrows Brilliant Moon. A compilation album of more than 50 Fiadh Productions artists to raise money for Heartstone Sanctuary. On Fiadh Productions</a>
   </li>
   <li>
@@ -360,9 +363,6 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   </li>
   <li>
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/le-son-du-corps-et-un-corps-de-sons">Le Son Du Corps Et Un Corps de Sons by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto) (2016) Sound works, experimental guitar and electroacoustic compositions based on 58(+1)/63 Indices on the Body. 16-track album.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/stardust-sonata">Stardust Sonata (2016) Experimental guitar instrumentals converge with computer music and electroacoustic techniques in a tribute to David Bowie. 6-track album.</a>
   </li>
   <li>
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/the-human-cost-a-sonification-of-irelands-economic-crash">The Human Cost: A Sonification of Ireland's Economic Crash (2016) Includes sonifications and data-driven musical works exploring the socioeconomic data from Ireland’s 2008 financial crash. Includes works composed for my Ph.D. 5-track album.</a>
