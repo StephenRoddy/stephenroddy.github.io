@@ -13,6 +13,8 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>Researcher in the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/radical/">Radical Humanities Laboratory</a> at <a target="_blank" href="https://www.ucc.ie">University College Cork</a>.</li>
   <li>Lecturer in the <a target="_blank" href="https://www.ucc.ie/en/dah/">Department of Digital Humanities</a> at <a target="_blank" href="https://www.ucc.ie"> University College Cork</a>.
   </li>
+  <li>Member of the <a target="_blank" href="https://www.ieee.org/">Institute of Electrical and Electronics Engineers (IEEE)</a>.   
+  </li>
   <li>Member of the <a target="_blank" href="https://ethicsinaction.ieee.org/">IEEE Committee for Ethically Aligned Design</a> in the Arts.   
   </li>
   <li>Member of the <a target="_blank" href="http://icad.org/">International Community for Auditory Display</a>.
