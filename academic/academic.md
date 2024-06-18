@@ -167,7 +167,7 @@ Stephen maintains a vibrant and diverse creative arts practice which forms a cor
 <p>Recent/Forthcoming Performances & Installations:</p>
 <ul>
   <li>
-  <a target="_blank" href="https://capitart.com/becoming-machine/">Thonis-Heracleion, peaceful beneath the waves. Sound of the Anthropocene. Alphabet Art Center. The New Museum of Networked Art. Agricola De Cologne, Germany (Online). July 13th - August 30th 2024</a>
+  <a target="_blank" href="https://www.nmartproject.net/the-anthropocene-project/">Thonis-Heracleion, peaceful beneath the waves. Sound of the Anthropocene. Alphabet Art Center. The New Museum of Networked Art. Agricola De Cologne, Germany (Online). July 13th - August 30th 2024</a>
 </li>
 
 <li>
