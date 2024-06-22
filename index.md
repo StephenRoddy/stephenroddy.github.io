@@ -6,12 +6,19 @@
 <br>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1965844760/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/stardust-sonata">Stardust Sonata by Stephen Roddy</a></iframe>
 <br>
-June 21st will see the physical release of Stardust Sonata on casette through [Fiadh Productions](https://fiadh.bandcamp.com/). It was originally recorded in 2016 appearing on different digital platforms in a number of guises thereafter, but has never been given  a label release in physical format, until now. The digital version will also be updated and expanded with more comprehensive liner notes. You can listen to <i>Lamenting the Deep,</i> one of the 6 tracks from the release above, and read the liner notes below:
+Stardust Sonata released on June 21st 2024 on cassette through [Fiadh Productions](https://fiadh.bandcamp.com/album/stardust-sonata). It is both a tribute and lament to David Bowie in ritual ambient form. The six tracks feature ambient soundscapes informed by Bowie’s work with Eno & Fripp on the first two installments of the Berlin trilogy: Low (1977) and Heroes (1977). Stardust Sonata forgoes traditional rhythm and percussion opting instead to play on the lamenting aspects of Low and Heroes, allowing a sense of rhythm to emerge naturally from the materials. Each piece uses digital analogues of classic tape manipulation methods, along with the biting distortion processes, granularisation and buffer processing, cavernous reverbs, and powerful time-stretching techniques to transform fully improvised electric guitar performances into fully realised pieces. 
+
+Cassettes available through Fiadh: https://fiadh.bandcamp.com/album/stardust-sonata
+Digital downloads on my bandcamp: https://stephenroddy.bandcamp.com/album/stardust-sonata
+
+Liner notes provided below:
 <br>
 <div style="text-align: center;">
 <iframe style="border: none; width: 100%; aspect-ratio: 1;" src="https://drive.google.com/file/d/19lNMWcNpna3l2dzXTnT9fleigM4FReMi/preview"></iframe>
 </div>
 <br>
+
+https://fiadh.bandcamp.com/album/stardust-sonata
 
 ## From Dreams to Living Things II: Brawling Sparrows Brilliant Moon
 
