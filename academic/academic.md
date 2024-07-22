@@ -1,6 +1,6 @@
 ### Biography
 
-Stephen Roddy is a Researcher, and Lecturer working in computing and the arts (sound, music, digital) at the [Radical Humanities Lab](https://www.ucc.ie/en/future-humanities/radical/) and the Department of [Digital Humanities](https://www.ucc.ie/en/dah/) at [University College Cork](https://www.ucc.ie/en/). He holds a Ph.D. in sonification: the use of sound to perceptualize data and convey information. Stephen's research explores the application of [auditory display](https://icad.org/new-to-auditory-displays/), internet of things (IoT), and artificial intelligence/machine learning (AI/ML) techniques, in [sound and music computing](https://smcnetwork.org/roadmap.html#definition) contexts. This work uses both engineering design and practice-based research methods, with theoretical roots in cybernetics and embodied cognitive science.
+Stephen Roddy is a Musician, Researcher, and Lecturer working in computing and the arts (sound, music, digital) at the [Radical Humanities Lab](https://www.ucc.ie/en/future-humanities/radical/) and the Department of [Digital Humanities](https://www.ucc.ie/en/dah/) at [University College Cork](https://www.ucc.ie/en/). He holds a Ph.D. in sonification: the use of sound to perceptualize data and convey information. Stephen's research explores the application of [auditory display](https://icad.org/new-to-auditory-displays/), internet of things (IoT), and [artificial intelligence/machine learning (AI/ML) techniques](https://drive.google.com/file/d/1NdHUhzr9ep8eoknvkFBfrVtR8mK_rddz/view?usp=sharing), in [sound and music computing](https://smcnetwork.org/roadmap.html#definition), [human-computer interaction](https://www.interaction-design.org/literature/topics/human-computer-interaction) and creative arts contexts. This work involves research methods from both engineering design and the creative arts, with theoretical roots in cybernetics and embodied cognitive science.
 
 Stephen's previous projects have involved the design of auditory display solutions for large-scale IoT networks and investigated the integration of sonification and AI/ML techniques in generative music, sound art, and digital art applications. Much of this work was carried out under an IRC Postdoctoral Fellowship at CONNECT: the SFI Research Centre for Future Networks and Communications, at Trinity College Dublin (TCD), and subsequently at the Department of Electronic & Electrical Engineering at TCD. His work is widely disseminated through peer-reviewed journal publications, book chapters, and conference proceedings.
 
@@ -17,6 +17,8 @@ Stephen maintains a vibrant and diverse creative arts practice which forms a cor
   <li>Member of the <a target="_blank" href="https://ethicsinaction.ieee.org/">IEEE Committee for Ethically Aligned Design</a> in the Arts.   
   </li>
   <li>Member of the <a target="_blank" href="http://icad.org/">International Community for Auditory Display</a>.
+  </li>
+    <li>Member of the <a target="_blank" href="https://ubimus2024.fah.usj.edu.mo/">Ubiquitous Music Group</a>.
   </li>
   <li>Member of the <a target="_blank" href="https://internetofsounds.net/about/">Internet of Sounds Research Network</a>.
   </li>
@@ -164,6 +166,14 @@ Stephen maintains a vibrant and diverse creative arts practice which forms a cor
 
 <p>Recent/Forthcoming Performances & Installations:</p>
 <ul>
+  <li>
+  <a target="_blank" href="https://www.nmartproject.net/the-anthropocene-project/">Thonis-Heracleion, peaceful beneath the waves. Sound of the Anthropocene. Alphabet Art Center. The New Museum of Networked Art.Cologne, Germany. July 13th - August 30th 2024</a>
+</li>
+
+<li>
+  <a target="_blank" href="https://sample-studios.com/app/uploads/2024/04/Digital-Art-in-Ireland-Symposium-Programme-Booklet.pdf">Signal to Noise Loops - Reflections. The 2nd Symposium on Digital Art in Ireland. June 13th 2024. The Aula Maxima, University College Cork.</a>
+</li>
+
 <li>
   <a target="_blank" href="https://capitart.com/becoming-machine/">opening to the ambient light, Becoming-Machine Pavillion at The Wrong Biennale 2023. Curated by Isil Ezgi Celik, CapitArt. November 2023-March 2024. Physical exhibition at Artsect Gallery, London in November 2023.</a>
 </li>
@@ -332,7 +342,7 @@ Stephen maintains a vibrant and diverse creative arts practice which forms a cor
 <p>Label Releases</p>
 <ul>
   <li>
-    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/stardust-sonata">2024. Stardust Sonata. A tribute and lament to David Bowie recorded in the winter of 2016 shortly after the release of Blackstar and Bowie’s premature death. The six tracks feature ambient soundscapes informed y the sound Bowie developed with brian Eno and Robert Fripp on his infamous "berlin Trilogy". On Fiadh Productions.</a>
+    <a target="_blank" href="https://fiadh.bandcamp.com/album/stardust-sonata">2024. Stardust Sonata. A tribute and lament to David Bowie recorded in the winter of 2016 shortly after the release of Blackstar and Bowie’s premature death. The six tracks feature ambient soundscapes informed y the sound Bowie developed with brian Eno and Robert Fripp on his infamous "berlin Trilogy". On Fiadh Productions.</a>
   </li>
   <li>
     <a target="_blank" href="https://fiadh.bandcamp.com/album/from-dreams-to-living-things-ii-brawling-sparrows-brilliant-moon">2024. From Dreams to Living Things II: Brawling Sparrows Brilliant Moon. A compilation album of more than 50 Fiadh Productions artists to raise money for Heartstone Sanctuary. On Fiadh Productions</a>
@@ -477,6 +487,8 @@ Stephen maintains a vibrant and diverse creative arts practice which forms a cor
 <p>Reviews & Coverage Online</p>
 <ul>
 
+<li><a target = "_blanlk" href ="https://nialler9.com/new-releases-out-today-lankum-ae-mak-o-burial-holly-munro-more/">Nialler9: New releases out today: Lankum, Hazey Haze & mankyy, The Mary Wallopers, AE MAK, O, Burial & more.</a> 
+</li>
   <li>
     <a target="_blank" href="https://ghostcultmag.com/exclusive-album-stream-from-dreams-to-living-things-ii-brawling-sparrows-brilliant-moon-charity-compilation-is-streaming-in-full/">Ghost Cult Magazine: Fiadh Compilation Launch. April 22nd 2024.</a>
   </li> 
