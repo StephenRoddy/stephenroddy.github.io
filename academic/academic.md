@@ -173,7 +173,7 @@ Stephen maintains a vibrant and diverse creative arts practice which forms a cor
 <p>Recent/Forthcoming Performances & Installations:</p>
 <ul>
   <li>
-  <a target="_blank" href="https://www.nmartproject.net/the-anthropocene-project/">Thonis-Heracleion, peaceful beneath the waves. Sound of the Anthropocene. Alphabet Art Center. The New Museum of Networked Art.Cologne, Germany. July 13th - August 30th 2024</a>
+  <a target="_blank" href="https://cinema.nmartproject.net/hyper-h-03/#">Thonis-Heracleion, peaceful beneath the waves. Sound of the Anthropocene. Alphabet Art Center. The New Museum of Networked Art.Cologne, Germany. July 13th - August 30th 2024</a>
 </li>
 <li>
   <a target="_blank" href="https://sample-studios.com/app/uploads/2024/04/Digital-Art-in-Ireland-Symposium-Programme-Booklet.pdf">Signal to Noise Loops v6. The 2nd Symposium on Digital Art in Ireland. June 13th 2024. The Aula Maxima, University College Cork.</a>
