@@ -11,6 +11,10 @@
 <br>
 Stardust Sonata released on June 21st 2024 on cassette through [Fiadh Productions](https://fiadh.bandcamp.com/album/stardust-sonata). It is both a tribute and lament to David Bowie in ritual ambient form. The six tracks feature ambient soundscapes informed by Bowie’s work with Eno & Fripp on the first two installments of the Berlin trilogy: Low (1977) and Heroes (1977). Stardust Sonata forgoes traditional rhythm and percussion opting instead to play on the lamenting aspects of Low and Heroes, allowing a sense of rhythm to emerge naturally from the materials. Each piece uses digital analogues of classic tape manipulation methods, along with the biting distortion processes, granularisation and buffer processing, cavernous reverbs, and powerful time-stretching techniques to transform fully improvised electric guitar performances into fully realised pieces. 
 
+<div style="text-align: center;">
+<img src="/images/Stardust Tape.jpg?raw=true"/>
+</div>
+
 Cassettes available here: [Fiadh Productions](https://fiadh.bandcamp.com/album/stardust-sonata)
 <br>
 Digital downloads here: [My Bandcamp](https://stephenroddy.bandcamp.com/album/stardust-sonata)
@@ -44,7 +48,9 @@ You can sample some of the tracks below:
 <br>
 
 ## Leviathan - Physical & Digital Release 2023
-
+<div style="text-align: center;">
+<img src="/images/Leviathan Tape.jpg?raw=true"/>
+</div>
 Leviathan was released in October 2023 on [Fiadh Productions](https://fiadh.bandcamp.com/album/leviathan).
 
 <div style="text-align: center;">
