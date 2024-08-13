@@ -8,9 +8,9 @@
 <img src="images/tabs/AItab.png?raw=true"/>
 </a>
 
-[Aesthetics of Nothingness](/projects/ab_no/ab_no)<br />
-<a href="/projects/ab_no/ab_no">
-<img src="images/tabs/ab_no.png?raw=true"/>
+[Auditory Display Solutions for Large-scale IoT Networks](/projects/ad_iot/ad_iot)<br />
+<a href="/projects/ad_iot/ad_iot">
+<img src="images/tabs/ADIOTtab3.png?raw=true"/>
 </a>
 
 [Signal to Noise Loops](/projects/s2nl/s2nl_project)<br />
@@ -18,9 +18,9 @@
 <img src="images/tabs/DATAtab.png?raw=true"/>
 </a>
 
-[Auditory Display Solutions for Large-scale IoT Networks](/projects/ad_iot/ad_iot)<br />
-<a href="/projects/ad_iot/ad_iot">
-<img src="images/tabs/ADIOTtab3.png?raw=true"/>
+[Aesthetics of Nothingness](/projects/ab_no/ab_no)<br />
+<a href="/projects/ab_no/ab_no">
+<img src="images/tabs/ab_no.png?raw=true"/>
 </a>
 
 [Indices on the Body](/projects/indices/indices_audio)<br />
