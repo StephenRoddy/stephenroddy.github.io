@@ -9,7 +9,7 @@ Stephen maintains a vibrant and diverse creative arts practice which forms a cor
 <ul>
   <li>Researcher in the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/radical/">Radical Humanities Laboratory</a> at <a target="_blank" href="https://www.ucc.ie">University College Cork</a>.</li>
   <li>Lecturer in the <a target="_blank" href="https://www.ucc.ie/en/dah/">Department of Digital Humanities</a> at <a target="_blank" href="https://www.ucc.ie"> University College Cork</a>.</li>
-  <li>Director of the <a target="_blank" href="https://www.ucc.ie/en/cke09/">MA in Digital Arts & Humanities</a>.</li>
+  <li>Director of the <a target="_blank" href="https://www.ucc.ie/en/cke09/">MA in Digital Arts & Humanities</a> at <a target="_blank" href="https://www.ucc.ie">University College Cork</a>.</li>
   <li>Member of the <a target="_blank" href="https://www.ieee.org/">Institute of Electrical and Electronics Engineers (IEEE)</a>.</li>
   <li>Member of the <a target="_blank" href="https://ubimus2024.fah.usj.edu.mo/">Ubiquitous Music Group</a>.</li>
   <li>Member of the <a target="_blank" href="https://internetofsounds.net/about/">Internet of Sounds Research Network</a>.</li>
