@@ -1,4 +1,6 @@
-Stephen Roddy is a Musician, Researcher, and Lecturer working in computing and the arts (sound, music, digital) at the [Radical Humanities Lab](https://www.ucc.ie/en/future-humanities/radical/) and the Department of [Digital Humanities](https://www.ucc.ie/en/dah/) at [University College Cork](https://www.ucc.ie/en/) where he is the programme director for the [MA in Digital Arts and Humanities](https://www.ucc.ie/en/cke09/). He holds a Ph.D. in sonification: the use of sound to perceptualize data and convey information. Stephen's research explores the application of [auditory display](https://icad.org/new-to-auditory-displays/), internet of things (IoT), and [artificial intelligence/machine learning (AI/ML) techniques](https://drive.google.com/file/d/1NdHUhzr9ep8eoknvkFBfrVtR8mK_rddz/view?usp=sharing), in [sound and music computing](https://smcnetwork.org/roadmap.html#definition), [human-computer interaction](https://www.interaction-design.org/literature/topics/human-computer-interaction) and creative arts contexts. This work involves research methods from both engineering design and the creative arts, with theoretical roots in cybernetics and embodied cognitive science.
+### Biography
+
+Stephen Roddy is a Researcher, and Lecturer working in computing and the arts (sound, music, digital) at the [Radical Humanities Lab](https://www.ucc.ie/en/future-humanities/radical/) and the Department of [Digital Humanities](https://www.ucc.ie/en/dah/) at [University College Cork](https://www.ucc.ie/en/). He holds a Ph.D. in sonification: the use of sound to perceptualize data and convey information. Stephen's research explores the application of [auditory display](https://icad.org/new-to-auditory-displays/), internet of things (IoT), and [artificial intelligence/machine learning (AI/ML) techniques](https://drive.google.com/file/d/1NdHUhzr9ep8eoknvkFBfrVtR8mK_rddz/view?usp=sharing), in [sound and music computing](https://smcnetwork.org/roadmap.html#definition), [human-computer interaction](https://www.interaction-design.org/literature/topics/human-computer-interaction) and creative arts contexts. This work involves research methods from both engineering design and the creative arts, with theoretical roots in cybernetics and embodied cognitive science.
 
 Stephen's previous projects have involved the design of auditory display solutions for large-scale IoT networks and investigated the integration of sonification and AI/ML techniques in generative music, sound art, and digital art applications. Much of this work was carried out under an IRC Postdoctoral Fellowship at CONNECT: the SFI Research Centre for Future Networks and Communications, at Trinity College Dublin (TCD), and subsequently at the Department of Electronic & Electrical Engineering at TCD. His work is widely disseminated through peer-reviewed journal publications, book chapters, and conference proceedings.
 
@@ -7,18 +9,25 @@ Stephen maintains a vibrant and diverse creative arts practice which forms a cor
 <strong>Affiliations</strong>
 <p>Current</p>
 <ul>
-  <li>Researcher in the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/radical/">Radical Humanities Laboratory</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
-  <li>Lecturer in the <a target="_blank" href="https://www.ucc.ie/en/dah/">Department of Digital Humanities</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
-  <li>Programme Director of the <a target="_blank" href="https://www.ucc.ie/en/cke09/">MA in Digital Arts & Humanities</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
-  
-  <li>Member of the <a target="_blank" href="https://www.ieee.org/">Institute of Electrical and Electronics Engineers (IEEE)</a>.</li>
-  <li>Member of the <a target="_blank" href="https://ubimus2024.fah.usj.edu.mo/">Ubiquitous Music Group</a>.</li>
-  <li>Member of the <a target="_blank" href="https://internetofsounds.net/about/">Internet of Sounds Research Network</a>.</li>
-  <li>Member of the <a target="_blank" href="https://ethicsinaction.ieee.org/">IEEE cmte. for Ethically Aligned Designin the Arts.</a> </li>
-  <li>Member of the <a target="_blank" href="http://icad.org/">International Community for Auditory Display</a>.</li>
-  <li>Member of the <a target="_blank" href="http://issta.ie/">Irish Sound Science and Technology Association</a>.</li>
-  <li>Member of the <a target="_blank" href="http://computermusic.org/">International Computer Music Association</a>.</li>
-  <li>Member of the <a target="_blank" href="https://imro.ie/">Irish Music Rights Organisation</a>.</li>
+  <li>Researcher in the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/radical/">Radical Humanities Laboratory</a> at <a target="_blank" href="https://www.ucc.ie">University College Cork</a>.</li>
+  <li>Lecturer in the <a target="_blank" href="https://www.ucc.ie/en/dah/">Department of Digital Humanities</a> at <a target="_blank" href="https://www.ucc.ie"> University College Cork</a>.
+  </li>
+  <li>Member of the <a target="_blank" href="https://www.ieee.org/">Institute of Electrical and Electronics Engineers (IEEE)</a>.   
+  </li>
+  <li>Member of the <a target="_blank" href="https://ethicsinaction.ieee.org/">IEEE Committee for Ethically Aligned Design</a> in the Arts.   
+  </li>
+  <li>Member of the <a target="_blank" href="http://icad.org/">International Community for Auditory Display</a>.
+  </li>
+    <li>Member of the <a target="_blank" href="https://ubimus2024.fah.usj.edu.mo/">Ubiquitous Music Group</a>.
+  </li>
+  <li>Member of the <a target="_blank" href="https://internetofsounds.net/about/">Internet of Sounds Research Network</a>.
+  </li>
+  <li>Member of the <a target="_blank" href="http://issta.ie/">Irish Sound Science and Technology Association</a>.
+  </li>
+  <li>Member of the <a target="_blank" href="http://computermusic.org/">International Computer Music Association</a>.  
+  </li>
+  <li>Member of the <a target="_blank" href="https://imro.ie/">Irish Music Rights Organisation</a>.
+  </li>
 </ul>
 
 <p>Previous</p>
