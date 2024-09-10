@@ -41,6 +41,9 @@ Stephen maintains a vibrant and diverse creative arts practice which forms a cor
 <p><strong>Journal Articles</strong></p>
 <ul>
   <li>
+    <a target="_blank" href="https://www.comsoc.org/publications/magazines/ieee-communications-magazine">Roddy, S. (Forthcoming: 2024). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine.</a>
+  </li>
+  <li>
     <a target="_blank" href="https://doi.org/10.1525/res.2023.4.4.399">Roddy, S. & Parmar, R. (2023). AI/ML in the Sonic Arts - Pitfalls and Pathways. Resonance: The Journal of Sound and Culture, 4(4).</a>
   </li>
   <li>
