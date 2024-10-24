@@ -74,10 +74,6 @@ The third phase of the project involved the refinement of the mapping strategies
 Having finalised the design of a framework for representing IoT Network Traffic Data and put forward a set of guidelines for developing frameworks of this type, phase four of the project shifted focus again to consider a broader range of data sources. In the original funding application this phase of the project was intended to explore more creative/artistic applications of auditory display.
 During phase 4 I focused on writing functional code that could to be easily deployed to the web. The two frameworks designed during this phase are designed to run client-side with the standard HTML/Javascript/CSS stack and sound is synthesised using the tone.js library. In introduced Machine Learning (MuiscVAE, a javascript based variational autoencoder implementation created for musical data by the Google Magenta team) and Evolutionary Computing techniques (mostly genetic algorithms) to aid in the process of mapping data to sound. First, I created an ambient auditory display solution for monitoring financial markets. The data was from the from highly volatile 2018 cryptocurrency markets. It represented the live dollar values of different cryptocurrencies, retrieved via the Coinbase Pro API (originally GDAX). I created multiple mapping strategies for this data, some to generative musical pieces that would represent the overall state of the data in a more stimulating and creative manner and others to more straightforward sound parameters similar to auditory graphs. The framework makes use Evolutionary Computing and Machine Learning techniques. It was presented at the 2018 conference on the Computer Simulation of Musical Creativity.
 
-<div style="text-align: center;">
-<iframe frameborder="0"  src="https://drive.google.com/file/d/1oPZuZ2_x340rgC9gYP1iBps0DFnUYmDn/preview" style="border: 0; width: 350px; height: 470px;"></iframe>
-</div>
-<br/>
 - [Link to CSMC Paper](/papers/Roddy.pdf)
 
 This framework works around the idea of target states. Target states of interest in the market data are associated with unique musical structures. As the data tends towards these target states the audio tends towards the musical motif. This way the listener can gauge how close the market is to the target state by listening to how much the musical motif differ from the target state pattern.
@@ -198,10 +194,7 @@ This project resulted in a large body of outputs across a range of disciplines. 
 
 You can read our recent ICAD 2021 paper here:
 
-<div style="text-align: center;">
-<iframe frameborder="0" src="https://drive.google.com/file/d/1uL_GeuWMenjJnn2SgdbKfVwvD0_n5Hgm/preview" style="border: 0; width: 350px; height: 470px;"></iframe>
-</div>
-
+- [Link to ICAD 2021 Paper](/papers/SR_BB_ICAD_21.pdf)
 
 #### Book Chapter
 - [Roddy S., Bridges B. (2018) Sound, Ecological Affordances and Embodied Mappings in Auditory Display. In: Filimowicz M., Tzankova V. (eds) New Directions in Third Wave Human-Computer Interaction: Volume 2 - Methodologies. Human–Computer Interaction Series. Springer, Cham.](https://link.springer.com/chapter/10.1007/978-3-319-73374-6_12)
