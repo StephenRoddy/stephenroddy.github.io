@@ -139,7 +139,7 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
 Cybernetic Resurgences:HUman-machine Co-creation in the Age of Artificial Media
 
 <li>
-  <a target="_blank" href="https://sample-studios.com/app/uploads/2024/04/Digital-Art-in-Ireland-Symposium-Programme-Booklet.pdf">Cybernetic Resurgences: Hhman-machine Co-creation in the Age of Artificial Media. November 1st 2024. Ubimus 2024 International Symposium, University of Saint Joseph campus, Macao S.A.R., China.</a>
+  <a target="_blank" href="https://ubimus2024.fah.usj.edu.mo/">Cybernetic Resurgences: Hhman-machine Co-creation in the Age of Artificial Media. November 1st 2024. Ubimus 2024 International Symposium, University of Saint Joseph campus, Macao S.A.R., China.</a>
 </li>
   <li>
   <a target="_blank" href="https://sample-studios.com/app/uploads/2024/04/Digital-Art-in-Ireland-Symposium-Programme-Booklet.pdf">Reflections on Signal to Noise Loops. The 2nd Symposium on Digital Art in Ireland. June 13th 2024. The Aula Maxima, University College Cork.</a>
