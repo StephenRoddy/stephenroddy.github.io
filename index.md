@@ -135,9 +135,6 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
 </ul>
 <p><strong>Peer-reviewed Abstracts & Talks</strong></p>
 <ul>
-
-Cybernetic Resurgences:HUman-machine Co-creation in the Age of Artificial Media
-
 <li>
   <a target="_blank" href="https://ubimus2024.fah.usj.edu.mo/">Cybernetic Resurgences: Hhman-machine Co-creation in the Age of Artificial Media. November 1st 2024. Ubimus 2024 International Symposium, University of Saint Joseph campus, Macao S.A.R., China.</a>
 </li>
