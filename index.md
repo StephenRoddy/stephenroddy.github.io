@@ -41,7 +41,7 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
 <p><strong>Journal Articles</strong></p>
 <ul>
 <li>
-    <a target="_blank" href="https://www.tandfonline.com/toc/hihc20/current">Roddy, S. (Forthcoming: 2024/25). The Design and Formalization of an Embodied Soundscape Sonification Framework. International Journal of Human–Computer Interaction.</a>
+    <a target="_blank" href="https://www.tandfonline.com/toc/hihc20/current">Roddy, S. (Forthcoming: 2025). The Design and Formalization of an Embodied Soundscape Sonification Framework. International Journal of Human–Computer Interaction.</a>
   </li>
   <li>
     <a target="_blank" href="https://www.comsoc.org/publications/magazines/ieee-communications-magazine">Roddy, S. (Forthcoming: 2024/25). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine.</a>
