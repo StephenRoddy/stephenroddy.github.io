@@ -2,7 +2,7 @@ Stephen Roddy is a Musician, Researcher, and Lecturer working in computing and t
 
 Stephen's previous projects have involved the design of auditory display solutions for large-scale IoT networks and investigated the integration of sonification and AI/ML techniques in generative music, sound art, and digital art applications. Much of this work was carried out under an IRC Postdoctoral Fellowship at CONNECT: the SFI Research Centre for Future Networks and Communications, at Trinity College Dublin (TCD), and subsequently at the Department of Electronic & Electrical Engineering at TCD. His work is widely disseminated through peer-reviewed journal publications, book chapters, and conference proceedings.
 
-Stephen maintains a vibrant and diverse creative arts practice which forms a core component of his research activity. His creative projects span a variety of media and styles, including music composition and performance, generative and data-driven music and art practices, digital art, and sound art. His creative work, described as [majestic and sweeping](https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/) yet [beautifully unsettling](https://www.stephenroddy.com/images/leviathanNewandNotableWide.png), is frequently performed and installed at home and abroad. His most recent musical work [Leviathan](https://stephenroddy.bandcamp.com/album/leviathan) is available through [Fiadh Productions](https://fiadh.bandcamp.com/album/leviathan). Recent events have included the Wrong Biennale, New York City Electroacoustic Music Festival and the Earth Rising Festival at the Irish Museum of Modern Art.
+Stephen maintains a vibrant and diverse creative and performing arts practice which forms a core component of his research activity. His artistic projects span a variety of media and styles, including music composition and performance, generative and data-driven music and art practices, digital art, and sound art. His work, described as [majestic and sweeping](https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/) yet [beautifully unsettling](https://www.stephenroddy.com/images/leviathanNewandNotableWide.png), is frequently performed and installed at home and abroad. His most recent musical work [Leviathan](https://stephenroddy.bandcamp.com/album/leviathan) is available through [Fiadh Productions](https://fiadh.bandcamp.com/album/leviathan). Recent events have included the Wrong Biennale, New York City Electroacoustic Music Festival and the Earth Rising Festival at the Irish Museum of Modern Art.
 
 <strong>Affiliations</strong>
 <p>Current</p>
@@ -10,10 +10,10 @@ Stephen maintains a vibrant and diverse creative arts practice which forms a cor
   <li>Researcher in the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/radical/">Radical Humanities Laboratory</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
   <li>Lecturer in the <a target="_blank" href="https://www.ucc.ie/en/dah/">Department of Digital Humanities</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
   <li>Programme Director of the <a target="_blank" href="https://www.ucc.ie/en/cke09/">MA in Digital Arts & Humanities</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
-  
+  <li> Editorial Board Member at <a target="_blank" href="https://online.ucpress.edu/res">Resonance: The Journal of Sound and Culture</a>.</li>
   <li>Member of the <a target="_blank" href="https://www.ieee.org/">Institute of Electrical and Electronics Engineers (IEEE)</a>.</li>
-  <li>Member of the <a target="_blank" href="https://ubimus2024.fah.usj.edu.mo/">Ubiquitous Music Group</a>.</li>
   <li>Member of the <a target="_blank" href="https://internetofsounds.net/about/">Internet of Sounds Research Network</a>.</li>
+  <li>Member of the <a target="_blank" href="https://ubimus2024.fah.usj.edu.mo/">Ubiquitous Music Group</a>.</li>
   <li>Member of the <a target="_blank" href="https://ethicsinaction.ieee.org/">IEEE cmte. for Ethically Aligned Designin the Arts.</a> </li>
   <li>Member of the <a target="_blank" href="http://icad.org/">International Community for Auditory Display</a>.</li>
   <li>Member of the <a target="_blank" href="http://issta.ie/">Irish Sound Science and Technology Association</a>.</li>
@@ -40,8 +40,11 @@ Stephen maintains a vibrant and diverse creative arts practice which forms a cor
 </ul>
 <p><strong>Journal Articles</strong></p>
 <ul>
+<li>
+    <a target="_blank" href="https://doi.org/10.1080/10447318.2024.2429757">Roddy, S. (2024). The Design and Formalization of an Embodied Soundscape Sonification Framework. International Journal of Human–Computer Interaction.</a>
+  </li>
   <li>
-    <a target="_blank" href="https://www.comsoc.org/publications/magazines/ieee-communications-magazine">Roddy, S. (Forthcoming: 2024). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine.</a>
+    <a target="_blank" href="https://www.comsoc.org/publications/magazines/ieee-communications-magazine">Roddy, S. (Forthcoming: 2024/25). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine.</a>
   </li>
   <li>
     <a target="_blank" href="https://doi.org/10.1525/res.2023.4.4.399">Roddy, S. & Parmar, R. (2023). AI/ML in the Sonic Arts - Pitfalls and Pathways. Resonance: The Journal of Sound and Culture, 4(4).</a>
@@ -408,6 +411,12 @@ Stephen maintains a vibrant and diverse creative arts practice which forms a cor
 
 <p><strong>Invited Talks & Panels</strong></p>
 <ul>
+ <li>
+  <a target="_blank" href="https://cepra.leeds.ac.uk/2024/10/04/intangible-modalities-symposium-15-11-24/">Cybernetic Resurgences. November 15th 2024. Intangible Modalities Symposium, Centre for Practice Research in the Arts, University of Leeds, United Kingdom.</a>
+ </li>
+  <li>
+  <a target="_blank" href="https://ubimus2024.fah.usj.edu.mo/">Cybernetic Resurgences: Human-machine Co-creation in the Age of Artificial Media. November 1st 2024. Ubimus 2024 International Symposium, University of Saint Joseph, Macao S.A.R., China.</a>
+ </li>
   <li>
     <a target="_blank" href="https://www.ulster.ac.uk/faculties/arts-humanities-and-social-sciences/events/creative-research-and-careers">In Practice: PhD conference on creative research and careers. Ulster University, Derry, 2021.</a>
   </li>
@@ -702,6 +711,5 @@ Stephen maintains a vibrant and diverse creative arts practice which forms a cor
   </li>
 </ul>
 
-<iframe style = 'display: none' width="601" height="401" frameBorder="0" src="resources/rhl_logo/logo.html">Browser not compatible.</iframe>
 
 ---
