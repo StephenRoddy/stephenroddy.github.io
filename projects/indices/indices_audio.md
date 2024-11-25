@@ -12,14 +12,6 @@ As part of this project Jean Luc Nancy recorded himself reading his 58 indices o
 [AMAE/De Pinto w/Jean-Luc Nancy & Stephen Roddy at Helicotrema 2015](http://helicotrema.blauerhase.com/helicotrema-2015/)
 
 
-You can hear that piece here:
-<div style="text-align: center;">
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1061781095/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=570375840/transparent=true/" seamless><a href="http://stephenroddy.bandcamp.com/album/le-son-du-corps-et-un-corps-de-sons">Le Son Du Corps Et Un Corps de Sons by Stephen Roddy feat. Jean-Luc Nancy, AMAE &amp; DePinto)</a></iframe>
-</div>
-
-* [21, 7 & 3 (feat. Jean-Luc Nancy, Amae & DePinto)](https://stephenroddy.bandcamp.com/track/21-7-3-feat-jean-luc-nancy-amae-depinto)
-
-
 <img src="images/12186271_1116088238416382_7289188895621671914_o.jpg?raw=true"/><br/>
 Credit: Pier Giorgio De Pinto
 
