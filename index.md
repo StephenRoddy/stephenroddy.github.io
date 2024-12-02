@@ -74,6 +74,9 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
 <p> <strong><strong>Book Chapters</strong></strong></p>
 <ul>
 <li>
+<a target="_blank" href="https://www.springer.com/series/10481">Roddy, S., & Bridges B. (Forthcoming: 2025) Cybernetic Resurgences: Human-machine Co-creation in the Age of Artificial Media. In: Zagalo, N. & Keller, D. (eds) Artificial Media: Emerging Trends in Creative Practice and Human-Computer Collaboration. Springer Series on Cultural Computing. Springer Nature.</a>
+</li>
+<li>
 <a target="_blank" href="/projects/AI_MUS/papers/Roddy_Creative Machine Human Collaboration - Algorithms and Society.pdf">Roddy, S. (2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Creative Work. Algorithms and Society Series. Routledge, Focus.</a>
 </li>
   <li>
