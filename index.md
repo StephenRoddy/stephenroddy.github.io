@@ -10,13 +10,11 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
   <li>Researcher in the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/radical/">Radical Humanities Laboratory</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
   <li>Lecturer in the <a target="_blank" href="https://www.ucc.ie/en/dah/">Department of Digital Humanities</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
   <li>Programme Director of the <a target="_blank" href="https://www.ucc.ie/en/cke09/">MA in Digital Arts & Humanities</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
-  <li> Editorial Board Member at <a target="_blank" href="https://online.ucpress.edu/res">Resonance: The Journal of Sound and Culture</a>.</li>
   <li>Member of the <a target="_blank" href="https://www.ieee.org/">Institute of Electrical and Electronics Engineers (IEEE)</a>.</li>
+  <li> Editorial Board Member at <a target="_blank" href="https://online.ucpress.edu/res">Resonance: The Journal of Sound and Culture</a>.</li>
   <li>Member of the <a target="_blank" href="https://internetofsounds.net/about/">Internet of Sounds Research Network</a>.</li>
   <li>Member of the <a target="_blank" href="https://ubimus2024.fah.usj.edu.mo/">Ubiquitous Music Group</a>.</li>
-  <li>Member of the <a target="_blank" href="https://ethicsinaction.ieee.org/">IEEE cmte. for Ethically Aligned Designin the Arts.</a> </li>
   <li>Member of the <a target="_blank" href="http://icad.org/">International Community for Auditory Display</a>.</li>
-  <li>Member of the <a target="_blank" href="http://issta.ie/">Irish Sound Science and Technology Association</a>.</li>
   <li>Member of the <a target="_blank" href="http://computermusic.org/">International Computer Music Association</a>.</li>
   <li>Member of the <a target="_blank" href="https://imro.ie/">Irish Music Rights Organisation</a>.</li>
 </ul>
@@ -33,10 +31,12 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
   </li>
   <li>Postdoctoral researcher at the <a target="_blank" href="https://connectcentre.ie/people/stephen-roddy/">CONNECT Centre</a>, <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
   </li>
+  <li>Member of the <a target="_blank" href="https://ethicsinaction.ieee.org/">IEEE cmte. for Ethically Aligned Designin the Arts.</a> </li>
   <li>Board member of the <a target="_blank" href="http://issta.ie/">Irish Sound Science and Technology Association</a> 2016-2019.  
   </li>
   <li>Board member for the <a target="_blank" href="http://www.interferencejournal.org/">Interference Journal</a> 2018-2019.
   </li>
+  <li>Member of the <a target="_blank" href="http://computermusic.org/">International Computer Music Association</a>.</li>
 </ul>
 <p><strong>Journal Articles</strong></p>
 <ul>
