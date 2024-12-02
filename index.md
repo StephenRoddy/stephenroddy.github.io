@@ -79,12 +79,12 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
 <li>
 <a target="_blank" href="/projects/AI_MUS/papers/Roddy_Creative Machine Human Collaboration - Algorithms and Society.pdf">Roddy, S. (2023) Creative Machine-Human Collaboration: Towards a Cybernetic Approach to Artificial Intelligence & Machine Learning Techniques in the Creative Arts. In: Filimowicz, M. editor AI and the Future of Creative Work. Algorithms and Society Series. Routledge, Focus.</a>
 </li>
-  <li>
-    <a target="_blank" href="/projects/other_projects/papers/Meaning-making and Embodied Cognition in Sound Design Research(GREEN OA).pdf">Roddy, S. & Bridges, B. (2021) Meaning-making and Embodied Cognition in Sound Design Research. In: Filimowicz, M. editor Doing Research in Sound Design, Routledge. </a>
-  </li>
-  <li>
-    <a target="_blank" href="/projects/other_projects/papers/Roddy Bridges Preprint.pdf">Roddy S., & Bridges B. (2018) Sound, Ecological Affordances and Embodied Mappings in Auditory Display. In: Filimowicz M., Tzankova V. (eds) New Directions in Third Wave Human-Computer Interaction: Volume 2 - Methodologies. Human–Computer Interaction Series. Springer, Cham.</a>
-  </li>
+<li>
+<a target="_blank" href="/projects/other_projects/papers/Meaning-making and Embodied Cognition in Sound Design Research(GREEN OA).pdf">Roddy, S. & Bridges, B. (2021) Meaning-making and Embodied Cognition in Sound Design Research. In: Filimowicz, M. editor Doing Research in Sound Design, Routledge. </a>
+</li>
+<li>
+<a target="_blank" href="/projects/other_projects/papers/Roddy Bridges Preprint.pdf">Roddy S., & Bridges B. (2018) Sound, Ecological Affordances and Embodied Mappings in Auditory Display. In: Filimowicz M., Tzankova V. (eds) New Directions in Third Wave Human-Computer Interaction: Volume 2 - Methodologies. Human–Computer Interaction Series. Springer, Cham.</a>
+</li>
 </ul>
 
 <p><strong>Reports & Policy Documents</strong></p>
