@@ -44,7 +44,7 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
     <a target="_blank" href="https://ieeexplore.ieee.org/document/10803921">Roddy, S. (2024). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine, 62(12).</a>
   </li>
 <li>
-    <a target="_blank" href="https://doi.org/10.1080/10447318.2024.2429757">Roddy, S. (2024). The Design and Formalization of an Embodied Soundscape Sonification Framework. International Journal of Human–Computer Interaction.</a>
+    <a target="_blank" href="https://doi.org/10.1080/10447318.2024.2429757">Roddy, S. (Forthcoming: 2025). The Design and Formalization of an Embodied Soundscape Sonification Framework. International Journal of Human–Computer Interaction.</a>
   </li>
   <li>
     <a target="_blank" href="/projects/AI_MUS/papers/Roddy and Parmar 2023 pre_print.pdf">Roddy, S., & Parmar, R. (2023). AI/ML in the Sonic Arts - Pitfalls and Pathways. Resonance: The Journal of Sound and Culture, 4(4).</a>
