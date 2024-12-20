@@ -128,7 +128,6 @@ Full Papers
     <a target="_blank" href="http://issta.ie/wp-content/uploads/ISSTC-2013-RODDY.pdf">Roddy, S., & Furlong, D. (2013). Rethinking the Transmission Medium in Live Computer Music Performance. Presented at the Irish Sound Science and Technology Convocation, Dún Laoghaire Institute of Art, Design and Technology.</a>
   </li>
 </ul>
-
 Short Papers
 <ul>
   <li>
@@ -144,30 +143,7 @@ Short Papers
     <a target="_blank" href="https://www.researchgate.net/publication/326572938_Vowel_Formant_Profiles_and_Image_Schemata_in_Auditory_Display">Roddy, S., & Furlong, D. (2018). Vowel Formant Profiles and Image Schemata in Auditory Display. In Proceedings of HCI 2018 4-6 July 2018, Belfast.</a>
   </li>
 </ul>
-
-<p><strong>Peer-reviewed Abstracts & Talks</strong></p>
-<ul>
-  <li>
-  <a target="_blank" href="https://sample-studios.com/app/uploads/2024/04/Digital-Art-in-Ireland-Symposium-Programme-Booklet.pdf">Reflections on Signal to Noise Loops. The 2nd Symposium on Digital Art in Ireland. June 13th 2024. The Aula Maxima, University College Cork.</a>
-</li>
-  <li>
-    <a target="_blank" href="https://www.dkit.ie/conference/ihci-2023/">Roddy, S. (2023). Signal to Noise Loops  A Cybernetic Approach to  Musical Performance w/Smart City Data and  Generative Music  Techniques. The Irish Human-computer Interaction Symposium. Dundalk Institute  of Technology.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://www.dkit.ie/conference/ihci-2023/">Roddy, S. (2023). Signal to Noise Loops  A Cybernetic Approach to  Musical Performance w/Smart City Data and  Generative Music  Techniques. The Irish Human-computer Interaction Symposium. Dundalk Institute  of Technology.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://www.researchgate.net/publication/360849585_IoT_and_AI-Driven_Audio_in_the_Smart_City_A_Rhythmanalysis_inspired_approach">Roddy, S. (2018). IoT and AI-Driven Audio in the Smart City: A Rhythmanalysis Inspired Approach. The Irish Sound Science and Technology Association Conference. Ulster University, Magee Campus, Derry/Londonderry.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://www.researchgate.net/publication/360849613_Sound_Place_Multiplace">Dormer, A., & Roddy, S. (2016). Sound, Place & Multiplace. The Irish Sound Science and Technology Association Conference. Ulster University, Magee Campus, Derry/Londonderry.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://www.researchgate.net/publication/277310047_Sonification_and_the_Digital_Divide">Roddy, S. (2015) Sonification and the Digital Divide. Digital Materials. The National University of Ireland Galway.</a>
-  </li>
-</ul>
-
-<p><strong>Peer-reviewed Abstracts & Talks</strong></p>
+Abstracts & Talks
 <ul>
   <li>
   <a target="_blank" href="https://sample-studios.com/app/uploads/2024/04/Digital-Art-in-Ireland-Symposium-Programme-Booklet.pdf">Reflections on Signal to Noise Loops. The 2nd Symposium on Digital Art in Ireland. June 13th 2024. The Aula Maxima, University College Cork.</a>
