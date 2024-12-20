@@ -146,7 +146,7 @@ Short Papers
 Abstracts & Talks
 <ul>
   <li>
-  <a target="_blank" href="https://sample-studios.com/app/uploads/2024/04/Digital-Art-in-Ireland-Symposium-Programme-Booklet.pdf">Reflections on Signal to Noise Loops. The 2nd Symposium on Digital Art in Ireland. June 13th 2024. The Aula Maxima, University College Cork.</a>
+  <a target="_blank" href="https://sample-studios.com/app/uploads/2024/04/Digital-Art-in-Ireland-Symposium-Programme-Booklet.pdf">Roddy, S. (2024). Reflections on Signal to Noise Loops. The 2nd Symposium on Digital Art in Ireland. June 13th 2024. The Aula Maxima, University College Cork.</a>
 </li>
   <li>
     <a target="_blank" href="https://www.dkit.ie/conference/ihci-2023/">Roddy, S. (2023). Signal to Noise Loops  A Cybernetic Approach to  Musical Performance w/Smart City Data and  Generative Music  Techniques. The Irish Human-computer Interaction Symposium. Dundalk Institute  of Technology.</a>
