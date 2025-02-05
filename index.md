@@ -94,14 +94,26 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
   </li>
 </ul>
 
-<p><strong>Peer-reviewed Conference Proceedings</strong></p>
+<p><strong>Published in Peer-reviewed Conference Proceedings</strong></p>
 Full Papers
 <ul>
+  <li>
+    <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99596">Roddy, S. (2022). A Technique for Controlling the Proportion of Information in the Sonification of Complex Time Series Data. The 27th International Conference on Auditory Display.</a>
+  </li>
+  <li>
+    <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99595">Roddy, S. (2022). Creating Signal to Noise Loops v4. In the Proceedings of the International Conference on Auditory Display, ICAD 2022.</a>
+  </li>
   <li>
     <a target="_blank" href="https://www.researchgate.net/publication/352737562_The_Design_of_a_Smart_City_Sonification_System_using_a_Conceptual_Blending_and_Musical_Framework_Web_Audio_and_Deep_Learning_Techniques">Roddy, S., & Bridges, B. (2021). The Design of a Smart City Sonification System using a Conceptual Blending and Musical Framework, Web Audio and Deep Learning Techniques. In the Proceedings of the International Conference on Auditory Display, ICAD 2021. </a>
   </li>
   <li>
     <a target="_blank" href="https://www.researchgate.net/publication/353178938_The_Body_in_the_Machine_Indices_Online">Roddy S. (2021). The Body in the Machine: Indices Online. In Proceedings of xCoAx 2021, Online (+ Graz) 12th-16th July 2021.</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://2018.xcoax.org/pdf/xCoAx2018-Roddy.pdf">Roddy, S. (2018). Signal to Noise Loops i++ Live. xCoAx 2018, 11-13 July, Madrid.</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://www.researchgate.net/publication/326572938_Vowel_Formant_Profiles_and_Image_Schemata_in_Auditory_Display">Roddy, S., & Furlong, D. (2018). Vowel Formant Profiles and Image Schemata in Auditory Display. In Proceedings of HCI 2018 4-6 July 2018, Belfast.</a>
   </li>
   <li>
     <a target="_blank" href="http://galapagos.ucd.ie/wiki/pub/OpenAccess/CSMC/Roddy2.pdf">Roddy, S. (2018). Ambient Data Monitoring w/Generative Music Systems using Evolutionary Computing & Machine Learning Techniques. CSMC 2018, Dublin, August 2018.</a>
@@ -128,21 +140,8 @@ Full Papers
     <a target="_blank" href="http://issta.ie/wp-content/uploads/ISSTC-2013-RODDY.pdf">Roddy, S., & Furlong, D. (2013). Rethinking the Transmission Medium in Live Computer Music Performance. Presented at the Irish Sound Science and Technology Convocation, Dún Laoghaire Institute of Art, Design and Technology.</a>
   </li>
 </ul>
-Short Papers
-<ul>
-  <li>
-    <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99596">Roddy, S. (2022). A Technique for Controlling the Proportion of Information in the Sonification of Complex Time Series Data. The 27th International Conference on Auditory Display.</a>
-  </li>
-  <li>
-    <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99595">Roddy, S. (2022). Creating Signal to Noise Loops v4. In the Proceedings of the International Conference on Auditory Display, ICAD 2022.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://2018.xcoax.org/pdf/xCoAx2018-Roddy.pdf">Roddy, S. (2018). Signal to Noise Loops i++ Live. xCoAx 2018, 11-13 July, Madrid.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://www.researchgate.net/publication/326572938_Vowel_Formant_Profiles_and_Image_Schemata_in_Auditory_Display">Roddy, S., & Furlong, D. (2018). Vowel Formant Profiles and Image Schemata in Auditory Display. In Proceedings of HCI 2018 4-6 July 2018, Belfast.</a>
-  </li>
-</ul>
+
+
 Abstracts & Talks
 <ul>
   <li>
