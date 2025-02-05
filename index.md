@@ -94,8 +94,7 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
   </li>
 </ul>
 
-<p><strong>Published in Peer-reviewed Conference Proceedings</strong></p>
-Full Papers
+<p><strong>Papers Published in Peer-reviewed Conference Proceedings</strong></p>
 <ul>
   <li>
     <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99596">Roddy, S. (2022). A Technique for Controlling the Proportion of Information in the Sonification of Complex Time Series Data. The 27th International Conference on Auditory Display.</a>
