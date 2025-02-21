@@ -420,7 +420,7 @@ Abstracts & Talks
   <a target="_blank" href="https://cepra.leeds.ac.uk/2024/10/04/intangible-modalities-symposium-15-11-24/">Cybernetic Resurgences. November 15th 2024. Intangible Modalities Symposium, Centre for Practice Research in the Arts, University of Leeds, United Kingdom.</a>
  </li>
   <li>
-  <a target="_blank" href="https://ubimus2024.fah.usj.edu.mo/">Cybernetic Resurgences: Human-machine Co-creation in the Age of Artificial Media. November 1st 2024. Ubimus 2024 International Symposium, University of Saint Joseph, Macao S.A.R., China.</a>
+  <a target="_blank" href="https://stephenroddy.github.io/projects/AI_MUS/papers/Keller_Zagalo_Bridges_Roddy.pdf">Cybernetic Resurgences: Human-machine Co-creation in the Age of Artificial Media. November 1st 2024. Ubimus 2024 International Symposium, University of Saint Joseph, Macao S.A.R., China.</a>
  </li>
   <li>
     <a target="_blank" href="https://www.ulster.ac.uk/faculties/arts-humanities-and-social-sciences/events/creative-research-and-careers">In Practice: PhD conference on creative research and careers. Ulster University, Derry, 2021.</a>
