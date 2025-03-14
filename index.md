@@ -633,6 +633,7 @@ Abstracts & Talks
 
 <p>Radio</p>
 <ul>
+  <li><a target="_blank" href="https://hibernationproject.ca/2025/03/11/the-sound-of-hope/"> 21, 7 & 3. Ears Have Eyes - THE SOUND OF HOPE: edge of darkness, brink of light, 12th March 2025</a>
   <li><a target="_blank" href="https://www.mixcloud.com/DublinDigitalRadio/no-place-like-drone-100724-slap-on-some-drone-cream/">Lamenting the Deep. No Place Like Drone, Dublin Digital Radio, July 10th 2024.</a>
   </li>
   <li><a target="_blank" href="https://kfjc.org/listen/playlist?i=72381">There are 99 miles of caves below the Burren. Whinger. KFJC 89.7FM California, 18th March 2024.</a>
