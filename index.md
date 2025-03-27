@@ -640,8 +640,7 @@ Abstracts & Talks
   </li>
   <li><a target="_blank" href="https://hibernationproject.ca/2023/10/10/phonostalgia/"> Thonis-Heracleion, peaceful beneath the waves. Ears Have Eyes - PHONOSTALGIA: from other times and places, 11th October 2023.</a>
   </li>
-  <li>
-    <a target="_blank" href="https://www.mixcloud.com/DublinDigitalRadio/no-place-like-drone-041023-lowercase-laments/">Leviathan. No Place Like Drone, Dublin Digital Radio, October 5th 2023.</a>
+  <li><a target="_blank" href="https://www.mixcloud.com/DublinDigitalRadio/no-place-like-drone-041023-lowercase-laments/">Leviathan. No Place Like Drone, Dublin Digital Radio, October 5th 2023.</a>
   </li>
   <li><a target="_blank" href="https://whatsthiscalled.net/2023/09/30/30-september-2023/">What’s This Called?, KFFP-LP FM 90.3 Portland Oregon, September 30th 2023.</a></li>
   <li><a target="_blank" href="https://www.mixcloud.com/brainvoyager/brainvoyager-electronic-fusion-419-16-september-2023/?fbclid=IwAR1wzAPXZNaeH7WJ4vukHNct-6SVC_SyYWHGdwbbasbU57R8fCN86ppCApU">Piteraq Over Tasiilaq. Brainvoyager Electronic Fusion Episode #419, Modul303, SCIFI.radio & Radio Dark Tunnel 16-17 Septtember 2023</a>
@@ -654,47 +653,33 @@ Abstracts & Talks
   </li>
   <li><a target="_blank" href="https://www.mixcloud.com/Resonance/sonic-darts-6-june-2022-artificial-intelligence/">Interview about AI in Music Composition on Gwaith Sŵn's Sonic Darts on Resonance.fm, June 6th 2022.</a>
   </li>
-  <li>
-    <a target="_blank" href="https://www.mixcloud.com/Resonance/sonic-darts-6-june-2022-artificial-intelligence/">100 Epoch Opus, Gwaith Sŵn's Sonic Darts on Resonance 104.4FM, February 7th 2022.</a>
+  <li><a target="_blank" href="https://www.mixcloud.com/Resonance/sonic-darts-6-june-2022-artificial-intelligence/">100 Epoch Opus, Gwaith Sŵn's Sonic Darts on Resonance 104.4FM, February 7th 2022.</a>
   </li>
-  <li>
-    <a target="_blank" href="https://listen.dublindigitalradio.com/resident/monthly-diatribe">No Light, But Rather. Monthly Diatribe, Dublin Digital Radio, January 20th 2022.</a>
+  <li> <a target="_blank" href="https://listen.dublindigitalradio.com/resident/monthly-diatribe">No Light, But Rather. Monthly Diatribe, Dublin Digital Radio, January 20th 2022.</a>
   </li>
-  <li>
-    <a target="_blank" href="https://listen.dublindigitalradio.com/resident/monthly-diatribe">Signal to Noise Loops: A Quiet Year. Monthly Diatribe, Dublin Digital Radio, October 27th, 2021.</a>  
+  <li><a target="_blank" href="https://listen.dublindigitalradio.com/resident/monthly-diatribe">Signal to Noise Loops: A Quiet Year. Monthly Diatribe, Dublin Digital Radio, October 27th, 2021.</a>  
   </li>
-   <li>
-    <a target="_blank" href="https://www.qub.ac.uk/sarc/sarcradio/">61years. The ISSTA Listening Room, SARC Radio QUB, 2022.</a>  
+  <li><a target="_blank" href="https://www.qub.ac.uk/sarc/sarcradio/">61years. The ISSTA Listening Room, SARC Radio QUB, 2022.</a>  
   </li>
-  <li>
-    <a target="_blank" href="https://music.amazon.com/podcasts/846a2c7a-5067-4e6c-a980-1efa7f4a079f/episodes/2de7f1d9-6f14-4642-b94b-33f9d5f66e84/the-noisy-plug-the-noisy-plug---episode-7">Search Party - The Noisy Plug Episode 7</a>  
+  <li><a target="_blank" href="https://music.amazon.com/podcasts/846a2c7a-5067-4e6c-a980-1efa7f4a079f/episodes/2de7f1d9-6f14-4642-b94b-33f9d5f66e84/the-noisy-plug-the-noisy-plug---episode-7">Search Party - The Noisy Plug Episode 7</a>  
   </li>
-  <li>
-    <a target="_blank" href="https://www.facebook.com/GlorMundO/posts/1132493006915777">Sketch 2, Improvised Guitar Take 1 - Glór Mundo 17th October 2018 - Glór Mundo - 93.7fm.</a>
+  <li><a target="_blank" href="https://www.facebook.com/GlorMundO/posts/1132493006915777">Sketch 2, Improvised Guitar Take 1 - Glór Mundo 17th October 2018 - Glór Mundo - 93.7fm.</a>
   </li>
-  <li>
-    <a target="_blank" href="https://www.mixcloud.com/widget/iframe/?feed=%2Fgubu-odee%2Fthe-gubu-st-patricks-day-session%2F">The Good Ship Hibernia and the Hole in the Bottom of the World - Glór Mundo St Patricks Day Session 2018 - Glór Mundo - 93.7fm.</a>
+  <li><a target="_blank" href="https://www.mixcloud.com/widget/iframe/?feed=%2Fgubu-odee%2Fthe-gubu-st-patricks-day-session%2F">The Good Ship Hibernia and the Hole in the Bottom of the World - Glór Mundo St Patricks Day Session 2018 - Glór Mundo - 93.7fm.</a>
   </li>
-  <li>
-    <a target="_blank" href="http://www.rte.ie/lyricfm/nova/programmes/2015/0913/727619-nova-sunday-13-september-2015/">Symmetric Relations and Hidden Rotations - Nova Sunday 13 September 2015 - Nova RTÉ lyric fm.</a>
+  <li><a target="_blank" href="http://www.rte.ie/lyricfm/nova/programmes/2015/0913/727619-nova-sunday-13-september-2015/">Symmetric Relations and Hidden Rotations - Nova Sunday 13 September 2015 - Nova RTÉ lyric fm.</a>
   </li>
-  <li>
-    <a target="_blank" href="http://www.rte.ie/lyricfm/nova/programmes/2015/1011/734052-nova-sunday-11-october-2015/">No Output: Cellular Storm Nova Sunday 11 October 2015 - Nova RTÉ lyric fm.</a>
+  <li><a target="_blank" href="http://www.rte.ie/lyricfm/nova/programmes/2015/1011/734052-nova-sunday-11-october-2015/">No Output: Cellular Storm Nova Sunday 11 October 2015 - Nova RTÉ lyric fm.</a>
   </li>
-  <li>
-    <a target="_blank" href="http://www.rte.ie/lyricfm/nova/programmes/2015/1108/740526-nova-sunday-8-november-2015/?clipid=2017805">Extensive Structure No 1 - Nova Sunday 8 November 2015 - Nova RTÉ lyric fm.</a>
+  <li><a target="_blank" href="http://www.rte.ie/lyricfm/nova/programmes/2015/1108/740526-nova-sunday-8-november-2015/?clipid=2017805">Extensive Structure No 1 - Nova Sunday 8 November 2015 - Nova RTÉ lyric fm.</a>
   </li>
-  <li style = "display: none">
-    <a target="_blank" href="http://www.rte.ie/radio1/arena/programmes/2016/0405/779721-arena-tuesday-5-april-2016/?clipid=2150076">Excerpts from Fógraim/I Proclaim - Arena Tuesday 5 April 2016 - Arena - RTÉ 1.</a>
+  <li><a target="_blank" href="http://www.rte.ie/radio1/arena/programmes/2016/0405/779721-arena-tuesday-5-april-2016/?clipid=2150076">Excerpts from Fógraim/I Proclaim - Arena Tuesday 5 April 2016 - Arena - RTÉ 1.</a>
   </li>
-  <li>
-    <a target="_blank" href="http://www.rte.ie/radio1/arena/programmes/2016/0405/779721-arena-tuesday-5-april-2016/?clipid=2150076">Fógraim/I Proclaim - RTÉ 1.</a><a target="_blank" href="https://www.facebook.com/glormundo/posts/868313836667030">The Good Ship Hibernia and the Hole in the Bottom of the World - Glór Mundo 27th September 2017 - Glór Mundo - 93.7fm.</a>
+  <li><a target="_blank" href="http://www.rte.ie/radio1/arena/programmes/2016/0405/779721-arena-tuesday-5-april-2016/?clipid=2150076">Fógraim/I Proclaim - RTÉ 1.</a><a target="_blank" href="https://www.facebook.com/glormundo/posts/868313836667030">The Good Ship Hibernia and the Hole in the Bottom of the World - Glór Mundo 27th September 2017 - Glór Mundo - 93.7fm.</a>
   </li>
-  <li>
-    <a target="_blank" href="https://www.facebook.com/GlorMundO/posts/868313836667030">Cellular Storm [Excerpt] & The Good Ship Hibernia and the Hole in the Bottom of the World - Glór Mundo 29th September 2017 - Glór Mundo - 93.7fm.</a>
+  <li><a target="_blank" href="https://www.facebook.com/GlorMundO/posts/868313836667030">Cellular Storm [Excerpt] & The Good Ship Hibernia and the Hole in the Bottom of the World - Glór Mundo 29th September 2017 - Glór Mundo - 93.7fm.</a>
   </li>
-  <li>
-    <a target="_blank" href="http://www.facebook.com/GlorMundO/posts/872771719554575">Sketch 2, Improvised Guitar Take 1 - Glór Mundo 4th October 2017 - Glór Mundo - 93.7fm.</a>
+  <li><a target="_blank" href="http://www.facebook.com/GlorMundO/posts/872771719554575">Sketch 2, Improvised Guitar Take 1 - Glór Mundo 4th October 2017 - Glór Mundo - 93.7fm.</a>
   </li>
 </ul>
 
