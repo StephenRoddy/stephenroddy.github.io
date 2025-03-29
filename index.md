@@ -680,8 +680,7 @@ Abstracts & Talks
   <li><a target="_blank" href="https://www.facebook.com/GlorMundO/posts/868313836667030">Cellular Storm [Excerpt] & The Good Ship Hibernia and the Hole in the Bottom of the World - Glór Mundo 29th September 2017 - Glór Mundo - 93.7fm.</a>
   </li>
   <li><a target="_blank" href="http://www.facebook.com/GlorMundO/posts/872771719554575">Sketch 2, Improvised Guitar Take 1 - Glór Mundo 4th October 2017 - Glór Mundo - 93.7fm.</a>
-  </li>
-</ul>
+  </li></ul>
 
 <p>Newsprint</p>
 <ul>
