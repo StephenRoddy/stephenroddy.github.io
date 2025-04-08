@@ -4,6 +4,32 @@
 - Bandcamp New & Notable, March 2022. 
 
 <div style="text-align: center;">
+<img src="/images/corpus_mimesis.jpg?raw=true"/>
+</div>
+<br>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1909571448/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy</a></iframe>
+<br>
+
+Corpus/Mimesis is a visceral sonic interpretation of the work of Jean-Luc Nancy which lodges itself permanently in the listeners subconscious. It emerged from a collaboration between AMAE, Pier Giorgio De Pinto and Jean-Luc Nancy for which the artist produced a series of compositions and installations between 2014 and 2022. Featured prominently here is the voice of Jean-Luc Nancy reading aloud his fifty-eight indices on the body, a series on short reflections on the body that explore themes of rhythm, noise, cycles, discontinuities, overlapping harmonies and, critically: the voice, as they relate to the body. Each index is enfolded in a unique soundworld that both reflects and elaborates upon Nancy's statements, embodying the rich layers of meaning that inhere in his work through the medium of sound. 
+
+<div style="text-align: center;">
+</div>
+
+Cassettes available April 11th: [Fiadh Productions](https://fiadh.bandcamp.com/album/corpus-mimesis)
+<br>
+Digital downloads here: [My Bandcamp](https://stephenroddy.bandcamp.com/album/corpus-mimesis)
+
+Liner notes provided below:
+<br>
+<div style="text-align: center;">
+<iframe style="border: none; width: 100%; aspect-ratio: 1;" src="https://drive.google.com/file/d/1FibAUOQaYaBTSfzoegRMK9YTq8r4nqpl/preview"></iframe>
+</div>
+<br>
+
+
+
+
+<div style="text-align: center;">
 <img src="/images/mockupStardust.png?raw=true"/>
 </div>
 <br>
