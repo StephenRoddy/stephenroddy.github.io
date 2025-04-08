@@ -1,4 +1,4 @@
-## Stardust Sonata - June 21st 2024
+## Corpus/Mimesis - April 11th 2025
 
 > An experimental composer from Ireland, Stephen Roddy proves equally adept at crushing soundscapes as he does mysterious melodies.
 - Bandcamp New & Notable, March 2022. 
@@ -25,9 +25,6 @@ Liner notes provided below:
 <iframe style="border: none; width: 100%; aspect-ratio: 1;" src="https://drive.google.com/file/d/1FibAUOQaYaBTSfzoegRMK9YTq8r4nqpl/preview"></iframe>
 </div>
 <br>
-
-
-
 
 <div style="text-align: center;">
 <img src="/images/mockupStardust.png?raw=true"/>
