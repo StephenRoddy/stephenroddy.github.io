@@ -26,6 +26,8 @@ Liner notes provided below:
 </div>
 <br>
 
+## Stardust Sonata
+
 <div style="text-align: center;">
 <img src="/images/mockupStardust.png?raw=true"/>
 </div>
