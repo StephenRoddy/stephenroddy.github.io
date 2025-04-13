@@ -365,6 +365,9 @@ Abstracts & Talks
 </ul>
 <p>Independent Releases</p>
 <ul>
+  <li>
+    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/le-son-du-corps-et-un-corps-de-sons">Corpus/Mimesis by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto) (2025) A visceral sonic interpretation of the work of Jean-Luc Nancy which lodges itself permanently in the listeners subconscious. Sound works, experimental guitar and electroacoustic compositions.</a>
+  </li>
   <li> <a target="_blank" href="https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-2">Signal to Noise Loops (2023) is a series of human-machine collaborations made possible through cybernetic musical systems that unite human performance and composition with techniques and technologies from artificial intelligence, machine learning, and the internet of things.</a> </li>
   <li>
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/ep-darkness-visible">Darkness Visible (2022): Generative music EP in an industrial and ark ambient style.</a>
@@ -377,9 +380,6 @@ Abstracts & Talks
   </li>
   <li>
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/wave-grid">Wave Grid (2019) A Synth-heavy tribute to the classic sci-fi and horror soundtracks of the 1980s.10-track album.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/le-son-du-corps-et-un-corps-de-sons">Le Son Du Corps Et Un Corps de Sons by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto) (2016) Sound works, experimental guitar and electroacoustic compositions based on 58(+1)/63 Indices on the Body. 16-track album.</a>
   </li>
   <li>
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/the-human-cost-a-sonification-of-irelands-economic-crash">The Human Cost: A Sonification of Ireland's Economic Crash (2016) Includes sonifications and data-driven musical works exploring the socioeconomic data from Ireland’s 2008 financial crash. Includes works composed for my Ph.D. 5-track album.</a>
