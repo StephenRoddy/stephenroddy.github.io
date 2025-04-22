@@ -342,6 +342,9 @@ Previous events have included the New York City Electroacoustic Music Festival, 
 </ul>
 <p>Independent Releases</p>
 <ul>
+  <li>
+    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/le-son-du-corps-et-un-corps-de-sons">Corpus/Mimesis by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto) (2025) A visceral sonic interpretation of the work of Jean-Luc Nancy which lodges itself permanently in the listeners subconscious. Sound works, experimental guitar and electroacoustic compositions.</a>
+  </li>
   <li> <a target="_blank" href="https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-2">Signal to Noise Loops (2023) is a series of human-machine collaborations made possible through cybernetic musical systems that unite human performance and composition with techniques and technologies from artificial intelligence, machine learning, and the internet of things.</a> </li>
   <li>
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/ep-darkness-visible">Darkness Visible (2022): Generative music EP in an industrial and ark ambient style.</a>
@@ -355,9 +358,7 @@ Previous events have included the New York City Electroacoustic Music Festival, 
   <li>
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/wave-grid">Wave Grid (2019) A Synth-heavy tribute to the classic sci-fi and horror soundtracks of the 1980s.10-track album.</a>
   </li>
-  <li>
-    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/le-son-du-corps-et-un-corps-de-sons">Le Son Du Corps Et Un Corps de Sons by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto) (2016) Sound works, experimental guitar and electroacoustic compositions based on 58(+1)/63 Indices on the Body. 16-track album.</a>
-  </li>
+  
   <li>
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/stardust-sonata">Stardust Sonata (2016) Experimental guitar instrumentals converge with computer music and electroacoustic techniques in a tribute to David Bowie. 6-track album.</a>
   </li>

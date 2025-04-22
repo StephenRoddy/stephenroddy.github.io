@@ -6,21 +6,37 @@
 The Human Cost is a series of sonifications exploring the impact and fallout of Ireland's 2008 financial crash. Sonification is the use of sound to perceptualize data and convey information. These sonifications focus on socioeconomic data in order to better understand the human impact of the crash, through the expressive medium of sound. The data in question was provided by Ireland's Central Statistics Office and the world bank.
 The majority of these pieces are the result of research undertaken during the completion of my PhD entitled 'Embodied Sonification'. Tracks 2, 3 and 4 feature in the PhD document while tracks 1 and 5 make use of techniques and materials developed in the course of that research. 
 
-
-###  Coldwater Pass
+### The Good Ship Hibernia and the Hole in the Bottom of the world
 
 <div style="text-align: center;">
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2888609678/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=585665569/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/the-human-cost-sonification-and-irelands-economic-crash">The Human Cost: Sonification and Ireland&#39;s Economic Crash by Stephen Roddy</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2888609678/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=4212872350/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/the-human-cost-a-sonification-of-irelands-economic-crash">The Human Cost: A Sonification of Ireland&#39;s Economic Crash by Stephen Roddy</a></iframe>
 </div>
 
-Coldwater Pass is a data-driven composition that explores some of the human dimensions of Ireland’s economic crash focusing specifically on the relationship between poverty, drug crime, emigration, and suicide. It exploits the power of sound to re-embody the impersonal statistical data revealing aspects of the human realities underlying the cold hard facts.
+"The Good Ship Hibernia" is an Embodied Soundscape Sonification. It uses both soundscape and harmonic materials and employs sonification techniques to reflect the World Bank's figures for Irish GDP growth rate from 1979 to 2013.
 
-The piece uses a complex mapping strategy to map data that represents Deprivation Rate, Unemployment Rate, Emigration Rate, Drug Related Crime Rate and Annual Suicide Rate from 2007 to 2012 to musical features. This mapping manipulates patterns of tension and release in the musical material in order to communicate a sense of the human realities underlying the socioeconomic data.
+The piece is structured around a number of embodied metaphors (as defined by Lakoff and Johnson 1980) and an embodied balance schema (as defined by Johnson 1987). It uses the metaphor of a maritime journey where “smooth sailing” and “good weather” represent “good times” and “rough seas” and “bad weather” represent “bad times”.
 
-The piece is driven by a Csound algorithm that maps the data to vocal synthesis parameters defined by in Native Instruments Reaktor synthesis engine. Input data is rescaled and assigned to midi note, pan and CC data that is ported into Logic Pro X.
-GNP, Unemployment and Emigration Rate are mapped to create a background harmonic material while Deprivation rate and Drug Crime offenses create a type of foreground call and response pattern that is spatially distrusted with Drug Crime presented on the right and Deprivation rate on the left.
+While the growth rate is strong the sailing is smooth and the weather is good. When the growth rate shrinks the weather becomes stormy and seas become rough. The sense of balance in the soundscape shifts in accordance with the data.
 
-All of this is underpinned by a rhythmic percussion pattern for which each hit indicates 60 suicides. Parameters such as vowel shape, note length and formant shape are leveraged in the expression of the data through tension patterns.
+<div style="text-align: center;">
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2888609678/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3224625818/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/the-human-cost-sonification-and-irelands-economic-crash">The Human Cost: Sonification and Ireland&#39;s Economic Crash by Stephen Roddy</a></iframe>
+</div>
+
+A second iteration of the piece was also created wherin harmonic material also sounds throughout the journey. This material was performed on electric guitar in response to the soundscape of the sea journey. The perceived fidelity and timbral character of the performance are determined by the GDP data.
+
+### Doom & Gloom
+
+<div style="text-align: center;">
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2888609678/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1639177409/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/the-human-cost-sonification-and-irelands-economic-crash">The Human Cost: Sonification and Ireland&#39;s Economic Crash by Stephen Roddy</a></iframe>
+</div>
+
+Doom and Gloom is a data-driven composition that explores the human cost of Ireland’s economic crash. The piece opens on a conversational montage from Finian’s Rainbow that offers an eerily ironic foreshadowing of the bleak and desolate future looming on the horizon for an Ireland that has lost its “pot of gold”.
+
+This discussion soon falls into chaos twisting and contorting as it disintegrates into a shattered ocean of broken and jagged sound fragments. This disintegration takes place at the same rate at which the Central Statistics office measured the decline in the Irish GNP (Gross National Product).
+
+The timbre of the maelstrom transforms as material driven by the Unemployment Rate (Central Statistics Office) arises through the cracks between each sound shard. These new sound shards slowly reintegrate in time with the data contour to resolve in a young man’s discussion of his experience of unemployment in the post-Celtic Tiger years.
+
+The piece is realized using FOG synthesis techniques (an extension of “fonctions d'onde formantique” to sound file granulation) and is intended to highlight the suffering caused by Ireland's economic crash through a mixed methods approach based on the sonification of economic data by compositional techniques.
 
 ###  The Human Cost
 
@@ -54,34 +70,21 @@ Idle Hands is a data-driven musical composition based on the Central Statistics 
 
  Idle Hands features on the album 'Tides - An ISSTA Anthology'. It was released on the [Stolen Mirror label](http://stolenmirror.com() and collects a many important pieces that were performed during the first 10 years of the Irish Sound Science and Technology Association's existence. You can learn more about the album and purchase it here: [http://stolenmirror.com/2021d01-tides.html](http://stolenmirror.com/2021d01-tides.html)
 
-### Doom & Gloom
+
+###  Coldwater Pass
 
 <div style="text-align: center;">
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2888609678/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1639177409/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/the-human-cost-sonification-and-irelands-economic-crash">The Human Cost: Sonification and Ireland&#39;s Economic Crash by Stephen Roddy</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2888609678/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=585665569/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/the-human-cost-sonification-and-irelands-economic-crash">The Human Cost: Sonification and Ireland&#39;s Economic Crash by Stephen Roddy</a></iframe>
 </div>
 
-Doom and Gloom is a data-driven composition that explores the human cost of Ireland’s economic crash. The piece opens on a conversational montage from Finian’s Rainbow that offers an eerily ironic foreshadowing of the bleak and desolate future looming on the horizon for an Ireland that has lost its “pot of gold”.
+Coldwater Pass is a data-driven composition that explores some of the human dimensions of Ireland’s economic crash focusing specifically on the relationship between poverty, drug crime, emigration, and suicide. It exploits the power of sound to re-embody the impersonal statistical data revealing aspects of the human realities underlying the cold hard facts.
 
-This discussion soon falls into chaos twisting and contorting as it disintegrates into a shattered ocean of broken and jagged sound fragments. This disintegration takes place at the same rate at which the Central Statistics office measured the decline in the Irish GNP (Gross National Product).
+The piece uses a complex mapping strategy to map data that represents Deprivation Rate, Unemployment Rate, Emigration Rate, Drug Related Crime Rate and Annual Suicide Rate from 2007 to 2012 to musical features. This mapping manipulates patterns of tension and release in the musical material in order to communicate a sense of the human realities underlying the socioeconomic data.
 
-The timbre of the maelstrom transforms as material driven by the Unemployment Rate (Central Statistics Office) arises through the cracks between each sound shard. These new sound shards slowly reintegrate in time with the data contour to resolve in a young man’s discussion of his experience of unemployment in the post-Celtic Tiger years.
+The piece is driven by a Csound algorithm that maps the data to vocal synthesis parameters defined by in Native Instruments Reaktor synthesis engine. Input data is rescaled and assigned to midi note, pan and CC data that is ported into Logic Pro X.
+GNP, Unemployment and Emigration Rate are mapped to create a background harmonic material while Deprivation rate and Drug Crime offenses create a type of foreground call and response pattern that is spatially distrusted with Drug Crime presented on the right and Deprivation rate on the left.
 
-The piece is realized using FOG synthesis techniques (an extension of “fonctions d'onde formantique” to sound file granulation) and is intended to highlight the suffering caused by Ireland's economic crash through a mixed methods approach based on the sonification of economic data by compositional techniques.
-
-### The Good Ship Hibernia and the Hole in the Bottom of the world
-
-<div style="text-align: center;">
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2888609678/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3224625818/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/the-human-cost-sonification-and-irelands-economic-crash">The Human Cost: Sonification and Ireland&#39;s Economic Crash by Stephen Roddy</a></iframe>
-</div>
-
-"The Good Ship Hibernia" is an Embodied Soundscape Sonification. It uses both soundscape and harmonic materials and employs sonification techniques to reflect the World Bank's figures for Irish GDP growth rate from 1979 to 2013.
-
-The piece is structured around a number of embodied metaphors (as defined by Lakoff and Johnson 1980) and an embodied balance schema (as defined by Johnson 1987). It uses the metaphor of a maritime journey where “smooth sailing” and “good weather” represent “good times” and “rough seas” and “bad weather” represent “bad times”.
-
-While the growth rate is strong the sailing is smooth and the weather is good. When the growth rate shrinks the weather becomes stormy and seas become rough. The sense of balance in the soundscape shifts in accordance with the data.
-
-Harmonic material also sounds throughout the journey. This material was performed in response to the soundscape of the sea journey with the perceived fidelity and timbral character of the performance determined by the GDP data.
-
+All of this is underpinned by a rhythmic percussion pattern for which each hit indicates 60 suicides. Parameters such as vowel shape, note length and formant shape are leveraged in the expression of the data through tension patterns.
 
 
 ### Learn more about the research project from which these pieces emerged here:
