@@ -498,7 +498,9 @@ Abstracts & Talks
 
 <p>Reviews & Coverage Online</p>
 <ul>
-<li><a target = "_blank" href = "https://acloserlisten.com/2025/03/18/acl-2025-spring-music-preview-experimental/"> A Closer Listen: Spring Music Preview 2025: Experimental</a></li>
+<li><a target = "_blank" href = "https://electronica.org.uk/blog/stephen-roddy-21-7-3-experimental-ambient-composition-featuring-jean-luc-nancy/">Stephen Roddy – 21, 7 & 3: Experimental Ambient Composition Featuring Jean-Luc Nancy</a></li>
+
+<li><a target = "_blank" href = "https://acloserlisten.com/2025/03/18/acl-2025-spring-music-preview-experimental/">A Closer Listen: Spring Music Preview 2025: Experimental</a></li>
 
 <li><a target = "_blank" href ="https://nialler9.com/new-releases-out-today-lankum-ae-mak-o-burial-holly-munro-more/">Nialler9: New releases out today: Lankum, Hazey Haze & mankyy, The Mary Wallopers, AE MAK, O, Burial & more.</a> 
 </li>
