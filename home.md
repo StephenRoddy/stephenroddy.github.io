@@ -348,7 +348,7 @@ Abstracts & Talks
 <p>Label Releases</p>
 <ul>
   <li>
-    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/le-son-du-corps-et-un-corps-de-sons">Corpus/Mimesis by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto) (2025) A visceral sonic interpretation of the work of Jean-Luc Nancy which lodges itself permanently in the listeners subconscious. Sound works, experimental guitar and electroacoustic compositions.</a>
+    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/le-son-du-corps-et-un-corps-de-sons">2025. Corpus/Mimesis by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto) (2025) A visceral sonic interpretation of the work of Jean-Luc Nancy which lodges itself permanently in the listeners subconscious. Sound works, experimental guitar and electroacoustic compositions.</a>
   </li>
   <li>
     <a target="_blank" href="https://fiadh.bandcamp.com/album/stardust-sonata">2024. Stardust Sonata. A tribute and lament to David Bowie recorded in the winter of 2016 shortly after the release of Blackstar and Bowie’s premature death. The six tracks feature ambient soundscapes informed y the sound Bowie developed with brian Eno and Robert Fripp on his infamous "berlin Trilogy". On Fiadh Productions.</a>
@@ -499,9 +499,9 @@ Abstracts & Talks
 <p>Reviews & Coverage Online</p>
 <ul>
 <li><a target = "_blank" href = "https://electronica.org.uk/blog/stephen-roddy-21-7-3-experimental-ambient-composition-featuring-jean-luc-nancy/">Stephen Roddy – 21, 7 & 3: Experimental Ambient Composition Featuring Jean-Luc Nancy</a></li>
-
 <li><a target = "_blank" href = "https://acloserlisten.com/2025/03/18/acl-2025-spring-music-preview-experimental/">A Closer Listen: Spring Music Preview 2025: Experimental</a></li>
-
+<li><a target="_blank" href="https://industrialcomplexx.com/stephen-roddy-corpus-mimesis-fiadh-productions/">Industrial Complexx: Stephen Roddy - Corpus/Mimesis.</a></li>
+<li><a target = "_blank" href = "https://acloserlisten.com/2025/03/18/acl-2025-spring-music-preview-experimental/"> A Closer Listen: Spring Music Preview 2025: Experimental</a></li>
 <li><a target = "_blank" href ="https://nialler9.com/new-releases-out-today-lankum-ae-mak-o-burial-holly-munro-more/">Nialler9: New releases out today: Lankum, Hazey Haze & mankyy, The Mary Wallopers, AE MAK, O, Burial & more.</a> 
 </li>
   <li>
