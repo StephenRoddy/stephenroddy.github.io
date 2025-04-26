@@ -39,7 +39,7 @@ Stardust Sonata released on June 21st 2024 on cassette through [Fiadh Production
 <div style="text-align: center;">
 <img src="/images/Stardust Tape.jpg?raw=true"/>
 </div>
-
+<br>
 Cassettes available here: [Fiadh Productions](https://fiadh.bandcamp.com/album/stardust-sonata)
 <br>
 Digital downloads here: [My Bandcamp](https://stephenroddy.bandcamp.com/album/stardust-sonata)
@@ -50,8 +50,6 @@ Liner notes provided below:
 <iframe style="border: none; width: 100%; aspect-ratio: 1;" src="https://drive.google.com/file/d/19lNMWcNpna3l2dzXTnT9fleigM4FReMi/preview"></iframe>
 </div>
 <br>
-
-https://fiadh.bandcamp.com/album/stardust-sonata
 
 ## From Dreams to Living Things II: Brawling Sparrows Brilliant Moon
 
@@ -66,7 +64,6 @@ All proceeds from the record will be donated to [Heartstone Sanctuary](https://w
 Cover Art by [Mairead McGuinness](https//instagram.com/maireadmcguinnessart).<br>
 Read more about the release on [Ghost Cult](https://ghostcultmag.com/exclusive-album-stream-from-dreams-to-living-things-ii-brawling-sparrows-brilliant-moon-charity-compilation-is-streaming-in-full/).<br>
 Get the album through [Fiadh Productions](https://fiadh.bandcamp.com/album/from-dreams-to-living-things-ii-brawling-sparrows-brilliant-moon).<br>
-
 
 You can sample some of the tracks below:
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1836613001/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://fiadh.bandcamp.com/album/from-dreams-to-living-things-ii-brawling-sparrows-brilliant-moon">From Dreams to Living Things II: Brawling Sparrows Brilliant Moon by Fiadh Productions</a></iframe>
