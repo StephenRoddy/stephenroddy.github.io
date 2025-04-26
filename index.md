@@ -39,7 +39,7 @@ Stardust Sonata released on June 21st 2024 on cassette through [Fiadh Production
 <div style="text-align: center;">
 <img src="/images/Stardust Tape.jpg?raw=true"/>
 </div>
-
+<br>
 Cassettes available here: [Fiadh Productions](https://fiadh.bandcamp.com/album/stardust-sonata)
 <br>
 Digital downloads here: [My Bandcamp](https://stephenroddy.bandcamp.com/album/stardust-sonata)
@@ -50,8 +50,6 @@ Liner notes provided below:
 <iframe style="border: none; width: 100%; aspect-ratio: 1;" src="https://drive.google.com/file/d/19lNMWcNpna3l2dzXTnT9fleigM4FReMi/preview"></iframe>
 </div>
 <br>
-
-https://fiadh.bandcamp.com/album/stardust-sonata
 
 ## From Dreams to Living Things II: Brawling Sparrows Brilliant Moon
 
