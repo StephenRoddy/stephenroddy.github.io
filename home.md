@@ -1,6 +1,6 @@
-Stephen Roddy is a Musician, Researcher, and Lecturer working in computing and the arts (sound, music, digital) at the [Radical Humanities Lab](https://www.ucc.ie/en/future-humanities/radicalhumanitieslaboratory/) in the [Future Humanities Institute](https://www.ucc.ie/en/future-humanities/) and the Department of [Digital Humanities](https://www.ucc.ie/en/dah/) at [University College Cork](https://www.ucc.ie/en/) where he is the programme director for the [MA in Digital Arts and Humanities](https://www.ucc.ie/en/cke09/). He holds a Ph.D. in sonification: the use of sound to perceptualize data and convey information. Stephen's research explores the application of [auditory display](https://icad.org/new-to-auditory-displays/), internet of things (IoT), and [artificial intelligence/machine learning (AI/ML) techniques](https://drive.google.com/file/d/1NdHUhzr9ep8eoknvkFBfrVtR8mK_rddz/view?usp=sharing), in [sound and music computing](https://smcnetwork.org/roadmap.html#definition), [human-computer interaction](https://www.interaction-design.org/literature/topics/human-computer-interaction) and creative arts contexts. This work involves research methods from both engineering design ([analytical methods](https://link.springer.com/article/10.1007/s00163-022-00406-y)) and the creative arts ([practice-based methods](https://direct.mit.edu/leon/article-abstract/51/1/63/46472/Practice-Based-Research-in-the-Creative-Arts)), with theoretical roots in cybernetics and embodied cognitive science.
+Stephen Roddy is a Musician, Researcher, and Lecturer working in computing and the arts (sound, music, digital) at the [Radical Humanities Lab](https://www.ucc.ie/en/future-humanities/radicalhumanitieslaboratory/) in the [Future Humanities Institute](https://www.ucc.ie/en/future-humanities/) and the Department of [Digital Humanities](https://www.ucc.ie/en/dah/) at [University College Cork](https://www.ucc.ie/en/) (UCC). He is programme director for the [MA in Digital Arts and Humanities](https://www.ucc.ie/en/cke09/) at UCC and holds a Ph.D. in sonification: the use of sound to perceptualize data and convey information from Trinity College Dublin (TCD). Stephen's research explores the application of [auditory display](https://icad.org/new-to-auditory-displays/), internet of things (IoT), and [artificial intelligence/machine learning (AI/ML) techniques](https://drive.google.com/file/d/1NdHUhzr9ep8eoknvkFBfrVtR8mK_rddz/view?usp=sharing), in [sound and music computing](https://smcnetwork.org/roadmap.html#definition), [human-computer interaction](https://www.interaction-design.org/literature/topics/human-computer-interaction) and creative arts contexts. This work involves research methods from both engineering design ([analytical methods](https://link.springer.com/article/10.1007/s00163-022-00406-y)) and the creative arts ([practice-based methods](https://direct.mit.edu/leon/article-abstract/51/1/63/46472/Practice-Based-Research-in-the-Creative-Arts)), with theoretical roots in cybernetics and embodied cognitive science.
 
-Stephen's previous projects have involved the design of auditory display solutions for large-scale IoT networks and investigated the integration of sonification and AI/ML techniques in generative music, sound art, and digital art applications. Much of this work was carried out under an IRC Postdoctoral Fellowship at [CONNECT: the Research Ireland Centre for Future Networks and Communications](https://connectcentre.ie/), at Trinity College Dublin (TCD), and subsequently at the Department of Electronic & Electrical Engineering at TCD. His work is widely disseminated through peer-reviewed journal publications, book chapters, and conference proceedings. As a member of the committee on Ethically Aligned Design in the Arts (under the IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems), he contributed to the IEEE Standards Authority Report on [Ethically Aligned Approaches to AI in the Arts](https://sagroups.ieee.org/global-initiative/wp-content/uploads/sites/542/2022/07/ead-artists.pdf). 
+Stephen's previous projects have involved the design of auditory display solutions for large-scale IoT networks and investigated the integration of sonification and AI/ML techniques in generative music, sound art, and digital art applications. Much of this work was carried out under an IRC Postdoctoral Fellowship at [CONNECT: the Research Ireland Centre for Future Networks and Communications](https://connectcentre.ie/), at TCD, and subsequently at the Department of Electronic & Electrical Engineering at TCD. His work is widely disseminated through peer-reviewed journal publications, book chapters, and conference proceedings. As a member of the committee on Ethically Aligned Design in the Arts (under the IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems), he contributed to the IEEE Standards Authority Report on [Ethically Aligned Approaches to AI in the Arts](https://sagroups.ieee.org/global-initiative/wp-content/uploads/sites/542/2022/07/ead-artists.pdf). 
 
 Stephen maintains a vibrant and diverse creative and performing arts practice which forms a core component of his research activity. His artistic projects span a variety of media and styles, including music composition and performance, generative and data-driven music and sound art installation and performance. His work, described as [majestic and sweeping](https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/) yet [beautifully unsettling](https://www.stephenroddy.com/images/leviathanNewandNotableWide.png), is frequently performed and installed at home and abroad. His most recent musical release [Corpus/Mimesis](https://stephenroddy.bandcamp.com/album/corpus-mimesis) is available through [Fiadh Productions](https://fiadh.bandcamp.com/album/corpus-mimesis). Recent events have included the Wrong Biennale, New York City Electroacoustic Music Festival and the Earth Rising Festival at the Irish Museum of Modern Art.
 
@@ -41,14 +41,14 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
 </ul>
 <p><strong>Journal Articles</strong></p>
 <ul>
-  <li>
-    <a target="_blank" href="https://direct.mit.edu/leon" style = "visibility: hidden">Roddy, S., Lavelle, A., Ghosh, S., Dempsey, G., Fanning, L. (Forthcoming: February 2026). Generative Sonification of Synthetic Virology Data with Waveshaping & Granular Synthesis Techniques. Leonardo, 59(1).</a>
+<!-- <li>
+  <a target="_blank" href="https://direct.mit.edu/leon" style = "visibility: hidden">Roddy, S., Lavelle, A., Ghosh, S., Dempsey, G., Fanning, L. (Forthcoming: February 2026). Generative Sonification of Synthetic Virology Data with Waveshaping & Granular Synthesis Techniques. Leonardo, 59(1).</a>
+</li> -->
+<li>
+    <a target="_blank" href="https://doi.org/10.1109/MCOM.001.2400154">Roddy, S. (2024). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine, 62(12).</a>
   </li>
   <li>
     <a target="_blank" href="https://doi.org/10.1080/10447318.2024.2429757">Roddy, S. (2024). The Design and Formalization of an Embodied Soundscape Sonification Framework. International Journal of Human–Computer Interaction.</a>
-  </li>
-<li>
-    <a target="_blank" href="https://doi.org/10.1109/MCOM.001.2400154">Roddy, S. (2024). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine, 62(12).</a>
   </li>
   <li>
     <a target="_blank" href="/projects/AI_MUS/papers/Roddy and Parmar 2023 pre_print.pdf">Roddy, S., & Parmar, R. (2023). AI/ML in the Sonic Arts - Pitfalls and Pathways. Resonance: The Journal of Sound and Culture, 4(4).</a>
@@ -75,7 +75,7 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
     <a target="_blank" href="/projects/embodied_sonification/papers/Organised Sound - Embodied Aesthetics in Auditory Display.pdf">Roddy, S., & Furlong, D. (2014). Embodied Aesthetics in Auditory Display. Organised Sound, 19(01), 70-77.</a>  
   </li>
 </ul>
-<p> <strong><strong>Book Chapters</strong></strong></p>
+<p> <strong>Book Chapters</strong></p>
 <ul>
 <li>
 <a target="_blank" href="https://link.springer.com/book/9783031890369">Roddy, S., & Bridges B. (Forthcoming: 2025) Cybernetic Resurgences: Machine Music Beyond AI Slop. In: Zagalo, N. & Keller, D. (eds) Artificial Media: Emerging Trends in Creative Practice and Human-Computer Collaboration. Springer Series on Cultural Computing. Springer Nature.</a>
@@ -179,7 +179,7 @@ Abstracts & Talks
 <p>Recent/Forthcoming Performances & Installations:</p>
 <ul>
 <li>
-  <a target="_blank" href="https://listen.dublindigitalradio.com/alternating-current-2025/schedule/may-2">Signal to Noise Loops, The Good Ship Hibernia, & Dublin City noise Loops. Alternating Current Festival 2025: Urban Scores. Dublin, May 2025.</a>
+  <a target="_blank" href="https://www.ucc.ie/en/future-humanities/news/dr-stephen-roddys-musical-works-performed-for-alternating-current-2025.html">Signal to Noise Loops, The Good Ship Hibernia, & Dublin City noise Loops. Alternating Current Festival 2025: Urban Scores. Dublin, May 2025.</a>
 </li>
   <li>
   <a target="_blank" href="https://cinema.nmartproject.net/hyper-h-03/#">Thonis-Heracleion, peaceful beneath the waves. Sound of the Anthropocene. Alphabet Art Center. The New Museum of Networked Art.Cologne, Germany. July 13th - August 30th 2024.</a>
@@ -355,7 +355,7 @@ Abstracts & Talks
 <p>Label Releases</p>
 <ul>
   <li>
-    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/le-son-du-corps-et-un-corps-de-sons">2025. Corpus/Mimesis by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto) (2025) A visceral sonic interpretation of the work of Jean-Luc Nancy which lodges itself permanently in the listeners subconscious. Sound works, experimental guitar and electroacoustic compositions.</a>
+    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">2025. Corpus/Mimesis by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto) (2025) A visceral sonic interpretation of the work of Jean-Luc Nancy which lodges itself permanently in the listeners subconscious. Sound works, experimental guitar and electroacoustic compositions.</a>
   </li>
   <li>
     <a target="_blank" href="https://fiadh.bandcamp.com/album/stardust-sonata">2024. Stardust Sonata. A tribute and lament to David Bowie recorded in the winter of 2016 shortly after the release of Blackstar and Bowie’s premature death. The six tracks feature ambient soundscapes informed y the sound Bowie developed with brian Eno and Robert Fripp on his infamous "berlin Trilogy". On Fiadh Productions.</a>
@@ -505,6 +505,7 @@ Abstracts & Talks
 
 <p>Reviews & Coverage Online</p>
 <ul>
+<li><a target = "_blank" href = "https://www.distopic.it/stephen-roddy/">Distopic.it: Stephen Roddy - Der Kardinal Review.</a></li>
 <li><a target = "_blank" href = "https://www.thisisdarkness.com/category/retro-reviews/">This is Darkness: Stephen Roddy – Corpus/Mimesis Review.</a></li>
 <li><a target = "_blank" href = "https://electronica.org.uk/blog/stephen-roddy-21-7-3-experimental-ambient-composition-featuring-jean-luc-nancy/">electronica.org.uk: Stephen Roddy – 21, 7 & 3: Experimental Ambient Composition Featuring Jean-Luc Nancy.</a></li>
 <li><a target = "_blank" href = "https://acloserlisten.com/2025/03/18/acl-2025-spring-music-preview-experimental/">A Closer Listen: Spring Music Preview 2025: Experimental.</a></li>

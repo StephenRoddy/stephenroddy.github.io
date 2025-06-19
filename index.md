@@ -41,9 +41,9 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
 </ul>
 <p><strong>Journal Articles</strong></p>
 <ul>
-<li>
+<!-- <li>
   <a target="_blank" href="https://direct.mit.edu/leon" style = "visibility: hidden">Roddy, S., Lavelle, A., Ghosh, S., Dempsey, G., Fanning, L. (Forthcoming: February 2026). Generative Sonification of Synthetic Virology Data with Waveshaping & Granular Synthesis Techniques. Leonardo, 59(1).</a>
-</li>
+</li> -->
 <li>
     <a target="_blank" href="https://doi.org/10.1109/MCOM.001.2400154">Roddy, S. (2024). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine, 62(12).</a>
   </li>
@@ -75,7 +75,7 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
     <a target="_blank" href="/projects/embodied_sonification/papers/Organised Sound - Embodied Aesthetics in Auditory Display.pdf">Roddy, S., & Furlong, D. (2014). Embodied Aesthetics in Auditory Display. Organised Sound, 19(01), 70-77.</a>  
   </li>
 </ul>
-<p> <strong><strong>Book Chapters</strong></strong></p>
+<p> <strong>Book Chapters</strong></p>
 <ul>
 <li>
 <a target="_blank" href="https://link.springer.com/book/9783031890369">Roddy, S., & Bridges B. (Forthcoming: 2025) Cybernetic Resurgences: Machine Music Beyond AI Slop. In: Zagalo, N. & Keller, D. (eds) Artificial Media: Emerging Trends in Creative Practice and Human-Computer Collaboration. Springer Series on Cultural Computing. Springer Nature.</a>
