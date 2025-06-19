@@ -42,6 +42,9 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
 <p><strong>Journal Articles</strong></p>
 <ul>
 <li>
+  <a target="_blank" href="https://direct.mit.edu/leon" style = "visibility: hidden">Roddy, S., Lavelle, A., Ghosh, S., Dempsey, G., Fanning, L. (Forthcoming: Februaruy 2026). Generative Sonification of Synthetic Virology Data with Waveshaping & Granular Synthesis Techniques. Leonardo, 59(1).</a>
+</li>
+<li>
     <a target="_blank" href="https://doi.org/10.1109/MCOM.001.2400154">Roddy, S. (2024). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine, 62(12).</a>
   </li>
   <li>
