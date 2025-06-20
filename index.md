@@ -178,6 +178,9 @@ Abstracts & Talks
 
 <p>Recent/Forthcoming Performances & Installations:</p>
 <ul>
+  <li>
+  <a target="_blank" href="https://www.ucc.ie/en/future-humanities/news/stephen-roddy-to-debut-new-musical-work-at-amicad-2025.html">Bacteriophage in Granular Waves. AM.ICAD 2025 Joint Conference of Audio Mostly and the ICAD: Coimbra, Portugal, July 2025.</a>
+</li>
 <li>
   <a target="_blank" href="https://www.ucc.ie/en/future-humanities/news/dr-stephen-roddys-musical-works-performed-for-alternating-current-2025.html">Signal to Noise Loops, The Good Ship Hibernia, & Dublin City noise Loops. Alternating Current Festival 2025: Urban Scores. Dublin, May 2025.</a>
 </li>
