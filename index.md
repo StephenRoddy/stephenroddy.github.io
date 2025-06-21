@@ -508,6 +508,8 @@ Abstracts & Talks
 
 <p>Reviews & Coverage Online</p>
 <ul>
+
+<li><a target = "_blank" href = "https://igloomag.com/reviews/stephen-roddy-leviathan">Igloo Magazine: Stephen Roddy - Leviathan Review.</a></li>  
 <li><a target = "_blank" href = "https://www.distopic.it/stephen-roddy/">Distopic.it: Stephen Roddy - Der Kardinal Review.</a></li>
 <li><a target = "_blank" href = "https://www.thisisdarkness.com/category/retro-reviews/">This is Darkness: Stephen Roddy – Corpus/Mimesis Review.</a></li>
 <li><a target = "_blank" href = "https://electronica.org.uk/blog/stephen-roddy-21-7-3-experimental-ambient-composition-featuring-jean-luc-nancy/">electronica.org.uk: Stephen Roddy – 21, 7 & 3: Experimental Ambient Composition Featuring Jean-Luc Nancy.</a></li>

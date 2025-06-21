@@ -178,6 +178,9 @@ Abstracts & Talks
 
 <p>Recent/Forthcoming Performances & Installations:</p>
 <ul>
+  <li>
+  <a target="_blank" href="https://www.ucc.ie/en/future-humanities/news/stephen-roddy-to-debut-new-musical-work-at-amicad-2025.html">Bacteriophage in Granular Waves. AM.ICAD 2025 Joint Conference of Audio Mostly and the ICAD: Coimbra, Portugal, July 2025.</a>
+</li>
 <li>
   <a target="_blank" href="https://www.ucc.ie/en/future-humanities/news/dr-stephen-roddys-musical-works-performed-for-alternating-current-2025.html">Signal to Noise Loops, The Good Ship Hibernia, & Dublin City noise Loops. Alternating Current Festival 2025: Urban Scores. Dublin, May 2025.</a>
 </li>
@@ -505,6 +508,8 @@ Abstracts & Talks
 
 <p>Reviews & Coverage Online</p>
 <ul>
+
+<li><a target = "_blank" href = "https://igloomag.com/reviews/stephen-roddy-leviathan">Igloo Magazine: Stephen Roddy - Leviathan Review.</a></li>  
 <li><a target = "_blank" href = "https://www.distopic.it/stephen-roddy/">Distopic.it: Stephen Roddy - Der Kardinal Review.</a></li>
 <li><a target = "_blank" href = "https://www.thisisdarkness.com/category/retro-reviews/">This is Darkness: Stephen Roddy – Corpus/Mimesis Review.</a></li>
 <li><a target = "_blank" href = "https://electronica.org.uk/blog/stephen-roddy-21-7-3-experimental-ambient-composition-featuring-jean-luc-nancy/">electronica.org.uk: Stephen Roddy – 21, 7 & 3: Experimental Ambient Composition Featuring Jean-Luc Nancy.</a></li>
