@@ -3,7 +3,7 @@
 
 ### Reearch Line Overview
 
-This research line began with Auditory Display for Large Scale IoT Networks (AD4LsIoTN), a Postdoctoral project I undertook at CONNECT, the Science Foundation Ireland Research Centre for Future Networks headquartered at Trinity College Dublin. The project was funded by an Irish Research Council Government of Ireland Postdoctoral Research Fellowship. It has been extended in both my artistic and engineering design practices since that time with recent research efforts focused on the Internet of Sounds.
+This research line began with Auditory Display for Large Scale IoT Networks (AD4LsIoTN), a Postdoctoral project I undertook at CONNECT, the Science Foundation Ireland Research Centre for Future Networks headquartered at Trinity College Dublin. The project was funded by an Irish Research Council Government of Ireland Postdoctoral Research Fellowship. It has been extended in both my artistic and engineering design practices since that time with recent research efforts focused on the burgeoning Internet of Sounds.
 
 ### AD4LsIoTN Research Process
 
