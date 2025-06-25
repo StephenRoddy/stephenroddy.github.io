@@ -13,7 +13,7 @@
 <img src="images/tabs/ADIOTtab3.png?raw=true"/>
 </a>
 
-[Signal to Noise Loops](/projects/s2nl/s2nl_project)<br />
+[Generative Music Systems](/projects/s2nl/s2nl_project)<br />
 <a href="/projects/s2nl/s2nl_project">
 <img src="images/tabs/DATAtab.png?raw=true"/>
 </a>
