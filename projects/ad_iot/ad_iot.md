@@ -228,7 +228,6 @@ You can read our recent ICAD 2021 paper here:
 I joined the Internet of Sounds (IoS) Research Network in 2024, becoming a paper co-chair for the 2025 edition of the [IEEE Symposium on the Internet of Sounds](https://internetofsounds2025.ieee-is2.org/). This rapidly expanding field brings together Networked Computing with Sound and Music Computing. My research has focused on the integration of sonification methods into IoS network architectures. My initial work here has explored IoS sonification through a prototype solution for sonification on the applications and services layer of a Smart City based IoS network.
 
 - [Roddy, S. (2024). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine, 62(12).](https://doi.org/10.1109/MCOM.001.2400154)
-- [IoS Sonification Prototyope](https://zenodo.org/records/11414299)
 
 Recent research efforts have focused on the development of on-device sonification solutions for monitoring tasks at edge of IoS networks.
 

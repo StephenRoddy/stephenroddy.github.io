@@ -1,7 +1,12 @@
 <base target="_blank">
-## Signal to Noise Loops<br/>
+## Generative Music Systems<br/>
 
-### Project Overview<br/>
+
+### Research Line Overview<br/>
+
+I have been interested in generative music since first encountering them at undergraduate level devising a technique for hand-crafted generative music udring my Final Year Project. Since that tiem a good deal of both my artistic practice and scholarly research output has involved generative music systems to some degree, both in my long running Signal to Noise Loops project, and more recently my development of Generative Sonification Techniques for Syntheitc Virological Data. Generative music systems are also key concerns in my Cybernetic AI/Ml and Comms Network Sonification research. 
+
+### Signal to Noise Loops Project<br/>
 Signal to Noise Loops emerged from a broader project entitled 'Auditory Display for Large-scale IoT Networks' carried out at the CONNECT Centre Trinity College Dublin. 
 
 The project integrates open data from Internet of Things (IoT) sensor networks in Dublin, Ireland, in a series of experimental music performances and installations. Each piece treats the city, as mediated by the data it produces, as a collaborator in a musical or sonic work. The project is realized through a bespoke generative music system that continues to adapt and expanded as the project evolves. The system is designed in line with principles from the field of Cybernetics to integrate with both the city and the human performer. Thus, the project links electronic music/sonic performance, IoT/Smart City Data, Generative Music techniques, and Cybernetics. Each performance or installation draws data from networks of IoT devices placed around Dublin City. Sensor and network data are mapped to control the parameters of a given performance/installation. How this takes place is mediated by the generative music system. The state of the system is determined by the state of Dublin city, as represented through the IoT sensor data. The system's state in turn determines the musical choices it makes while improvising alongside a human performer. Each performance with the system is unique as it represents a complex array of data relations that describe the state of Dublin City and any given time. The project involved the iterative development of the system with each performance acting as an evaluation after which the system would be expanded and further refined. <br />
@@ -154,6 +159,12 @@ You can read more in the paper below, which was presented at ICAD 2022.
 <div style="text-align: center;">
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4081177415/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-2">Signal to Noise Loops by Stephen Roddy</a></iframe>
 </div>
+
+
+### Bacteriophage in Granular Waves
+Bacteriophage in Granular Waves is a musical work and performance that adopts data-driven composition methods, generative systems and sonification techniques to produce music from a synthetic virology dataset. The piece was debuted for [AM.ICAD 2025](https://amicad2025.dei.uc.pt/program/#schedule) at Coimbra, Portugal. It has emerged from a larger collaboration exploring creative and artistic strategies for the visualization and sonification of virology data.  It is an early result from an ongoing interdisciplinary research collaboration with Professor Liam Fanning and colleagues across UCC’s College of Medicine and Health, which aims to develop novel tools and strategies for representing complex virological data with creative technologies.
+
+- [Bacteriophage in Granular Waves - AM.ICAD 2025](https://www.ucc.ie/en/future-humanities/news/stephen-roddy-to-debut-new-musical-work-at-amicad-2025.html)
 
 ### Tags
 Signal to Noise Loops. Cybernetics, Rhythmanallysis, Emergence, Generative Music. IoT Data. Smart Cities. Machine Learning. Cellular Automata.
