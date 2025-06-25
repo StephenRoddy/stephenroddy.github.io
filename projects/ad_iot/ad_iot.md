@@ -1,5 +1,5 @@
 <base target="_blank">
-## Auditory Display for Large-scale Internet of Things (IoT) Networks.
+## Communication Networks Sonification.
 
 ### Reearch Line Overview
 
