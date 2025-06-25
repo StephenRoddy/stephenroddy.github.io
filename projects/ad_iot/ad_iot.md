@@ -224,6 +224,7 @@ You can read our recent ICAD 2021 paper here:
 
 
 #### The Internet of Sounds
+<img src="images/IoSFigureResized.png?raw=true"/><br/>
 
 I joined the Internet of Sounds (IoS) Research Network in 2024, becoming a paper co-chair for the 2025 edition of the [IEEE Symposium on the Internet of Sounds](https://internetofsounds2025.ieee-is2.org/). This rapidly expanding field brings together Networked Computing with Sound and Music Computing. My research has focused on the integration of sonification methods into IoS network architectures. My initial work here has explored IoS sonification through a prototype solution for sonification on the applications and services layer of a Smart City based IoS network.
 

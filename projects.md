@@ -3,7 +3,7 @@
 
 ---
 
-[A Cybernetics of Artificial Intelligence & Machine Learning in Sound & Music Computing](/projects/AI_MUS/AI_MUS)<br />
+[A Music Cybernetics of Artificial Intelligence & Machine Learning](/projects/AI_MUS/AI_MUS)<br />
 <a href="/projects/AI_MUS/AI_MUS">
 <img src="images/tabs/AItab.png?raw=true"/>
 </a>
