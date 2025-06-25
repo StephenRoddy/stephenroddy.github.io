@@ -167,7 +167,7 @@ Bacteriophage in Granular Waves is a musical work and performance that adopts da
 - [Bacteriophage in Granular Waves - AM.ICAD 2025](https://www.ucc.ie/en/future-humanities/news/stephen-roddy-to-debut-new-musical-work-at-amicad-2025.html)
 
 ### Tags
-Signal to Noise Loops. Cybernetics, Rhythmanallysis, Emergence, Generative Music. IoT Data. Smart Cities. Machine Learning. Cellular Automata.
+Generative Music. Signal to Noise Loops. Cybernetics. Rhythmanallysis. Emergence. IoT Data. Smart Cities. Machine Learning. Cellular Automata. Evolutionary Algorithms.
 <br />
 <br />
 <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
