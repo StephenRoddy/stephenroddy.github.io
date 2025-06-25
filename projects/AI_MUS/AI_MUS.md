@@ -162,7 +162,6 @@ This line of thought is crystallised with reference to the phenomenon of "AI Slo
 
 - [Roddy, S., & Bridges B. (2025) Cybernetic Resurgences: Machine Music Beyond AI Slop. In: Zagalo, N. & Keller, D. (eds) Artificial Media: Emerging Trends in Creative Practice and Human-Computer Collaboration. Springer Series on Cultural Computing. Springer Nature](https://link.springer.com/book/9783031890369)
 
-
 ### Tags
 Cybernetics. Artificial Intelligence. Machine Learning. Computer Vision. Musical Interaction. Gestural Interfaces. Creative Coding. Web Applications. Generative Music. Stochastic Processes. Probabilistic Techniques.
 <br />
