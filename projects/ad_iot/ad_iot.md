@@ -1,11 +1,11 @@
 <base target="_blank">
 ## Auditory Display for Large-scale Internet of Things (IoT) Networks.
 
-### Project Description
+### Reearch Line Overview
 
-Auditory Display for Large Scale IoT Networks was a Postdoctoral project I undertook at CONNECT, the Science Foundation Ireland Research Centre for Future Networks headquartered at Trinity College Dublin. The project was funded by an Irish Research Council Government of Ireland Postdoctoral Research Fellowship.
+This research line began with Auditory Display for Large Scale IoT Networks (AD4LsIoTN), a Postdoctoral project I undertook at CONNECT, the Science Foundation Ireland Research Centre for Future Networks headquartered at Trinity College Dublin. The project was funded by an Irish Research Council Government of Ireland Postdoctoral Research Fellowship. It has been extended in both my artistic and engineering design practices since that time.  
 
-### Research Process
+### AD4LsIoTN Research Process
 
 This project was driven by the overarching research question: Can auditory display solutions present complex information in an intuitive manner in the context of IoT network monitoring tasks?. To answer this I began by talking to users who work with IoT networks, experts in the fields of IoT and Auditory Display and I also consulted the academic literature more generally.I broke the research question into smaller pieces: How can we best represent complex IoT data with sound? How useful can sound be for understanding data of this nature? What sounds should be used for different IoT data types and in what contexts? etc.
 I used theoretical frameworks from the field of Embodied Cognitive Science that apply to meaning-making and music cognition to ground the work in a meaningful context and I applied standard HCI methodologies to answer these questions posed above. This involved an iterative development process in which I would create a prototype solution based on the Embodied Cognition literature, evaluate the efficacy of the solution with users and then repeatedly iterate upon the design of the prototype taking the results of each successive evaluation into account.
@@ -222,14 +222,27 @@ You can read our recent ICAD 2021 paper here:
 - [Sonification @ The Connect Centre for Future Networks and Communications, Trinity College Dublin, August 2016](https://connectcentre.ie/)
 - [Sounding Human with Data. @ The International Digital Empathy Workshop, Ulster University, October 31st 2016](https://www.ulster.ac.uk/conference/digital-empathy)
 
+
+#### The Internet of Sounds
+
+I joined the Internet of Sounds (IoS) Research Network in 2024, becoming a paper co-chair for the 2025 edition of the [IEEE Symposium on the Internet of Sounds](https://internetofsounds2025.ieee-is2.org/). This rapidly expanding field brings together Networked Computing with Sound and Music Computing. My research has focused on the integration of sonification methods into IoS network architectures. My initial work here has explored IoS sonification through a prototype solution for sonification on the applications and services layer of a Smart City based IoS network.
+
+- [Roddy, S. (2024). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine, 62(12).](https://doi.org/10.1109/MCOM.001.2400154)
+- [IoS Sonification Prototyope](https://zenodo.org/records/11414299)
+
+Recent research efforts have focused on the development of on-device sonification solutions for monitoring tasks at edge of IoS networks.
+
+<!--
 ### Creative Skills
 HCI Design. Interaction Design. UX Design. Sound Design. Music Composition. Data Sonification. Data Visualisation.
 
 ### Technical & Research Skills
 HTML/CSS/Javascript. Python. Csound. OSC& MIDI. Programming. Data Analysis. Audio Engineering. Recording. Data Analysis. Data Sonification. Data Visualisation. User Evaluations. A/B Testing. Experimental Design. Distributed User Testing.
 
+-->
+
 ### Tags
-Sonification. Auditory Display. Internet of Things Networks. Smart Cities. Embodied Cognition. Machine Learning. Data. Stephen Roddy.
+Sonification. Auditory Display. Internet of Things. Sensor Netowrks. Internet of Sounds. Smart Cities. Embodied Cognition. Machine Learning. Data. Stephen Roddy.
 <br />
 <br />
 <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
