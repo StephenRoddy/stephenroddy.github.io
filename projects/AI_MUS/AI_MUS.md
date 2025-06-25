@@ -152,17 +152,15 @@ This research line has been increasingly concerned with how artists navigate the
 - [Roddy, S. & Parmar, R. (2023). AI/ML in the Sonic Arts - Pitfalls and Pathways. Resonance: The Journal of Sound and Culture, 4(4).](https://doi.org/10.1525/res.2023.4.4.399)
 - [Roddy, S. (2023). Nao Tokui in Conversation with Stephen Roddy (Interview). Resonance: The Journal of Sound and Culture, 4(4).](https://doi.org/10.1525/res.2023.4.4.409)
 
-This framework has been further developed with reference to the recent rethinking of cybernetics for the AI/ML era in the work of Yuk Hui, N. Katherine Hayles and others with presentations for Intangible Modalities and UbiMus24 symposia:
+This framework has been further developed with reference to the recent rethinking of cybernetics for the AI/ML era in the work of Yuk Hui and N. Katherine Hayles as well as the early cybernetic music of Roland Kayn, Jaap Vink and others as explored in presentations for Intangible Modalities and UbiMus24 symposia:
 
 - [Roddy, S.(2024) Cybernetic Resurgences. November 15th 2024. Intangible Modalities Symposium, Centre for Practice Research in the Arts, University of Leeds, United Kingdom.](https://cepra.leeds.ac.uk/2024/10/04/intangible-modalities-symposium-15-11-24/)
 
 - [Roddy, S., & Bridges B. (2024) Cybernetic Resurgences: Human-machine Co-creation in the Age of Artificial Media. November 1st 2024. Ubimus 2024 International Symposium, University of Saint Joseph, Macao S.A.R., China.](https://stephenroddy.github.io/projects/AI_MUS/papers/Keller_Zagalo_Bridges_Roddy.pdf)
 
-
-The framework as it currently stands is outlined in
+This line of thought is crystallised with reference to the phenomenon of "AI Slop" in the Artificial Media volume for Springer's Cultural Computing series:
 
 - [Roddy, S., & Bridges B. (2025) Cybernetic Resurgences: Machine Music Beyond AI Slop. In: Zagalo, N. & Keller, D. (eds) Artificial Media: Emerging Trends in Creative Practice and Human-Computer Collaboration. Springer Series on Cultural Computing. Springer Nature](https://link.springer.com/book/9783031890369)
-
 
 
 ### Tags
