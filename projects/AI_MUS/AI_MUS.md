@@ -1,5 +1,5 @@
 <base target="_blank">
-## Musical Cybernetics in Artificial Intelligence & Machine Learning
+## Musical Cybernetics w/Artificial Intelligence & Machine Learning
 
 ### Overview
 
