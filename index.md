@@ -101,6 +101,10 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
 <p><strong>Peer-reviewed Conference Proceedings Papers</strong></p>
 <ul>
   <li>
+    <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99596">Roddy, S. (2025). Bacteriophage in Granular Waves, in Audio Mostly & ICAD Joint Conference Companion Proceedings, 30 June–July 2025, Coimbra, Portugal.</a>
+  </li>
+
+  <li>
     <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99596">Roddy, S. (2022). A Technique for Controlling the Proportion of Information in the Sonification of Complex Time Series Data. The 27th International Conference on Auditory Display.</a>
   </li>
   <li>
