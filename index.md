@@ -101,7 +101,7 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
 <p><strong>Peer-reviewed Conference Proceedings Papers</strong></p>
 <ul>
   <li>
-    <a target="_blank" href="https://www.stephenroddy.com/">Roddy, S. (2025). Bacteriophage in Granular Waves, in Audio Mostly & ICAD Joint Conference Companion Proceedings, 30 June–July 2025, Coimbra, Portugal.</a>
+    <a target="_blank" href="https://www.stephenroddy.com/">Roddy, S. (2025). Bacteriophage in Granular Waves. In the Audio Mostly & ICAD Joint Conference Companion Proceedings, 30 June–July 2025, Coimbra, Portugal.</a>
   </li>
 
   <li>
