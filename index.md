@@ -98,35 +98,18 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
   </li>
 </ul>
 
-<p><strong>Peer-reviewed Conference Proceedings Papers</strong></p>
+<p><strong>Peer-reviewed Conference Proceedings</strong></p>
+
+Full Papers
 <ul>
   <li>
-    <a target="_blank" href="https://www.stephenroddy.com/">Roddy, S. (2025). Bacteriophage in Granular Waves. In the Audio Mostly & ICAD Joint Conference Companion Proceedings, 30 June–July 2025, Coimbra, Portugal.</a>
-  </li>
-
-  <li>
-    <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99596">Roddy, S. (2022). A Technique for Controlling the Proportion of Information in the Sonification of Complex Time Series Data. The 27th International Conference on Auditory Display.</a>
-  </li>
-  <li>
-    <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99595">Roddy, S. (2022). Creating Signal to Noise Loops v4. In the Proceedings of the International Conference on Auditory Display, ICAD 2022.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://www.researchgate.net/publication/352737562_The_Design_of_a_Smart_City_Sonification_System_using_a_Conceptual_Blending_and_Musical_Framework_Web_Audio_and_Deep_Learning_Techniques">Roddy, S., & Bridges, B. (2021). The Design of a Smart City Sonification System using a Conceptual Blending and Musical Framework, Web Audio and Deep Learning Techniques. In the Proceedings of the International Conference on Auditory Display, ICAD 2021. </a>
-  </li>
-  <li>
-    <a target="_blank" href="https://www.researchgate.net/publication/353178938_The_Body_in_the_Machine_Indices_Online">Roddy S. (2021). The Body in the Machine: Indices Online. In Proceedings of xCoAx 2021, Online (+ Graz) 12th-16th July 2021.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://2018.xcoax.org/pdf/xCoAx2018-Roddy.pdf">Roddy, S. (2018). Signal to Noise Loops i++ Live. xCoAx 2018, 11-13 July, Madrid.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://www.researchgate.net/publication/326572938_Vowel_Formant_Profiles_and_Image_Schemata_in_Auditory_Display">Roddy, S., & Furlong, D. (2018). Vowel Formant Profiles and Image Schemata in Auditory Display. In Proceedings of HCI 2018 4-6 July 2018, Belfast.</a>
+    <a target="_blank" href="http://hdl.handle.net/1853/66352">Roddy, S., & Bridges, B. (2021). The Design of a Smart City Sonification System using a Conceptual Blending and Musical Framework, Web Audio and Deep Learning Techniques. In the Proceedings of the International Conference on Auditory Display, ICAD 2021. </a>
   </li>
   <li>
     <a target="_blank" href="http://galapagos.ucd.ie/wiki/pub/OpenAccess/CSMC/Roddy2.pdf">Roddy, S. (2018). Ambient Data Monitoring w/Generative Music Systems using Evolutionary Computing & Machine Learning Techniques. CSMC 2018, Dublin, August 2018.</a>
   </li>
   <li>
-    <a target="_blank" href="https://www.researchgate.net/publication/319332093_Composing_The_Good_Ship_Hibernia_and_the_Hole_in_the_Bottom_of_the_World">Roddy, S. (2017). Composing The Good Ship Hibernia and the Hole in the Bottom of the World. In Proceedings of Audio Mostly 2017 23-26 August 2017.</a>
+    <a target="_blank" href="https://dl.acm.org/doi/10.1145/3123514.3123520">Roddy, S. (2017). Composing The Good Ship Hibernia and the Hole in the Bottom of the World. In Proceedings of Audio Mostly 2017 23-26 August 2017.</a>
   </li>
   <li>
     <a target="_blank" href="https://www.researchgate.net/publication/318115471_Absolute_Nothingness_The_Kyoto_School_and_Sound_Art_Practice">Roddy, S. (2017). Absolute Nothingness: The Kyoto School and Soundart Practice. In Proceedings of Invisible Places 2017.</a>
@@ -135,19 +118,34 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
     <a target="_blank" href="https://www.researchgate.net/profile/Stephen_Roddy/publication/307509933_Sounding_Human_with_Data_The_Role_of_Embodied_Conceptual_Metaphors_and_Aesthetics_in_Representing_and_Exploring_Data_Sets/links/57c6f94f08aefc4af34c7884.pdf">Roddy, S., & Bridges, B. (2016). Sounding Human with Data: The Role of Embodied Conceptual Metaphors and Aesthetics in Representing and Exploring Data Sets. In Proceedings of the Music Technology Workshop 2016  June 10th, Michael Smurfit Business School, University College Dublin, Dublin,  (pp. 64-76).</a>
   </li>
   <li>
-    <a target="_blank" href="https://www.researchgate.net/profile/Stephen_Roddy/publication/280641643_Embodied_Auditory_Display_Affordances/links/55c0f03d08ae092e96683a68.pdf">Roddy, S., & Furlong, D. (2015). Embodied Auditory Display Affordances. In Proceedings of the 12th Sound and Music Computing Conference: National University of Ireland Maynooth (pp. 477-484).</a>
+    <a target="_blank" href="https://zenodo.org/records/851019">Roddy, S., & Furlong, D. (2015). Embodied Auditory Display Affordances. In Proceedings of the 12th Sound and Music Computing Conference: National University of Ireland Maynooth (pp. 477-484).</a>
   </li>
   <li>
-    <a target="_blank" href="https://smartech.gatech.edu/bitstream/handle/1853/54125/ICAD%20Proceedings%2015-Roddy.pdf?sequence=1&amp;isAllowed=y">Roddy, S., & Furlong, D. (2015). Sonification Listening: An Empirical Embodied Approach. In Proceedings of The 21st International Conference on Auditory Display (ICAD 2015) July 8–10, 2015, Graz, Austria. (pp.181-187).</a>
+    <a target="_blank" href="http://hdl.handle.net/1853/54125">Roddy, S., & Furlong, D. (2015). Sonification Listening: An Empirical Embodied Approach. In Proceedings of The 21st International Conference on Auditory Display (ICAD 2015) July 8–10, 2015, Graz, Austria. (pp.181-187).</a>
   </li>
   <li>
-    <a target="_blank" href="https://smartech.gatech.edu/handle/1853/51657">Roddy, S., & Furlong, D. (2013). Embodied cognition in auditory display. In Proceedings Of the 19th International Conference on Auditory Display, July 6-10 Łódź, Poland ( pp. 127-134).</a>
+    <a target="_blank" href="http://hdl.handle.net/1853/51657">Roddy, S., & Furlong, D. (2013). Embodied cognition in auditory display. In Proceedings Of the 19th International Conference on Auditory Display, July 6-10 Łódź, Poland ( pp. 127-134).</a>
   </li>
   <li>
     <a target="_blank" href="http://issta.ie/wp-content/uploads/ISSTC-2013-RODDY.pdf">Roddy, S., & Furlong, D. (2013). Rethinking the Transmission Medium in Live Computer Music Performance. Presented at the Irish Sound Science and Technology Convocation, Dún Laoghaire Institute of Art, Design and Technology.</a>
   </li>
 </ul>
 
+Short Papers
+<ul>
+  <li>
+    <a target="_blank" href="https://www.stephenroddy.com/">Roddy, S. (2025). Bacteriophage in Granular Waves. In the Audio Mostly & ICAD Joint Conference Companion Proceedings, 30 June–July 2025, Coimbra, Portugal.</a>
+  </li>
+  <li>
+    <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99596">Roddy, S. (2022). A Technique for Controlling the Proportion of Information in the Sonification of Complex Time Series Data. The 27th International Conference on Auditory Display.</a>
+  </li>
+  <li>
+    <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99595">Roddy, S. (2022). Creating Signal to Noise Loops v4. In the Proceedings of the International Conference on Auditory Display, ICAD 2022.</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/HCI2018.109">Roddy, S., & Furlong, D. (2018). Vowel Formant Profiles and Image Schemata in Auditory Display. In Proceedings of HCI 2018 4-6 July 2018, Belfast.</a>
+  </li>
+</ul>
 
 Abstracts & Talks
 <ul>
