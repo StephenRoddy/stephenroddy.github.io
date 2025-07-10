@@ -17,6 +17,7 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
   <li>Member of the <a target="_blank" href="http://icad.org/">International Community for Auditory Display</a>.</li>
   <li>Member of the <a target="_blank" href="http://computermusic.org/">International Computer Music Association</a>.</li>
   <li>Member of the <a target="_blank" href="https://imro.ie/">Irish Music Rights Organisation</a>.</li>
+  <li>Member of the <a target="_blank" href="https://ethicsinaction.ieee.org/">IEEE cmte. for Ethically Aligned Design in the Arts.</a> </li>
 </ul>
 
 <p>Previous</p>
@@ -32,7 +33,6 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
   <li>Member of the <a target="_blank" href="https://connectcentre.ie/omg">Orthogonal Methods Group (OMG)</a> at the Connect Centre, Trinity College Dublin.</li>
   <li>Postdoctoral researcher at the <a target="_blank" href="https://connectcentre.ie/news/connects-stephen-roddy-to-present-at-computer-simulated-of-musical-creativity-conference-in-ucd/">CONNECT Centre</a>, <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
   </li>
-  <li>Member of the <a target="_blank" href="https://ethicsinaction.ieee.org/">IEEE cmte. for Ethically Aligned Design in the Arts.</a> </li>
   <li>Board member of the <a target="_blank" href="http://issta.ie/">Irish Sound Science and Technology Association</a> 2016-2019.  
   </li>
   <li>Board member for the <a target="_blank" href="http://www.interferencejournal.org/">Interference Journal</a> 2018-2019.
