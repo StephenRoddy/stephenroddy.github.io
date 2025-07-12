@@ -186,24 +186,16 @@ Abstracts & Talks
 <li>
   <a target="_blank" href="https://www.ucc.ie/en/future-humanities/news/dr-stephen-roddys-musical-works-performed-for-alternating-current-2025.html">Signal to Noise Loops, The Good Ship Hibernia, & Dublin City noise Loops. Alternating Current Festival 2025: Urban Scores. Dublin, May 2025.</a>
 </li>
+</ul>
+
+<p>The Signal to Noise Loops Project</p>
+<ul>
   <li>
-  <a target="_blank" href="https://cinema.nmartproject.net/hyper-h-03/#">Thonis-Heracleion, peaceful beneath the waves. Sound of the Anthropocene. Alphabet Art Center. The New Museum of Networked Art.Cologne, Germany. July 13th - August 30th 2024.</a>
-</li>
-<li>
   <a target="_blank" href="https://sample-studios.com/app/uploads/2024/04/Digital-Art-in-Ireland-Symposium-Programme-Booklet.pdf">Signal to Noise Loops v6. The 2nd Symposium on Digital Art in Ireland. June 13th 2024. The Aula Maxima, University College Cork.</a>
 </li>
-<li>
-  <a target="_blank" href="https://capitart.com/becoming-machine/">opening to the ambient light, Becoming-Machine Pavillion at The Wrong Biennale 2023. Curated by Isil Ezgi Celik, CapitArt. November 2023-March 2024. Physical exhibition at Artsect Gallery, London in November 2023.</a>
-</li>
-<li>
+  <li>
   <a target="_blank"  href="https://www.aisthesislab.art/">Signal to Noise loops V5, Metatopia - Hybrid Spaces Pavillion at The Wrong Biennale 2023. Curated by Luciana de Paula Santos, Aisthesis Lab. November 2023-March 2024.</a>
 </li>
-<li>
-  <a target="_blank" href="https://drive.google.com/file/d/1R-xlfXewd59_RpPh-iD3x7YMUbsCtNYg/view?usp=sharing"> Thonis-Heracleion, peaceful beneath the waves @ the Leviathan Album Launch, the Radical Humanities Laboratory, October 6th 2023.</a>
-</li>
-</ul>
-<p>The Signal to Noise Loops Project: Data-driven Generative Music w/AI&ML.</p>
-<ul>
   <li >
   <a target="_blank"  href="/projects/s2nl/papers/UBMIUS_23.pdf">Signal to Noise loops V5.1, UbiMus2023 International Symposium on Ubiquitous Music, Ulster University, Derry. November 2nd-4th 2023.</a>
 </li>
@@ -246,7 +238,7 @@ Abstracts & Talks
   </li>
 </ul>
 
-<p>The Body in the Machine: Music Composition & Computer Art w/AI/ML</p>
+<p>The Body in the Machine Project</p>
 <ul>
   <li>
     <a target="_blank" href="https://icmc2022.org/">Roddy (2022). The Body in the Machine: Indices Online. The International Computer Music Conference, Limerick Ireland.</a>
@@ -265,7 +257,15 @@ Abstracts & Talks
   </li>
 </ul>
 
-<p>The Zones Project: Immersive & Reactive XR Environments</p>
+<p>The Leviathan Project</p>
+ <li>
+  <a target="_blank" href="https://cinema.nmartproject.net/hyper-h-03/#">Thonis-Heracleion, peaceful beneath the waves. Sound of the Anthropocene. Alphabet Art Center. The New Museum of Networked Art.Cologne, Germany. July 13th - August 30th 2024.</a>
+</li>
+<li>
+  <a target="_blank" href="https://drive.google.com/file/d/1R-xlfXewd59_RpPh-iD3x7YMUbsCtNYg/view?usp=sharing"> Thonis-Heracleion, peaceful beneath the waves @ the Leviathan Album Launch, the Radical Humanities Laboratory, October 6th 2023.</a>
+</li>
+
+<p>The Zones Project</p>
 
 <ul>
   <li>
@@ -300,7 +300,8 @@ Abstracts & Talks
     <a target="_blank" href="http://www.birrtheatre.com/dance">Pinocchio - Dance of the Long Nose w/ Legitimate Bodies Dance Company w/Cristina Golletti & Nick Bryson @ Birr Theatre & Arts Centre 2009.</a>
   </li>
 </ul>  
-<p>Sonification & Musification for Performance & Installation</p>
+
+<p>The Human Cost Project</p>
 <ul>
   <li>
     <a target="_blank" href="http://stolenmirror.com/2021d01-tides.html?fbclid=IwAR1k0LF5vj-0nQxviDW0JU_v9mNli1h3AtWIAQIfL3dNGSBaxl6LPaRbY4o">Idle Hands- A 31-Part Exploration Of Irish Unemployment From 1983 - 2014 In G Major @ the premiere of TIDES: An ISSTA Anthology.</a>
@@ -328,8 +329,12 @@ Abstracts & Talks
   </li>
 
 </ul>
-<p>Fixed-Media Musical Compositions for Performance & Installation</p>
+
+<p>Fixed-Media & Generative Music Installations</p>
 <ul>
+  <li>
+  <a target="_blank" href="https://capitart.com/becoming-machine/">opening to the ambient light, Becoming-Machine Pavillion at The Wrong Biennale 2023. Curated by Isil Ezgi Celik, CapitArt. November 2023-March 2024. Physical exhibition at Artsect Gallery, London in November 2023.</a>
+</li>
   <li>
     <a target="_blank" href="http://issta.ie/isstc-2016/">Symmetric Relations and Hidden Rotations @ Irish Sound Science and Technology Convocation @ Ulster University September 7th-9th 2016.</a>
   </li>
