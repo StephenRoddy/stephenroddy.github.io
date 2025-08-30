@@ -261,12 +261,15 @@ Abstracts & Talks
 </ul>
 
 <p>The Leviathan Project</p>
- <li>
-  <a target="_blank" href="https://cinema.nmartproject.net/hyper-h-03/#">Thonis-Heracleion, peaceful beneath the waves. Sound of the Anthropocene. Alphabet Art Center. The New Museum of Networked Art.Cologne, Germany. July 13th - August 30th 2024.</a>
-</li>
-<li>
-  <a target="_blank" href="https://drive.google.com/file/d/1R-xlfXewd59_RpPh-iD3x7YMUbsCtNYg/view?usp=sharing"> Thonis-Heracleion, peaceful beneath the waves @ the Leviathan Album Launch, the Radical Humanities Laboratory, October 6th 2023.</a>
-</li>
+
+<ul>
+  <li>
+    <a target="_blank" href="https://cinema.nmartproject.net/hyper-h-03/#">Thonis-Heracleion, peaceful beneath the waves. Sound of the Anthropocene. Alphabet Art Center. The New Museum of Networked Art.Cologne, Germany. July 13th - August 30th 2024.</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://drive.google.com/file/d/1R-xlfXewd59_RpPh-iD3x7YMUbsCtNYg/view?usp=sharing"> Thonis-Heracleion, peaceful beneath the waves @ the Leviathan Album Launch, the Radical Humanities Laboratory, October 6th 2023.</a>
+  </li>
+</ul>
 
 <p>The Zones Project</p>
 
