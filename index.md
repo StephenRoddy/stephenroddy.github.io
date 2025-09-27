@@ -186,6 +186,9 @@ Abstracts & Talks
 <p>Recent/Forthcoming Performances & Installations:</p>
 <ul>
   <li>
+  <a target="_blank" href="https://internetofsounds2025.ieee-is2.org/program">Noise for Waves & Grains. IEEE 5th International Symposium on the Internet of Sounds, L'Aquila, Itay, October 2025. 
+  </li>
+  <li>
   <a target="_blank" href="https://www.ucc.ie/en/future-humanities/news/stephen-roddy-to-debut-new-musical-work-at-amicad-2025.html">Bacteriophage in Granular Waves. AM.ICAD 2025 Joint Conference of Audio Mostly and the ICAD: Coimbra, Portugal, July 2025.</a>
 </li>
 <li>
