@@ -1,9 +1,9 @@
 <base target="_blank">
-## Musical Cybernetics w/Artificial Intelligence & Machine Learning
+## A Musical Cyberenetics for the AI/ML Age. 
 
 ### Overview
 
-This line of research began as part of my postdoctoral research exploring Automated Music Synthesis at the Department of Electrical and Electronic Engineering at Trinity College Dublin. The project investigated methods for integrating machine learning and deep learning techniques (ML/DL) into the electronic music production and performance pipelines. Over time this research line has grown to account for ethical, social and cultural factors as well as introducing a Cybernetic appraoch for the application of AI/ML technologies in the creative arts. 
+This line of research began as part of my postdoctoral research exploring Automated Music Synthesis at the Department of Electrical and Electronic Engineering at Trinity College Dublin and since has been developed into a full research programme at the Department of Digital Humanities & Radical Humanities Laboratory at University College Cork. The original project (EE @ TCD) investigated methods for integrating machine learning and deep learning techniques (ML/DL) into the electronic music production and performance pipelines. In its current form (DH & RHL @ UCC) this research line has adopted Cybernetics as a framework for addressing the ethical, social and cultural factors at play in the design and application of AI/ML systems in music composition and performance.
 
 ### Generative Machine Learning for Music Production Pipelines
 
