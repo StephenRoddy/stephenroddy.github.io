@@ -4,7 +4,7 @@ Stephen's research blends methods from [engineering design](https://link.springe
 
 Stephen's previous projects have involved the design of auditory display solutions for large-scale IoT networks and investigated the integration of sonification and AI/ML techniques in generative music, sound art, and digital art applications. Much of this work was carried out under an IRC Postdoctoral Fellowship at [CONNECT: the Research Ireland Centre for Future Networks and Communications](https://connectcentre.ie/), at TCD, and subsequently at the Department of Electronic & Electrical Engineering at TCD. His work is widely disseminated through peer-reviewed journal publications, book chapters, and conference proceedings. As a member of the committee on Ethically Aligned Design in the Arts (under the IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems), he contributed to the IEEE Standards Authority Report on [Ethically Aligned Approaches to AI in the Arts](https://sagroups.ieee.org/global-initiative/wp-content/uploads/sites/542/2022/07/ead-artists.pdf). 
 
-Stephen maintains a vibrant and diverse creative and performing arts practice which forms a core component of his research activity. His artistic projects span a variety of media and styles, including music composition and performance, generative and data-driven music and sound art installation and performance. His work, described as [majestic and sweeping](https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/) yet [beautifully unsettling](https://www.stephenroddy.com/images/leviathanNewandNotableWide.png), is frequently performed and installed at home and abroad. His most recent musical releases [Leviathan](https://stephenroddy.bandcamp.com/album/leviathan), [Corpus/Mimesis](https://stephenroddy.bandcamp.com/album/corpus-mimesis), and [Stardust Sonata](https://fiadh.bandcamp.com/album/stardust-sonata) are all available through [Fiadh Productions](https://fiadh.bandcamp.com/). Recent events have included the Wrong Biennale, New York City Electroacoustic Music Festival and the Earth Rising Festival at the Irish Museum of Modern Art.
+Stephen maintains a vibrant and diverse creative and performing arts practice which forms a core component of his research activity. His artistic projects span a variety of media and styles, including music composition and performance, generative and data-driven music and sound art installation and performance. His work, described as [majestic and sweeping](https://avantmusicnews.com/2023/09/10/amn-reviews-stephen-roddy-leviathan-2023-fiadh-productions/) yet [beautifully unsettling](https://www.stephenroddy.com/images/leviathanNewandNotableWide.png), is frequently performed and installed at home and abroad. His most recent musical releases [Leviathan](https://stephenroddy.bandcamp.com/album/leviathan), [Corpus/Mimesis](https://stephenroddy.bandcamp.com/album/corpus-mimesis), and [Stardust Sonata](https://fiadh.bandcamp.com/album/stardust-sonata) are all available through [Fiadh Productions](https://fiadh.bandcamp.com/). Recent events have included the ElettroAQustica 10 inL'Aquila, New York City Electroacoustic Music Festival and the Earth Rising Festival at the Irish Museum of Modern Art.
 
 <strong>Affiliations</strong>
 <p>Current</p>
@@ -184,6 +184,10 @@ Abstracts & Talks
 <p><strong><strong>Musical Performances & Sound Art Installations</strong></strong></p>
 
 <p>Recent/Forthcoming Performances & Installations:</p>
+
+<li>
+  <a target="_blank"  href="https://thewrong.org/TheDistanceOfBlue/">Thonis-Heracleion, peaceful beneath the waves - The Distance of Blue Pavillion at The Wrong Biennale 2025. Curated by Ping Ho, November -December 2025.</a>
+</li>
 
 <ul>
   <li>
