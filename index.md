@@ -185,11 +185,10 @@ Abstracts & Talks
 
 <p>Recent/Forthcoming Performances & Installations:</p>
 
+<ul>
 <li>
   <a target="_blank"  href="https://thewrong.org/TheDistanceOfBlue/">Thonis-Heracleion, peaceful beneath the waves - The Distance of Blue Pavillion at The Wrong Biennale 2025. Curated by Ping Ho, November -December 2025.</a>
 </li>
-
-<ul>
   <li>
     <a target="_blank" href="https://musel.consaq.it/2025/10/01/elettroaqustica10/">Noise for Waves & Grains. IEEE Internet of Sounds Concert at the 10th Edition of the ElettroAQustica Festival, Conservatorio “A. Casella” of L'Aquila, Italy, October 2025.</a>
   </li>
