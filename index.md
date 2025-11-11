@@ -148,7 +148,13 @@ Short Papers
     <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99595">Roddy, S. (2022). Creating Signal to Noise Loops v4. In the Proceedings of the International Conference on Auditory Display, ICAD 2022.</a>
   </li>
   <li>
+    <a target="_blank" href="https://2021.xcoax.org/sro/">Roddy (2021). The Body in the Machine: Indices Online. xCoAx 2021, Graz (+ Online) 12th-16th July 2021.</a>
+  </li>
+  <li>
     <a target="_blank" href="https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/HCI2018.109">Roddy, S., & Furlong, D. (2018). Vowel Formant Profiles and Image Schemata in Auditory Display. In Proceedings of HCI 2018 4-6 July 2018, Belfast.</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://2018.xcoax.org/#perf04">>Roddy (2018). Signal to Noise Loops i++ Live xCoAx 2018, Madrid.</a>
   </li>
 </ul>
 
@@ -253,7 +259,7 @@ Abstracts & Talks
     <a target="_blank" href="https://icmc2022.org/">Roddy (2022). The Body in the Machine: Indices Online. The International Computer Music Conference, Limerick Ireland.</a>
   </li>
   <li>
-    <a target="_blank" href="https://2021.xcoax.org/sro/">Roddy (2021). The Body in the Machine: Indices Online. In Proceedings of xCoAx 2021, Online (+ Graz) 12th-16th July 2021.</a>
+    <a target="_blank" href="https://2021.xcoax.org/sro/">Roddy (2021). The Body in the Machine: Indices Online. In Proceedings of xCoAx 2021, Graz (+ Online) 12th-16th July 2021.</a>
   </li>
   <li>
     <a target="_blank" href="https://nime2020.bcu.ac.uk/">Indices Online (UX & ML) @ NIME 2020, Royal Birmingham Conservatoire, 21-25 July 2020.</a>
