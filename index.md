@@ -373,7 +373,8 @@ Abstracts & Talks
     <a target="_blank" href="http://www.dmarc.ie/">Will & Implementation @ DAWN 2011, DMARC, University of Limerick, 2011.</a>
   </li>
   <li>
-    <a target="_blank" href="http://www.dmarc.ie/">Bike @ DMARC, University of Limerick, 2010</a>. <a target="_blank" href="http://www.dmarc.ie/">Shifting Sands @ DMARC, University of Limerick, 2010 .</a>
+    <a target="_blank" href="http://www.dmarc.ie/">Bike @ DMARC, University of Limerick, 2010.</a></li>
+    <li><a target="_blank" href="http://www.dmarc.ie/">Shifting Sands @ DMARC, University of Limerick, 2010 .</a>
   </li>
   <li>
     <a target="_blank" href="http://www.dmarc.ie/">Fúsball @ DMARC, University of Limerick, 2009.</a>
