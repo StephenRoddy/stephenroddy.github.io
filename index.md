@@ -104,7 +104,7 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
 Full Papers
 <ul>
   <li>
-    <a target="_blank" href="doi.org/10.1109/IS264627.2025.11284675">Roddy, S. (2025). On-device Internet of Sounds Sonification with Wavetable Synthesis Techniques for Soil Moisture Monitoring in Water Scarcity Contexts. In Proceedings of the 6th IEEE International Symposium on the Internet of Sounds.</a>
+    <a target="_blank" href="https://doi.org/10.1109/IS264627.2025.11284675">Roddy, S. (2025). On-device Internet of Sounds Sonification with Wavetable Synthesis Techniques for Soil Moisture Monitoring in Water Scarcity Contexts. In Proceedings of the 6th IEEE International Symposium on the Internet of Sounds.</a>
   </li>
   <li>
     <a target="_blank" href="http://hdl.handle.net/1853/66352">Roddy, S., & Bridges, B. (2021). The Design of a Smart City Sonification System using a Conceptual Blending and Musical Framework, Web Audio and Deep Learning Techniques. In the Proceedings of the International Conference on Auditory Display, ICAD 2021. </a>
