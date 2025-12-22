@@ -138,7 +138,7 @@ Full Papers
 Short Papers
 <ul>
   <li>
-    <a target="_blank" href="https://www.stephenroddy.com/">Roddy, S. (2025). Bacteriophage in Granular Waves. In the Audio Mostly & ICAD Joint Conference Companion Proceedings, 30 June–July 2025, Coimbra, Portugal.</a>
+    <a target="_blank" href="https://research.ucc.ie/ws/portalfiles/portal/46033578/Bacteriophage_in_Granular_Waves_SR.pdf">ProgrammeRoddy, S. (2025). Bacteriophage in Granular Waves: Programme notes. At the Audio Mostly & ICAD Joint Conference Companion Proceedings, 30 June–July 2025, Coimbra, Portugal.</a>
   </li>
   <li>
     <a target="_blank" href="http://www.tara.tcd.ie/handle/2262/99596">Roddy, S. (2022). A Technique for Controlling the Proportion of Information in the Sonification of Complex Time Series Data. The 27th International Conference on Auditory Display.</a>
