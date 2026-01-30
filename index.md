@@ -9,7 +9,7 @@ Stephen maintains a vibrant and diverse creative and performing arts practice wh
 <p>Current</p>
 <ul>
   <li>Researcher in the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/radicalhumanitieslaboratory/">Radical Humanities Laboratory</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
-  <li> Member of the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/">Future Humanities Institute</a>.</li>
+  <li> Member of the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/">Future Humanities Institute</a>at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
   <li>Lecturer in the <a target="_blank" href="https://www.ucc.ie/en/dah/">Department of Digital Humanities</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
   <li>Programme Director of the <a target="_blank" href="https://www.ucc.ie/en/cke09/">MA in Digital Arts & Humanities</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
   <li>Member of the <a target="_blank" href="https://www.ieee.org/">Institute of Electrical and Electronics Engineers (IEEE)</a>.</li>
