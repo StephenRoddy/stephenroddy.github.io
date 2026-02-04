@@ -196,10 +196,10 @@ Abstracts & Talks
 
 <ul>
 <li>
-  <a target="_blank"  href="https://thewrong.org/Metatopia">Terminus Recoded,The Metatopia Pavilion for The Wrong Biennale. Curated by Aisthesis, FEbruary 2026.</a>
+  <a target="_blank"  href="https://www.aisthesislab.art/?pgid=ml6vhhrh-84e528c3-6d90-443e-82a5-1e67d5f9412f">Terminus Recoded </a> at the <a target="_blank"  href="https://thewrong.org/Metatopia">The Metatopia Pavilion</a> for The Wrong Biennale. Curated by Aisthesis, February 2026.</a>
 </li>
 <li>
-  <a target="_blank"  href="https://thewrong.org/TheDistanceOfBlue/">Thonis-Heracleion, peaceful beneath the waves - The Distance of Blue Pavillion at The Wrong Biennale 2025. Curated by Ping Ho, November -December 2025.</a>
+  <a target="_blank"  href="https://thedistanceofblue.com/work/thonis-heracleion-peaceful-beneath-the-waves">Thonis-Heracleion, peaceful beneath the waves</a> at the <a target="_blank"  href="https://thewrong.org/TheDistanceOfBlue/">The Distance of Blue Pavillion</a> at The Wrong Biennale 2025. Curated by Ping Ho, November -December 2025.</a>
 </li>
   <li>
     <a target="_blank" href="https://musel.consaq.it/2025/10/01/elettroaqustica10/">Noise for Waves & Grains. IEEE Internet of Sounds Concert at the 10th Edition of the ElettroAQustica Festival, Conservatorio “A. Casella” of L'Aquila, Italy, October 2025.</a>
