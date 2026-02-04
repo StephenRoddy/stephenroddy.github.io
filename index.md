@@ -180,7 +180,7 @@ Abstracts & Talks
   </li>
 </ul>
 
-<p><strong>Popular Culture & Technology Writing</strong></p>
+<p><strong>Culture & Technology Writing</strong></p>
 <ul>
   <li>
     <a target="_blank" href=""><i>My unsung hero of science: Frank Malina – fearless rocket engineer, groundbreaking artist and communist ‘traitor’</i></a> for <a target="_blank" href="https://doi.org/10.64628/AB.ettg4f5c7">The Conversation</a> January 2019.  
