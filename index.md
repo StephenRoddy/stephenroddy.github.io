@@ -196,6 +196,9 @@ Abstracts & Talks
 
 <ul>
 <li>
+  <a target="_blank"  href="https://thewrong.org/Metatopia">Terminus Recoded,The Metatopia Pavilion for The Wrong Biennale. Curated by Aisthesis, FEbruary 2026.</a>
+</li>
+<li>
   <a target="_blank"  href="https://thewrong.org/TheDistanceOfBlue/">Thonis-Heracleion, peaceful beneath the waves - The Distance of Blue Pavillion at The Wrong Biennale 2025. Curated by Ping Ho, November -December 2025.</a>
 </li>
   <li>
