@@ -153,7 +153,7 @@ Short Papers
     <a target="_blank" href="https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/HCI2018.109">Roddy, S., & Furlong, D. (2018). Vowel Formant Profiles and Image Schemata in Auditory Display. In Proceedings of HCI 2018 4-6 July 2018, Belfast.</a>
   </li>
   <li>
-    <a target="_blank" href="https://2018.xcoax.org/#perf04">>Roddy (2018). Signal to Noise Loops i++ Live xCoAx 2018, Madrid.</a>
+    <a target="_blank" href="https://2018.xcoax.org/#perf04">Roddy (2018). Signal to Noise Loops i++ Live xCoAx 2018, Madrid.</a>
   </li>
 </ul>
 
