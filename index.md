@@ -195,7 +195,7 @@ Abstracts & Talks
 
 <ul>
   <li><a target="_blank"  href="https://www.millenniumfilm.org/">
-  Thonis-Heracleion, peaceful beneath the waves. With The Distance of Blue at Millennium Film Workshop, New York on March, 2026.</a>
+  Thonis-Heracleion, peaceful beneath the waves. With The Distance of Blue at Millennium Film Workshop, New York, March 2026.</a>
 </li>
 
 <li>
