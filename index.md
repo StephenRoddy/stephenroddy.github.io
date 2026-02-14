@@ -194,6 +194,10 @@ Abstracts & Talks
 <p>Recent/Forthcoming Performances & Installations:</p>
 
 <ul>
+  <li><a target="_blank"  href="https://www.millenniumfilm.org/">
+  Thonis-Heracleion, peaceful beneath the waves. With The Distance of Blue at Millennium Film Workshop, New York on March, 2026.</a>
+</li>
+
 <li>
   <a target="_blank"  href="https://www.aisthesislab.art/?pgid=ml6vhhrh-84e528c3-6d90-443e-82a5-1e67d5f9412f">Terminus Recoded </a> at the <a target="_blank"  href="https://thewrong.org/Metatopia">The Metatopia Pavilion</a> for The Wrong Biennale. Curated by Aisthesis, February 2026.
 </li>
