@@ -194,7 +194,7 @@ Abstracts & Talks
 <p>Recent/Forthcoming Performances & Installations:</p>
 
 <ul>
-  <li><a target="_blank"  href="https://www.millenniumfilm.org/">
+  <li><a target="_blank"  href="https://www.millenniumfilm.org/event-details/the-distance-of-blue">
   Thonis-Heracleion, peaceful beneath the waves. With The Distance of Blue at Millennium Film Workshop, New York, March 2026.</a>
 </li>
 
