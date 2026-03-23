@@ -550,7 +550,7 @@ Abstracts & Talks
 <li><a target = "_blank" href = "https://igloomag.com/reviews/stephen-roddy-leviathan">Igloo Magazine: Stephen Roddy - Leviathan Review.</a></li>  
 <li><a target = "_blank" href = "https://www.distopic.it/stephen-roddy/">Distopic.it: Stephen Roddy - Der Kardinal Review.</a></li>
 <li><a target = "_blank" href = "https://www.thisisdarkness.com/category/retro-reviews/">This is Darkness: Stephen Roddy – Corpus/Mimesis Review.</a></li>
-<li><a target = "_blank" href = "https://electronica.org.uk/blog/stephen-roddy-21-7-3-experimental-ambient-composition-featuring-jean-luc-nancy/">electronica.org.uk: Stephen Roddy – 21, 7 & 3: Experimental Ambient Composition Featuring Jean-Luc Nancy.</a></li>
+<li><a target = "_blank" href = "https://electronica.org.uk/frequencystate/stephen-roddy-21-7-3-experimental-ambient-composition-featuring-jean-luc-nancy/">Frequency State at electronica.org.uk: Stephen Roddy – 21, 7 & 3: Experimental Ambient Composition Featuring Jean-Luc Nancy.</a></li>
 <li><a target = "_blank" href = "https://acloserlisten.com/2025/03/18/acl-2025-spring-music-preview-experimental/">A Closer Listen: Spring Music Preview 2025: Experimental.</a></li>
 <li><a target="_blank" href="https://industrialcomplexx.com/stephen-roddy-corpus-mimesis-fiadh-productions/">Industrial Complexx: Stephen Roddy - Corpus/Mimesis.</a></li>
 <li><a target = "_blank" href = "https://acloserlisten.com/2025/03/18/acl-2025-spring-music-preview-experimental/"> A Closer Listen: Spring Music Preview 2025: Experimental.</a></li>
