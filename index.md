@@ -1,11 +1,12 @@
-Dr. Stephen Roddy is a media engineering researcher specialising in sonification. His research combines media engineering methods with experimental music composition through the lens of [critical technical practice](https://journals.sagepub.com/doi/10.1177/13548565231192105). He is currently focused on sonification for the [Internet of Sounds (IoS)](https://www.ucc.ie/en/dah/news/sonification-and-the-internet-of-sounds.html) and ethical approaches to artificial intelligence and machine learning (AI/ML) in creative audio. His work is informed by [cybernetics](https://dn790006.ca.archive.org/0/items/norbert-wiener-cybernetics/Norbert_Wiener_Cybernetics_text.pdf), [human-computer interaction](https://ixdf.org/literature/topics/human-computer-interaction), and [radical embodied cognitive science](https://direct.mit.edu/books/monograph/1812/Radical-Embodied-Cognitive-Science). Stephen holds a [PhD in Engineering](https://www.tara.tcd.ie/items/4f804275-d45c-4cf1-b04c-c0c6945d546d) from [Trinity College Dublin](https://www.tcd.ie/). He lectures in the Department of [Digital Humanities](https://www.ucc.ie/en/dah/) at [University College Cork](https://www.ucc.ie/en/) (UCC), where he is Programme Director for the [MA in Digital Arts and Humanities](https://www.ucc.ie/en/cke09/) and a member of the [Radical Humanities Laboratory](https://www.ucc.ie/en/future-humanities/radicalhumanitieslaboratory/).
+Dr. Stephen Roddy is a media engineering researcher specialising in sonification. His research combines media engineering methods with experimental music composition through the lens of [critical technical practice](https://journals.sagepub.com/doi/10.1177/13548565231192105). He is currently focused on sonification for the [Internet of Sounds (IoS)](https://www.ucc.ie/en/dah/news/sonification-and-the-internet-of-sounds.html) and ethical approaches to artificial intelligence and machine learning (AI/ML) in creative audio. His work is informed by [cybernetics](https://dn790006.ca.archive.org/0/items/norbert-wiener-cybernetics/Norbert_Wiener_Cybernetics_text.pdf), [human-computer interaction](https://ixdf.org/literature/topics/human-computer-interaction), and [radical embodied cognitive science](https://direct.mit.edu/books/monograph/1812/Radical-Embodied-Cognitive-Science). Stephen holds a [PhD in Engineering](https://www.tara.tcd.ie/items/4f804275-d45c-4cf1-b04c-c0c6945d546d) from [Trinity College Dublin](https://www.tcd.ie/). He lectures in the Department of [Digital Humanities](https://www.ucc.ie/en/dah/) at [University College Cork](https://www.ucc.ie/en/) (UCC), where he is also Programme Director for the [MA in Digital Arts and Humanities](https://www.ucc.ie/en/cke09/) and a member of the [Radical Humanities Laboratory](https://www.ucc.ie/en/future-humanities/radicalhumanitieslaboratory/).
 
-Stephen's previous projects have explored the design of auditory display solutions for large-scale IoT networks and investigated applications of generative systems, cybernetic design principles, and AI/ML techniques in automated music synthesis. This work was carried out under an IRC Postdoctoral Fellowship at [CONNECT: the Research Ireland Centre for Future Networks and Communications](https://connectcentre.ie/), and subsequently at the Department of Electronic & Electrical Engineering at TCD. His work is widely disseminated through peer-reviewed journal publications, conference proceedings, and book chapters. As a member of the committee on Ethically Aligned Design in the Arts (under the IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems), he contributed to the IEEE Standards Authority Report on [Ethically Aligned Approaches to AI in the Arts](https://sagroups.ieee.org/global-initiative/wp-content/uploads/sites/542/2022/07/ead-artists.pdf). 
+Stephen’s previous projects have explored auditory display solutions for large-scale IoT networks, as well as applications of generative systems, cybernetic design principles, and AI/ML techniques in automated music synthesis. This work was carried out under an IRC Postdoctoral Fellowship at [CONNECT: the Research Ireland Centre for Future Networks and Communications](https://connectcentre.ie/), and subsequently at the Department of Electronic & Electrical Engineering at TCD. His work is widely disseminated through peer-reviewed journal publications, conference proceedings, and book chapters. As a member of the committee on Ethically Aligned Design in the Arts (under the IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems), he contributed to the IEEE Standards Authority Report on [Ethically Aligned Approaches to AI in the Arts](https://sagroups.ieee.org/global-initiative/wp-content/uploads/sites/542/2022/07/ead-artists.pdf). 
 
 Stephen maintains an active artistic practice that is central to his research activity. His work includes music composition and performance, generative and data-driven music, and sound art installation and performance. His most recent musical releases [Leviathan](https://stephenroddy.bandcamp.com/album/leviathan), [Corpus/Mimesis](https://stephenroddy.bandcamp.com/album/corpus-mimesis), and [Stardust Sonata](https://fiadh.bandcamp.com/album/stardust-sonata) are all available through [Fiadh Productions](https://fiadh.bandcamp.com/). Recent performances and installations of his work have included the ElettroAQustica 10 festival in L'Aquila, the New York City Electroacoustic Music Festival, and the Earth Rising Festival at the Irish Museum of Modern Art.
 
 <p><strong>Selected Research</strong></p>
 <ul>
+  Engineering-led sonification research for Internet of Sounds systems.
   <li>
     <a target="_blank" href="https://doi.org/10.1109/MCOM.001.2400154">Roddy, S. (2024). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine, 62(12).</a>
   </li>
@@ -24,11 +25,12 @@ Stephen maintains an active artistic practice that is central to his research ac
 <p>Current</p>
 <ul>
   <li>Member of the <a target="_blank" href="https://www.ieee.org/">Institute of Electrical and Electronics Engineers (IEEE)</a>.</li>
-  <li>Member of the <a target="_blank" href="https://internetofsounds.net/about/">Internet of Sounds Research Network</a>.</li>
   <li>Member of the <a target="_blank" href="http://icad.org/">International Community for Auditory Display</a>.</li>
+  <li>Member of the <a target="_blank" href="https://internetofsounds.net/about/">Internet of Sounds Research Network</a>.</li>
+  <li> Editorial Board Member at <a target="_blank" href="https://online.ucpress.edu/res">Resonance: The Journal of Sound and Culture</a>.</li>
   <li>Member of the <a target="_blank" href="https://ubimus2024.fah.usj.edu.mo/">Ubiquitous Music Group</a>.</li>
   <li>Member of the <a target="_blank" href="https://imro.ie/">Irish Music Rights Organisation</a>.</li>
-  <li> Editorial Board Member at <a target="_blank" href="https://online.ucpress.edu/res">Resonance: The Journal of Sound and Culture</a>.</li>
+
 </ul>
 
 <p>Previous</p>
@@ -41,7 +43,8 @@ Stephen maintains an active artistic practice that is central to his research ac
   </li>
 </ul>
 
-<p><strong>Journal Articles</strong></p>
+<p><strong>Full Publications</strong></p>
+<p>Journal Articles</p>
 <ul>
 <li>
   <a target="_blank" href="https://doi.org/10.1162/LEON.a.2583">Roddy, S., Lavelle, A., Ghosh, S., Dempsey, E., Fanning, L. (2026). Generative Sonification of Synthetic Virology Data with Waveshaping & Granular Synthesis Techniques. Leonardo, 59(1).</a>
@@ -77,7 +80,7 @@ Stephen maintains an active artistic practice that is central to his research ac
     <a target="_blank" href="/projects/embodied_sonification/papers/Organised Sound - Embodied Aesthetics in Auditory Display.pdf">Roddy, S., & Furlong, D. (2014). Embodied Aesthetics in Auditory Display. Organised Sound, 19(01), 70-77.</a>  
   </li>
 </ul>
-<p> <strong>Book Chapters</strong></p>
+<p>Book Chapters</p>
 <ul>
 <li>
 <a target="_blank" href="https://doi.org/10.1007/978-3-031-89037-6_5">Roddy, S., Bridges, B. (2026). Cybernetic Resurgences: Machine Music Beyond AI Slop. In: Zagalo, N., Keller, D. (eds) Artificial Media. Springer Series on Cultural Computing. Springer, Cham.</a>
@@ -93,16 +96,16 @@ Stephen maintains an active artistic practice that is central to his research ac
 </li>
 </ul>
 
-<p><strong>Reports & Policy Documents</strong></p>
+<p>Reports & Policy Documents</p>
 <ul>
   <li>
     <a target="_blank" href="https://drive.google.com/file/d/1NdHUhzr9ep8eoknvkFBfrVtR8mK_rddz/view?usp=sharing">IEEE Committee on Ethically Aligned Design for Artists. (2022) The Voice of the Artist in the Age of the Algorithm. IEEE Ethically Aligned Design Series.</a>
   </li>
 </ul>
 
-<p><strong>Peer-reviewed Conference Proceedings</strong></p>
+<p>Peer-reviewed Conference Proceedings</p>
 
-Full Papers
+<i>Full Papers</i>
 <ul>
   <li>
     <a target="_blank" href="https://doi.org/10.1109/IS264627.2025.11284675">Roddy, S. (2025). On-device Internet of Sounds Sonification with Wavetable Synthesis Techniques for Soil Moisture Monitoring in Water Scarcity Contexts. In Proceedings of the 6th IEEE International Symposium on the Internet of Sounds.</a>
@@ -136,7 +139,7 @@ Full Papers
   </li>
 </ul>
 
-Short Papers
+<i>Short Papers</i>
 <ul>
   <li>
     <a target="_blank" href="https://research.ucc.ie/ws/portalfiles/portal/46033578/Bacteriophage_in_Granular_Waves_SR.pdf">Roddy, S. (2025). Bacteriophage in Granular Waves: Programme notes. At the Audio Mostly & ICAD Joint Conference Companion Proceedings, 30 June–July 2025, Coimbra, Portugal.</a>
@@ -158,7 +161,7 @@ Short Papers
   </li>
 </ul>
 
-Abstracts & Talks
+<i>Abstracts & Talks</i>
 <ul>
   <li>
   <a target="_blank" href="https://sample-studios.com/app/uploads/2024/04/Digital-Art-in-Ireland-Symposium-Programme-Booklet.pdf">Roddy, S. (2024). Reflections on Signal to Noise Loops. The 2nd Symposium on Digital Art in Ireland. June 13th 2024. The Aula Maxima, University College Cork.</a>
