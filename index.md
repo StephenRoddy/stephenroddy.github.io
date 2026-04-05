@@ -5,13 +5,13 @@ Stephen’s previous projects have explored auditory display solutions for large
 Stephen maintains an active artistic practice that is central to his research activity. His work includes music composition and performance, generative and data-driven music, and sound art installation and performance. His most recent musical releases [Leviathan](https://stephenroddy.bandcamp.com/album/leviathan), [Corpus/Mimesis](https://stephenroddy.bandcamp.com/album/corpus-mimesis), and [Stardust Sonata](https://fiadh.bandcamp.com/album/stardust-sonata) are all available through [Fiadh Productions](https://fiadh.bandcamp.com/). Recent performances and installations of his work have included the ElettroAQustica 10 festival in L'Aquila, the New York City Electroacoustic Music Festival, and the Earth Rising Festival at the Irish Museum of Modern Art.
 
 <p><strong>Selected Research</strong></p>
-Engineering research presenting network-level sonification system for the Internet of Sounds:
+Engineering research presenting a network-level sonification system for the Internet of Sounds:
 <ul>
   <li>
     <a target="_blank" href="https://doi.org/10.1109/MCOM.001.2400154">Roddy, S. (2024). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine, 62(12).</a>
   </li>
 </ul>
-IEEE paper presenting on-device sonification prototype for the Internet of Sounds:
+IEEE paper presenting an on-device sonification prototype for the Internet of Sounds:
 <ul>
   <li>
     <a target="_blank" href="https://doi.org/10.1109/IS264627.2025.11284675">Roddy, S. (2025). On-device Internet of Sounds Sonification with Wavetable Synthesis Techniques for Soil Moisture Monitoring in Water Scarcity Contexts. In Proceedings of the 6th IEEE International Symposium on the Internet of Sounds.</a>
