@@ -179,9 +179,6 @@ A mixed-methods paper presenting a sonification system for synthetic virology da
     <a target="_blank" href="https://www.dkit.ie/conference/ihci-2023/">Roddy, S. (2023). Signal to Noise Loops  A Cybernetic Approach to  Musical Performance w/Smart City Data and  Generative Music  Techniques. The Irish Human-computer Interaction Symposium. Dundalk Institute  of Technology.</a>
   </li>
   <li>
-    <a target="_blank" href="https://www.dkit.ie/conference/ihci-2023/">Roddy, S. (2023). Signal to Noise Loops  A Cybernetic Approach to  Musical Performance w/Smart City Data and  Generative Music  Techniques. The Irish Human-computer Interaction Symposium. Dundalk Institute  of Technology.</a>
-  </li>
-  <li>
     <a target="_blank" href="https://www.researchgate.net/publication/360849585_IoT_and_AI-Driven_Audio_in_the_Smart_City_A_Rhythmanalysis_inspired_approach">Roddy, S. (2018). IoT and AI-Driven Audio in the Smart City: A Rhythmanalysis Inspired Approach. The Irish Sound Science and Technology Association Conference. Ulster University, Magee Campus, Derry/Londonderry.</a>
   </li>
   <li>
@@ -758,7 +755,7 @@ A mixed-methods paper presenting a sonification system for synthetic virology da
 <p>Current</p>
 <ul>
 <li>Researcher in the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/radicalhumanitieslaboratory/">Radical Humanities Laboratory</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
-  <li> Member of the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/">Future Humanities Institute</a>at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
+  <li> Member of the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/">Future Humanities Institute</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
   <li>Lecturer in the <a target="_blank" href="https://www.ucc.ie/en/dah/">Department of Digital Humanities</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
   <li>Programme Director of the <a target="_blank" href="https://www.ucc.ie/en/cke09/">MA in Digital Arts & Humanities</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
 </ul>
