@@ -23,7 +23,7 @@ A methodological framework for the application of embodied cognition principles 
     <a target="_blank" href="https://doi.org/10.1080/10447318.2024.2429757">Roddy, S. (2024). The Design and Formalization of an Embodied Soundscape Sonification Framework. International Journal of Human–Computer Interaction.</a>
   </li>
 </ul>
-A mixed-methods paper presenting a system for sonifying synthetic virology data:
+A mixed-methods paper presenting a sonification system for synthetic virology data:
 <ul>
 <li>
   <a target="_blank" href="https://doi.org/10.1162/LEON.a.2583">Roddy, S., Lavelle, A., Ghosh, S., Dempsey, E., Fanning, L. (2026). Generative Sonification of Synthetic Virology Data with Waveshaping & Granular Synthesis Techniques. Leonardo, 59(1).</a>
