@@ -4,42 +4,43 @@ Stephen's previous projects have explored the design of auditory display solutio
 
 Stephen maintains an active artistic practice that is central to his research activity. His work includes music composition and performance, generative and data-driven music, and sound art installation and performance. His most recent musical releases [Leviathan](https://stephenroddy.bandcamp.com/album/leviathan), [Corpus/Mimesis](https://stephenroddy.bandcamp.com/album/corpus-mimesis), and [Stardust Sonata](https://fiadh.bandcamp.com/album/stardust-sonata) are all available through [Fiadh Productions](https://fiadh.bandcamp.com/). Recent performances and installations of his work have included the ElettroAQustica 10 festival in L'Aquila, the New York City Electroacoustic Music Festival, and the Earth Rising Festival at the Irish Museum of Modern Art.
 
-<strong>Affiliations</strong>
+<strong>Selected Research</strong>
+<ul>
+  <li>
+    <a target="_blank" href="https://doi.org/10.1109/MCOM.001.2400154">Roddy, S. (2024). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine, 62(12).</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://doi.org/10.1109/IS264627.2025.11284675">Roddy, S. (2025). On-device Internet of Sounds Sonification with Wavetable Synthesis Techniques for Soil Moisture Monitoring in Water Scarcity Contexts. In Proceedings of the 6th IEEE International Symposium on the Internet of Sounds.</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://doi.org/10.1080/10447318.2024.2429757">Roddy, S. (2024). The Design and Formalization of an Embodied Soundscape Sonification Framework. International Journal of Human–Computer Interaction.</a>
+  </li>
+<li>
+    <a target="_blank" href="http://hdl.handle.net/1853/66352">Roddy, S., & Bridges, B. (2021). The Design of a Smart City Sonification System using a Conceptual Blending and Musical Framework, Web Audio and Deep Learning Techniques. In the Proceedings of the International Conference on Auditory Display, ICAD 2021. </a>
+  </li>
+</ul>
+
+<strong>Professional Communities</strong>
 <p>Current</p>
 <ul>
-  <li>Researcher in the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/radicalhumanitieslaboratory/">Radical Humanities Laboratory</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
-  <li> Member of the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/">Future Humanities Institute</a>at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
-  <li>Lecturer in the <a target="_blank" href="https://www.ucc.ie/en/dah/">Department of Digital Humanities</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
-  <li>Programme Director of the <a target="_blank" href="https://www.ucc.ie/en/cke09/">MA in Digital Arts & Humanities</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
   <li>Member of the <a target="_blank" href="https://www.ieee.org/">Institute of Electrical and Electronics Engineers (IEEE)</a>.</li>
-  <li> Editorial Board Member at <a target="_blank" href="https://online.ucpress.edu/res">Resonance: The Journal of Sound and Culture</a>.</li>
   <li>Member of the <a target="_blank" href="https://internetofsounds.net/about/">Internet of Sounds Research Network</a>.</li>
-  <li>Member of the <a target="_blank" href="https://ubimus2024.fah.usj.edu.mo/">Ubiquitous Music Group</a>.</li>
   <li>Member of the <a target="_blank" href="http://icad.org/">International Community for Auditory Display</a>.</li>
-  <li>Member of the <a target="_blank" href="http://computermusic.org/">International Computer Music Association</a>.</li>
+  <li>Member of the <a target="_blank" href="https://ubimus2024.fah.usj.edu.mo/">Ubiquitous Music Group</a>.</li>
   <li>Member of the <a target="_blank" href="https://imro.ie/">Irish Music Rights Organisation</a>.</li>
-  <li>Member of the <a target="_blank" href="https://ethicsinaction.ieee.org/">IEEE cmte. for Ethically Aligned Design in the Arts.</a> </li>
+  <li> Editorial Board Member at <a target="_blank" href="https://online.ucpress.edu/res">Resonance: The Journal of Sound and Culture</a>.</li>
 </ul>
 
 <p>Previous</p>
 <ul>
-  <li>Assistant Professor (Digital Arts) in the <a target="_blank" href="https://www.tcd.ie/creativearts/disciplines/film/">Department of Film</a> at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
-  </li>
-  <li>Postdoctoral Fellow in the <a target="_blank" href="https://www.tcd.ie/eleceng/">Department of Electronic & Electrical Engineering</a> at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
-  </li>
-  <li>Lecturer on the <a target="_blank" href="https://www.tcd.ie/eleceng/mmt/">Music and Media Technologies</a> course at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
-  </li>
-  <li>Government of Ireland Postdoctoral Fellow at the <a target="_blank" href="http://research.ie/">Irish Research Council</a>.
-  </li>
-  <li>Member of the <a target="_blank" href="https://connectcentre.ie/omg">Orthogonal Methods Group (OMG)</a> at the Connect Centre, Trinity College Dublin.</li>
-  <li>Postdoctoral researcher at the <a target="_blank" href="https://connectcentre.ie/news/connects-stephen-roddy-to-present-at-computer-simulated-of-musical-creativity-conference-in-ucd/">CONNECT Centre</a>, <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
-  </li>
+  <li>Member of the <a target="_blank" href="https://ethicsinaction.ieee.org/">IEEE cmte. for Ethically Aligned Design in the Arts.</a> </li>
+  <li>Member of the <a target="_blank" href="http://computermusic.org/">International Computer Music Association</a>.</li>
   <li>Board member of the <a target="_blank" href="http://issta.ie/">Irish Sound Science and Technology Association</a> 2016-2019.  
   </li>
   <li>Board member for the <a target="_blank" href="http://www.interferencejournal.org/">Interference Journal</a> 2018-2019.
   </li>
-  <li>Member of the <a target="_blank" href="http://computermusic.org/">International Computer Music Association</a>.</li>
 </ul>
+
 <p><strong>Journal Articles</strong></p>
 <ul>
 <li>
@@ -508,23 +509,6 @@ Abstracts & Talks
   </li>
 </ul>
 
-<!--
-
-<h4>  <strong>Lecturing </strong></h4>
-<ul>
-  <li>
-    <a target="_blank" href="http://www.tcd.ie/eleceng/mmt/">Programming Interactive Systems @ Music and Media Technologies, Trinity College Dublin.</a>
-  </li>
-  <li>
-    <a target="_blank" href="http://www.tcd.ie/eleceng/mmt/">Introduction to Max @ Music and Media Technologies, Trinity College Dublin. </a>
-  </li>
-  <li>
-    <a target="_blank" href="https://www.tcd.ie/Engineering/undergraduate/bai/year-2/">Engineering Design IV @ Trinity College Dublin.</a>
-  </li>
-</ul>
-<h4> </h4>
-
--->
 
 <h4>Seminars</h4>
 <ul>
@@ -757,5 +741,30 @@ Abstracts & Talks
     <a target="_blank" href="https://www.tn2magazine.ie/embodied-review/">TN2 (Collaborative Project)</a>
   </li>
 </ul>
+
+<strong>Institutional Roles</strong>
+<p>Current</p>
+<ul>
+<li>Researcher in the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/radicalhumanitieslaboratory/">Radical Humanities Laboratory</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
+  <li> Member of the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/">Future Humanities Institute</a>at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
+  <li>Lecturer in the <a target="_blank" href="https://www.ucc.ie/en/dah/">Department of Digital Humanities</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
+  <li>Programme Director of the <a target="_blank" href="https://www.ucc.ie/en/cke09/">MA in Digital Arts & Humanities</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
+</ul>
+
+<p>Previous</p>
+<ul>
+  <li>Assistant Professor (Digital Arts) in the <a target="_blank" href="https://www.tcd.ie/creativearts/disciplines/film/">Department of Film</a> at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
+  </li>
+  <li>Postdoctoral Fellow in the <a target="_blank" href="https://www.tcd.ie/eleceng/">Department of Electronic & Electrical Engineering</a> at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
+  </li>
+  <li>Lecturer on the <a target="_blank" href="https://www.tcd.ie/eleceng/mmt/">Music and Media Technologies</a> course at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
+  </li>
+  <li>Government of Ireland Postdoctoral Fellow at the <a target="_blank" href="http://research.ie/">Irish Research Council</a>.
+  </li>
+  <li>Member of the <a target="_blank" href="https://connectcentre.ie/omg">Orthogonal Methods Group (OMG)</a> at the Connect Centre, Trinity College Dublin.</li>
+  <li>Postdoctoral researcher at the <a target="_blank" href="https://connectcentre.ie/news/connects-stephen-roddy-to-present-at-computer-simulated-of-musical-creativity-conference-in-ucd/">CONNECT Centre</a>, <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
+  </li>
+</ul>
+
 
 ---
