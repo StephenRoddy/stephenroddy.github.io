@@ -33,8 +33,8 @@ A mixed-methods paper presenting a sonification system for synthetic virology da
 <p><strong>Professional Communities</strong></p>
 <p>Current</p>
 <ul>
-  <li>Member of the <a target="_blank" href="https://www.ieee.org/">Institute of Electrical and Electronics Engineers (IEEE)</a>.</li>
   <li>Member of the <a target="_blank" href="http://icad.org/">International Community for Auditory Display</a>.</li>
+  <li>Member of the <a target="_blank" href="https://www.ieee.org/">Institute of Electrical and Electronics Engineers (IEEE)</a>.</li>
   <li>Member of the <a target="_blank" href="https://internetofsounds.net/about/">Internet of Sounds Research Network</a>.</li>
   <li> Editorial Board Member at <a target="_blank" href="https://online.ucpress.edu/res">Resonance: The Journal of Sound and Culture</a>.</li>
   <li>Member of the <a target="_blank" href="https://ubimus2024.fah.usj.edu.mo/">Ubiquitous Music Group</a>.</li>
