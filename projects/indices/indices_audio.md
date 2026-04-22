@@ -40,7 +40,7 @@ The most recent iteration of the piece was produced and installed in the wake of
 
 [Link to the piece](https://stephenroddy.github.io/Indices-Online-ICMC/desktop.html)
 
-## ALbum Release: Corpus/Mimesis
+## Album Release: Corpus/Mimesis
 
 <div style="text-align: center;">
 <img src="/images/corpus_mimesis.jpg?raw=true"/>
