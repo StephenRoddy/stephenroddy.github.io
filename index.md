@@ -204,6 +204,10 @@ A mixed-methods paper presenting a sonification system for synthetic virology da
 <p>Recent/Forthcoming Performances & Installations:</p>
 
 <ul>
+<li>
+    <a target="_blank" href="https://xcoax.org/">Bacteriophage in Granular Waves. xCoAx 2026, Torino, July 2026.</a>
+  </li>
+
   <li><a target="_blank"  href="https://www.millenniumfilm.org/event-details/the-distance-of-blue">
   Thonis-Heracleion, peaceful beneath the waves. With The Distance of Blue at Millennium Film Workshop, New York, March 2026.</a>
 </li>
