@@ -478,6 +478,10 @@ A mixed-methods paper presenting a sonification system for synthetic virology da
 
 <p><strong>Invited Talks & Panels</strong></p>
 <ul>
+<li>
+  <a target = "_blank" href = "https://atlanthro.org/">
+  Biotechnical Emergence: Rethinking Machine Music Metaphors post-Cybernetic Resurgence. Atlantic Anthropology Workshop April 2026.</a>
+</li>
  <li>
   <a target="_blank" href="https://cepra.leeds.ac.uk/2024/10/04/intangible-modalities-symposium-15-11-24/">Cybernetic Resurgences. November 15th 2024. Intangible Modalities Symposium, Centre for Practice Research in the Arts, University of Leeds, United Kingdom.</a>
  </li>
