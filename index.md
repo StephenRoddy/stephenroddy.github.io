@@ -18,26 +18,26 @@ Stephen maintains an active artistic practice that is central to his research ac
 
 <ul>
 <li>
-    <a target="_blank" href="https://xcoax.org/">Bacteriophage in Granular Waves. xCoAx 2026, Torino, July 2026.</a>
+    <a target="_blank" href="https://xcoax.org/">Bacteriophage in Granular Waves - xCoAx, Torino.</a>.
   </li>
 
   <li><a target="_blank"  href="https://www.millenniumfilm.org/event-details/the-distance-of-blue">
-  Thonis-Heracleion, peaceful beneath the waves. With The Distance of Blue at Millennium Film Workshop, New York, March 2026.</a>
+  Thonis-Heracleion, peaceful beneath the waves - Millennium Film Workshop, New York.</a>
 </li>
 <li>
-  <a target="_blank"  href="https://www.aisthesislab.art/?pgid=ml6vhhrh-84e528c3-6d90-443e-82a5-1e67d5f9412f">Terminus Recoded </a> at the <a target="_blank"  href="https://thewrong.org/Metatopia">The Metatopia Pavilion</a> for The Wrong Biennale. Curated by Aisthesis, February 2026.
+  <a target="_blank"  href="https://www.aisthesislab.art/?pgid=ml6vhhrh-84e528c3-6d90-443e-82a5-1e67d5f9412f">Terminus Recoded </a> - <a target="_blank"  href="https://thewrong.org/Metatopia">The Wrong Biennale Pavilion.</a>
 </li>
 <li>
-  <a target="_blank"  href="https://thedistanceofblue.com/work/thonis-heracleion-peaceful-beneath-the-waves">Thonis-Heracleion, peaceful beneath the waves</a> at the <a target="_blank"  href="https://thewrong.org/TheDistanceOfBlue/">The Distance of Blue Pavillion</a> at The Wrong Biennale 2025. Curated by Ping Ho, November -December 2025.</a>
+  <a target="_blank"  href="https://thedistanceofblue.com/work/thonis-heracleion-peaceful-beneath-the-waves">Thonis-Heracleion, peaceful beneath the waves</a> - <a target="_blank"  href="https://thewrong.org/TheDistanceOfBlue/">The Wrong Biennale.</a>
 </li>
   <li>
-    <a target="_blank" href="https://musel.consaq.it/2025/10/01/elettroaqustica10/">Noise for Waves & Grains. IEEE Internet of Sounds Concert at the 10th Edition of the ElettroAQustica Festival, Conservatorio “A. Casella” of L'Aquila, Italy, October 2025.</a>
+    <a target="_blank" href="https://musel.consaq.it/2025/10/01/elettroaqustica10/">Noise for Waves & Grains - IEEE IoS at ElettroAQustica Festival, L'Aquila.</a>
   </li>
   <li>
-    <a target="_blank" href="https://www.ucc.ie/en/future-humanities/news/stephen-roddy-to-debut-new-musical-work-at-amicad-2025.html">Bacteriophage in Granular Waves. AM.ICAD 2025 Joint Conference of Audio Mostly and the ICAD: Coimbra, Portugal, July 2025.</a>
+    <a target="_blank" href="https://www.ucc.ie/en/future-humanities/news/stephen-roddy-to-debut-new-musical-work-at-amicad-2025.html">Bacteriophage in Granular Waves - AM.ICAD 2025, Coimbra.</a>
   </li>
   <li>
-    <a target="_blank" href="https://www.ucc.ie/en/future-humanities/news/dr-stephen-roddys-musical-works-performed-for-alternating-current-2025.html">Signal to Noise Loops, The Good Ship Hibernia, & Dublin City noise Loops. Alternating Current Festival 2025: Urban Scores. Dublin, May 2025.</a>
+    <a target="_blank" href="https://www.ucc.ie/en/future-humanities/news/dr-stephen-roddys-musical-works-performed-for-alternating-current-2025.html">Signal to Noise Loops, The Good Ship Hibernia, & Dublin City noise Loops. Alternating Current Festival 2025: Urban Scores. Dublin.</a>
   </li>
 </ul>
 
@@ -47,23 +47,14 @@ Stephen maintains an active artistic practice that is central to his research ac
 <p><strong>Key Releases</strong></p>
 <ul>
   <li>
-    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">2025. Corpus/Mimesis by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto) (2025) A visceral sonic interpretation of the work of Jean-Luc Nancy which lodges itself permanently in the listeners subconscious. Sound works, experimental guitar and electroacoustic compositions.</a>
+    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto). On Fiadh Productions 2025.
+  <li>
+    <a target="_blank" href="https://fiadh.bandcamp.com/album/stardust-sonata">Stardust Sonata. On Fiadh Productions 2024.</a>
   </li>
   <li>
-    <a target="_blank" href="https://fiadh.bandcamp.com/album/stardust-sonata">2024. Stardust Sonata. A tribute and lament to David Bowie recorded in the winter of 2016 shortly after the release of Blackstar and Bowie’s premature death. The six tracks feature ambient soundscapes informed y the sound Bowie developed with brian Eno and Robert Fripp on his infamous "berlin Trilogy". On Fiadh Productions.</a>
+    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/leviathan">Leviathan. On Fiadh Productions 2023.</a>
   </li>
   <li>
-    <a target="_blank" href="https://fiadh.bandcamp.com/album/from-dreams-to-living-things-ii-brawling-sparrows-brilliant-moon">2024. From Dreams to Living Things II: Brawling Sparrows Brilliant Moon. A compilation album of more than 50 Fiadh Productions artists to raise money for Heartstone Sanctuary. On Fiadh Productions</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/leviathan">2023. Leviathan. A dark ambient exploration of our impending climate catastrophe. On Fiadh Productions</a>
-  </li>
-  <li>
-    <a target="_blank" href="http://stolenmirror.com/2021d01-tides.html">2021. Idle Hands [...] featured on Tides: An ISSTA Anthology. On the Stolen Mirror Label.</a>
-  </li>
-    <li>
-    <a target="_blank" href="images/brl.png">2019. Der Kardinal featured on Dead Leaves - Charity Compilation (Out of Print). By Brutal Resonance.</a>
-  </li>
 </ul>
 
 [View All Releases](/research)
