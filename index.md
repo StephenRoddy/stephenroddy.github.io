@@ -18,7 +18,7 @@ Stephen maintains an active artistic practice that is central to his research ac
 
 <ul>
 <li>
-    <a target="_blank" href="https://xcoax.org/">Bacteriophage in Granular Waves - xCoAx, Torino.</a>.
+    <a target="_blank" href="https://xcoax.org/">Bacteriophage in Granular Waves - xCoAx, Torino.</a>
   </li>
 
   <li><a target="_blank"  href="https://www.millenniumfilm.org/event-details/the-distance-of-blue">
