@@ -11,6 +11,7 @@ Stephen maintains an active artistic practice that is central to his research ac
 <li><a target="_blank" href="https://doi.org/10.1080/10447318.2024.2429757">Embodied soundscape sonification framework — IJHCI</a></li>
 <li><a target="_blank" href="https://doi.org/10.1162/LEON.a.2583">Synthetic virology data sonification — Leonardo</a></li>
 
+</ul>
 <p><strong>Recent/Forthcoming Performances & Installations</strong></p>
 
 <ul>
