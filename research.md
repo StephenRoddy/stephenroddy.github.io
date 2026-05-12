@@ -61,6 +61,7 @@
     <a target="_blank" href="/projects/embodied_sonification/papers/Organised Sound - Embodied Aesthetics in Auditory Display.pdf">Roddy, S., & Furlong, D. (2014). Embodied Aesthetics in Auditory Display. Organised Sound, 19(01), 70-77.</a>  
   </li>
 </ul>
+
 <p>Book Chapters</p>
 <ul>
 <li>
@@ -171,9 +172,11 @@
   </li>
 </ul>
 
+---
+
 <p><strong><strong>Musical Performances & Sound Art Installations</strong></strong></p>
 
-<p>Recent/Forthcoming Performances & Installations:</p>
+<p>Recent & Upcoming Performances & Installations:</p>
 
 <ul>
 <li>
@@ -400,6 +403,7 @@
     <a target="_blank" href="images/brl.png">2019. Der Kardinal featured on Dead Leaves - Charity Compilation (Out of Print). By Brutal Resonance.</a>
   </li>
 </ul>
+
 <p>Independent Releases</p>
 <ul>
   <li> <a target="_blank" href="https://stephenroddy.bandcamp.com/album/signal-to-noise-loops-2">Signal to Noise Loops (2023) is a series of human-machine collaborations made possible through cybernetic musical systems that unite human performance and composition with techniques and technologies from artificial intelligence, machine learning, and the internet of things.</a> </li>
@@ -447,6 +451,8 @@
   <li>Trinity College Dublin Travel Grant 2015</li>
   <li>Trinity College Dublin Postgraduate Travel Grant 2013.</li>
 </ul>
+
+---
 
 <p><strong>Invited Talks & Panels</strong></p>
 <ul>
@@ -498,7 +504,6 @@
   </li>
 </ul>
 
-
 <h4>Seminars</h4>
 <ul>
   <li>
@@ -535,6 +540,8 @@
   <li>Board member for the <a target="_blank" href="http://www.interferencejournal.org/">Interference Journal</a> 2018-2019.
   </li>
 </ul>
+
+---
 
 <p><strong>Media Coverage</strong></p>
 
