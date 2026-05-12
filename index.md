@@ -12,7 +12,7 @@ Stephen maintains an active artistic practice that is central to his research ac
 <li><a target="_blank" href="https://doi.org/10.1162/LEON.a.2583">Synthetic virology data sonification — Leonardo</a></li>
 </ul>
 
-[View Full Publications](/research.md)
+[View Full Publications](/research)
 
 <p><strong>Recent/Forthcoming Performances & Installations</strong></p>
 
@@ -41,7 +41,7 @@ Stephen maintains an active artistic practice that is central to his research ac
   </li>
 </ul>
 
-[View Full Performances](/research.md)
+[View Full Performances](/research)
 
 
 <p><strong>Key Releases</strong></p>
@@ -66,7 +66,7 @@ Stephen maintains an active artistic practice that is central to his research ac
   </li>
 </ul>
 
-[View All Releases](/research.md)
+[View All Releases](/research)
 
 <strong>Institutional Roles</strong>
 <p>Current</p>
