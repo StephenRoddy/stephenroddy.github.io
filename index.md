@@ -10,8 +10,10 @@ Stephen maintains an active artistic practice that is central to his research ac
 <li><a target="_blank" href="https://doi.org/10.1109/IS264627.2025.11284675">On-device sonification for soil moisture monitoring — IEEE IoS 2025</a></li>
 <li><a target="_blank" href="https://doi.org/10.1080/10447318.2024.2429757">Embodied soundscape sonification framework — IJHCI</a></li>
 <li><a target="_blank" href="https://doi.org/10.1162/LEON.a.2583">Synthetic virology data sonification — Leonardo</a></li>
-
 </ul>
+
+[View Full Publications](/research.md)
+
 <p><strong>Recent/Forthcoming Performances & Installations</strong></p>
 
 <ul>
@@ -22,7 +24,6 @@ Stephen maintains an active artistic practice that is central to his research ac
   <li><a target="_blank"  href="https://www.millenniumfilm.org/event-details/the-distance-of-blue">
   Thonis-Heracleion, peaceful beneath the waves. With The Distance of Blue at Millennium Film Workshop, New York, March 2026.</a>
 </li>
-
 <li>
   <a target="_blank"  href="https://www.aisthesislab.art/?pgid=ml6vhhrh-84e528c3-6d90-443e-82a5-1e67d5f9412f">Terminus Recoded </a> at the <a target="_blank"  href="https://thewrong.org/Metatopia">The Metatopia Pavilion</a> for The Wrong Biennale. Curated by Aisthesis, February 2026.
 </li>
@@ -39,6 +40,9 @@ Stephen maintains an active artistic practice that is central to his research ac
     <a target="_blank" href="https://www.ucc.ie/en/future-humanities/news/dr-stephen-roddys-musical-works-performed-for-alternating-current-2025.html">Signal to Noise Loops, The Good Ship Hibernia, & Dublin City noise Loops. Alternating Current Festival 2025: Urban Scores. Dublin, May 2025.</a>
   </li>
 </ul>
+
+[View Full Performances](/research.md)
+
 
 <p><strong>Key Releases</strong></p>
 <ul>
@@ -61,6 +65,9 @@ Stephen maintains an active artistic practice that is central to his research ac
     <a target="_blank" href="images/brl.png">2019. Der Kardinal featured on Dead Leaves - Charity Compilation (Out of Print). By Brutal Resonance.</a>
   </li>
 </ul>
+
+[View All Releases](/research.md)
+
 
 <p><strong>Professional Communities</strong></p>
 <p>Current</p>
