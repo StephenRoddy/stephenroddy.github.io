@@ -5,61 +5,84 @@ Stephen’s previous projects have explored auditory display solutions for large
 Stephen maintains an active artistic practice that is central to his research activity, providing a practice-led research context for developing and critically examining the technical systems investigated in his written work. His practice includes music composition and performance, generative and data-driven music, and sound art installation and performance. His most recent musical releases [Leviathan](https://stephenroddy.bandcamp.com/album/leviathan), [Corpus/Mimesis](https://stephenroddy.bandcamp.com/album/corpus-mimesis), and [Stardust Sonata](https://fiadh.bandcamp.com/album/stardust-sonata) are all available through [Fiadh Productions](https://fiadh.bandcamp.com/). Recent performances and installations of his work have included the ElettroAQustica 10 festival in L'Aquila, the New York City Electroacoustic Music Festival, and the Earth Rising Festival at the Irish Museum of Modern Art.
 
 <p><strong>Featured Research</strong></p>
+Engineering research presenting a network-level sonification system for the Internet of Sounds:
 <ul>
-<li><a target="_blank" href="https://doi.org/10.1109/MCOM.001.2400154">Internet of Sounds sonification system — IEEE Communications Magazine</a></li>
-<li><a target="_blank" href="https://doi.org/10.1109/IS264627.2025.11284675">On-device sonification for soil moisture monitoring — IEEE IoS 2025</a></li>
-<li><a target="_blank" href="https://doi.org/10.1080/10447318.2024.2429757">Embodied soundscape sonification framework — IJHCI</a></li>
-<li><a target="_blank" href="https://doi.org/10.1162/LEON.a.2583">Synthetic virology data sonification — Leonardo</a></li>
-
-<p><strong>Recent/Forthcoming Performances & Installations</strong></p>
-
-<ul>
-<li>
-    <a target="_blank" href="https://xcoax.org/">Bacteriophage in Granular Waves. xCoAx 2026, Torino, July 2026.</a>
-  </li>
-
-  <li><a target="_blank"  href="https://www.millenniumfilm.org/event-details/the-distance-of-blue">
-  Thonis-Heracleion, peaceful beneath the waves. With The Distance of Blue at Millennium Film Workshop, New York, March 2026.</a>
-</li>
-
-<li>
-  <a target="_blank"  href="https://www.aisthesislab.art/?pgid=ml6vhhrh-84e528c3-6d90-443e-82a5-1e67d5f9412f">Terminus Recoded </a> at the <a target="_blank"  href="https://thewrong.org/Metatopia">The Metatopia Pavilion</a> for The Wrong Biennale. Curated by Aisthesis, February 2026.
-</li>
-<li>
-  <a target="_blank"  href="https://thedistanceofblue.com/work/thonis-heracleion-peaceful-beneath-the-waves">Thonis-Heracleion, peaceful beneath the waves</a> at the <a target="_blank"  href="https://thewrong.org/TheDistanceOfBlue/">The Distance of Blue Pavillion</a> at The Wrong Biennale 2025. Curated by Ping Ho, November -December 2025.</a>
-</li>
   <li>
-    <a target="_blank" href="https://musel.consaq.it/2025/10/01/elettroaqustica10/">Noise for Waves & Grains. IEEE Internet of Sounds Concert at the 10th Edition of the ElettroAQustica Festival, Conservatorio “A. Casella” of L'Aquila, Italy, October 2025.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://www.ucc.ie/en/future-humanities/news/stephen-roddy-to-debut-new-musical-work-at-amicad-2025.html">Bacteriophage in Granular Waves. AM.ICAD 2025 Joint Conference of Audio Mostly and the ICAD: Coimbra, Portugal, July 2025.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://www.ucc.ie/en/future-humanities/news/dr-stephen-roddys-musical-works-performed-for-alternating-current-2025.html">Signal to Noise Loops, The Good Ship Hibernia, & Dublin City noise Loops. Alternating Current Festival 2025: Urban Scores. Dublin, May 2025.</a>
+    <a target="_blank" href="https://doi.org/10.1109/MCOM.001.2400154">Roddy, S. (2024). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine, 62(12).</a>
   </li>
 </ul>
-
-<p><strong>Key Releases</strong></p>
+IEEE paper presenting an on-device sonification prototype for the Internet of Sounds:
 <ul>
   <li>
-    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">2025. Corpus/Mimesis by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto) (2025) A visceral sonic interpretation of the work of Jean-Luc Nancy which lodges itself permanently in the listeners subconscious. Sound works, experimental guitar and electroacoustic compositions.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://fiadh.bandcamp.com/album/stardust-sonata">2024. Stardust Sonata. A tribute and lament to David Bowie recorded in the winter of 2016 shortly after the release of Blackstar and Bowie’s premature death. The six tracks feature ambient soundscapes informed y the sound Bowie developed with brian Eno and Robert Fripp on his infamous "berlin Trilogy". On Fiadh Productions.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://fiadh.bandcamp.com/album/from-dreams-to-living-things-ii-brawling-sparrows-brilliant-moon">2024. From Dreams to Living Things II: Brawling Sparrows Brilliant Moon. A compilation album of more than 50 Fiadh Productions artists to raise money for Heartstone Sanctuary. On Fiadh Productions</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/leviathan">2023. Leviathan. A dark ambient exploration of our impending climate catastrophe. On Fiadh Productions</a>
-  </li>
-  <li>
-    <a target="_blank" href="http://stolenmirror.com/2021d01-tides.html">2021. Idle Hands [...] featured on Tides: An ISSTA Anthology. On the Stolen Mirror Label.</a>
-  </li>
-    <li>
-    <a target="_blank" href="images/brl.png">2019. Der Kardinal featured on Dead Leaves - Charity Compilation (Out of Print). By Brutal Resonance.</a>
+    <a target="_blank" href="https://doi.org/10.1109/IS264627.2025.11284675">Roddy, S. (2025). On-device Internet of Sounds Sonification with Wavetable Synthesis Techniques for Soil Moisture Monitoring in Water Scarcity Contexts. In Proceedings of the 6th IEEE International Symposium on the Internet of Sounds.</a>
   </li>
 </ul>
+A methodological framework for the application of embodied cognition principles in sonification design:
+<ul>
+  <li>
+    <a target="_blank" href="https://doi.org/10.1080/10447318.2024.2429757">Roddy, S. (2024). The Design and Formalization of an Embodied Soundscape Sonification Framework. International Journal of Human–Computer Interaction.</a>
+  </li>
+</ul>
+A mixed-methods paper presenting a sonification system for synthetic virology data:
+<ul>
+<li>
+  <a target="_blank" href="https://doi.org/10.1162/LEON.a.2583">Roddy, S., Lavelle, A., Ghosh, S., Dempsey, E., Fanning, L. (2026). Generative Sonification of Synthetic Virology Data with Waveshaping & Granular Synthesis Techniques. Leonardo, 59(1).</a>
+</li> 
+</ul>
+
+<p><strong>Featured Research</strong></p>
+Engineering research presenting a network-level sonification system for the Internet of Sounds:
+<ul>
+  <li>
+    <a target="_blank" href="https://doi.org/10.1109/MCOM.001.2400154">Roddy, S. (2024). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine, 62(12).</a>
+  </li>
+</ul>
+IEEE paper presenting an on-device sonification prototype for the Internet of Sounds:
+<ul>
+  <li>
+    <a target="_blank" href="https://doi.org/10.1109/IS264627.2025.11284675">Roddy, S. (2025). On-device Internet of Sounds Sonification with Wavetable Synthesis Techniques for Soil Moisture Monitoring in Water Scarcity Contexts. In Proceedings of the 6th IEEE International Symposium on the Internet of Sounds.</a>
+  </li>
+</ul>
+A methodological framework for the application of embodied cognition principles in sonification design:
+<ul>
+  <li>
+    <a target="_blank" href="https://doi.org/10.1080/10447318.2024.2429757">Roddy, S. (2024). The Design and Formalization of an Embodied Soundscape Sonification Framework. International Journal of Human–Computer Interaction.</a>
+  </li>
+</ul>
+A mixed-methods paper presenting a sonification system for synthetic virology data:
+<ul>
+<li>
+  <a target="_blank" href="https://doi.org/10.1162/LEON.a.2583">Roddy, S., Lavelle, A., Ghosh, S., Dempsey, E., Fanning, L. (2026). Generative Sonification of Synthetic Virology Data with Waveshaping & Granular Synthesis Techniques. Leonardo, 59(1).</a>
+</li> 
+</ul>
+
+<p><strong>Featured Research</strong></p>
+Engineering research presenting a network-level sonification system for the Internet of Sounds:
+<ul>
+  <li>
+    <a target="_blank" href="https://doi.org/10.1109/MCOM.001.2400154">Roddy, S. (2024). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine, 62(12).</a>
+  </li>
+</ul>
+IEEE paper presenting an on-device sonification prototype for the Internet of Sounds:
+<ul>
+  <li>
+    <a target="_blank" href="https://doi.org/10.1109/IS264627.2025.11284675">Roddy, S. (2025). On-device Internet of Sounds Sonification with Wavetable Synthesis Techniques for Soil Moisture Monitoring in Water Scarcity Contexts. In Proceedings of the 6th IEEE International Symposium on the Internet of Sounds.</a>
+  </li>
+</ul>
+A methodological framework for the application of embodied cognition principles in sonification design:
+<ul>
+  <li>
+    <a target="_blank" href="https://doi.org/10.1080/10447318.2024.2429757">Roddy, S. (2024). The Design and Formalization of an Embodied Soundscape Sonification Framework. International Journal of Human–Computer Interaction.</a>
+  </li>
+</ul>
+A mixed-methods paper presenting a sonification system for synthetic virology data:
+<ul>
+<li>
+  <a target="_blank" href="https://doi.org/10.1162/LEON.a.2583">Roddy, S., Lavelle, A., Ghosh, S., Dempsey, E., Fanning, L. (2026). Generative Sonification of Synthetic Virology Data with Waveshaping & Granular Synthesis Techniques. Leonardo, 59(1).</a>
+</li> 
+</ul>
+
+
 
 <p><strong>Professional Communities</strong></p>
 <p>Current</p>
