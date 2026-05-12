@@ -14,8 +14,7 @@ Stephen maintains an active artistic practice that is central to his research ac
 
 [View Full Publications](/research)
 
-<p><strong>Recent/Forthcoming Performances & Installations</strong></p>
-
+<p><strong>Recent & Upcoming Performances & Installations</strong></p>
 <ul>
 <li>
     <a target="_blank" href="https://xcoax.org/">Bacteriophage in Granular Waves - xCoAx, Torino.</a>
