@@ -47,19 +47,19 @@ Stephen maintains an active artistic practice that is central to his research ac
 <p><strong>Key Releases</strong></p>
 <ul>
   <li>
-    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto). On Fiadh Productions 2025.
+    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto). On Fiadh Productions 2025.</a>
+  </li>
   <li>
     <a target="_blank" href="https://fiadh.bandcamp.com/album/stardust-sonata">Stardust Sonata. On Fiadh Productions 2024.</a>
   </li>
   <li>
     <a target="_blank" href="https://stephenroddy.bandcamp.com/album/leviathan">Leviathan. On Fiadh Productions 2023.</a>
   </li>
-  <li>
 </ul>
 
 [View All Releases](/research)
 
-<strong>Institutional Roles</strong>
+<p><strong>Institutional Roles</strong></p>
 <p>Current</p>
 <ul>
 <li>Researcher in the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/radicalhumanitieslaboratory/">Radical Humanities Laboratory</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
