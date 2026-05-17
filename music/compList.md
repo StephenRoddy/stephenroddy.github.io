@@ -1,6 +1,6 @@
-## Project, performance, installation, dance, and stage works
+## List of Musical Compositions
 
-1. **Bacteriophage in Granular Waves** — 2025; upcoming 2026.
+1. **Bacteriophage in Granular Waves** — 2025.
 
 2. **Thonis-Heracleion, peaceful beneath the waves** — 2023/2024/2025/2026 — also appears on _Leviathan_; album release label: Fiadh Productions.
 
@@ -36,9 +36,9 @@
 
 18. **Jean Luc Nancy Indices 21, 7 and 3** — 2015.
 
-19. **Zones 1** — 2016.
+19. **Zones 1** — 2016 w/Alan Dormer.
 
-20. **Zones 1.5** — 2016.
+20. **Zones 1.5** — 2016 w/Alan Dormer.
 
 21. **Hear This Dance** — 2017 — dance/stage composition.
 
@@ -82,21 +82,21 @@
 
 40. **[Corpus/Mimesis](https://stephenroddy.bandcamp.com/album/corpus-mimesis)** — 2025 — Label: Fiadh Productions, FP489.
 
-    40.1 **Corpus**  
-    40.2 **21, 7 & 3**  
-    40.3 **Neuf**  
-    40.4 **Quinze**  
-    40.5 **Dix-huit**  
-    40.6 **Vingt-et-un**  
-    40.7 **Vingt-deux**  
-    40.8 **Vingt-quatre**  
-    40.9 **Vingt-sept**  
-    40.10 **Trente-deux**  
-    40.11 **Quarante-cinq**  
-    40.12 **Quarante-six**  
-    40.13 **Quarante-sept**  
-    40.14 **Cinquante-et-un**  
-    40.15 **15, 22, 27, 32, 45, 46 & 9**
+    40.1 **Corpus**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
+    40.2 **21, 7 & 3**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
+    40.3 **Neuf**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
+    40.4 **Quinze**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
+    40.5 **Dix-huit**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
+    40.6 **Vingt-et-un**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
+    40.7 **Vingt-deux**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
+    40.8 **Vingt-quatre**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
+    40.9 **Vingt-sept**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
+    40.10 **Trente-deux**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
+    40.11 **Quarante-cinq**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
+    40.12 **Quarante-six**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
+    40.13 **Quarante-sept**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
+    40.14 **Cinquante-et-un**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
+    40.15 **15, 22, 27, 32, 45, 46 & 9**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
 
 41. **[Stardust Sonata](https://stephenroddy.bandcamp.com/album/stardust-sonata)** — 2024 — Label: Fiadh Productions, FP294.
 
