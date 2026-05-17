@@ -174,7 +174,7 @@
     50.9 **Mary’s Sojourn**  
     50.10 **I Didn’t Think that it Would Matter**
 
-51. **[The Human Cost: A Sonification of Ireland’s Economic Crash](https://stephenroddy.bandcamp.com/album/the-human-cost-a-sonification-of-irelands-economic-crash)** — 2016 — self-released / Stephen Roddy Bandcamp.
+51. **[The Human Cost: A Sonification of Ireland’s Economic Crash](https://stephenroddy.bandcamp.com/album/the-human-cost-a-sonification-of-irelands-economic-crash)** — 2016 — Trinity College Dublin / Stephen Roddy Bandcamp.
 
     51.1 **Coldwater Pass**  
     51.2 **The Human Cost**  
@@ -268,5 +268,4 @@
     57.8 **Alethia**  
     57.9 **Tracker**  
     57.10 **Thalassian Wynne**  
-    57.11 **Nightling (Demo)**  
-    57.12 **Nightling**
+    57.11 **Nightling**  
