@@ -36,9 +36,9 @@
 
 18. **Jean Luc Nancy Indices 21, 7 and 3** — 2015.
 
-19. **Zones 1** — 2016 w/Alan Dormer.
+19. **Zones 1** — 2016.
 
-20. **Zones 1.5** — 2016 w/Alan Dormer.
+20. **Zones 1.5** — 2016.
 
 21. **Hear This Dance** — 2017 — dance/stage composition.
 
