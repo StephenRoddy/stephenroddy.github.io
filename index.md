@@ -49,4 +49,5 @@ View [All Releases](/music/music)
 - Government of Ireland Postdoctoral Fellow at the [Irish Research Council](http://research.ie/).
 - Member of the [Orthogonal Methods Group (OMG)](https://connectcentre.ie/omg) at the Connect Centre, Trinity College Dublin.
 - Postdoctoral researcher at the [CONNECT Centre](https://connectcentre.ie/news/connects-stephen-roddy-to-present-at-computer-simulated-of-musical-creativity-conference-in-ucd/), [Trinity College Dublin](https://www.tcd.ie/).
+
 ---
