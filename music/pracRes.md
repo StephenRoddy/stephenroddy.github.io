@@ -30,6 +30,9 @@
 
    - [IEEE Internet of Sounds Concert at the 10th Edition of the ElettroAQustica Festival, Conservatorio “A. Casella” of L’Aquila, Italy, October 2025.](https://musel.consaq.it/2025/10/01/elettroaqustica10/)
 
+#### Signal to Noise Loops Collection
+
+
 5. **Signal to Noise Loops** — 2023/2025.
 
    _Performances / installations:_
@@ -96,6 +99,9 @@
 
     - [Sonic Dreams 2017, Sonic Arts Waterford, September 30, 2017.](https://1.bp.blogspot.com/-HhZc6oL93Og/W0yMNH4jnVI/AAAAAAAAGFE/VlxW3bOMTlono3rkqbBMtE4XAxElOOgAQCLcBGAs/s1600/Sonic-Dreams-Festival-2017-final-poster-2.jpg)
 
+#### Jean-Luc Nancy Collection
+
+
 15. **The Body in the Machine: Indices Online** — 2021/2022.
 
     _Performances / installations:_
@@ -115,11 +121,13 @@
 
     - [Selected Indices Soundworks and Musical Pieces with Sentiment Analysis, ISSTA 2019, Cork School of Music, October 2019.](http://issta.ie/)
 
-18. **Jean Luc Nancy Indices 21, 7 and 3** — 2015.
+18. **Jean-Luc Nancy Indices 21, 7 and 3** — 2015.
 
     _Performances / installations:_
 
-    - [With AMAE/De Pinto and Jean Luc Nancy, Helicotrema Recorded Audio Festival, Pinault Foundation, Punta Della Dogana / Palazzo Grassi, November 4, 2015.](https://58indicesonthebody.wordpress.com/2015/11/18/amaede-pinto-at-pinault-foundation-punta-della-dogana-venice/)
+    - [With AMAE/De Pinto and Jean-Luc Nancy, Helicotrema Recorded Audio Festival, Pinault Foundation, Punta Della Dogana / Palazzo Grassi, November 4, 2015.](https://58indicesonthebody.wordpress.com/2015/11/18/amaede-pinto-at-pinault-foundation-punta-della-dogana-venice/)
+
+#### Zones Collection
 
 19. **Zones 1** — 2016.
 
@@ -132,6 +140,8 @@
     _Performances / installations:_
 
     - [With Alan Dormer, International Digital Empathy Workshop, Ulster University, October 31, 2016.](https://www.ulster.ac.uk/conference/digital-empathy)
+
+#### Music for Dance and Stage Collection
 
 21. **Hear This Dance** — 2017 — dance/stage composition.
 
@@ -169,6 +179,8 @@
     _Performances / installations:_
 
     - [With Legitimate Bodies Dance Company, Cristina Golletti and Nick Bryson, Birr Theatre & Arts Centre, 2009.](http://www.birrtheatre.com/dance)
+
+#### Contemporary & Electroacoustic Collection
 
 27. **Idle Hands – A 31-Part Exploration Of Irish Unemployment From 1983–2014 In G Major** — 2014; 2021 compilation appearance.
 
@@ -224,6 +236,8 @@
     _Performances / installations:_
 
     - [With Daniel O’Connor, online video/music, 2013.](http://deslitary.blogspot.ie/)
+
+#### Student Compositions
 
 35. **Will & Implementation** — 2011.
 
