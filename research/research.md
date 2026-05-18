@@ -1,30 +1,5 @@
 ## Research
 ---
-<p><strong>Institutional Roles</strong></p>
-<p>Current</p>
-<ul>
-<li>Researcher in the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/radicalhumanitieslaboratory/">Radical Humanities Laboratory</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
-<li>Lecturer in the <a target="_blank" href="https://www.ucc.ie/en/dah/">Department of Digital Humanities</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
-<li>Programme Director of the <a target="_blank" href="https://www.ucc.ie/en/cke09/">MA in Digital Arts & Humanities</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
-<li> Member of the <a target="_blank" href="https://www.ucc.ie/en/future-humanities/">Future Humanities Institute</a> at <a target="_blank" href="https://www.ucc.ie">UCC</a>.</li>
-</ul>
-
-<p>Previous</p>
-<ul>
-  <li>Assistant Professor (Digital Arts) in the <a target="_blank" href="https://www.tcd.ie/creativearts/disciplines/film/">Department of Film</a> at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
-  </li>
-  <li>Postdoctoral Fellow in the <a target="_blank" href="https://www.tcd.ie/eleceng/">Department of Electronic & Electrical Engineering</a> at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
-  </li>
-  <li>Lecturer on the <a target="_blank" href="https://www.tcd.ie/eleceng/mmt/">Music and Media Technologies</a> course at <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
-  </li>
-  <li>Government of Ireland Postdoctoral Fellow at the <a target="_blank" href="http://research.ie/">Irish Research Council</a>.
-  </li>
-  <li>Member of the <a target="_blank" href="https://connectcentre.ie/omg">Orthogonal Methods Group (OMG)</a> at the Connect Centre, Trinity College Dublin.</li>
-  <li>Postdoctoral researcher at the <a target="_blank" href="https://connectcentre.ie/news/connects-stephen-roddy-to-present-at-computer-simulated-of-musical-creativity-conference-in-ucd/">CONNECT Centre</a>, <a target="_blank" href="https://www.tcd.ie/">Trinity College Dublin</a>.
-  </li>
-</ul>
-
----
 
 <p><strong>Full Publications</strong></p>
 <p>Journal Articles</p>

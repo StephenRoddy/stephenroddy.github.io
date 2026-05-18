@@ -6,61 +6,52 @@ Stephen maintains an active artistic practice that is central to his research ac
 
 ---
 
-<p><strong>Featured Research</strong></p>
-<ul>
-<li><a target="_blank" href="https://doi.org/10.1109/MCOM.001.2400154">Internet of Sounds sonification system — IEEE Communications Magazine</a></li>
-<li><a target="_blank" href="https://doi.org/10.1109/IS264627.2025.11284675">On-device sonification for soil moisture monitoring — IEEE IoS 2025</a></li>
-<li><a target="_blank" href="https://doi.org/10.1080/10447318.2024.2429757">Embodied soundscape sonification framework — IJHCI</a></li>
-<li><a target="_blank" href="https://doi.org/10.1162/LEON.a.2583">Synthetic virology data sonification — Leonardo</a></li>
-</ul>
+## Featured Research
 
-View [Full Publications](/research)
+- [Internet of Sounds sonification system — IEEE Communications Magazine](https://doi.org/10.1109/MCOM.001.2400154)
+- [On-device sonification for soil moisture monitoring — IEEE IoS 2025](https://doi.org/10.1109/IS264627.2025.11284675)
+- [Embodied soundscape sonification framework — IJHCI](https://doi.org/10.1080/10447318.2024.2429757)
+- [Synthetic virology data sonification — Leonardo](https://doi.org/10.1162/LEON.a.2583)
 
-<p><strong>Recent & Upcoming Performances & Installations</strong></p>
-<ul>
-<li>
-    <a target="_blank" href="https://xcoax.org/">Bacteriophage in Granular Waves - xCoAx, Torino.</a>
-  </li>
+View [Full Publications](/research/research)
 
-  <li><a target="_blank"  href="https://www.millenniumfilm.org/event-details/the-distance-of-blue">
-  Thonis-Heracleion, peaceful beneath the waves - Millennium Film Workshop, New York.</a>
-</li>
-<li>
-  <a target="_blank"  href="https://www.aisthesislab.art/?pgid=ml6vhhrh-84e528c3-6d90-443e-82a5-1e67d5f9412f">Terminus Recoded </a> - <a target="_blank"  href="https://thewrong.org/Metatopia">The Wrong Biennale Pavilion.</a>
-</li>
-<li>
-  <a target="_blank"  href="https://thedistanceofblue.com/work/thonis-heracleion-peaceful-beneath-the-waves">Thonis-Heracleion, peaceful beneath the waves</a> - <a target="_blank"  href="https://thewrong.org/TheDistanceOfBlue/">The Wrong Biennale.</a>
-</li>
-  <li>
-    <a target="_blank" href="https://musel.consaq.it/2025/10/01/elettroaqustica10/">Noise for Waves & Grains - IEEE IoS at ElettroAQustica Festival, L'Aquila.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://www.ucc.ie/en/future-humanities/news/stephen-roddy-to-debut-new-musical-work-at-amicad-2025.html">Bacteriophage in Granular Waves - AM.ICAD 2025, Coimbra.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://www.ucc.ie/en/future-humanities/news/dr-stephen-roddys-musical-works-performed-for-alternating-current-2025.html">Signal to Noise Loops, The Good Ship Hibernia, & Dublin City noise Loops. Alternating Current Festival 2025: Urban Scores. Dublin.</a>
-  </li>
-</ul>
+## Recent & Upcoming Performances & Installations
 
-View [Full Performances](/research)
+- [Bacteriophage in Granular Waves — xCoAx, Torino.](https://xcoax.org/)
+- [Thonis-Heracleion, peaceful beneath the waves — Millennium Film Workshop, New York.](https://www.millenniumfilm.org/event-details/the-distance-of-blue)
+- [Terminus Recoded](https://www.aisthesislab.art/?pgid=ml6vhhrh-84e528c3-6d90-443e-82a5-1e67d5f9412f) — [The Wrong Biennale Pavilion.](https://thewrong.org/Metatopia)
+- [Thonis-Heracleion, peaceful beneath the waves](https://thedistanceofblue.com/work/thonis-heracleion-peaceful-beneath-the-waves) — [The Wrong Biennale.](https://thewrong.org/TheDistanceOfBlue/)
+- [Noise for Waves & Grains — IEEE IoS at ElettroAQustica Festival, L'Aquila.](https://musel.consaq.it/2025/10/01/elettroaqustica10/)
+- [Bacteriophage in Granular Waves — AM.ICAD 2025, Coimbra.](https://www.ucc.ie/en/future-humanities/news/stephen-roddy-to-debut-new-musical-work-at-amicad-2025.html)
+- [Signal to Noise Loops, The Good Ship Hibernia, & Dublin City Noise Loops — Alternating Current Festival 2025: Urban Scores, Dublin.](https://www.ucc.ie/en/future-humanities/news/dr-stephen-roddys-musical-works-performed-for-alternating-current-2025.html)
 
+View [All Practice-based Outputs](/music/pracRes)
 
-<p><strong>Key Releases</strong></p>
-<ul>
-  <li>
-    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto). On Fiadh Productions 2025.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://fiadh.bandcamp.com/album/stardust-sonata">Stardust Sonata. On Fiadh Productions 2024.</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://stephenroddy.bandcamp.com/album/leviathan">Leviathan. On Fiadh Productions 2023.</a>
-  </li>
-</ul>
+## Key Releases
 
-View [All Releases](/research)
+- [Corpus/Mimesis by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto. On Fiadh Productions, 2025.](https://stephenroddy.bandcamp.com/album/corpus-mimesis)
+- [Stardust Sonata. On Fiadh Productions, 2024.](https://fiadh.bandcamp.com/album/stardust-sonata)
+- [Leviathan. On Fiadh Productions, 2023.](https://stephenroddy.bandcamp.com/album/leviathan)
 
+View [All Releases](/music/music)
 
-See [Research CV](/research) for a complete record [here](/research)
+---
 
+## Institutional Roles
+
+### Current
+
+- Researcher in the [Radical Humanities Laboratory](https://www.ucc.ie/en/future-humanities/radicalhumanitieslaboratory/) at [UCC](https://www.ucc.ie).
+- Lecturer in the [Department of Digital Humanities](https://www.ucc.ie/en/dah/) at [UCC](https://www.ucc.ie).
+- Programme Director of the [MA in Digital Arts & Humanities](https://www.ucc.ie/en/cke09/) at [UCC](https://www.ucc.ie).
+- Member of the [Future Humanities Institute](https://www.ucc.ie/en/future-humanities/) at [UCC](https://www.ucc.ie).
+
+### Previous
+
+- Assistant Professor (Digital Arts) in the [Department of Film](https://www.tcd.ie/creativearts/disciplines/film/) at [Trinity College Dublin](https://www.tcd.ie/).
+- Postdoctoral Fellow in the [Department of Electronic & Electrical Engineering](https://www.tcd.ie/eleceng/) at [Trinity College Dublin](https://www.tcd.ie/).
+- Lecturer on the [Music and Media Technologies](https://www.tcd.ie/eleceng/mmt/) course at [Trinity College Dublin](https://www.tcd.ie/).
+- Government of Ireland Postdoctoral Fellow at the [Irish Research Council](http://research.ie/).
+- Member of the [Orthogonal Methods Group (OMG)](https://connectcentre.ie/omg) at the Connect Centre, Trinity College Dublin.
+- Postdoctoral researcher at the [CONNECT Centre](https://connectcentre.ie/news/connects-stephen-roddy-to-present-at-computer-simulated-of-musical-creativity-conference-in-ucd/), [Trinity College Dublin](https://www.tcd.ie/).
 ---
