@@ -97,4 +97,4 @@ You can listen to the album above and read about the concepts explored in Leviat
 
 <br />
 
-#### [For earlier releases please visit bandcamp](https://stephenroddy.bandcamp.com)
+### [For earlier releases please visit bandcamp](https://stephenroddy.bandcamp.com)
