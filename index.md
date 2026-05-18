@@ -10,7 +10,6 @@ Stephen maintains an active artistic practice that is central to his research ac
 
 - [Internet of Sounds sonification system — IEEE Communications Magazine](https://doi.org/10.1109/MCOM.001.2400154)
 - [On-device sonification for soil moisture monitoring — IEEE IoS 2025](https://doi.org/10.1109/IS264627.2025.11284675)
-- [Embodied soundscape sonification framework — IJHCI](https://doi.org/10.1080/10447318.2024.2429757)
 - [Synthetic virology data sonification — Leonardo](https://doi.org/10.1162/LEON.a.2583)
 
 View [Full Publications](/research/research)
