@@ -19,11 +19,7 @@ View [Full Publications](/research/research)
 
 - [Bacteriophage in Granular Waves — xCoAx, Torino.](https://xcoax.org/)
 - [Thonis-Heracleion, peaceful beneath the waves — Millennium Film Workshop, New York.](https://www.millenniumfilm.org/event-details/the-distance-of-blue)
-- [Terminus Recoded](https://www.aisthesislab.art/?pgid=ml6vhhrh-84e528c3-6d90-443e-82a5-1e67d5f9412f) — [The Wrong Biennale Pavilion.](https://thewrong.org/Metatopia)
-- [Thonis-Heracleion, peaceful beneath the waves](https://thedistanceofblue.com/work/thonis-heracleion-peaceful-beneath-the-waves) — [The Wrong Biennale.](https://thewrong.org/TheDistanceOfBlue/)
 - [Noise for Waves & Grains — IEEE IoS at ElettroAQustica Festival, L'Aquila.](https://musel.consaq.it/2025/10/01/elettroaqustica10/)
-- [Bacteriophage in Granular Waves — AM.ICAD 2025, Coimbra.](https://www.ucc.ie/en/future-humanities/news/stephen-roddy-to-debut-new-musical-work-at-amicad-2025.html)
-- [Signal to Noise Loops, The Good Ship Hibernia, & Dublin City Noise Loops — Alternating Current Festival 2025: Urban Scores, Dublin.](https://www.ucc.ie/en/future-humanities/news/dr-stephen-roddys-musical-works-performed-for-alternating-current-2025.html)
 
 View [All Practice-based Outputs](/music/pracRes)
 
