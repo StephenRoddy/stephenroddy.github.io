@@ -91,8 +91,10 @@ You can listen to the album above and read about the concepts explored in Leviat
 <br />
 <strong>Available here:</strong>
 
-* [Leviathan - Stephen Roddy ](https://stephenroddy.bandcamp.com/album/leviathan)
+* [Leviathan - Stephen Roddy](https://stephenroddy.bandcamp.com/album/leviathan)
 * [Leviathan on Fiadh Productions](https://fiadh.bandcamp.com/album/leviathan)
-* [Casettes from Ratti Incantati ](https://rattiincantati.com/products/stephen-roddy-leviathan?_pos=1&_sid=e4c94a8ba)
+* [Casettes from Ratti Incantati](https://rattiincantati.com/products/stephen-roddy-leviathan?_pos=1&_sid=e4c94a8ba)
 
 <br />
+
+#### [For earlier releases please visit bandcamp](https://stephenroddy.bandcamp.com)
