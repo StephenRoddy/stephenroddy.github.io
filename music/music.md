@@ -96,5 +96,4 @@ You can listen to the album above and read about the concepts explored in Leviat
 * [Casettes from Ratti Incantati](https://rattiincantati.com/products/stephen-roddy-leviathan?_pos=1&_sid=e4c94a8ba)
 
 <br />
-
 ### [For earlier releases please visit bandcamp](https://stephenroddy.bandcamp.com)
