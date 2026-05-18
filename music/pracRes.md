@@ -251,23 +251,23 @@
 
 ## Discography: Albums / EPs
 
-39. **[Corpus/Mimesis](https://stephenroddy.bandcamp.com/album/corpus-mimesis)** — 2025 — Label: Fiadh Productions, FP489.
+39. **[Corpus/Mimesis w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.](https://stephenroddy.bandcamp.com/album/corpus-mimesis)** — 2025 — Label: Fiadh Productions, FP489.
 
-    39.1 **Corpus**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
-    39.2 **21, 7 & 3**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
-    39.3 **Neuf**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
-    39.4 **Quinze**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
-    39.5 **Dix-huit**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
-    39.6 **Vingt-et-un**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
-    39.7 **Vingt-deux**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
-    39.8 **Vingt-quatre**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
-    39.9 **Vingt-sept**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
-    39.10 **Trente-deux**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
-    39.11 **Quarante-cinq**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
-    39.12 **Quarante-six**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
-    39.13 **Quarante-sept**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
-    39.14 **Cinquante-et-un**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
-    39.15 **15, 22, 27, 32, 45, 46 & 9**  w/AMAE, Pier Giorgio De Pinto & Jean-Luc Nancy.
+    39.1 **Corpus**  
+    39.2 **21, 7 & 3**  
+    39.3 **Neuf**  
+    39.4 **Quinze**  
+    39.5 **Dix-huit**  
+    39.6 **Vingt-et-un**  
+    39.7 **Vingt-deux**  
+    39.8 **Vingt-quatre**  
+    39.9 **Vingt-sept**  
+    39.10 **Trente-deux**  
+    39.11 **Quarante-cinq**  
+    39.12 **Quarante-six**  
+    39.13 **Quarante-sept**  
+    39.14 **Cinquante-et-un**  
+    39.15 **15, 22, 27, 32, 45, 46 & 9**  
 
 40. **[Stardust Sonata](https://stephenroddy.bandcamp.com/album/stardust-sonata)** — 2024 — Label: Fiadh Productions, FP294.
 
