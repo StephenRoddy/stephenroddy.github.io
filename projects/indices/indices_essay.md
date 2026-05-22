@@ -105,10 +105,6 @@ _- Jean-Luc Nancy, The Intruder, 2000_
 
 ** **
 
-<img src="images/somewhere.png?raw=true"/><br/>
-
-** **
-
 The following year I produced one final iteration of the installation for the 2022 International Computer Music Conference at the Irish World Academy, at the University of Limerick [^11].
 In its exploration of the body, Corpus concerns itself, at different points, with themes of rhythm, noise, cycles, discontinuities, overlapping harmonies and, critically, the voice. 
 
