@@ -46,16 +46,16 @@ I tracked down a copy of Corpus and immersed myself in it for a week, listening 
 
 ** **
 
-> 21. A body is a difference. Since it is a difference from every other body-while minds are identical-it's never done with differing. It also differs from itself. How are we to ponder a baby and an old man next to one another?
+> /21. A body is a difference. Since it is a difference from every other body-while minds are identical-it's never done with differing. It also differs from itself. How are we to ponder a baby and an old man next to one another?
 
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1909571448/size=small/bgcol=ffffff/linkcol=0687f5/track=1923905273/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy</a></iframe>
 
 ** **
 
-> 7. The soul is extended everywhere along the body, says Descartes; it is entirely everywhere all along it, on its very surface, insinuated within it and slipped into it, infiltrated, impregnating, tentacular, inflating, modeling, omnipresent.
+> /7. The soul is extended everywhere along the body, says Descartes; it is entirely everywhere all along it, on its very surface, insinuated within it and slipped into it, infiltrated, impregnating, tentacular, inflating, modeling, omnipresent.
 
-> 3. A body isn't empty. It's full of other bodies, pieces, organs, parts, tissues, knee-caps, rings, tubes, levers, and bellows. It's also full of itself: that's all it is. 
+> /3. A body isn't empty. It's full of other bodies, pieces, organs, parts, tissues, knee-caps, rings, tubes, levers, and bellows. It's also full of itself: that's all it is. 
 
 The piece, 21,7 & 3, opens slowly with ethereal wisps of voice heralding Nancy’s performance before degraded strings piano and percussion enter into the mix in a rhythmic cycle. The distorted timbres, rough edges, and small discontinuities in time, frequency and amplitude present in Nancy’s recordings are carried over into the soundworld. 
 
