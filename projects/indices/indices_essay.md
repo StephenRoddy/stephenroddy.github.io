@@ -3,8 +3,6 @@ By Stephen Roddy
 
 <img src="images/cm.png?raw=true"/><br/>
 
-**Introductory Abstract**
-
 The 2025 release of Corpus/Mimesis marked the culmination of a decade-long sonic engagement with Jean-Luc Nancy’s Corpus. The project developed from AMAE and Pier Giorgio De Pinto’s 58+1(63) Indices on the Body project and centred on Nancy’s recordings of his own readings. In the recordings Nancy is heard reading selections from his fifty-eight indices on the body. This writing explores a series of short reflections that engage the bodily themes of rhythm, noise, cycles, discontinuities, overlapping harmonies and, critically: the voice. 
 
 Between 2014 and 2022 I worked with these recordings to produce a series of compositions and installations. Initial composition efforts produced work for the 58+1(63) Indices on the Body project while the pieces the following pieces extended the work in new directions. Each index is enfolded in a unique soundworld that both reflects and elaborates upon Nancy's statements, embodying the rich layers of meaning that inhere in his work through the medium of sound. The essay text generates points of harmony and dissonance against the sonic material, surfacing the research work involved in producing such highly personal sonic horizon. The reader is encouraged to listen, as a mode of reading, while the listener is asked to read as words as music, such that an intermedial space that might spotlight the meaning-making body as at once the sonorous receiver and active retriever of Nancy's layered transmission may be constructed and realised.
