@@ -18,12 +18,14 @@ _- Jean-Luc Nancy, Corpus, 2008 [^1]_
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1909571448/size=small/bgcol=ffffff/linkcol=0687f5/track=962052845/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy</a></iframe>
 
+** **
 
 In 2012 AMAE and Pier Giorgio De Pinto began collaborating on their project 58+1(63) Indices on the Body [^2]. This project focuses on the 58 indices on the body, written in 2006 by philosopher Jean-Luc Nancy and incorporated, alongside 4 new compositions, into Richard A. Rand’s 2008 translation of Nancy’s 1992 book Corpus. The first performance took place in June 2013 at the Kommunales Kino Gallery in Freiburg for the SPUREN 2.0 Symposium [^3] by MBODY Research.
 
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1909571448/size=small/bgcol=ffffff/linkcol=0687f5/track=2971494212/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy</a></iframe>
 
+** **
 
 Nancy agreed to take part in the performance commenting at the time:
 > “When I watched the performance by Amae/De Pinto, it made me understand why I wrote the essay of the 58 indices… On the basis of what I had the opportunity to see in this performance, I find it is a text to which I ought to add something. If in due course you manage to present all the indices, the entire project… that would be splendid.” [^4] 
@@ -31,6 +33,7 @@ Nancy agreed to take part in the performance commenting at the time:
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1909571448/size=small/bgcol=ffffff/linkcol=0687f5/track=2891217760/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy</a></iframe>
 
+** **
 
 At Freiburg, Nancy became an active collaborator in the project, he recorded himself reading, performing, each of his original 58 indices and produced 4 additional indices 60-63, specifically for the project. 
 
@@ -41,12 +44,14 @@ I tracked down a copy of Corpus and immersed myself in it for a week, listening 
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1909571448/size=small/bgcol=ffffff/linkcol=0687f5/track=3136148763/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy</a></iframe>
 
+** **
 
 > 21. A body is a difference. Since it is a difference from every other body-while minds are identical-it's never done with differing. It also differs from itself. How are we to ponder a baby and an old man next to one another?
 
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1909571448/size=small/bgcol=ffffff/linkcol=0687f5/track=1923905273/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy</a></iframe>
 
+** **
 
 > 7. The soul is extended everywhere along the body, says Descartes; it is entirely everywhere all along it, on its very surface, insinuated within it and slipped into it, infiltrated, impregnating, tentacular, inflating, modeling, omnipresent.
 
@@ -57,6 +62,7 @@ The piece, 21,7 & 3, opens slowly with ethereal wisps of voice heralding Nancy�
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1909571448/size=small/bgcol=ffffff/linkcol=0687f5/track=34707305/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy</a></iframe>
 
+** **
 
 <img src="images/12186271_1116088238416382_7289188895621671914_o.jpg?raw=true"/><br/>
 <i>Credit: Pier Giorgio De Pinto</i>
@@ -68,24 +74,28 @@ With the encouragement of AMAE & Pier Giorgio I planned a further series of work
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1909571448/size=small/bgcol=ffffff/linkcol=0687f5/track=2547873548/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy</a></iframe>
 
+** **
 
 My composition for Index 24 was incorporated back into the 58+1(63) Indices on the Body project alongside works by other composers  [^6]. 
 
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1909571448/size=small/bgcol=ffffff/linkcol=0687f5/track=1564771698/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy</a></iframe>
 
+** **
 
 Throughout 2018 I developed a multimedia installation that incorporated and reacted to the pieces. I was particularly interested in what happens to the body when we begin to rely heavily on translations across disembodied sonic technologies to mediate our communication and art-making and this central theme was explored in subsequent iterations of the installation. 
 
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1909571448/size=small/bgcol=ffffff/linkcol=0687f5/track=1832938752/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy</a></iframe>
 
+** **
 
 The first iteration was installed on-site for the 2019 Irish Sound Science and Technology Conference at the Cork School of Music [^7]. During the COVID years two further iterations were installed online for NIME: The International Conference on New Interfaces for Musical Expression at Birmingham (moved online for COVID) in 2020 [^8] and for [xCoAx the 9th Conference on Computation, Communication, Aesthetics & X](/files/xCoAx2021-Roddy.pdf) in July of 2021 [^9], [^10]. Jean-Luc passed away in August of 2021. 
 
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1909571448/size=small/bgcol=ffffff/linkcol=0687f5/track=1754950584/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy</a></iframe>
 
+** **
 
 >  "We need only remark that humanity was never ready for any phase of this question and that its unreadiness for death is nothing but death itself: its stroke and its injustice"
 _- Jean-Luc Nancy, The Intruder, 2000_
@@ -93,9 +103,11 @@ _- Jean-Luc Nancy, The Intruder, 2000_
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1909571448/size=small/bgcol=ffffff/linkcol=0687f5/track=1383570522/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy</a></iframe>
 
+** **
 
 <img src="images/somewhere.png?raw=true"/><br/>
 
+** **
 
 The following year I produced one final iteration of the installation for the 2022 International Computer Music Conference at the Irish World Academy, at the University of Limerick [^11].
 In its exploration of the body, Corpus concerns itself, at different points, with themes of rhythm, noise, cycles, discontinuities, overlapping harmonies and, critically, the voice. 
@@ -103,18 +115,18 @@ In its exploration of the body, Corpus concerns itself, at different points, wit
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1909571448/size=small/bgcol=ffffff/linkcol=0687f5/track=3575362590/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy</a></iframe>
 
+** **
 
 The pieces here explores these notions within the broader framework of Nancy’s conception of ‘the body’ as it is set up with/against his conception of ‘mimesis’. The tracks represent a celebration of the life and work of Jean-Luc Nancy and the final fulfillment of this project for me. 
 
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1909571448/size=small/bgcol=ffffff/linkcol=0687f5/track=1025997232/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy</a></iframe>
 
+** **
 
 My encounter with Corpus, and my experience working with the Indices on the Body, has profoundly shaped my thinking and the manner in which I approach my artistic practice. I have loved, and will deeply miss, working on this project. It has been such an ease and a joy. In that sense this is also a thank you to Jean-Luc and to Ivan (from AMAE) and Pier Giorgio for including me in the project way back at Helicotrema 2015, and for so graciously allowing me to work with this material in my own practice since then. In 2025, a decade. after the project began, I gathered all of these pieces from across the different iterations of the project. I released them on limited run of 25 casette tapes through the ever wonderful [Fiadh Productions](https://fiadh.bandcamp.com/) [^12], a label dedicated to surfacing the beauty in dysfunction. This digital sonic essay we've been working our way through here is another, final, way of marking and honoring an extraordinary project.
 
-
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1909571448/size=small/bgcol=ffffff/linkcol=0687f5/track=2717819127/transparent=true/" seamless><a href="https://stephenroddy.bandcamp.com/album/corpus-mimesis">Corpus/Mimesis by Stephen Roddy</a></iframe>
-
+** **
 
 ## References
 
