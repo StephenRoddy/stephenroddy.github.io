@@ -4,7 +4,7 @@ Stephen extends sonification, the representation of data with sound, into a crit
 
 Stephen maintains an active artistic practice that is central to his research activity, providing a practice-led research context for developing and critically examining the technical systems investigated in his written work. His practice includes music composition and performance, generative and data-driven music, and sound art installation and performance. His recent musical releases, including [Leviathan](https://stephenroddy.bandcamp.com/album/leviathan), [Stardust Sonata](https://fiadh.bandcamp.com/album/stardust-sonata), and [Corpus/Mimesis](https://stephenroddy.bandcamp.com/album/corpus-mimesis), a collaboration with AMAE, Pier Giorgio De Pinto, and the late philosopher Jean-Luc Nancy, are available through [Fiadh Productions](https://fiadh.bandcamp.com/). Recent performances and installations of his work have included the ElettroAQustica 10 festival in L'Aquila, the New York City Electroacoustic Music Festival, and the Earth Rising Festival at the Irish Museum of Modern Art.
 
----
+--
 
 ## Featured Research
 
