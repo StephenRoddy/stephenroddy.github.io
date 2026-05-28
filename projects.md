@@ -23,8 +23,8 @@
 <img src="images/tabs/ab_no.png?raw=true"/>
 </a>
 
-[Indices on the Body](/projects/indices/indices_audio)<br />
-<a href="/projects/indices/indices_audio">
+[Indices on the Body](/projects/indices/indices_essay)<br />
+<a href="/projects/indices/indices_essay">
 <img src="images/tabs/INDXtab.png?raw=true"/>
 </a>
 
