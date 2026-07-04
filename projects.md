@@ -3,27 +3,22 @@
 
 ---
 
-[Musical Cybernetics w/Artificial Intelligence & Machine Learning](/projects/AI_MUS/AI_MUS)<br />
-<a href="/projects/AI_MUS/AI_MUS">
-<img src="images/tabs/AItab.png?raw=true"/>
-</a>
-
-[Communication Networks Sonification](/projects/ad_iot/ad_iot)<br />
-<a href="/projects/ad_iot/ad_iot">
-<img src="images/tabs/ADIOTtab3.png?raw=true"/>
-</a>
-
-[Generative Music Systems](/projects/s2nl/s2nl_project)<br />
+[Signal to Noise Loops](/projects/s2nl/s2nl_project)<br />
 <a href="/projects/s2nl/s2nl_project">
 <img src="images/tabs/DATAtab.png?raw=true"/>
 </a>
 
-[Aesthetics of Nothingness](/projects/ab_no/ab_no)<br />
-<a href="/projects/ab_no/ab_no">
-<img src="images/tabs/ab_no.png?raw=true"/>
+[Critical AI & Machine Music](/projects/AI_MUS/AI_MUS)<br />
+<a href="/projects/AI_MUS/AI_MUS">
+<img src="images/tabs/AItab.png?raw=true"/>
 </a>
 
-[Indices on the Body](/projects/indices/indices_essay)<br />
+[Internet of Sounds Sonification Systems](/projects/ad_iot/ad_iot)<br />
+<a href="/projects/ad_iot/ad_iot">
+<img src="images/tabs/ADIOTtab3.png?raw=true"/>
+</a>
+
+[Corpus/Mimesis & Jean-Luc Nancy Works](/projects/indices/indices_essay)<br />
 <a href="/projects/indices/indices_essay">
 <img src="images/tabs/INDXtab.png?raw=true"/>
 </a>
@@ -52,6 +47,12 @@
 <a href="/projects/data-scape/data-scape">
 <img src="images/tabs/dsTab2.png?raw=true"/>
 </a>
+
+[Aesthetics of Nothingness](/projects/ab_no/ab_no)<br />
+<a href="/projects/ab_no/ab_no">
+<img src="images/tabs/ab_no.png?raw=true"/>
+</a>
+
 
 <br />
 
