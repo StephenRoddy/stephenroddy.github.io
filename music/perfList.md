@@ -4,7 +4,7 @@
 
 <ul>
 <li>
-    <a target="_blank" href="https://xcoax.org/">Bacteriophage in Granular Waves. xCoAx 2026, Torino, July 2026.</a>
+    <a target="_blank" href="https://2026.xcoax.org/">Bacteriophage in Granular Waves. xCoAx 2026, Torino, July 2026.</a>
   </li>
 
   <li><a target="_blank"  href="https://www.millenniumfilm.org/event-details/the-distance-of-blue">

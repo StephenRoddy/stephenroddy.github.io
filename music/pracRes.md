@@ -6,7 +6,7 @@
 
    _Performances / installations:_
 
-   - [xCoAx 2026, Torino, July 2026.](https://xcoax.org/)
+   - [xCoAx 2026, Torino, July 2026.](https://2026.xcoax.org/)
    - [AM.ICAD 2025 Joint Conference of Audio Mostly and the ICAD, Coimbra, Portugal, July 2025.](https://www.ucc.ie/en/future-humanities/news/stephen-roddy-to-debut-new-musical-work-at-amicad-2025.html)
 
 2. **Thonis-Heracleion, peaceful beneath the waves** — 2023/2024/2025/2026.
