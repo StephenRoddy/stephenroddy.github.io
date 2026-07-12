@@ -101,6 +101,9 @@
 <i>Short Papers</i>
 <ul>
   <li>
+    <a target="_blank" href="https://2026.xcoax.org/pdf/roddy.pdf">Roddy (2026). Bacteriophage in Granular Waves. In the Proceedings of 14th Conference on Computation, Communication, Aesthetics & X 8–10 July 2026 Torino, Italy</a>
+  </li>
+  <li>
     <a target="_blank" href="https://research.ucc.ie/ws/portalfiles/portal/46033578/Bacteriophage_in_Granular_Waves_SR.pdf">Roddy, S. (2025). Bacteriophage in Granular Waves: Programme notes. At the Audio Mostly & ICAD Joint Conference Companion Proceedings, 30 June–July 2025, Coimbra, Portugal.</a>
   </li>
   <li>
