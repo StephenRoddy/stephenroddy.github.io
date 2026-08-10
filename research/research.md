@@ -67,6 +67,12 @@
 <i>Full Papers</i>
 <ul>
   <li>
+  <a target="_blank" href="https://internetofsounds2026.ieee-internetofsounds.org/">Roddy, S. (Forthcoming-2026). Sonifiying I²S Transport Signals to Detect Transmission Faults. In Proceedings of the 7th IEEE International Symposium on the Internet of Sounds.</a>
+</li>
+  <li>
+  <a target="_blank" href="https://internetofsounds2026.ieee-internetofsounds.org/">Roddy, S., Lenzi, S., Rönnberg, N., Walker, B. (Forthcoming-2026). A Roadmap for Sonification in the Internet of Sounds. In Proceedings of the 7th IEEE International Symposium on the Internet of Sounds.</a>
+</li>
+  <li>
     <a target="_blank" href="https://doi.org/10.1109/IS264627.2025.11284675">Roddy, S. (2025). On-device Internet of Sounds Sonification with Wavetable Synthesis Techniques for Soil Moisture Monitoring in Water Scarcity Contexts. In Proceedings of the 6th IEEE International Symposium on the Internet of Sounds.</a>
   </li>
   <li>
