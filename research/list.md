@@ -93,7 +93,7 @@
 
 <ul>
 <li>
-  <a target="_blank" href="https://internetofsounds2026.ieee-internetofsounds.org/">Roddy, S. (Forthcoming-2026). Sonifiying I²S Transport Signals to Detect Transmission Faults. In Proceedings of the 7th IEEE International Symposium on the Internet of Sounds.</a>
+  <a target="_blank" href="https://arxiv.org/abs/2608.16498">Roddy, S. (Forthcoming-2026). Sonifiying I²S Transport Signals to Detect Transmission Faults. In Proceedings of the 7th IEEE International Symposium on the Internet of Sounds.</a>
 </li>
 <li>
   <a target="_blank" href="https://internetofsounds2026.ieee-internetofsounds.org/">Roddy, S., Lenzi, S., Rönnberg, N., Walker, B. (Forthcoming-2026). A Roadmap for Sonification in the Internet of Sounds. In Proceedings of the 7th IEEE International Symposium on the Internet of Sounds.</a>
