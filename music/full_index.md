@@ -204,6 +204,14 @@ A mixed-methods paper presenting a sonification system for synthetic virology da
 <p>Recent/Forthcoming Performances & Installations:</p>
 
 <ul>
+  <li>
+    <a target="_blank" href="https://internetofsounds2026.ieee-internetofsounds.org/">Bacteriophage in Granular Waves. IEEE Internetional Symposium on the Internet of Sounds 2026, Cannes, October 2026.</a>
+  </li>
+  
+ <li>
+    <a target="_blank" href="https://radiophrenia.scot/">Jean-Luc Nancy Indices 21, 7 and 3. w/AMAE/De Pinto and Jean-Luc Nancy. Radiophrenia 2026, Glasgow, Septeember 18th & 19th 2026.</a>
+  </li>
+
 <li>
     <a target="_blank" href="https://xcoax.org/">Bacteriophage in Granular Waves. xCoAx 2026, Torino, July 2026.</a>
   </li>

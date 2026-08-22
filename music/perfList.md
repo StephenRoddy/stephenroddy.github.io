@@ -3,8 +3,18 @@
 <p>Recent/Forthcoming Performances & Installations:</p>
 
 <ul>
+  <li>
+    <a target="_blank" href="https://internetofsounds2026.ieee-internetofsounds.org/">Bacteriophage in Granular Waves. IEEE Internetional Symposium on the Internet of Sounds 2026, Cannes, October 2026.</a>
+  </li>
+  
+ <li>
+    <a target="_blank" href="https://radiophrenia.scot/">Jean-Luc Nancy Indices 21, 7 and 3. w/AMAE/De Pinto and Jean-Luc Nancy. Radiophrenia 2026, Glasgow, Septeember 18th & 19th 2026.</a>
+  </li>
+  <li>
+    <a target="_blank" href="https://internetofsounds2026.ieee-internetofsounds.org/">Bacteriophage in Granular Waves. IEEE Internetional Symposium on the Internet of Sounds 2026, Cannes, October 2026.</a>
+  </li>
 <li>
-    <a target="_blank" href="https://2026.xcoax.org/">Bacteriophage in Granular Waves. xCoAx 2026, Torino, July 2026.</a>
+    <a target="_blank" href="https://2026.xcoax.org/">Bacteriophage in Granular Waves. xCoAx 2026, Torino, Italy, July 2026.</a>
   </li>
 
   <li><a target="_blank"  href="https://www.millenniumfilm.org/event-details/the-distance-of-blue">
@@ -93,7 +103,7 @@
     <a target="_blank" href="http://issta.ie/">58 Indices On The Body: A Reflection on Translations through Language, Technology and Sounds - Selected Indices Soundworks and Musical Pieces w/Sentiment Analysis. @ ISSTA 2019, Cork School of Music October 2019.</a>
   </li>
   <li>
-    <a target="_blank" href="https://58indicesonthebody.wordpress.com/2015/11/18/amaede-pinto-at-pinault-foundation-punta-della-dogana-venice/">Jean Luc Nancy Indices 21 7 and 3</a> <a target="_blank" href="https://58indicesonthebody.wordpress.com/2015/11/18/amaede-pinto-at-pinault-foundation-punta-della-dogana-venice/">w/AMAE/De Pinto and Jean Luc Nancy @ Helicotrema Recorded Audio Festival, Pinault Foundation, Punta Della Dogana/Palazzo Grassi, November 4th 2015.</a>
+    <a target="_blank" href="https://58indicesonthebody.wordpress.com/2015/11/18/amaede-pinto-at-pinault-foundation-punta-della-dogana-venice/">Jean-Luc Nancy Indices 21, 7 & 3</a> <a target="_blank" href="https://58indicesonthebody.wordpress.com/2015/11/18/amaede-pinto-at-pinault-foundation-punta-della-dogana-venice/">w/AMAE/De Pinto and Jean-Luc Nancy @ Helicotrema Recorded Audio Festival, Pinault Foundation, Punta Della Dogana/Palazzo Grassi, November 4th 2015.</a>
   </li>
 </ul>
 

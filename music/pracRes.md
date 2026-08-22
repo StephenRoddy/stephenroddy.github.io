@@ -2,10 +2,11 @@
 
 ### Music Compositions, Performances & Installations
 
-1. **Bacteriophage in Granular Waves** — 2025; upcoming 2026.
+1. **Bacteriophage in Granular Waves** — 2025/2026 & upcoming 2026.
 
    _Performances / installations:_
-
+ 
+   - [IEEE Internet of Sounds, Cannes, Octobr 2026.](https://internetofsounds2026.ieee-internetofsounds.org/)
    - [xCoAx 2026, Torino, July 2026.](https://2026.xcoax.org/)
    - [AM.ICAD 2025 Joint Conference of Audio Mostly and the ICAD, Coimbra, Portugal, July 2025.](https://www.ucc.ie/en/future-humanities/news/stephen-roddy-to-debut-new-musical-work-at-amicad-2025.html)
 
@@ -106,6 +107,7 @@
 
     _Performances / installations:_
 
+    
     - [International Computer Music Conference, Limerick, Ireland, 2022.](https://icmc2022.org/)
     - [xCoAx 2021, Graz and online, July 12–16, 2021.](https://2021.xcoax.org/sro/)
 
@@ -121,10 +123,11 @@
 
     - [Selected Indices Soundworks and Musical Pieces with Sentiment Analysis, ISSTA 2019, Cork School of Music, October 2019.](http://issta.ie/)
 
-18. **Jean-Luc Nancy Indices 21, 7 and 3** — 2015.
+18. **Jean-Luc Nancy Indices 21, 7 and 3** — 2015 & 2026.
 
     _Performances / installations:_
 
+    - [With AMAE/De Pinto and Jean-Luc Nancy, Radiophrenia Radio Art Festival, Glasgow, September 18th & 19th, 2026.](https://radiophrenia.scot/)
     - [With AMAE/De Pinto and Jean-Luc Nancy, Helicotrema Recorded Audio Festival, Pinault Foundation, Punta Della Dogana / Palazzo Grassi, November 4, 2015.](https://58indicesonthebody.wordpress.com/2015/11/18/amaede-pinto-at-pinault-foundation-punta-della-dogana-venice/)
 
 #### Zones Collection
