@@ -1,4 +1,4 @@
-# Media Engineering x Experimental Music
+## Media Engineering x Experimental Music
 
 Dr. Stephen Roddy is a critical sound and music computing researcher developing auditory interfaces for complex data. His work combines media engineering methods with experimental music practices to explore how sound can make opaque data infrastructures perceptible, analysable, and reconfigurable. He is currently focused on sonification for the [Internet of Sounds (IoS)](https://internetofsounds.net/) and *[viral intelligence](https://www.ucc.ie/en/dah/news/viral-intelligence-at-the-14th-conference-on-computation-communication-aesthetics--x.html)* as a post-neural paradigm for generative artificial intelligence. Stephen approaches this work through the lens of [critical technical practice](https://journals.sagepub.com/doi/10.1177/13548565231192105) with a theoretical grounding in cybernetics, human-computer interaction, embodied cognitive science, and critical posthumanism. He holds a PhD in Engineering from Trinity College Dublin and he is a member of the Radical Humanities Laboratory at University College Cork, where he lectures in the Department of Digital Humanities.
 
@@ -8,7 +8,7 @@ Stephen maintains an active artistic practice that is central to his research ac
 
 ---
 
-## Featured Research
+### Featured Research
 
 - [Internet of Sounds sonification system — IEEE Communications Magazine](https://doi.org/10.1109/MCOM.001.2400154)
 - [On-device sonification for soil moisture monitoring — IEEE IoS 2025](https://doi.org/10.1109/IS264627.2025.11284675)
@@ -16,7 +16,7 @@ Stephen maintains an active artistic practice that is central to his research ac
 
 View [Full Publications](/research/research)
 
-## Recent & Upcoming Performances & Installations
+### Recent & Upcoming Performances & Installations
 
 - [Bacteriophage in Granular Waves — xCoAx, Torino.](https://xcoax.org/)
 - [Thonis-Heracleion, peaceful beneath the waves — Millennium Film Workshop, New York.](https://www.millenniumfilm.org/event-details/the-distance-of-blue)
@@ -24,7 +24,7 @@ View [Full Publications](/research/research)
 
 View [All Practice-based Outputs](/music/pracRes)
 
-## Key Releases
+### Key Releases
 
 - [Corpus/Mimesis by Stephen Roddy feat. Jean-Luc Nancy, AMAE & DePinto. On Fiadh Productions, 2025.](https://stephenroddy.bandcamp.com/album/corpus-mimesis)
 - [Stardust Sonata. On Fiadh Productions, 2024.](https://fiadh.bandcamp.com/album/stardust-sonata)
@@ -34,16 +34,16 @@ View [All Releases](/music/music)
 
 ---
 
-## Institutional Roles
+### Institutional Roles
 
-### Current
+#### Current
 
 - Researcher in the [Radical Humanities Laboratory](https://www.ucc.ie/en/future-humanities/radicalhumanitieslaboratory/) at [UCC](https://www.ucc.ie).
 - Lecturer in the [Department of Digital Humanities](https://www.ucc.ie/en/dah/) at [UCC](https://www.ucc.ie).
 - Programme Director of the [MA in Digital Arts & Humanities](https://www.ucc.ie/en/cke09/) at [UCC](https://www.ucc.ie).
 - Member of the [Future Humanities Institute](https://www.ucc.ie/en/future-humanities/) at [UCC](https://www.ucc.ie).
 
-### Previous
+#### Previous
 
 - Assistant Professor (Digital Arts) in the [Department of Film](https://www.tcd.ie/creativearts/disciplines/film/) at [Trinity College Dublin](https://www.tcd.ie/).
 - Postdoctoral Fellow in the [Department of Electronic & Electrical Engineering](https://www.tcd.ie/eleceng/) at [Trinity College Dublin](https://www.tcd.ie/).
