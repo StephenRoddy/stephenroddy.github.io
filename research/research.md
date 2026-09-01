@@ -154,6 +154,9 @@
 <p><strong>Culture & Technology Writing</strong></p>
 <ul>
   <li>
+    <a target="_blank" href="https://www.thewire.co.uk/issues/512">Listening in the Shadow of Palantir</a> for <a target="_blank" href="https://www.thewire.co.uk/issues/512">TheWire</a> October 2026.  
+  </li>
+  <li>
     <a target="_blank" href="https://doi.org/10.64628/AB.ettg4f5c7">My unsung hero of science: Frank Malina – fearless rocket engineer, groundbreaking artist and communist ‘traitor’</a> for <a target="_blank" href="https://doi.org/10.64628/AB.ettg4f5c7">The Conversation</a> January 2026.  
   </li>
   <li>
