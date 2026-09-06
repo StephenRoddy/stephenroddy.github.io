@@ -192,7 +192,7 @@
     <a target="_blank" rel="noopener noreferrer"
        href="https://music.amazon.com/podcasts/846a2c7a-5067-4e6c-a980-1efa7f4a079f/episodes/2de7f1d9-6f14-4642-b94b-33f9d5f66e84/the-noisy-plug-the-noisy-plug---episode-7">
       <em>Search Party</em>.
-      The Noisy Plug, Episode 7,
+      The Noisy Plug, Episode 7,103.2 Dublin City FM,
       13 May 2020.
     </a>
   </li>
@@ -200,12 +200,6 @@
 
 <h2>2018</h2>
 <ul>
-  <li>
-    <em>Search Party</em>.
-    The Noisy Plug with Hazel Lake,
-    103.2 Dublin City FM, 2018.
-  </li>
-
   <li>
     <a target="_blank" rel="noopener noreferrer"
        href="https://www.facebook.com/GlorMundO/posts/1132493006915777">
@@ -275,14 +269,25 @@
 <ul>
  <li>
   <a target="_blank" rel="noopener noreferrer"
-     href="https://www.rte.ie/radio/lyricfm/nova/episodes/10464474/">
+     href="https://www.rte.ie/lyricfm/nova/programmes/2015/0913/727619-nova-sunday-13-september-2015/">
     <em>Cellular Storm</em>.
     Nova, RTÉ lyric fm, 13 September 2015.
   </a>
 </li>
 
 <li>
-  <em>Symmetric Relations and Hidden Rotations</em>.
-  Nova, RTÉ lyric fm, 20 September 2015.
+  <a target="_blank" rel="noopener noreferrer"
+     href="https://www.rte.ie/lyricfm/nova/programmes/2015/1011/734052-nova-sunday-11-october-2015/">
+    <em>Symmetric Relations and Hidden Rotations</em>.
+    Nova, RTÉ lyric fm, 11 October 2015.
+  </a>
+</li>
+
+<li>
+  <a target="_blank" rel="noopener noreferrer"
+     href="https://www.rte.ie/lyricfm/nova/programmes/2015/1108/740526-nova-sunday-8-november-2015/?clipid=2017805">
+    <em>Extensive Structure No 1</em>.
+    Nova, RTÉ lyric fm, 8 November 2015.
+  </a>
 </li>
 </ul>
