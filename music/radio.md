@@ -1,6 +1,6 @@
 ## Radio Broadcasts
 
-<p>Selected radio broadcasts, airplay, features and interviews.</p>
+<p>Selected radio broadcasts features and interviews.</p>
 
 <h2>2026</h2>
 <ul>
