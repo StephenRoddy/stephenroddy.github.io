@@ -23,6 +23,14 @@ View [Full Publications](/research/research)
 - [Community Spotlight: Stephen Roddy — International Community for Auditory Display, 2022.](https://icad.org/cs-stephen-roddy/) Profile and interview on sonification research, creative practice, and the ICAD Best Use of Sound Award.
 - [Artificial Intelligence — Sonic Darts, Resonance 104.4FM, 2022.](https://sonicdartsshow.medium.com/sonic-darts-artificial-intelligence-93d3b20fc175) Interview on data sonification, artificial intelligence, machine learning, music, and art.
 
+### Selected Media Coverage
+
+- [Bandcamp New & Notable — Leviathan, 2023.](https://stephenroddy.bandcamp.com/album/leviathan) Editorial selection describing the album as "brooding and beautifully unsettling."
+- [Igloo Magazine — Leviathan, 2025.](https://igloomag.com/reviews/stephen-roddy-leviathan) Review of the album's ambient, drone, and experimental soundworlds.
+- [Research Music — Corpus/Mimesis, 2025.](https://researchmusic.blog/p/interim-report-2025) Selected by Antonio Poscic among the best albums released during the first half of 2025.
+- [Avant Music News — Leviathan, 2023.](https://avantmusicnews.com/2024/01/03/avant-music-news-best-of-2023-part-ii-albums-of-the-year/) Selected for Avant Music News' Albums of the Year 2023.
+- [A Closer Listen — Corpus/Mimesis, 2025.](https://acloserlisten.com/2025/03/18/acl-2025-spring-music-preview-experimental/) Featured in the 2025 Spring Experimental Music Preview.
+
 ### Recent & Upcoming Performances & Installations
 
 - [Bacteriophage in Granular Waves — xCoAx, Torino.](https://xcoax.org/)
