@@ -16,6 +16,13 @@ Stephen maintains an active artistic practice that is central to his research ac
 
 View [Full Publications](/research/research)
 
+### Interviews & Features
+
+- [How Sound Could Make Sense of Big Data — IEEE Spectrum, 2026.](https://spectrum.ieee.org/data-sonification-stephen-roddy) Interview with Dina Genkina on sonification, 6G, and the Internet of Sounds.
+- [Stephen Roddy Takeover Show — Shush! Sounds from UCC Library, 2026.](https://soundcloud.com/shush-radio-486769527/shush-313-stephen-roddy) Conversation on research, music, teaching, and the intersections between engineering and sonic arts.
+- [Community Spotlight: Stephen Roddy — International Community for Auditory Display, 2022.](https://icad.org/cs-stephen-roddy/) Profile and interview on sonification research, creative practice, and the ICAD Best Use of Sound Award.
+- [Artificial Intelligence — Sonic Darts, Resonance 104.4FM, 2022.](https://sonicdartsshow.medium.com/sonic-darts-artificial-intelligence-93d3b20fc175) Interview on data sonification, artificial intelligence, machine learning, music, and art.
+
 ### Recent & Upcoming Performances & Installations
 
 - [Bacteriophage in Granular Waves — xCoAx, Torino.](https://xcoax.org/)
