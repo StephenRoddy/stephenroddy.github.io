@@ -715,7 +715,7 @@
 
 <p>Radio</p>
 <ul>
-  <li><a target="_blank" href="https://radiokapital.pl/shows/zaduma/17-55/"> 21, 7 & 3. Zaduma. A quiet Radio Broadcast #17, Radio Kapital, Poland, 6th September 2026.</a>
+  <li><a target="_blank" href="https://radiokapital.pl/shows/zaduma/17-55/"> 21, 7 & 3. Zaduma. A quiet Radio Broadcast #17, Radio Kapitał, Poland, 6th September 2026.</a>
   </li>
   <li><a target="_blank" href="https://hibernationproject.ca/2025/03/11/the-sound-of-hope/"> 21, 7 & 3. Ears Have Eyes - THE SOUND OF HOPE: edge of darkness, brink of light, 12th March 2025.</a>
   </li>
