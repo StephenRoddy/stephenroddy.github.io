@@ -70,6 +70,9 @@
 <p>Book Chapters</p>
 <ul>
 <li>
+<a target="_blank" href="https://www.routledge.com/Routledge-Studies-in-Innovation-Organizations-and-Technology/book-series/RIOT"> Roddy, S., & Fanning, L. (2026 - Under Review). Viral Intelligence: Generative AI in the Post-Neural Paradigm. Manuscript submitted for publication. In F. Tigre Moura (Ed.), Artificial Intelligence and the Abundance of Creative Content: Implications and Strategies for Creators, Industries, and Society (Routledge Studies in Innovation, Organizations and Technology). Routledge.</a>
+</li>
+<li>
 <a target="_blank" href="https://doi.org/10.1007/978-3-031-89037-6_5">Roddy, S., Bridges, B. (2026). Cybernetic Resurgences: Machine Music Beyond AI Slop. In: Zagalo, N., Keller, D. (eds) Artificial Media. Springer Series on Cultural Computing. Springer, Cham.</a>
 </li>
 <li>
