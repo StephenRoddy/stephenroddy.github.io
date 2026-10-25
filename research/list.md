@@ -30,23 +30,23 @@
 <p>Journal Articles</p>
 <ul>
   <li>
-  <a target="_blank" href="https://doi.org/10.1017/wat.2026.10033 ">Roddy, S. (2026). Soil-Moisture Sonification for Decision Support During Manual Irrigation: A Case Study. Cambridge Prisms: Water.</a>
+  <a target="_blank" href="https://doi.org/10.1017/wat.2026.10033 ">Roddy, S. (2026). Soil-Moisture Sonification for Decision Support During Manual Irrigation: A Case Study. Cambridge Prisms: Water, 4, e22. doi:10.1017/wat.2026.10033.</a>
 </li> 
 <li>
   <a target="_blank" href="https://doi.org/10.1162/LEON.a.2583">Roddy, S., Lavelle, A., Ghosh, S., Dempsey, E., Fanning, L. (2026). Generative Sonification of Synthetic Virology Data with Waveshaping & Granular Synthesis Techniques. Leonardo, 59(1).</a>
 </li> 
 <li>
-    <a target="_blank" href="https://doi.org/10.1109/MCOM.001.2400154">Roddy, S. (2024). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine, 62(12).</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://doi.org/10.1080/10447318.2024.2429757">Roddy, S. (2024). The Design and Formalization of an Embodied Soundscape Sonification Framework. International Journal of Human–Computer Interaction.</a>
-  </li>
-  <li>
-    <a target="_blank" href="/projects/AI_MUS/papers/Roddy and Parmar 2023 pre_print.pdf">Roddy, S., & Parmar, R. (2023). AI/ML in the Sonic Arts - Pitfalls and Pathways. Resonance: The Journal of Sound and Culture, 4(4).</a>
-  </li>
-  <li>
-    <a target="_blank" href="https://doi.org/10.1525/res.2023.4.4.409">Roddy, S. (2023). Nao Tokui in Conversation with Stephen Roddy (Interview). Resonance: The Journal of Sound and Culture, 4(4).</a>
-  </li>
+  <a target="_blank" href="https://doi.org/10.1109/MCOM.001.2400154">Roddy, S. (2024). Designing an Internet of Sounds Sonification System with FM Synthesis Techniques. IEEE Communications Magazine, 62(12).</a>
+</li>
+<li>
+  <a target="_blank" href="https://doi.org/10.1080/10447318.2024.2429757">Roddy, S. (2024). The Design and Formalization of an Embodied Soundscape Sonification Framework. International Journal of Human–Computer Interaction.</a>
+</li>
+<li>
+  <a target="_blank" href="/projects/AI_MUS/papers/Roddy and Parmar 2023 pre_print.pdf">Roddy, S., & Parmar, R. (2023). AI/ML in the Sonic Arts - Pitfalls and Pathways. Resonance: The Journal of Sound and Culture, 4(4).</a>
+</li>
+<li>
+   <a target="_blank" href="https://doi.org/10.1525/res.2023.4.4.409">Roddy, S. (2023). Nao Tokui in Conversation with Stephen Roddy (Interview). Resonance: The Journal of Sound and Culture, 4(4).</a>
+</li>
   <li>
     <a target="_blank" href="/projects/s2nl/papers/leon_a_02258.pdf">Roddy, S. (2023). Signal to Noise Loops: A Cybernetic Approach to Musical Performance with Smart City Data and Generative Music Techniques. Leonardo, 56(1).</a>
   </li>

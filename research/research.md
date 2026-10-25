@@ -5,8 +5,8 @@
 <p>Journal Articles</p>
 <ul>
 <li>
-  <a target="_blank" href="https://doi.org/10.1017/wat.2026.10033 ">Roddy, S. (2026). Soil-Moisture Sonification for Decision Support During Manual Irrigation: A Case Study. Cambridge Prisms: Water.</a>
-</li> 
+  <a target="_blank" href="https://doi.org/10.1017/wat.2026.10033 ">Roddy, S. (2026). Soil-Moisture Sonification for Decision Support During Manual Irrigation: A Case Study. Cambridge Prisms: Water, 4, e22. doi:10.1017/wat.2026.10033.</a>
+</li>  
 <li>
   <a target="_blank" href="https://doi.org/10.1162/LEON.a.2583">Roddy, S., Lavelle, A., Ghosh, S., Dempsey, E., Fanning, L. (2026). Generative Sonification of Synthetic Virology Data with Waveshaping & Granular Synthesis Techniques. Leonardo, 59(1).</a>
 </li> 
