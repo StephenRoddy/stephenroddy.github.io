@@ -86,6 +86,14 @@
 </li>
 </ul>
 
+<p>Book Reviews</p>
+<ul>
+
+<li>
+  <a target="_blank" href="https://https://research.ucc.ie/en/publications/review-of-vector-media-by-leonardo-impett-and-fabian-offert-2026/">Roddy, S. (Accepted/In press). Review of Vector Media, by Leonardo Impett and Fabian Offert (2026). International Journal of Humanities and Arts Computing.</a>
+</li>
+</ul>
+
 <p>Reports & Policy Documents</p>
 <ul>
   <li>
